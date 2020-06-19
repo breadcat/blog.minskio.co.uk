@@ -1,0 +1,5 @@
+merge themes\Brine\layouts\_default\{page single}.html using if statements
+fix lastmod content\posts\archived-{movies television}.md
+fix looping page lists \{recipes languages dreams}\*
+correct indentations in page source
+remove surplus newlines in page source
