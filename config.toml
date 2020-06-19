@@ -2,3 +2,13 @@ baseURL = "https://minskio.co.uk"
 languageCode = "en-gb"
 title = "Minskio"
 theme = "Brine"
+
+[permalinks]
+  posts = "/:title/"
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+[params]
+  author = "Peter"
+  description = "The 'No-Pictures' Blog"
