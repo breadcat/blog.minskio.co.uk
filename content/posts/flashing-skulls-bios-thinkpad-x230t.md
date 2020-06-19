@@ -1,7 +1,7 @@
 ---
 title: "Flashing Skulls to a Thinkpad x230t"
 date: 2020-01-21T11:22:00
-tags: ["guides", "hardware", "linux", "software"]
+tags: ["Guides", "Hardware", "Linux", "Software"]
 ---
 
 I've always been quite interested in the [Coreboot project](https://www.coreboot.org/), and my laptop of choice (the [Lenovo Thinkpad x230t](/hardware/)) semeed to *almost* be supported. When I learned about the [Skulls project](https://github.com/merge/skulls) it seemed like a perfect match.

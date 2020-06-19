@@ -1,7 +1,7 @@
 ---
 title: "Personal VIM cheatsheet"
 date: 2020-06-14T12:58:00
-tags : [ "guides", "learning", "linux", "servers", "snippets", "software", ]
+tags : [ "Guides", "Learning", "Linux", "Servers", "Snippets", "Software", ]
 ---
 
 When editing files on Linux, I've always used `nano`, it was always installed and `vi` just seemed incredibly awkward to use, with all the memes about never being able to exit, and weird things happening being right up my street. I'd tried `vimtutor` but was left in pretty much the same place as I started.

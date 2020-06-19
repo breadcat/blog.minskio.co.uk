@@ -1,7 +1,7 @@
 ---
 title: "2019 New Year's Resolutions"
 date: 2019-01-07T09:19:00
-tags: ["health", "lifestyle", "lists"]
+tags: ["Health", "Lifestyle", "Lists"]
 ---
 
 So long as I remember, I'll try to update this list at the end of the year, with what's been done and what hasn't.

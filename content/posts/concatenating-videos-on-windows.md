@@ -1,7 +1,7 @@
 ---
 title: "Concatenating Videos on Windows with FFmpeg"
 date: 2019-05-09T09:21:00
-tags: ["formats", "guides", "media", "snippets", "software", "windows"]
+tags: ["Formats", "Guides", "Media", "Snippets", "Software", "Windows"]
 ---
 
 I recently had a bit of a binge on the Japanese comedy show Gaki No Tsukai. This show is basically impossible to find officially so we're heading to streaming sites (as linked on their [subreddit](https://www.reddit.com/r/GakiNoTsukai/)) to get copies of the show. As these shows are usually multiple hours in length they're going to be split into multiple parts.

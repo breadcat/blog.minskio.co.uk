@@ -1,6 +1,6 @@
 ---
 title: Archived Movies
-tags: ["media", "archive"]
+tags: ["Media", "Archive"]
 date: 2018-01-01T01:00:00
 lastmod: 2020-06-14T02:24:00
 ---

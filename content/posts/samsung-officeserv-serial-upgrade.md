@@ -1,7 +1,7 @@
 ---
 title: "Upgrading a Samsung OfficeServ PBX using the serial interface"
 date: 2019-08-27T13:55:00
-tags: ["guides", "hardware", "linux", "pbx", "projects", "software", "work"]
+tags: ["Guides", "Hardware", "Linux", "PBX", "Projects", "Software", "Work"]
 ---
 
 # Requirements:

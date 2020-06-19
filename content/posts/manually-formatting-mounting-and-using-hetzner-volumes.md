@@ -1,7 +1,7 @@
 ---
 title: "Manually formatting, mounting and using Hetzner volumes"
 date: 2019-07-04T15:40:00
-tags: ["formats", "linux", "servers", "snippets", "software"]
+tags: ["Formats", "Linux", "Servers", "Snippets", "Software"]
 ---
 
 I've recently moved all my server infrastructure over to Hetzner, and to date everything's been going swimmingly.

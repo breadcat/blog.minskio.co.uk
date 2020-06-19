@@ -1,7 +1,7 @@
 ---
 title: "Scraping and Grabbing Now! albums"
 date: 2018-12-04T16:28:00
-tags: ["guides", "linux", "lists", "music", "servers", "snippets", "software"]
+tags: ["Guides", "Linux", "Lists", "Music", "Servers", "Snippets", "Software"]
 ---
 
 Recently a collegue at work came to me to download them an album from online, unfortunately as it was a compilation album and the individual tracks had been released a million times already this wasn't to be released through the usual channels.

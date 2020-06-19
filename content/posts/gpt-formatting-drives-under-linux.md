@@ -1,7 +1,7 @@
 ---
 title: "GPT formatting new drives under Linux"
 date: 2018-11-14T10:42:00
-tags: ["guides", "linux", "servers", "snippets"]
+tags: ["Guides", "Linux", "Servers", "Snippets"]
 ---
 
 So, you've bought a shiny new hard drive and would like to format it and use it on your headless Linux server.

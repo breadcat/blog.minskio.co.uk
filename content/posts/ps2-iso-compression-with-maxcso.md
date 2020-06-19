@@ -1,7 +1,7 @@
 ---
 title: "PS2 Image CSO Compression on Linux with MaxCSO"
 date: 2018-11-27T10:23:00
-tags: ["formats", "guides", "linux", "snippets", "software"]
+tags: ["Formats", "Guides", "Linux", "Snippets", "Software"]
 ---
 
 CSO was originally only intended for smaller PS1/PSP disc images, so a different version can be compiled to support the larger DVD based images that PS2 games are usually distributed on.

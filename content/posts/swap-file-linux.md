@@ -1,7 +1,7 @@
 ---
 title: "Creating a Swap File on Linux"
 date: 2019-06-10T10:03:00
-tags: ["formats", "guides", "linux", "servers", "snippets", "software"]
+tags: ["Formats", "Guides", "Linux", "Servers", "Snippets", "Software"]
 ---
 
 I've recently moved from a server with more than enough RAM, to a lower spec (and significantly cheaper!) VPS that still does 99% of what I want it to.

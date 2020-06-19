@@ -1,7 +1,7 @@
 ---
 title: "Resetting Windows Passwords from Linux with chntpw"
 date: 2018-12-13T09:58:00
-tags: ["guides", "linux", "snippets", "software", "windows"]
+tags: ["Guides", "Linux", "Snippets", "Software", "Windows"]
 ---
 
 I came across a strange issue recently, where I needed to reset a users password however the computer was unable to boot from USB so my usual [ntpasswd](https://pogostick.net/~pnh/ntpasswd/) option was out of the question.

@@ -2,7 +2,7 @@
 title: "Duolingo Streak Preservation"
 date: 2019-01-16T09:51:00
 lastmod: 2020-06-19T00:33
-tags: ["languages", "linux", "servers", "snippets", "software"]
+tags: ["Languages", "Linux", "Servers", "Snippets", "Software"]
 ---
 
 I'm a great fan of Duolingo, and while I have a number of issues with it I still consider it a generally useful platform for scratching the itch of learning a language.

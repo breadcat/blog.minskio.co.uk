@@ -1,7 +1,7 @@
 ---
 title: "Manually fixing malformed AAC bitstreams"
 date: 2019-10-22T09:21:00
-tags: ["formats", "guides", "media", "snippets", "software", "windows"]
+tags: ["Formats", "Guides", "Media", "Snippets", "Software", "Windows"]
 ---
 
 Recently while running `youtube-dl` on Windows, `ffmpeg` wasn't found in `%PATH%`, so it was unable to automatically fix the AAC bitstream. The file will play fine, but in the interest of completeness I still wanted this to be applied to my new files.

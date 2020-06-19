@@ -1,7 +1,7 @@
 ---
 title: "Blotter art album list"
 date: 2020-05-06T12:51:00
-tags: ["drugs", "lists", "media", "music", "snippets"]
+tags: ["Drugs", "Lists", "Media", "Music", "Snippets"]
 ---
 
 Some time ago, I came across a piece of <a href="https://pub.minskio.co.uk/avatars/blotter-albums.jpg">LSD blotter art</a> containing some 49 classic psychedelic album covers. I recognised quite a few immediately, but a few stumped me and as a fan of the genres I had to don my deerstalker and have a go at hunting them down. I've had this list for quite a while, but thought it would be interesting to share.

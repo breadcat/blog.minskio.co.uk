@@ -1,7 +1,7 @@
 ---
 title: "ArchLinux Retroarch Guide"
 date: 2019-02-19T09:46:00
-tags: ["emulation", "games", "linux", "media", "snippets", "software"]
+tags: ["Emulation", "Games", "Linux", "Media", "Snippets", "Software"]
 ---
 
 ### Installation

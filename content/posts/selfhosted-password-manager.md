@@ -1,7 +1,7 @@
 ---
 title: "Selfhosted Password Manager"
 date: 2018-09-26T11:30:00
-tags: ["guides", "linux", "software"]
+tags: ["Guides", "Linux", "Software"]
 ---
 
 Passwords in my experience are a fickle thing, on one hand you absolutely need long and complex passwords, different for every site you use, but remembering these unique and complex passwords is nigh impossible.

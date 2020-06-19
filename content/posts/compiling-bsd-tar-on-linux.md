@@ -1,7 +1,7 @@
 ---
 title: "Compiling BSD Tar on Linux"
 date: 2018-11-09T12:09:00
-tags: ["guides", "linux", "snippets", "software"]
+tags: ["Guides", "Linux", "Snippets", "Software"]
 ---
 
 While researching Arch Linux ARM for the ODroid HTPC project, I came across an issue with unpacking the image.

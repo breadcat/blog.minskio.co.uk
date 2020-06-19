@@ -1,7 +1,7 @@
 ---
 title: "SuiteCRM SQL database dump to CSV files"
 date: 2019-01-17T10:18:00
-tags: ["formats", "guides", "linux", "servers", "snippets", "software"]
+tags: ["Formats", "Guides", "Linux", "Servers", "Snippets", "Software", "Work"]
 ---
 
 Recently I needed to dump our workplaces existing CRM database to a format that was easy to work with, namely CSV instead of the more likely SQL format.

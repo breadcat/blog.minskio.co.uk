@@ -1,7 +1,7 @@
 ---
 title: "2020 New Year's Resolutions"
 date: 2020-01-02T14:40:00
-tags: ["health", "lifestyle", "lists"]
+tags: ["Health", "Lifestyle", "Lists"]
 ---
 
 Another year, another list. Here goes nothing.

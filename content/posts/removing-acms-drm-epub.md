@@ -1,7 +1,7 @@
 ---
 title: "Removing ACSM DRM from E-Books"
 date: 2018-11-24T10:22:00
-tags: ["books", "guides", "software", "windows"]
+tags: ["Books", "Guides", "Software", "Windows"]
 ---
 Recently I found a rare-ish e-book available via the Internet Archive's [Open Library](https://openlibrary.org/) project, there was a waiting list and I wanted to read this on my Kindle without needlessly tying it up for other people wanting to read it.
 The combination of these two circumstances leads me to stripping the DRM from this file so I could work with it how I wanted.

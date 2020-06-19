@@ -1,7 +1,7 @@
 ---
 title: "Unattended installation of WebP codec"
 date: 2020-05-26T16:48:00
-tags: ["snippets", "software", "windows"]
+tags: ["Snippets", "Software", "Windows"]
 ---
 
 I wrote this up many, many moons ago. I wanted a way to install Google's WebP codec on Windows in an unattended fashion to complement my [just-install](https://just-install.github.io/) script.

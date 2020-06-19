@@ -1,7 +1,7 @@
 ---
 title: "The briefest Arch Linux installation guide"
 date: 2019-10-15T14:33:00
-tags: ["guides", "linux", "snippets", "software"]
+tags: ["Guides", "Linux", "Snippets", "Software"]
 ---
 
 Are you wanting an incredibly quick (to the point of being useless, or painfully truncated) guide for how to install Arch Linux on your computer?

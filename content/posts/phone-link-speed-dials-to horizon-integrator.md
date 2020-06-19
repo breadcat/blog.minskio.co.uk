@@ -1,7 +1,7 @@
 ---
 title: "Migrating LG Phone-Link Contacts to Horizon Integrator"
 date: 2019-07-23T12:48:00
-tags: ["databases", "formats", "guides", "linux", "pbx", "servers", "windows", "work"]
+tags: ["Databases", "Formats", "Guides", "Linux", "PBX", "Servers", "Windows", "Work"]
 ---
 
 If you've used LG's Phone-Link software for any reasonable period of time, you should have a large XML file in your `%appdata%\PHONE-LiNK` directory named `Recent.xml`.

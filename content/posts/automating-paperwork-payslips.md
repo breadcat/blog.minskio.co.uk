@@ -1,7 +1,7 @@
 ---
 title: "Automating Grabbing Payslips For Use With Paperless"
 date: 2019-02-04T11:47:00
-tags: ["formats", "guides", "linux", "servers", "software"]
+tags: ["Formats", "Guides", "Linux", "Servers", "Software"]
 ---
 
 My workplace has recently started sending out Payslips as email attachments instead of the usual physical sheet which I'm a big fan of, [Paperless](https://github.com/the-paperless-project/paperless) is always on hand to sort and process any paperwork I have which keeps things organised and under control.

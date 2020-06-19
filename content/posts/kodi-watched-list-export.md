@@ -1,7 +1,7 @@
 ---
 title: "Exporting Kodi Watched Status to Markdown"
 date: 2019-01-31T10:25:00
-tags: [ "guides", "kodi", "linux", "media", "movies", "servers", "snippets", "software" ]
+tags: [ "Guides", "Kodi", "Linux", "Media", "Movies", "Servers", "Snippets", "Software" ]
 ---
 
 As I've outlined in [this page](/archive/movies/) I'd prefer to save space on my server and delete movies once I've seen them but also keep a log so I don't need to remember everything.

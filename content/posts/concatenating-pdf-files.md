@@ -1,7 +1,7 @@
 ---
 title: "Concatenating PDF files on Linux"
 date: 2018-11-26 13:29:00
-tags: ["snippets", "software", "formats", "linux"]
+tags: ["Snippets", "Software", "Formats", "Linux"]
 ---
 
 A simple request, with an equally simple solution. Firstly I tried using my old favourite `pandoc` which will apparently only output PDF files, not input them.

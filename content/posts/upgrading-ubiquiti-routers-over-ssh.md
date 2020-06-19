@@ -1,7 +1,7 @@
 ---
 title: "Upgrading Ubiquiti Routers Over SSH"
 date: 2019-03-27T14:55:00
-tags: ["guides", "hardware", "linux", "networks", "servers", "software"]
+tags: ["Guides", "Hardware", "Linux", "Networks", "Servers", "Software"]
 ---
 
 In the past, I usually check for ubiquiti router firmware updates via [RSS feed](https://community.ubnt.com/ubnt/rss/board?board.id=Blog_EdgeMAX), and to apply them I open a reverse SSH tunnel to the web interface and upload the file over this tunnel.

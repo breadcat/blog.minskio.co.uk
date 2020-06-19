@@ -1,7 +1,7 @@
 ---
 title: "Compiling SnapRAID on Debian"
 date: 2019-01-10T09:43:00
-tags: ["guides", "linux", "servers", "snippets", "software"]
+tags: ["Guides", "Linux", "Servers", "Snippets", "Software"]
 ---
 
 Recently I discovered [SnapRAID](http://www.snapraid.it/) as a parity based backup tool and found it to be extremely flexible and powerful, and is currently the backup solution I'm using on my own home server. While not suited to every use case, my current setup (rarely changing, incremental additions) fills the whole perfectly.

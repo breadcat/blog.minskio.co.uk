@@ -1,7 +1,7 @@
 ---
 title: "Downgrading LibreElec, skipping compatibility checks"
 date: 2018-12-19T09:35:00
-tags: ["htpc", "kodi", "linux", "snippets", "software"]
+tags: ["HTPC", "Kodi", "Linux", "Snippets", "Software"]
 ---
 
 I run Libreelec on my ODROID-C2 SBC as a HTPC. The combination work surprisingly well and I rarely have any issues. Perhaps stupidly however, I updated from the stable 8.2.5 to the latest beta build to try out the RetroPlayer functionality. Long story short, this didn't pan out so well and I ended up in *SAFE MODE* with not a whole lot working.

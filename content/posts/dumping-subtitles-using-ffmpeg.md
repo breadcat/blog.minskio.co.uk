@@ -1,7 +1,7 @@
 ---
 title: "Dumping subtitles using FFmpeg"
 date: 2020-05-17T14:00:00
-tags: ["formats", "languages", "linux", "media", "snippets", "software"]
+tags: ["Formats", "Languages", "Linux", "Media", "Snippets", "Software"]
 ---
 
 As part of my ongoing [language learning](/languages/) attempts, I tend to enable subtitles in the language I'm wanting to learn, and when I see a word I don't recognise in the context I do I'll make a note of it.

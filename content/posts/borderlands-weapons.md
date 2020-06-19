@@ -1,7 +1,7 @@
 ---
 title: "Borderlands Weapon Parts Breakdown"
 date: 2018-10-01T11:22:00
-tags: ["games", "guides", "lists", "software"]
+tags: ["Games", "Guides", "Lists", "Software"]
 ---
 
 Codes are intended for use with [WillowTree#](https://sourceforge.net/projects/willowtree/). Generally speaking, I tend to favour high accuracy and usability over pure damage output.

@@ -1,7 +1,7 @@
 ---
 title: "Formatting dumped subtitles into a vocabulary list"
 date: 2020-05-28T16:52:00
-tags : [ "formats", "languages", "linux", "media", "snippets", "software", ]
+tags : [ "Formats", "Languages", "Linux", "Media", "Snippets", "Software", ]
 ---
 
 As per my previous post, you should now have a single `srt` subtitle file, to convert this into a single word list that you can begin translating away at, you can run the below verbose script.
