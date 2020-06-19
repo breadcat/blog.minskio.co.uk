@@ -1,0 +1,6 @@
+{{ define "main" }}<article>
+			<h1 class="page-heading">{{ .Title }}</h1>
+			<ul class="post-list">
+			{{ range $index, $element := .Paginator.Pages }}	<li><h3><a class="post-link" href="{{ .Permalink }}">{{ .Title }}</a></h3><span class="post-meta">{{ .PublishDate.Format "Jan 2, 2006" }}, {{ .ReadingTime }} min read</span></li>
+			{{ end }}</ul>{{ partial "pagination.html" $ }}
+	</article>{{ end }}

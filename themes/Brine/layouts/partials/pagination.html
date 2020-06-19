@@ -1,0 +1,6 @@
+{{ with $.Paginator }}{{ if gt .TotalPages 1 }}
+			<p class="pagination">
+				{{ with .Prev }}<a class="page-link" href="{{ .URL }}">Previous</a></li>
+				{{ end }}{{ range .Pagers }}<a class="page-link{{ if eq .PageNumber $.Paginator.PageNumber }} a{{ end }}" href="{{ .URL }}">{{ .PageNumber }}</a>
+				{{ end }}{{ with .Next }}<a class="page-link" href="{{ .URL }}">Next</a>{{ end }}
+			</p>{{ end }}{{ end }}
