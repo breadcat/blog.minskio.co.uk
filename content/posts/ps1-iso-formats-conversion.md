@@ -72,3 +72,5 @@ And then, to mount the archive:
 mkdir sony_playstation
 mount sony_playstation.squashfs sony_playstation -t squashfs -o loop
 ```
+
+* **Edit 2020-06-20:** I've recently found out about [binmerge](https://github.com/putnam/binmerge) which is a python script that will merge multiple bin files into a single one.
