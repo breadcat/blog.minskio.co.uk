@@ -2,7 +2,7 @@
 title: Archived TV Shows
 tags: ["Media", "Archive"]
 date: 2018-01-01T01:00:00
-lastmod: 2020-06-14T02:24:00
+lastmod: 2020-06-22T20:57:00
 
 ---
 
@@ -38,6 +38,7 @@ Last updated on {{ printf "%s" $.Params.lastmod }}.
 * Almost Human
 * Altered Carbon
 * American Gods
+* Angel Cop
 * Archer
 * Ash vs. Evil Dead
 * Avenue 5

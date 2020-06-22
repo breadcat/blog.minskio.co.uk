@@ -2,7 +2,7 @@
 title: Archived Movies
 tags: ["Media", "Archive"]
 date: 2018-01-01T01:00:00
-lastmod: 2020-06-14T02:24:00
+lastmod: 2020-06-22T20:57:00
 ---
 
 Last updated on {{ .Param.lastmod }}.
@@ -49,6 +49,7 @@ Last updated on {{ .Param.lastmod }}.
 * Aquaman (2018)
 * Armour of God (1986)
 * Arrival (2016)
+* Artemis Fowl (2020)
 * Assassin's Creed (2016)
 * Atlantis: The Lost Empire (2001)
 * Atomic Blonde (2017)
@@ -56,6 +57,8 @@ Last updated on {{ .Param.lastmod }}.
 * Avengers: Infinity War (2018)
 * Await Further Instructions (2018)
 * Baby Driver (2017)
+* Back to the Future (1985)
+* Back to the Future Part II (1989)
 * Bad Boys for Life (2020)
 * Bad Times at the El Royale (2018)
 * Battle Royale (2000)
@@ -98,6 +101,7 @@ Last updated on {{ .Param.lastmod }}.
 * Cell (2016)
 * Changeling (2008)
 * Charlie's Angels (2019)
+* Child's Play (2019)
 * CHiPS (2017)
 * Christine (1983)
 * Chronicle (2012)
@@ -106,6 +110,7 @@ Last updated on {{ .Param.lastmod }}.
 * Code 8 (2019)
 * Contact (1997)
 * Contagion (2011)
+* Cool World (1992)
 * Countdown (2019)
 * Cowboys & Aliens (2011)
 * Crawl (2019)
@@ -399,6 +404,7 @@ Last updated on {{ .Param.lastmod }}.
 * Sorry to Bother You (2018)
 * Sound of My Voice (2011)
 * South Park: Bigger, Longer & Uncut (1999)
+* Southbound (2015)
 * Spectral (2016)
 * Spectre (2015)
 * Spider-Man: Far from Home (2019)
@@ -563,6 +569,7 @@ Last updated on {{ .Param.lastmod }}.
 * Transporter 3 (2008)
 * Treasure Planet (2002)
 * Triangle (2009)
+* Trigun: Badlands Rumble (2010)
 * Truth or Dare (2018)
 * Ultraviolet (2006)
 * Unbreakable (2000)
