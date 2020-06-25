@@ -1,6 +1,6 @@
 {{ define "main" }}<article>
 		<h1>{{ .Title }}</h1>
 		<ul class="posts-list">
-		{{ range .Data.Terms.Alphabetical }}	<li><a href="{{ .Page.URL }}">{{ .Page.Title }}</a> {{ .Count }}</li>
+		{{ range .Data.Terms.Alphabetical }}	<li><a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a> {{ .Count }}</li>
 		{{ end }}</ul>
 	</article>{{ end }}
