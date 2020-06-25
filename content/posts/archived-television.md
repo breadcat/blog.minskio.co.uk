@@ -2,35 +2,16 @@
 title: Archived TV Shows
 tags: ["Media", "Archive"]
 date: 2018-01-01T01:00:00
-lastmod: 2020-06-22T20:57:00
+lastmod: 2020-06-25T11:32:00
 
 ---
 
-Last updated on {{ printf "%s" $.Params.lastmod }}.
+Last updated on {{ page.updated }}.
 
-### Work in Progress
-* Better Call Saul
-* Bob's Burgers
-* Brooklyn Nine-Nine
-* Psycho-Pass
-* Rick and Morty
-* South Park
-* Star Trek Deep Space Nine
-* The Amazing World of Gumball
-* The Sinner
-* Westworld
+<!-- Work in Progress: Better Call Saul, Bob's Burgers, Brooklyn Nine-Nine, Psycho-Pass, South Park, Star Trek Deep Space Nine, The Amazing World of Gumball, The Sinner, Westworld -->
+<!-- Rewatch: Farscape, Lexx, Police Squad!, Swiss Toni, Terry Pratchett's Going Postal, The Boondocks, The Inbetweeners, True Detective -->
+<!-- Abandoned: DARK, Designated Survivor, Doctor Who (2005), Fear the Walking Dead, How to Get Away with Murder, Making a Murderer, Sharp Objects, The Simpsons, The Walking Dead, Twin Peaks -->
 
-### Rewatch
-* Farscape
-* Lexx
-* Police Squad!
-* Swiss Toni
-* Terry Pratchett's Going Postal
-* The Boondocks
-* The Inbetweeners
-* True Detective
-
-### Completed
 * 11.22.63
 * A Certain Scientific Railgun
 * A Touch of Cloth
@@ -38,6 +19,7 @@ Last updated on {{ printf "%s" $.Params.lastmod }}.
 * Almost Human
 * Altered Carbon
 * American Gods
+* Rick and Morty
 * Angel Cop
 * Archer
 * Ash vs. Evil Dead
@@ -160,15 +142,3 @@ Last updated on {{ printf "%s" $.Params.lastmod }}.
 * Wayward Pines
 * Westworld
 * X-Men Evolution
-
-### Abandoned
-* DARK
-* Designated Survivor
-* Doctor Who (2005)
-* Fear the Walking Dead
-* How to Get Away with Murder
-* Making a Murderer
-* Sharp Objects
-* The Simpsons
-* The Walking Dead
-* Twin Peaks

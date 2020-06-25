@@ -2,7 +2,7 @@
 title: Archived Movies
 tags: ["Media", "Archive"]
 date: 2018-01-01T01:00:00
-lastmod: 2020-06-22T20:57:00
+lastmod: 2020-06-25T11:27:00
 ---
 
 Last updated on {{ .Param.lastmod }}.
@@ -51,6 +51,7 @@ Last updated on {{ .Param.lastmod }}.
 * Arrival (2016)
 * Artemis Fowl (2020)
 * Assassin's Creed (2016)
+* Assimilate (2019)
 * Atlantis: The Lost Empire (2001)
 * Atomic Blonde (2017)
 * Avengers: Age of Ultron (2015)
@@ -401,6 +402,7 @@ Last updated on {{ .Param.lastmod }}.
 * Sleepaway Camp (1983)
 * Slender Man (2018)
 * Solo: A Star Wars Story (2018)
+* Sonic the Hedgehog (2020)
 * Sorry to Bother You (2018)
 * Sound of My Voice (2011)
 * South Park: Bigger, Longer & Uncut (1999)
@@ -465,6 +467,7 @@ Last updated on {{ .Param.lastmod }}.
 * The Fog (1980)
 * The Fog (2005)
 * The Foreigner (2017)
+* The Gentlemen (2019)
 * The Girl on the Train (2016)
 * The Girl Who Leapt Through Time (2006)
 * The Girl with All the Gifts (2016)
@@ -493,8 +496,10 @@ Last updated on {{ .Param.lastmod }}.
 * The Jacket (2005)
 * The Jungle Book (2016)
 * The Killer (1989)
+* The Killing of a Sacred Deer (2017)
 * The Killing Zone (1999)
 * The Lazarus Effect (2015)
+* The League of Extraordinary Gentlemen (2003)
 * The Lego Movie (2014)
 * The Lego Movie 2: The Second Part (2019)
 * The LEGO Ninjago Movie (2017)
