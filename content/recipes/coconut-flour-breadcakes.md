@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Coconut Flour Breadcakes
-type: recipe_bread
+recipe: bread
 ---
 
 * Servings: 6

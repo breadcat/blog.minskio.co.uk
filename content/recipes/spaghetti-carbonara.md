@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Spaghetti Carbonara
-type: recipe_meal
+recipe: meal
 ---
 
 * Servings: 1

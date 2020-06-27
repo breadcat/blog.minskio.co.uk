@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Mug Bread
-type: recipe_bread
+recipe: bread
 ---
 
 * Servings: 1

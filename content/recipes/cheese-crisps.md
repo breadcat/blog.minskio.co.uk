@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Cheese Crisps
-type: recipe_snack
+recipe: snack
 ---
 
 * Servings: 1

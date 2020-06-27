@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Dauphinoise Courgette
-type: recipe_meal
+recipe: meal
 ---
 
 * Servings: 2

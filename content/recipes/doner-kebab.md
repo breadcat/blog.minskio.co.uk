@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Doner Kebab
-type: recipe_meal
+recipe: meal
 ---
 
 * Servings: 4

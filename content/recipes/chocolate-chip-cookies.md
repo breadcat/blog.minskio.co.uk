@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Chocolate Chip Cookies
-type: recipe_dessert
+recipe: dessert
 ---
 
 * Servings: 12

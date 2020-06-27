@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Linseed Crisps
-type: recipe_snack
+recipe: snack
 ---
 
 * Servings: Varies

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Chocolate Mousse
-type: recipe_dessert
+recipe: dessert
 ---
 
 * Servings: 4

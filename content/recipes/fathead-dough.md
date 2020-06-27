@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Fathead Dough
-type: recipe_bread
+recipe: bread
 ---
 
 * Servings: 2

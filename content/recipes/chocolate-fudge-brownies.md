@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Chocolate Fudge Brownies
-type: recipe_dessert
+recipe: dessert
 ---
 
 * Servings: 16

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Nuts and Chocolate Fat Bombs
-type: recipe_dessert
+recipe: dessert
 ---
 
 * Servings: 20

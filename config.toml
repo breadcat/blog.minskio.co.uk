@@ -12,3 +12,9 @@ theme = "Brine"
 [params]
   author = "Peter"
   description = "The 'No-Pictures' Blog"
+
+[taxonomies]
+	tag = "tags"
+	category = "categories"
+	recipe = "recipe"
+	

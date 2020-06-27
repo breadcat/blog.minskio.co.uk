@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Coconut Flour Roti
-type: recipe_bread
+recipe: bread
 ---
 
 * Servings: 4

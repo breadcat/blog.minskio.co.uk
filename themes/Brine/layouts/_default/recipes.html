@@ -1,0 +1,22 @@
+{{ define "main" }}	<h1>{{ .Title }}</h1>
+	{{ .Content }}
+	<h3>Meals</h3>
+	<ul>{{ range .Site.Taxonomies.recipe.meal}}
+		<li><a href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a></li>{{ end }}
+	</ul>		
+	<h3>Snacks</h3>
+	<ul>{{ range .Site.Taxonomies.recipe.snack}}
+		<li><a href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a></li>{{ end }}
+	</ul>		
+	<h3>Breads</h3>
+	<ul>{{ range .Site.Taxonomies.recipe.bread}}
+		<li><a href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a></li>{{ end }}
+	</ul>
+	<h3>Desserts</h3>
+	<ul>{{ range .Site.Taxonomies.recipe.dessert}}
+		<li><a href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a></li>{{ end }}
+	</ul>{{ end }}
+
+
+
+
