@@ -1,0 +1,14 @@
+{{ define "main" }}	<h1>{{ .Title }}</h1>
+	{{ .Content }}
+	<details>
+		<summary>Dated</summary>
+		<ul>{{ range .Site.Taxonomies.dream.dated}}
+			<li><a href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a></li>{{ end }}
+		</ul>
+	</details>
+	<details>
+		<summary>Archive</summary>
+		<ul>{{ range .Site.Taxonomies.dream.undated}}
+			<li><a href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a></li>{{ end }}
+		</ul>
+	</details>{{ end }}

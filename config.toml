@@ -17,5 +17,6 @@ theme = "Brine"
 	tag = "tags"
 	category = "categories"
 	recipe = "recipe"
+	dream = "dream"
 	language = "language"
 	
