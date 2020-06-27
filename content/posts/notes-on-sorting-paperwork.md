@@ -12,7 +12,7 @@ The only physical paperwork I keep are certain important documents (like birth c
 
 # Hardware
 
-I'm using a Fujitsu ScanSnap iX500 as my scanner of choice, it was recommended by the Paperless project and it folds away neatly when not in use.
+I'm using a [Fujitsu ScanSnap iX500](https://www.fujitsu.com/global/products/computing/peripheral/scanners/scansnap/ix500/) as my scanner of choice, it was recommended by the Paperless project and it folds away neatly when not in use.
 
 I initially intended on this hardware being used wirelessly, which I'm sure it is capable of; but for the once a month or so I go through my paperwork I doubt it's worth the hassle setting it up.
 
@@ -26,6 +26,7 @@ One point worth noting is the ScanSnap software will add two autorun entries to 
 ```
 reg delete "HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Run" /v "ScanSnap WIA Service Checker" /f
 reg delete "HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Run" /v "ScanSnap OnlineUpdate Watcher" /f
+del "%programdata%\Microsoft\Windows\Start Menu\Programs\StartUp\ScanSnap Manager.lnk"
 ```
 
 In the past, I used [Paperless](https://github.com/the-paperless-project/paperless) to automatically OCR and pseudo-sort my documents, but this had a high failure rate (~75% of documents couldn't be parsed), was quite _heavy-weight_ software and was complete overkill for what I needed.
