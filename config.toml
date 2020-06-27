@@ -17,4 +17,5 @@ theme = "Brine"
 	tag = "tags"
 	category = "categories"
 	recipe = "recipe"
+	language = "language"
 	
