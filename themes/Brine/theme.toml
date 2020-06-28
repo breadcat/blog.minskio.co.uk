@@ -1,7 +1,7 @@
 
 name = "Brine"
 license = "MIT"
-licenselink = "https://github.com/breadcat/yourtheme/blob/master/LICENSE"
+licenselink = "https://github.com/breadcat/blog.minskio.co.uk/blob/master/themes/Brine/LICENSE"
 description = "A simple and minimal theme for blogs"
 homepage = "https://minskio.co.uk/"
 tags = ["blog", "minimal", "responsive"]
