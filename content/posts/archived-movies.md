@@ -5,8 +5,6 @@ date: 2018-01-01T01:00:00
 lastmod: 2020-06-25T11:27:00
 ---
 
-Last updated on {{ .Param.lastmod }}.
-
 * [REC] (2007)
 * [REC]² (2009)
 * ¡Three Amigos! (1986)

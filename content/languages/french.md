@@ -1,12 +1,9 @@
 ---
-layout: page
-title: French
+title: French Dictionary
 language: dictionary
-started: 2020-05-16
-updated: 2020-05-16
+date: 2020-05-16T09:00:00
+lastmod: 2020-05-16T09:00:00
 ---
-
-Started on {{ page.started }}, last updated on {{ page.updated }}.
 
 **French** - **English**  
 * c' - it/that/this

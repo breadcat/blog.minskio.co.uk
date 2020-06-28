@@ -3,10 +3,7 @@ title: Archived TV Shows
 tags: ["Media", "Archive"]
 date: 2018-01-01T01:00:00
 lastmod: 2020-06-25T11:32:00
-
 ---
-
-Last updated on {{ page.updated }}.
 
 <!-- Work in Progress: Better Call Saul, Bob's Burgers, Brooklyn Nine-Nine, Psycho-Pass, South Park, Star Trek Deep Space Nine, The Amazing World of Gumball, The Sinner, Westworld -->
 <!-- Rewatch: Farscape, Lexx, Police Squad!, Swiss Toni, Terry Pratchett's Going Postal, The Boondocks, The Inbetweeners, True Detective -->
@@ -19,7 +16,6 @@ Last updated on {{ page.updated }}.
 * Almost Human
 * Altered Carbon
 * American Gods
-* Rick and Morty
 * Angel Cop
 * Archer
 * Ash vs. Evil Dead

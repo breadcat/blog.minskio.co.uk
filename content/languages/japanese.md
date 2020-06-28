@@ -1,12 +1,9 @@
 ---
-layout: page
-title: Japanese
+title: Japanese Dictionary
 language: dictionary
-started: 2017-10-01
-updated: 2017-10-18
+date: 2017-10-01T09:00:00
+lastmod: 2017-10-18T09:00:00
 ---
-
-Started on {{ page.started }}, last updated on {{ page.updated }}.
 
 **Sound** - **[Hiragana](http://www.lexilogos.com/keyboard/hiragana.htm)**
 * a - あ

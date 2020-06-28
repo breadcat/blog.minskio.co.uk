@@ -1,13 +1,9 @@
 ---
-layout: page
-title: Dutch
+title: Dutch Dictionary
 language: dictionary
-type: language_dict
-started: 2018-10-25
-updated: 2020-01-21
+date: 2018-10-25T09:00:00
+lastmod: 2020-01-21T09:00:00
 ---
-
-Started on {{ page.started }}, last updated on {{ page.updated }}.
 
 **Dutch** - **English**
 * a - een

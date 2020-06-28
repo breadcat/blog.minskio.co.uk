@@ -1,12 +1,9 @@
 ---
-layout: page
-title: Swedish
+title: Swedish Dictionary
 language: dictionary
-started: 2020-05-16
-updated: 2020-06-27
+date: 2020-05-16T09:00:00
+lastmod: 2020-06-27T09:00:00
 ---
-
-Started on {{ page.started }}, last updated on {{ page.updated }}.
 
 Unfortunately, this was started *very* late into the process of learning the language, so many basic words are missing
 

@@ -1,12 +1,9 @@
 ---
-layout: page
-title: Latin
+title: Latin Dictionary
 language: dictionary
-started: 2019-11-04
-updated: 2019-11-11
+date: 2019-11-04T09:00:00
+lastmod: 2019-11-11T09:00:00
 ---
-
-Started on {{ page.started }}, last updated on {{ page.updated }}.
 
 **Latin** - **English**
 * domi - home

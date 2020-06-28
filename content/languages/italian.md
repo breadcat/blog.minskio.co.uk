@@ -1,12 +1,9 @@
 ---
-layout: page
-title: Italian
+title: Italian Dictionary
 language: dictionary
-started: 2018-07-10
-updated: 2018-07-12
+date: 2018-07-10T09:00:00
+lastmod: 2018-07-12T09:00:00
 ---
-
-Started on {{ page.started }}, last updated on {{ page.updated }}.
 
 **Italian** - **English**
 * acqua - water

@@ -1,14 +1,11 @@
 ---
-layout: page
-title: Norwegian
+title: Norwegian Dictionary
 language: dictionary
-started: 2017-08-08
-updated: 2020-06-27
+date: 2017-08-08T09:00:00
+lastmod: 2020-06-27T09:00:00
 ---
 
-Started on {{ page.started }}, last updated on {{ page.updated }}.
-
-**{{ page.title }}** - **English**
+**Norwegian** - **English**
 * &aring;r - year
 * &oslash;l - beer
 * &oslash;nsker - wishes
@@ -136,6 +133,7 @@ Started on {{ page.started }}, last updated on {{ page.updated }}.
 * hele - whole
 * helse - health
 * helt - totally, completely
+* hemmelig - secret
 * hennes - her
 * her - here
 * historie - history
@@ -290,8 +288,8 @@ Started on {{ page.started }}, last updated on {{ page.updated }}.
 * sykler - bikes
 * t&oslash;m - empty
 * t&oslash;rst - thirty
-* t-banen - subway
 * tatt - taken
+* t-banen - subway
 * teaspoon - teskje
 * tidligere - earlier
 * til sammen - in total

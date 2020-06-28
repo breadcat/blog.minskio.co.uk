@@ -1,16 +1,13 @@
 ---
-layout: page
-title: Danish
+title: Danish Dictionary
 language: dictionary
-started: 2020-05-16
-updated: 2020-05-16
+date: 2020-05-16T09:00:00
+lastmod: 2020-06-28T11:41:00
 ---
-
-Started on {{ page.started }}, last updated on {{ page.updated }}.
 
 Unfortunately, this was started *very* late into the process of learning the language, so many basic words are missing
 
-**{{ page.title }}** - **English**  
+**Danish** - **English**  
 * &aring;nder - spirits/breathing
 * agern - acorn
 * amerikansk - american

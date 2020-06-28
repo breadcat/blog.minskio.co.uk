@@ -1,12 +1,9 @@
 ---
-layout: page
-title: Icelandic
+title: Icelandic Dictionary
 language: dictionary
-started: 2020-05-16
-updated: 2020-06-27
+date: 2020-05-16T09:00:00
+lastmod: 2020-06-27T09:00:00
 ---
-
-Started on {{ page.started }}, last updated on {{ page.updated }}.
 
 Only really transcribed/understood from [clozemaster](https://www.clozemaster.com/l/isl-eng/play) courses as there's no formal duolingo course yet.
 
