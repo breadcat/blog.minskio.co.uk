@@ -1,6 +1,7 @@
 ---
 title: "The briefest Arch Linux installation guide"
 date: 2019-10-15T14:33:00
+lastmod: 2020-06-28T14:02:00
 tags: ["Guides", "Linux", "Snippets", "Software"]
 ---
 
@@ -30,13 +31,11 @@ Well why didn't you say? Step aboard traveller..! Welcome to my personal guide (
 
 * Now mount those partitions `mount /dev/sda2 /mnt && mkdir /mnt/boot && mount /dev/sda1 /mnt/boot`.
 
-* Install the base operating system `pacstrap /mnt/`.
+* Install the base operating system `pacstrap /mnt/ base base-devel dhcpcd linux linux-firmware neovim`.
 
 * Create your `fstab` file using `genfstab -U /mnt > /mnt/etc/fstab`.
 
 * Chroot into it `arch-chroot /mnt/`.
-
-* Install some necessary core applications `pacman -Syu base dhcpcd linux linux-firmware neovim sudo`.
 
 * Enable DHCP `systemctl enable dhcpcd`.
 
@@ -96,3 +95,5 @@ grub-mkconfig -o /boot/grub/grub.cfg
 * **Edit 2020-06-03:** Added fstab instruction, seemingly missed.
 
 * **Edit 2020-06-17:** Replaced nano references with neovim.
+
+* **Edit 2020-06-28:** Merge pacstrap and pacman commands.
