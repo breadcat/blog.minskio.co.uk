@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Dauphinoise Courgette
 recipe: meal
 ---

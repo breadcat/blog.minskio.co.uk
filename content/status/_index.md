@@ -1,6 +1,6 @@
 ---
 title: Status
-layout: page
+layout: single
 ---
 
 *Generated on 2020-06-19 at 01:05*

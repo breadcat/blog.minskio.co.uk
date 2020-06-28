@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Chocolate Chip Cookies
 recipe: dessert
 ---

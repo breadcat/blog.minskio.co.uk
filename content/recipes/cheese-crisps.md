@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Cheese Crisps
 recipe: snack
 ---

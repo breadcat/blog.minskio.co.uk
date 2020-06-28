@@ -1,6 +1,6 @@
 ---
 title: About
-layout: page
+layout: single
 ---
 
 Hi, my name's Peter.

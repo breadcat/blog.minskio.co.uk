@@ -1,6 +1,6 @@
 ---
 title: Quotes
-layout: page
+layout: single
 ---
 
 Quotes I've found in and around the Internet, collected because they make me smile. Check the page source if you want to see some commented sources.

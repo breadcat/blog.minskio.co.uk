@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Cheesy Mushroom Soup
 recipe: meal
 ---

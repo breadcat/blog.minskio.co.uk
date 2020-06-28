@@ -1,6 +1,6 @@
 ---
 title: Reading List
-layout: page
+layout: single
 ---
 
 I generally strive for a book per week, but this is by no means a steadfast goal.

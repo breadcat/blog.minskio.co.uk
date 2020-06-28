@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Fathead Dough
 recipe: bread
 ---

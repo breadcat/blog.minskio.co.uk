@@ -1,6 +1,6 @@
 ---
 title: Hardware
-layout: page
+layout: single
 ---
 
 What powers the site and its associated clients

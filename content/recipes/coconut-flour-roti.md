@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Coconut Flour Roti
 recipe: bread
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Chocolate Mousse
 recipe: dessert
 ---

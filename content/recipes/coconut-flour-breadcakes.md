@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Coconut Flour Breadcakes
 recipe: bread
 ---

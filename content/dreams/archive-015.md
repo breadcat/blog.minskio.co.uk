@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Untitled Archive Dream 15
 dream: undated
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Nuts and Chocolate Fat Bombs
 recipe: dessert
 ---
