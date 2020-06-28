@@ -3,4 +3,4 @@
 drafts
 
 # status page (https://git.minskio.co.uk/cgit.cgi/dockerfiles/.git/plain/server.sh func_status)
-content/status/_index.md
+content\status\_index.md
