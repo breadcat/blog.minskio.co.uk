@@ -1,5 +1,5 @@
 {{ define "main" }}	<h1>{{ .Title }}</h1>
 	{{ .Content }}
-	<ul>{{ range .Site.Taxonomies.language.dictionary}}
+	<ul>{{ range sort .Site.Taxonomies.language.dictionary ".Page.RelPermalink" }}
 		<li><a href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a></li>{{ end }}
 	</ul>{{ end }}
