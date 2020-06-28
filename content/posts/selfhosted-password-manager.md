@@ -36,7 +36,7 @@ When accessing your server on port 80 (First 80 in definitions is your *local ac
 You can select your webdav share under the *More...* menu item, and WebDAV as a sub option.
 Your URL will be `server_address/webdav/database_name.xdbx`, and your username and password will be the values specified above.
 
-One thing I had to change to get everything working perfectly was Settings > General > Storage > Save Method. This needed to be 'Overwrite kdbx file with PUT' otherwise you'll end up with a load of temporary filesthat make versioning interesting to say the least.
+One thing I had to change to get everything working perfectly was Settings > General > Storage > Save Method. This needed to be 'Overwrite kdbx file with PUT' otherwise you'll end up with a load of temporary files that make versioning interesting to say the least.
 
 Lastly, if you're even considering accessing this application remotely you'll want to do this using HTTPS via a reverse proxy such as Caddy or Nginx.
 
