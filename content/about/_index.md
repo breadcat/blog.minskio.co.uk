@@ -27,6 +27,7 @@ Things I enjoy or embrace, in no particular order (albeit alphabetical) include:
 * [Nordic language](/languages/) and culture
 * Paperless paperwork
 * PC focused gaming including retro console and computer emulation
+* [Pseudointellectual quotes](/quotes/)
 * [Reading](/reading-list/)
 * Rollercoasters and water parks
 * Science, espcially physics and astronomy
