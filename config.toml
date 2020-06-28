@@ -4,14 +4,14 @@ title = "Minskio"
 theme = "Brine"
 
 [permalinks]
-  posts = "/:title/"
+	posts = "/:title/"
 
 [markup.goldmark.renderer]
-  unsafe = true
+	unsafe = true
 
 [params]
-  author = "Peter"
-  description = "The 'No-Pictures' Blog"
+	author = "Peter"
+	description = "The 'No-Pictures' Blog"
 
 [taxonomies]
 	tag = "tags"
@@ -19,4 +19,3 @@ theme = "Brine"
 	recipe = "recipe"
 	dream = "dream"
 	language = "language"
-	
