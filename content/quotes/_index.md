@@ -3,7 +3,7 @@ title: Quotes
 layout: page
 ---
 
-Quotes I've found in and around the Internet, collected because they make me smile.
+Quotes I've found in and around the Internet, collected because they make me smile. Check the page source if you want to see some commented sources.
 
 >:(){ :|: & };: <!-- bash forkbomb -->
 
@@ -34,6 +34,8 @@ Quotes I've found in and around the Internet, collected because they make me smi
 >Bugger this for a game of soldiers
 
 >But that's just a theory
+
+>C'est la vie <!-- such is life -->
 
 >Caedite eos. Novit enim Dominus qui sunt eius <!-- kill them all; let God sort them out -->
 
@@ -130,6 +132,8 @@ Quotes I've found in and around the Internet, collected because they make me smi
 >In your opinion, which country contributed most to the defeat of Germany in 1945? <!-- IFOP poll -->
 
 >Is that a euphemism?
+
+>It's not your pudding, you alzheimer's lout! <!-- cloud atlas -->
 
 >ISO-8601 for life
 
@@ -249,8 +253,6 @@ Quotes I've found in and around the Internet, collected because they make me smi
 
 >The things you own end up owning you <!-- fight club -->
 
->C'est la vie <!-- such is life -->
-
 >The years start coming and they don't stop coming <!-- smash mouth -->
 
 >Theoretical degree in physics <!-- fallout -->
@@ -260,6 +262,8 @@ Quotes I've found in and around the Internet, collected because they make me smi
 >Things won't always be this good
 
 >This inhuman place makes human monsters <!-- The Shining -->
+
+>This isn't horseplay, it's a major felony <!-- Hudson Hawk -->
 
 >This meme is already nothing but a memory
 
