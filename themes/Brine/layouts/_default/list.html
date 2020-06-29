@@ -1,5 +1,5 @@
 {{ define "main" }}	<h1>{{ .Title }}</h1>
-	<ul>{{ range $index, $element := .Paginator.Pages }}
+	<ul>{{ $paginator := .Paginate (where .Site.RegularPages.ByDate.Reverse "Section" "posts") }}{{ range $paginator.Pages }}	
 		<li><h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3><span>{{ .PublishDate.Format "Jan 2, 2006" }}{{ if ne .Lastmod .PublishDate }} updated{{ end }}, {{ .ReadingTime }} min read</span></li>{{ end }}
 	</ul>
 {{ partial "pagination.html" $ }}{{ end }}
