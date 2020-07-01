@@ -1,6 +1,7 @@
 ---
 title: "Notes on Sorting Paperwork"
 date: 2020-06-23T15:29:00
+lastmod: 2020-07-01T11:12:00
 tags: ["Formats", "Guides", "Minimalism", "Snippets", "Software", "Windows"]
 ---
 
@@ -128,7 +129,7 @@ Lastly, and the key to keeping things easy to work with, my folder structure loo
 |       `-- wages
 `-- transport
     |-- insurance
-    |   `-- year registration
+    |   `-- startyear-endyear registration provider
     |-- mot
     |   `-- year registration
     |-- purchases
@@ -137,6 +138,9 @@ Lastly, and the key to keeping things easy to work with, my folder structure loo
     |-- roadside-assistance
     |   `-- year provider
     `-- road-tax
+        `-- year registration
 ```
 
 This is all kept backed up on cloud storage, as you'd expect. So finally, at the end of all this, we have sorted, digital-only paperwork, backed up online.
+
+* **Edit 2020-07-01:** Updated vehicle insurance and tax structure
