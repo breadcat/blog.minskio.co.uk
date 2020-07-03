@@ -2,7 +2,7 @@
 title: Archived Movies
 tags: ["Media", "Archive"]
 date: 2018-01-01T01:00:00
-lastmod: 2020-06-25T11:27:00
+lastmod: 2020-07-03T12:04:00
 ---
 
 * [REC] (2007)
@@ -16,6 +16,7 @@ lastmod: 2020-06-25T11:27:00
 * 28 Days Later (2002)
 * 30 Minutes or Less (2011)
 * 48 Hrs. (1982)
+* 5th Passenger (2018)
 * A Cure for Wellness (2017)
 * A Monster Calls (2016)
 * A Quiet Place (2018)
@@ -104,6 +105,7 @@ lastmod: 2020-06-25T11:27:00
 * CHiPS (2017)
 * Christine (1983)
 * Chronicle (2012)
+* Cloud Atlas (2012)
 * Clue (1985)
 * Coco (2017)
 * Code 8 (2019)
@@ -228,6 +230,7 @@ lastmod: 2020-06-25T11:27:00
 * House on Haunted Hill (1959)
 * How to Train Your Dragon: The Hidden World (2019)
 * Howl's Moving Castle (2004)
+* Hudson Hawk (1991)
 * Hunt for the Wilderpeople (2016)
 * I Don't Feel at Home in This World Anymore (2017)
 * I Kill Giants (2018)
@@ -363,8 +366,10 @@ lastmod: 2020-06-25T11:27:00
 * Prisoners (2013)
 * Prometheus (2012)
 * Pulse (2001)
+* Queen of the Damned (2002)
 * Ralph Breaks the Internet (2018)
 * Rampage (2018)
+* Raw (2016)
 * Ready or Not (2019)
 * Red Sparrow (2018)
 * Redline (2009)

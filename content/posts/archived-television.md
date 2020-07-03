@@ -2,11 +2,11 @@
 title: Archived TV Shows
 tags: ["Media", "Archive"]
 date: 2018-01-01T01:00:00
-lastmod: 2020-06-25T11:32:00
+lastmod: 2020-07-03T12:04:00
 ---
 
-<!-- Work in Progress: Better Call Saul, Bob's Burgers, Brooklyn Nine-Nine, Psycho-Pass, South Park, Star Trek Deep Space Nine, The Amazing World of Gumball, The Sinner, Westworld -->
-<!-- Rewatch: Farscape, Lexx, Police Squad!, Swiss Toni, Terry Pratchett's Going Postal, The Boondocks, The Inbetweeners, True Detective -->
+<!-- Work in Progress: Bob's Burgers, Brooklyn Nine-Nine, Psycho-Pass, South Park, Star Trek Deep Space Nine, The Amazing World of Gumball, The Sinner, Westworld -->
+<!-- Rewatch: Farscape, Gurren Lagann, Lexx, Police Squad!, Swiss Toni, Terry Pratchett's Going Postal, The Boondocks, The Inbetweeners, True Detective -->
 <!-- Abandoned: DARK, Designated Survivor, Doctor Who (2005), Fear the Walking Dead, How to Get Away with Murder, Making a Murderer, Sharp Objects, The Simpsons, The Walking Dead, Twin Peaks -->
 
 * 11.22.63
@@ -22,6 +22,7 @@ lastmod: 2020-06-25T11:32:00
 * Avenue 5
 * Battle Angel Alita
 * Berry & Fulcher's Snuff Box
+* Better Call Saul
 * Big Mouth
 * Black Books
 * Black Lagoon
@@ -58,7 +59,6 @@ lastmod: 2020-06-25T11:32:00
 * Garth Marenghi's Darkplace
 * Gravity Falls
 * Gunpowder
-* Gurren Lagann
 * Hannibal
 * Heroes
 * How to Get Away With Murder
