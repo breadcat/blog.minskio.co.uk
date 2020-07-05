@@ -1,6 +1,7 @@
 ---
 title: "Unattended installation of WebP codec"
 date: 2020-05-26T16:48:00
+lastmod: 2020-07-05T19:19:00
 tags: ["Snippets", "Software", "Windows"]
 ---
 
@@ -28,12 +29,8 @@ msiexec /a %temp%\7z1701.msi /qb TARGETDIR=%temp%\7z1701\
 rem unpack installer
 %temp%\7z1701\Files\7-Zip\7z.exe x %temp%\WebpCodecSetup.exe
 
-rem rename sources msis
-ren %temp%\.rsrc\0\MSIFILE\1 1.msi
+rem rename and install source msis
 ren %temp%\.rsrc\0\MSIFILE\10 10.msi
-
-rem install msis
-msiexec /i %temp%\.rsrc\0\MSIFILE\1.msi /quiet /qn /norestart
 msiexec /i %temp%\.rsrc\0\MSIFILE\10.msi /quiet /qn /norestart
 
 rem clean up used folders
@@ -42,3 +39,7 @@ rd /s /q %temp%\7z1701 %temp%\.rsrc
 ```
 
 The script will download the installer, and 7zip to do the unpacking, then delete everything afterwards.
+
+Note, this will only install the 64bit install `10.msi`, if you're still working on 32bit Windows, you want to rename and install `1.msi` instead.
+
+* **Edit 2020-07-05:** Chaneg instructions to only instal 64bit version.
