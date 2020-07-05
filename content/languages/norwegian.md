@@ -2,18 +2,38 @@
 title: Norwegian Dictionary
 language: dictionary
 date: 2017-08-08T09:00:00
-lastmod: 2020-06-27T09:00:00
+lastmod: 2020-07-05T17:32:00
 ---
 
 **Norwegian** - **English**
+* &aelig;rlig - honest
+* &aring; - to
 * &aring;r - year
 * &oslash;l - beer
 * &oslash;nsker - wishes
+* absolutt - absolutely
+* adgang - access
+* adlyde - obey
+* advare - warn
+* advarsel - warning
+* advokat - lawyer
+* agentbyr&aring; - agency
+* aggressivt - aggressive
+* akkompagnert - accompanied
+* akkurat - just, exactly
 * aksent - accent
+* akseptere - accept
+* aksj - share
 * alder - age
 * aldri - never
+* alkohol - alcohol
+* allerede - already
 * allt, alt - everything
 * alltid - always
+* alminnelig - ordinary
+* alts&aring; - therefore
+* alvorlig - serious
+* ambulanse - ambulance
 * anke - appeal
 * appelsin - orange (fruit)
 * arbeidet - worked
@@ -124,8 +144,8 @@ lastmod: 2020-06-27T09:00:00
 * halv - half
 * ham - him
 * han - he
-* har - has
-* har - have
+* har - has, have
+* har lyst - want
 * hatt - had
 * havfrue - mermaid
 * heksa - witch
@@ -169,7 +189,7 @@ lastmod: 2020-06-27T09:00:00
 * kommer an - depends
 * kone - wife
 * kontor - office
-* kort - cards (credit)
+* kort - card
 * koster - cost
 * kurs - course, route
 * kveld - night
@@ -259,6 +279,7 @@ lastmod: 2020-06-27T09:00:00
 * sikre - sure, ensure
 * sin - her, his
 * siste - last
+* sjalu - jealous
 * skapning - creature
 * skapninger - creatures
 * skapte - created
@@ -280,6 +301,7 @@ lastmod: 2020-06-27T09:00:00
 * straks - immediately
 * stund - while
 * stygg - ugly
+* sug - suck
 * suksess - success
 * svaie - sway
 * svakt - weak
@@ -311,6 +333,7 @@ lastmod: 2020-06-27T09:00:00
 * ut - out
 * utenkelig - unthinkable
 * utenlands - abroad
+* v&aring;pen - weapon
 * v&aring;r - our
 * v&aring;tt - wet
 * var - was
@@ -322,13 +345,16 @@ lastmod: 2020-06-27T09:00:00
 * venner - friends
 * ventet - waited
 * verdt - worth
+* verk - work
+* versjon - version
+* verst - worst
 * verste - worst
 * vesen - being (human)
 * veske - bag
 * vet - know
 * vi - we
 * viktig - important
-* vil, har lyst - want
+* vil - want
 * vill - wild
 * villeste - wildest
 * virke - seem
@@ -340,4 +366,19 @@ lastmod: 2020-06-27T09:00:00
 * viss - everything
 * visst - certainly
 * visste - knew
+* visstnok - supposedly
+* viste - showed
+* vite - know
+* vits - joke
+* voks - wax
+* voksnes - adult
+* vokste - grew
+* vold - violence
+* vondt - hurt
+* vrak - wreck
+* vred - resentment
+* vri - twist
+* vulg&aelig;rt - vulgar
+* vunnet - winning
+* ydmyke - humble
 * yngre - younger
