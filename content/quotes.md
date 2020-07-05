@@ -89,6 +89,8 @@ Quotes I've found in and around the Internet, collected because they make me smi
 
 >Hesitation is defeat <!-- sekiro -->
 
+>Hi, my name is Adobe and I'm a professional software suite <!-- dankpods -->
+
 >History vindicated Kaczynski
 
 >Holding onto anger is like drinking poison and expecting the other person to die <!-- fake buddhist quote -->
@@ -220,6 +222,8 @@ Quotes I've found in and around the Internet, collected because they make me smi
 >Roses are red, violets are blue, Unexpected '{' on line 32
 
 >Row row. Fight the power
+
+>Run Joey, Run! You should be faster now! <!-- flashgitz -->
 
 >Seldom surprised, often disappointed
 
