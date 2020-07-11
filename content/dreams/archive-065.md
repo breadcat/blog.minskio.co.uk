@@ -3,7 +3,7 @@ title: Untitled Archive Dream 65
 dream: undated
 ---
 
-The world has been overtaken by large and pwoerful monkeys, ala Planet of the Apes.
+The world has been overtaken by large and powerful monkeys, ala Planet of the Apes.
 
 I was with the original [cast of Dad's Army](https://en.wikipedia.org/wiki/Dad%27s_Army#Characters) planning to storm the gym and sports area of my high school.
 
