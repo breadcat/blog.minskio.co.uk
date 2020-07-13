@@ -2,7 +2,7 @@
 title: Norwegian Dictionary
 language: dictionary
 date: 2017-08-08T09:00:00
-lastmod: 2020-07-05T17:32:00
+lastmod: 2020-07-13T22:45:00
 ---
 
 **Norwegian** - **English**
@@ -94,6 +94,7 @@ lastmod: 2020-07-05T17:32:00
 * enda - another
 * endret - changed
 * engelsk - english
+* enig - agree
 * enighet - agreement
 * enn - than
 * enn&aring; - still
@@ -108,6 +109,7 @@ lastmod: 2020-07-05T17:32:00
 * farge - color
 * farlig - dangerous
 * fenomen - phenomenon
+* ferdig - finished
 * fest - party (celebration)
 * film - movie, film
 * finne - find
@@ -181,6 +183,7 @@ lastmod: 2020-07-05T17:32:00
 * jeg - I (personal)
 * jo - on the contrary
 * kaffe - coffee
+* kamp - fight
 * kan - can
 * kj&oslash;re - drive (vehicle)
 * kjempe - giant (mythological)
@@ -259,7 +262,9 @@ lastmod: 2020-07-05T17:32:00
 * regnet - rained
 * reise - travel
 * ringt - ringed, rung
+* rot&oslash;l - root beer
 * rullestol - wheelchair
+* s&aelig;rlig - especially
 * s&aring; - so
 * s&oslash;k - search
 * sa - said
@@ -269,6 +274,7 @@ lastmod: 2020-07-05T17:32:00
 * samtale - conversation
 * sans - sense
 * sant - TRUE
+* sats - rate
 * sauer - sheep (plural)
 * seg - self
 * seg - themselves
@@ -286,6 +292,7 @@ lastmod: 2020-07-05T17:32:00
 * skatten - treasure
 * skip - ship
 * sko - shoe
+* skulder - shoulder
 * skurk - villain
 * skynder - rushes
 * slags - type, kind
@@ -333,6 +340,7 @@ lastmod: 2020-07-05T17:32:00
 * ut - out
 * utenkelig - unthinkable
 * utenlands - abroad
+* utrolig - extraordinary
 * v&aring;pen - weapon
 * v&aring;r - our
 * v&aring;tt - wet
