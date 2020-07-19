@@ -263,9 +263,13 @@ Quotes I've found in and around the Internet, collected because they make me smi
 
 >There can be only one <!-- highlander -->
 
+>They think your haircuts are un-American <!-- beatles interview -->
+
 >Things won't always be this good
 
 >This inhuman place makes human monsters <!-- The Shining -->
+
+>This is extremely dangerous to our democracy <!-- sinclair broadcast group -->
 
 >This isn't horseplay, it's a major felony <!-- Hudson Hawk -->
 

@@ -11,6 +11,10 @@ lastmod: 2020-07-13T22:45:00
 * &aring;r - year
 * &oslash;l - beer
 * &oslash;nsker - wishes
+* &oslash;re - ear
+* &oslash;rer - ears
+* &oslash;ye - eye
+* &oslash;yne - eyes
 * absolutt - absolutely
 * adgang - access
 * adlyde - obey
@@ -34,6 +38,7 @@ lastmod: 2020-07-13T22:45:00
 * alts&aring; - therefore
 * alvorlig - serious
 * ambulanse - ambulance
+* and - duck
 * anke - appeal
 * appelsin - orange (fruit)
 * arbeidet - worked
@@ -65,6 +70,7 @@ lastmod: 2020-07-13T22:45:00
 * blir - becoming, are
 * blitt - become
 * bo - live, reside
+* bokstaver - letters
 * bor - live/stay
 * borte - disappearing
 * br&oslash;d - bread
@@ -142,6 +148,7 @@ lastmod: 2020-07-13T22:45:00
 * glemte - forgot
 * grønnsaker - vegetables
 * h&oslash;y - high, tall, loud, etc
+* hake - chin
 * hakk - dent, notch
 * halv - half
 * ham - him
@@ -185,6 +192,8 @@ lastmod: 2020-07-13T22:45:00
 * kaffe - coffee
 * kamp - fight
 * kan - can
+* kanon - canon
+* kinn - cheek
 * kj&oslash;re - drive (vehicle)
 * kjempe - giant (mythological)
 * kjemper - giants (mythological)
@@ -234,6 +243,7 @@ lastmod: 2020-07-13T22:45:00
 * mynt - coin
 * mynter - coins
 * mystisk - mysterious
+* nese - nose
 * noe - something (action)
 * noen - some, any (quantity)
 * nok - enough
@@ -250,6 +260,7 @@ lastmod: 2020-07-13T22:45:00
 * oppf&oslash;rer - behaving
 * oppf&oslash;rte - behave
 * oransje - orange (colour)
+* panne - forehead
 * pappa, far - dad, father
 * passerer - passing
 * peis - fireplace
@@ -320,6 +331,7 @@ lastmod: 2020-07-13T22:45:00
 * tatt - taken
 * t-banen - subway
 * teaspoon - teskje
+* tenner - teeth
 * tidligere - earlier
 * til sammen - in total
 * tilby - supply, offer
@@ -333,6 +345,7 @@ lastmod: 2020-07-13T22:45:00
 * tredobbelt - triple
 * trenger, beh&oslash;ver - need
 * tro - faith, belief
+* tunge - tounge
 * uke - week
 * ulykk - accident
 * under - during
