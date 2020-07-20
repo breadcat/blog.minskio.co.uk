@@ -2,7 +2,7 @@
 title: Norwegian Dictionary
 language: dictionary
 date: 2017-08-08T09:00:00
-lastmod: 2020-07-13T22:45:00
+lastmod: 2020-07-20T02:24:00
 ---
 
 **Norwegian** - **English**
@@ -56,6 +56,7 @@ lastmod: 2020-07-13T22:45:00
 * begynne - begin, start
 * bekreft - confirm, validate
 * belong - tilhør
+* benk - bench
 * beskrevet - described
 * beslutning - decision
 * beste - best
@@ -71,10 +72,11 @@ lastmod: 2020-07-13T22:45:00
 * blitt - become
 * bo - live, reside
 * bokstaver - letters
-* bor - live/stay
-* borte - disappearing
+* bor - live, stay
+* borte - disappearing, away
 * br&oslash;d - bread
 * bra - good, fine
+* brus - soda
 * budskap - message
 * buss - bus
 * by - city
@@ -86,7 +88,8 @@ lastmod: 2020-07-13T22:45:00
 * danse - dance
 * de - they
 * den, det - that, this
-* der - there
+* deprimerte - depressed
+* der - there, here
 * dere - you (plural)
 * direkte - directly
 * dratt - gone
@@ -94,6 +97,7 @@ lastmod: 2020-07-13T22:45:00
 * dumt - stupid
 * dyr - animals
 * dyr - expensive
+* dyrke - grow
 * effekt - effect
 * eier - owns
 * eksempler - examples
@@ -136,6 +140,7 @@ lastmod: 2020-07-13T22:45:00
 * fotografi - photography
 * fra - from
 * fremmed - foreign
+* frukost - breakfast
 * frukt - fruit
 * fryser, kalde - cold
 * fugl - bird
@@ -148,6 +153,7 @@ lastmod: 2020-07-13T22:45:00
 * glemte - forgot
 * grønnsaker - vegetables
 * h&oslash;y - high, tall, loud, etc
+* h&oslash;yre - right (direction, side)
 * hake - chin
 * hakk - dent, notch
 * halv - half
@@ -190,13 +196,17 @@ lastmod: 2020-07-13T22:45:00
 * jeg - I (personal)
 * jo - on the contrary
 * kaffe - coffee
+* kalles - known
 * kamp - fight
 * kan - can
 * kanon - canon
+* kasse - crate, box
+* kaste - throw
 * kinn - cheek
 * kj&oslash;re - drive (vehicle)
 * kjempe - giant (mythological)
 * kjemper - giants (mythological)
+* kjent - know
 * kollektivtraffikk - public transport
 * kommer an - depends
 * kone - wife
@@ -243,6 +253,7 @@ lastmod: 2020-07-13T22:45:00
 * mynt - coin
 * mynter - coins
 * mystisk - mysterious
+* ned - down
 * nese - nose
 * noe - something (action)
 * noen - some, any (quantity)
@@ -256,6 +267,7 @@ lastmod: 2020-07-13T22:45:00
 * om - about
 * ombestemt - reconsidered
 * ond - evil
+* opp - up
 * oppdaget - discovered
 * oppf&oslash;rer - behaving
 * oppf&oslash;rte - behave
@@ -264,9 +276,12 @@ lastmod: 2020-07-13T22:45:00
 * pappa, far - dad, father
 * passerer - passing
 * peis - fireplace
+* pek - point
 * penger - money
 * piknik - picnic
+* pil - arrow
 * plikt - duty
+* praktisk - practical
 * rakk - was enough
 * rapport - report
 * region - region
@@ -278,6 +293,7 @@ lastmod: 2020-07-13T22:45:00
 * s&aelig;rlig - especially
 * s&aring; - so
 * s&oslash;k - search
+* s&oslash;ppel - rubbish, litter
 * sa - said
 * sa - say
 * sagt - said
@@ -286,10 +302,11 @@ lastmod: 2020-07-13T22:45:00
 * sans - sense
 * sant - TRUE
 * sats - rate
-* sauer - sheep (plural)
+* sau - sheep
 * seg - self
 * seg - themselves
 * seg selv - himself, herself
+* seilb&aring;y - sailboat
 * seng - bed
 * servit&oslash;r - waiter
 * sett - seen
@@ -297,10 +314,12 @@ lastmod: 2020-07-13T22:45:00
 * sin - her, his
 * siste - last
 * sjalu - jealous
+* sjokolade - chocolate
 * skapning - creature
 * skapninger - creatures
 * skapte - created
 * skatten - treasure
+* skilt - badge, sign
 * skip - ship
 * sko - shoe
 * skulder - shoulder
@@ -328,6 +347,7 @@ lastmod: 2020-07-13T22:45:00
 * sykler - bikes
 * t&oslash;m - empty
 * t&oslash;rst - thirty
+* tankskip - tanker
 * tatt - taken
 * t-banen - subway
 * teaspoon - teskje
@@ -335,6 +355,7 @@ lastmod: 2020-07-13T22:45:00
 * tidligere - earlier
 * til sammen - in total
 * tilby - supply, offer
+* tilstand - condition
 * timer - hours
 * ting - thing, things
 * tjukk - fat
@@ -364,6 +385,7 @@ lastmod: 2020-07-13T22:45:00
 * vehicle - kj&oslash;ret&oslash;y
 * veldig - very
 * venner - friends
+* venstre - left (direction, side)
 * ventet - waited
 * verdt - worth
 * verk - work
