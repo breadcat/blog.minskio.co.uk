@@ -1,6 +1,7 @@
 ---
 title: "Notes on Storing Dotfiles"
 date: 2020-06-28T15:29:00
+lastmod: 2020-06-29T11:43:00
 tags: ["Linux", "Selfhosted", "Software"]
 ---
 
@@ -34,4 +35,11 @@ dotfiles add $HOME/.config/bspwm/bspwmrc
 dotfiles commit -m "Added bspwm config file"
 ```
 
+If you'd like to see what has changed before you commit them, you can run:
+```
+dotfiles diff $HOME/.config/bspwm/bspwmrc
+```
+
 And you're done. This guide is by no means unique, but has been collated from many posts accross the Internet detailing this process.
+
+* **Edit 2020-07-21:** Added note about diffing changes
