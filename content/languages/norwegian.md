@@ -2,7 +2,7 @@
 title: Norwegian Dictionary
 language: dictionary
 date: 2017-08-08T09:00:00
-lastmod: 2020-07-20T02:24:00
+lastmod: 2020-07-20T02:56:00
 ---
 
 **Norwegian** - **English**
@@ -21,24 +21,31 @@ lastmod: 2020-07-20T02:24:00
 * advare - warn
 * advarsel - warning
 * advokat - lawyer
+* afrika - africa
 * agentbyr&aring; - agency
 * aggressivt - aggressive
 * akkompagnert - accompanied
+* akkurat - exactly
 * akkurat - just, exactly
 * aksent - accent
 * akseptere - accept
 * aksj - share
 * alder - age
 * aldri - never
+* alene - alone
 * alkohol - alcohol
+* alle - everyone
 * allerede - already
 * allt, alt - everything
 * alltid - always
 * alminnelig - ordinary
+* alpakka - alpaca
 * alts&aring; - therefore
 * alvorlig - serious
 * ambulanse - ambulance
+* amerika - america
 * and - duck
+* andel - share
 * anke - appeal
 * appelsin - orange (fruit)
 * arbeidet - worked
@@ -49,12 +56,16 @@ lastmod: 2020-07-20T02:24:00
 * b&oslash;k - book
 * b&oslash;nd - bond
 * b&oslash;r - should
+* bad - bath
+* badet - bathroom
 * bane - orbit
 * barnehag - nursery, kindergarten
 * barnslig - childish
 * befolkning - population
+* begrav - bury
 * begynne - begin, start
 * bekreft - confirm, validate
+* bel&oslash;p - amount
 * belong - tilhør
 * benk - bench
 * beskrevet - described
@@ -148,7 +159,17 @@ lastmod: 2020-07-20T02:24:00
 * g&aring; - go
 * ganger - times (quantity)
 * ganske - quite
+* garasje - garage
+* geniale - ingenious
+* gift - married
 * gitt - given
+* gjennom - through
+* gjennombrudd - breakthrough
+* gjenskape - recreate
+* gjenta - repeat
+* gjerne - happily
+* gjest - guest
+* gjett - guess
 * gjorde - did (action)
 * glemte - forgot
 * grønnsaker - vegetables
@@ -272,6 +293,7 @@ lastmod: 2020-07-20T02:24:00
 * oppf&oslash;rer - behaving
 * oppf&oslash;rte - behave
 * oransje - orange (colour)
+* p&oslash;nsker - scheme, plot
 * panne - forehead
 * pappa, far - dad, father
 * passerer - passing
@@ -333,6 +355,7 @@ lastmod: 2020-07-20T02:24:00
 * spurt - asked
 * stavkirke - stave church
 * sterk - strong
+* stille - quiet
 * stjal - stole
 * stolte - trusted
 * straks - immediately
