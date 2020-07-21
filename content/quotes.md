@@ -133,9 +133,9 @@ Quotes I've found in and around the Internet, collected because they make me smi
 
 >In your opinion, which country contributed most to the defeat of Germany in 1945? <!-- IFOP poll -->
 
->Is that a euphemism?
+>Is almond a fruit? <!-- nailed it -->
 
->It's not your pudding, you alzheimer's lout! <!-- cloud atlas -->
+>Is that a euphemism?
 
 >ISO-8601 for life
 
@@ -146,6 +146,8 @@ Quotes I've found in and around the Internet, collected because they make me smi
 >It's funny how a diagnosis can make things worse
 
 >It's not that I'm lazy, it's that I just don't care <!-- office space -->
+
+>It's not your pudding, you alzheimer's lout! <!-- cloud atlas -->
 
 >It's probably fine
 
