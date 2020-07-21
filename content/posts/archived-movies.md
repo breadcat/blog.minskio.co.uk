@@ -2,7 +2,7 @@
 title: Archived Movies
 tags: ["Media", "Archive"]
 date: 2018-01-01T01:00:00
-lastmod: 2020-07-03T12:04:00
+lastmod: 2020-07-21T13:33:00
 ---
 
 * [REC] (2007)
@@ -35,10 +35,12 @@ lastmod: 2020-07-03T12:04:00
 * All Dogs Go to Heaven (1989)
 * All the Money in the World (2017)
 * Allegiant (2016)
+* American Animals (2018)
 * American Beauty (1999)
 * An American Werewolf in London (1981)
 * An Honest Liar (2014)
 * Angel Has Fallen (2019)
+* Anna (2019)
 * Annabelle (2014)
 * Annihilation (2018)
 * Anon (2018)
@@ -186,6 +188,7 @@ lastmod: 2020-07-03T12:04:00
 * Geostorm (2017)
 * Gerald's Game (2017)
 * Get Out (2017)
+* G-Force (2009)
 * Ghost in the Shell (2017)
 * Godzilla (1998)
 * Godzilla (2014)
@@ -234,6 +237,7 @@ lastmod: 2020-07-03T12:04:00
 * Hunt for the Wilderpeople (2016)
 * I Don't Feel at Home in This World Anymore (2017)
 * I Kill Giants (2018)
+* I Saw the Devil (2010)
 * Imperium (2016)
 * In the Mouth of Madness (1994)
 * In the Shadow of the Moon (2019)
@@ -282,6 +286,7 @@ lastmod: 2020-07-03T12:04:00
 * KSI: Can't Lose (2018)
 * Land of Mine (2015)
 * Landlock (1995)
+* Leave No Trace (2018)
 * Legend (2015)
 * Lessons of Darkness (1995)
 * Let's Be Cops (2014)
@@ -336,7 +341,7 @@ lastmod: 2020-07-03T12:04:00
 * Now You See Me 2 (2016)
 * Oculus (2013)
 * Once Upon a Time… in Hollywood (2019)
-* One Hundred and One Dalmatians (1961) 
+* One Hundred and One Dalmatians (1961)
 * Onward (2020)
 * Ouija (2014)
 * Ouija: Origin of Evil (2016)
@@ -445,6 +450,7 @@ lastmod: 2020-07-03T12:04:00
 * The Boy (2016)
 * The Broken (2008)
 * The Changeling (1980)
+* The Chaser (2008)
 * The Circle (2017)
 * The Cloverfield Paradox (2018)
 * The Conjuring (2013)
@@ -483,6 +489,7 @@ lastmod: 2020-07-03T12:04:00
 * The Harmony Game (2011)
 * The Haunting (1963)
 * The Hobbit: An Unexpected Journey (2012)
+* The Hole in the Ground (2019)
 * The House with a Clock in Its Walls (2018)
 * The Hunger Games (2012)
 * The Hunger Games: Catching Fire (2013)
@@ -511,6 +518,7 @@ lastmod: 2020-07-03T12:04:00
 * The Lobster (2015)
 * The Lost Boys (1987)
 * The Lost City of Z (2017)
+* The Lure (2015)
 * The Man from Earth (2007)
 * The Man from Earth: Holocene (2017)
 * The Man from U.N.C.L.E. (2015)
@@ -552,6 +560,7 @@ lastmod: 2020-07-03T12:04:00
 * The Transporter (2002)
 * The Truman Show (1998)
 * The Untamed (2016)
+* The Vast of Night (2020)
 * The Villainess (2017)
 * The Voorman Problem (2013)
 * The Wandering Earth (2019)

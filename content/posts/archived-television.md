@@ -2,10 +2,10 @@
 title: Archived TV Shows
 tags: ["Media", "Archive"]
 date: 2018-01-01T01:00:00
-lastmod: 2020-07-03T12:04:00
+lastmod: 2020-07-21T13:33:00
 ---
 
-<!-- Work in Progress: Bob's Burgers, Brooklyn Nine-Nine, Psycho-Pass, South Park, Star Trek Deep Space Nine, The Amazing World of Gumball, The Sinner, Westworld -->
+<!-- Work in Progress: Brooklyn Nine-Nine, Psycho-Pass, South Park, Star Trek Deep Space Nine, The Amazing World of Gumball, The Sinner, Westworld -->
 <!-- Rewatch: Farscape, Gurren Lagann, Lexx, Police Squad!, Swiss Toni, Terry Pratchett's Going Postal, The Boondocks, The Inbetweeners, True Detective -->
 <!-- Abandoned: DARK, Designated Survivor, Doctor Who (2005), Fear the Walking Dead, How to Get Away with Murder, Making a Murderer, Sharp Objects, The Simpsons, The Walking Dead, Twin Peaks -->
 
