@@ -140,7 +140,7 @@ lastmod: 2020-07-20T02:24:00
 * fotografi - photography
 * fra - from
 * fremmed - foreign
-* frukost - breakfast
+* frokost - breakfast
 * frukt - fruit
 * fryser, kalde - cold
 * fugl - bird
