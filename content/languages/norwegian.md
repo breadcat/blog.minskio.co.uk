@@ -2,13 +2,14 @@
 title: Norwegian Dictionary
 language: dictionary
 date: 2017-08-08T09:00:00
-lastmod: 2020-07-25T01:58:00
+lastmod: 2020-07-25T14:26:00
 ---
 
 **Norwegian** - **English**
 * &aelig;rlig - honest
 * &aring; - to
 * &aring;r - year
+* &aring;tte - eight
 * &oslash;l - beer
 * &oslash;nsker - wishes
 * &oslash;re - ear
@@ -51,17 +52,22 @@ lastmod: 2020-07-25T01:58:00
 * arbeidet - worked
 * arv - heritage
 * at - that
+* atten - eighteen
+* avslutt - exit
+* avstand - distance
 * b&aelig;r - berry
 * b&aring;de - both
 * b&aring;t - boat
 * b&oslash;k - book
 * b&oslash;nd - bond
 * b&oslash;r - should
+* ba - as
 * bad - bath
 * badet - bathroom
 * bane - orbit
 * barnehag - nursery, kindergarten
 * barnslig - childish
+* basert - based
 * befolkning - population
 * begrav - bury
 * begynne - begin, start
@@ -158,6 +164,7 @@ lastmod: 2020-07-25T01:58:00
 * frukt - fruit
 * fryser, kalde - cold
 * fugl - bird
+* fuglekvitter - birdsong
 * full - drunk
 * g&aring; - go
 * ganger - times (quantity)
@@ -267,6 +274,7 @@ lastmod: 2020-07-25T01:58:00
 * meg - me
 * melk - milk
 * menn - men
+* merk - mark
 * midlertidig - temporary
 * mindre - less
 * mindretall - minority
@@ -288,6 +296,7 @@ lastmod: 2020-07-25T01:58:00
 * norge - norway
 * norsk - norwegian
 * ny - new
+* nydelig - lovely
 * nyere - recent, newer
 * nylig - recently
 * og - and
@@ -358,6 +367,7 @@ lastmod: 2020-07-25T01:58:00
 * skynder - rushes
 * slags - type, kind
 * smilte - smiled
+* solnedgang - sunset
 * sonde - probe
 * sorg - pain, sorrow
 * sove - sleep
@@ -397,13 +407,27 @@ lastmod: 2020-07-25T01:58:00
 * tjukk - fat
 * to - two
 * tom - empty
+* tr&oslash;bbel - trouble
+* tr&oslash;ster - comforts
+* traff - hit
+* trafikk - traffic
+* tragedie - tragedy
 * trang - tight
+* transaksjon - transaction
 * travel - busy
 * tredobbelt - triple
 * trenger, beh&oslash;ver - need
 * trette - weary
+* trist - sad
 * tro - faith, belief
+* trodd - thought
+* tror - believe
+* true - threaten
 * tunge - tounge
+* tvung - force
+* tyngdekraft - gravity
+* tynn - thin
+* typisk - typical
 * uke - week
 * ulykk - accident
 * under - during
@@ -411,21 +435,28 @@ lastmod: 2020-07-25T01:58:00
 * ut - out
 * utenkelig - unthinkable
 * utenlands - abroad
+* utf&oslash;rt - done
 * utrolig - extraordinary
 * v&aring;pen - weapon
 * v&aring;r - our
 * v&aring;tt - wet
+* vakker - beautiful
+* valg - choice
 * var - was
 * var - were
+* varebil - van
 * varvulven - werewolf
 * vask - sink
 * vehicle - kj&oslash;ret&oslash;y
+* vei - way, road
+* vekke - wake
 * veldig - very
 * venner - friends
 * venstre - left (direction, side)
 * ventet - waited
 * verdt - worth
 * verk - work
+* verkt&oslash;y - tool
 * versjon - version
 * verst - worst
 * verste - worst
@@ -460,5 +491,6 @@ lastmod: 2020-07-25T01:58:00
 * vri - twist
 * vulg&aelig;rt - vulgar
 * vunnet - winning
+* worse - verre
 * ydmyke - humble
 * yngre - younger
