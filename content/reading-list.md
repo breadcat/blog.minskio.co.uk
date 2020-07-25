@@ -7,11 +7,9 @@ I generally strive for a book per week, but this is by no means a steadfast goal
 
 <details><summary>Works in Progress</summary>
 <ul>
-<li>Stephen King - The Gunslinger</li>
 <li>Tsugumi Ohba - Death Note Volume 3</li>
-<li>Dan Simmons - Hyperion</li>
 <li>Monica Hughes - Devil on My Back</li>
-<li>George R R Martin - Nightflyers</li>
+<li>David Wong - What the Hell Did I Just Read</li>
 </ul>
 </details>
 
@@ -37,6 +35,7 @@ To keep the page somewhat manageable, I've collapsed the list by years:
 <li>Junji Ito - Junji Ito's Cat Diary: Yon &amp; Mu</li>
 <li>Martha Wells - Compulsory</li>
 <li>Stephen King - Secret Window, Secret Garden</li>
+<li>Yahtzee Croshaw - Mogworld</li>
 </ul>
 </details>
 
