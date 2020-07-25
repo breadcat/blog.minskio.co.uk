@@ -173,6 +173,8 @@ Quotes I've found in and around the Internet, collected because they make me smi
 
 >Mark, be honest. Is this not a little bit better than being dead? <!-- that mitchell and webb look -->
 
+>Me? The one person I trusted most? <!-- poorly drawn lines -->
+
 >Mother, should I trust the government <!-- pink floyd -->
 
 >Mustn't grumble <!-- chas and dave wallop -->

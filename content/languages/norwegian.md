@@ -2,7 +2,7 @@
 title: Norwegian Dictionary
 language: dictionary
 date: 2017-08-08T09:00:00
-lastmod: 2020-07-20T02:56:00
+lastmod: 2020-07-25T01:58:00
 ---
 
 **Norwegian** - **English**
@@ -51,6 +51,7 @@ lastmod: 2020-07-20T02:56:00
 * arbeidet - worked
 * arv - heritage
 * at - that
+* b&aelig;r - berry
 * b&aring;de - both
 * b&aring;t - boat
 * b&oslash;k - book
@@ -84,6 +85,7 @@ lastmod: 2020-07-20T02:56:00
 * bo - live, reside
 * bokstaver - letters
 * bor - live, stay
+* bord - table
 * borte - disappearing, away
 * br&oslash;d - bread
 * bra - good, fine
@@ -127,6 +129,7 @@ lastmod: 2020-07-20T02:56:00
 * f&oslash;r - before
 * famili - family
 * fantasi - fantasy, imagination
+* fare - worry, danger
 * farge - color
 * farlig - dangerous
 * fenomen - phenomenon
@@ -173,6 +176,8 @@ lastmod: 2020-07-20T02:56:00
 * gjorde - did (action)
 * glemte - forgot
 * grønnsaker - vegetables
+* gud - god
+* h&aelig;l - heel
 * h&oslash;y - high, tall, loud, etc
 * h&oslash;yre - right (direction, side)
 * hake - chin
@@ -267,6 +272,7 @@ lastmod: 2020-07-20T02:56:00
 * mindretall - minority
 * mislykkes - failing
 * mistet - lost
+* mj&oslash;d - mead
 * motorsykkel - motorbike
 * motorvei - motorway, highway
 * mye - a lot of, much
@@ -277,7 +283,7 @@ lastmod: 2020-07-20T02:56:00
 * ned - down
 * nese - nose
 * noe - something (action)
-* noen - some, any (quantity)
+* noen - some, few, any (quantity)
 * nok - enough
 * norge - norway
 * norsk - norwegian
@@ -296,6 +302,7 @@ lastmod: 2020-07-20T02:56:00
 * p&oslash;nsker - scheme, plot
 * panne - forehead
 * pappa, far - dad, father
+* par - pair, couple
 * passerer - passing
 * peis - fireplace
 * pek - point
@@ -306,6 +313,7 @@ lastmod: 2020-07-20T02:56:00
 * praktisk - practical
 * rakk - was enough
 * rapport - report
+* redde - save
 * region - region
 * regnet - rained
 * reise - travel
@@ -322,7 +330,7 @@ lastmod: 2020-07-20T02:56:00
 * sammen - together
 * samtale - conversation
 * sans - sense
-* sant - TRUE
+* sant - true
 * sats - rate
 * sau - sheep
 * seg - self
@@ -336,11 +344,12 @@ lastmod: 2020-07-20T02:56:00
 * sin - her, his
 * siste - last
 * sjalu - jealous
+* sjarm - charm
 * sjokolade - chocolate
 * skapning - creature
 * skapninger - creatures
 * skapte - created
-* skatten - treasure
+* skatt - treasure
 * skilt - badge, sign
 * skip - ship
 * sko - shoe
@@ -349,14 +358,18 @@ lastmod: 2020-07-20T02:56:00
 * skynder - rushes
 * slags - type, kind
 * smilte - smiled
+* sonde - probe
+* sorg - pain, sorrow
 * sove - sleep
 * sp&oslash;rsm&aring;l - questions
 * spr&aring;k - language
+* spre - spread
 * spurt - asked
 * stavkirke - stave church
 * sterk - strong
 * stille - quiet
 * stjal - stole
+* stol - chair
 * stolte - trusted
 * straks - immediately
 * stund - while
@@ -388,6 +401,7 @@ lastmod: 2020-07-20T02:56:00
 * travel - busy
 * tredobbelt - triple
 * trenger, beh&oslash;ver - need
+* trette - weary
 * tro - faith, belief
 * tunge - tounge
 * uke - week
