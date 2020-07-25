@@ -42,4 +42,4 @@ The script will download the installer, and 7zip to do the unpacking, then delet
 
 Note, this will only install the 64bit install `10.msi`, if you're still working on 32bit Windows, you want to rename and install `1.msi` instead.
 
-* **Edit 2020-07-05:** Chaneg instructions to only instal 64bit version.
+* **Edit 2020-07-05:** Changed instructions to only install 64bit version.
