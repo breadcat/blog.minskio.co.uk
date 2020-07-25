@@ -127,6 +127,8 @@ Quotes I've found in and around the Internet, collected because they make me smi
 
 >If you see something, say nothing, and drink to forget
 
+>If you were any simpler you’d have to be watered every day
+
 >I'm not complaining, I'm just explaining <!-- austin mcconnell -->
 
 >In war there are no winners, only widows <!-- arrival -->
