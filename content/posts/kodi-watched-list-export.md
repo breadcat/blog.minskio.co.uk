@@ -4,13 +4,13 @@ date: 2019-01-31T10:25:00
 tags: [ "Guides", "Kodi", "Linux", "Media", "Movies", "Servers", "Snippets", "Software" ]
 ---
 
-As I've outlined in [this page](/archive/movies/) I'd prefer to save space on my server and delete movies once I've seen them but also keep a log so I don't need to remember everything.
+As I've outlined in [this page](/archived-movies/) I'd prefer to save space on my server and delete movies once I've seen them but also keep a log so I don't need to remember everything.
 
 Step in the Kodi plugin [WatchedList](https://kodi.wiki/view/Add-on:WatchedList) which will happily export your status to a SQLite database that can be worked with as follows:
 ```
 if [ -f "movies.csv" ]; then rm movies.csv; fi
 sqlite3 -noheader -csv watchedlist.db "select title from movie_watched;" > movies.csv
-sed -i -e 's|\"||g' -e 's|^|* |g' movies.csv 
+sed -i -e 's|\"||g' -e 's|^|* |g' movies.csv
 sort -k 2 < movies.csv > movies.md
 rm movies.csv
 ```

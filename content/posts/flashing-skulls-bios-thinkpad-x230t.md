@@ -14,7 +14,7 @@ The official word from Lenovo is that you're unable to downgrade your BIOS after
 
 The long winded way I got my BIOS downgraded was to write a bootable FreeDOS installation to my USB stick, using [Rufus](https://rufus.ie/) on Windows. The only files required on top of this is a compatible version of `dosflash.exe` and your BIOS image.
 
-You can grab a compatible `dosflash.exe` by extracting the binary from the [BIOS upgrade iso](https://pcsupport.lenovo.com/gb/en/products/laptops-and-netbooks/thinkpad-x-series-tablet-laptops/thinkpad-x230-tablet/downloads/ds029683) file using 
+You can grab a compatible `dosflash.exe` by extracting the binary from the [BIOS upgrade iso](https://pcsupport.lenovo.com/gb/en/products/laptops-and-netbooks/thinkpad-x-series-tablet-laptops/thinkpad-x230-tablet/downloads/ds029683) file using 7zip.
 ```
 geteltorito -o out.img g2uj15us.iso
 mount -t vfat bios.img bios/ -o loop
@@ -41,6 +41,6 @@ Your laptop was likely previously booting in UEFI mode, but the included SeaBIOS
 I did plan to look into preparing a [TianoCore](https://www.tianocore.org/) or [YaBits](https://yabits.github.io/) payload to support UEFI, but BIOS works well enough and I don't care enough to compile my own Skulls images.
 
 
-And with that, an entry from the [New Years Resolution list](/blog/2020/01/02/2020-new-years-resolutions/) is complete.
+And with that, an entry from the [New Years Resolution list](/2020-new-years-resolutions/) is complete.
 <!-- # Cleaning ME -->
 

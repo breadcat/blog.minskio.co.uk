@@ -19,4 +19,4 @@ ffmpeg -i video.mkv -c copy -map 0:5 subtitles.srt
 You should now have a single `srt` file with your subtitles as expected in them.
 
 I'll write another post for how to format these files to a usable list type format later.
-**Edit:** [Follow up article posted here](/blog/2020/05/28/formatting-dumped-subtitles/).
+**Edit 2020-07-25:** [Follow up article posted here](/formatting-dumped-subtitles-into-a-vocabulary-list/).

@@ -69,7 +69,7 @@ Well why didn't you say? Step aboard traveller..! Welcome to my personal guide (
 
 * Lastly, reboot from to your new OS `reboot`.
 
-Now we're logged in, we can [set up the swap file](/blog/2019/06/10/swap-file-linux/) as an alternative to a swap partition (mentioned earlier).
+Now we're logged in, we can [set up the swap file](/creating-a-swap-file-on-linux/) as an alternative to a swap partition (mentioned earlier).
 
 Lastly, I'd like to autologin my user, without using a display manager:
 ```
