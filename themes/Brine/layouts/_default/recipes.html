@@ -19,4 +19,8 @@
 	<h3>Drinks</h3>
 	<ul>{{ range sort .Site.Taxonomies.recipe.drink ".Page.RelPermalink" }}
 		<li><a href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a></li>{{ end }}
+	</ul>
+	<h3>Guides</h3>
+	<ul>{{ range sort .Site.Taxonomies.recipe.guide ".Page.RelPermalink" }}
+		<li><a href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a></li>{{ end }}
 	</ul>{{ end }}
