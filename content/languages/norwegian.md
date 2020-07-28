@@ -2,7 +2,7 @@
 title: Norwegian Dictionary
 language: dictionary
 date: 2017-08-08T09:00:00
-lastmod: 2020-07-25T14:26:00
+lastmod: 2020-07-28T11:30:00
 ---
 
 **Norwegian** - **English**
@@ -85,6 +85,7 @@ lastmod: 2020-07-25T14:26:00
 * bevissthetstilstand - consciousness
 * bevisstløs - unconscious
 * bilder - pictures
+* blader - leaves
 * ble - got, became
 * blir - becoming, are
 * blitt - become
@@ -106,6 +107,7 @@ lastmod: 2020-07-25T14:26:00
 * dagbok - diary
 * danse - dance
 * de - they
+* del - part
 * den, det - that, this
 * deprimerte - depressed
 * der - there, here
@@ -182,11 +184,13 @@ lastmod: 2020-07-25T14:26:00
 * gjett - guess
 * gjorde - did (action)
 * glemte - forgot
+* gress - grass
 * grønnsaker - vegetables
 * gud - god
 * h&aelig;l - heel
 * h&oslash;y - high, tall, loud, etc
 * h&oslash;yre - right (direction, side)
+* hagen - garden
 * hake - chin
 * hakk - dent, notch
 * halv - half
@@ -202,11 +206,14 @@ lastmod: 2020-07-25T14:26:00
 * helse - health
 * helt - totally, completely
 * hemmelig - secret
+* heng - hang
 * hennes - her
 * her - here
 * historie - history
+* hj&oslash;rn - corner
 * hjem - home
 * hjerne - brain
+* hotellrom - hotel room
 * hun - she
 * hund - dog
 * hundemat - dogfood
@@ -250,6 +257,7 @@ lastmod: 2020-07-25T14:26:00
 * kveld - night
 * l&oslash;sning - solution
 * lage - make
+* lampe - lamp
 * land - country
 * lavt - softly
 * ledig - free, available
@@ -308,6 +316,7 @@ lastmod: 2020-07-25T14:26:00
 * oppf&oslash;rer - behaving
 * oppf&oslash;rte - behave
 * oransje - orange (colour)
+* overskyet - cloudy
 * p&oslash;nsker - scheme, plot
 * panne - forehead
 * pappa, far - dad, father
@@ -320,6 +329,7 @@ lastmod: 2020-07-25T14:26:00
 * pil - arrow
 * plikt - duty
 * praktisk - practical
+* pult - desk
 * rakk - was enough
 * rapport - report
 * redde - save
@@ -393,6 +403,7 @@ lastmod: 2020-07-25T14:26:00
 * sykler - bikes
 * t&oslash;m - empty
 * t&oslash;rst - thirty
+* tak - ceiling
 * tankskip - tanker
 * tatt - taken
 * t-banen - subway
@@ -407,6 +418,7 @@ lastmod: 2020-07-25T14:26:00
 * tjukk - fat
 * to - two
 * tom - empty
+* tr&aelig;r - trees
 * tr&oslash;bbel - trouble
 * tr&oslash;ster - comforts
 * traff - hit
@@ -416,6 +428,7 @@ lastmod: 2020-07-25T14:26:00
 * transaksjon - transaction
 * travel - busy
 * tredobbelt - triple
+* treet - tree
 * trenger, beh&oslash;ver - need
 * trette - weary
 * trist - sad
@@ -470,7 +483,6 @@ lastmod: 2020-07-25T14:26:00
 * villeste - wildest
 * virke - seem
 * virkelig - real, really
-* virkelig - really
 * virkning - result, affect
 * vise - show
 * visjon - vision
