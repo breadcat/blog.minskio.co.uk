@@ -107,7 +107,7 @@ Quotes I've found in and around the Internet, collected because they make me smi
 
 >I had a plan for that rock <!-- hoarders -->
 
->I have diplomatic immunity
+>I have diplomatic immunity <!-- lethal weapon 2 -->
 
 >I know it when I see it
 
@@ -125,7 +125,7 @@ Quotes I've found in and around the Internet, collected because they make me smi
 
 >If you play your cards right, you might just get to meet the whole gang <!-- anchorman -->
 
->If you see something, say nothing, and drink to forget
+>If you see something, say nothing, and drink to forget <!-- night vale -->
 
 >If you were any simpler you’d have to be watered every day
 
@@ -157,13 +157,13 @@ Quotes I've found in and around the Internet, collected because they make me smi
 
 >Jessie, you're a good dog <!-- paw - jessie -->
 
->Just because you're paranoid, don't mean they're not after you
+>Just because you're paranoid, don't mean they're not after you <!-- joseph heller, kurt cobain -->
 
->Just one cornetto
+>Just one cornetto <!-- cornetto advert -->
 
 >Keep it futile <!-- nathan barley -->
 
->keine gnade meine kinder
+>keine gnade meine kinder <!-- no mercy, my children -->
 
 >Let nothing human be alien to you
 
@@ -181,7 +181,7 @@ Quotes I've found in and around the Internet, collected because they make me smi
 
 >Mustn't grumble <!-- chas and dave wallop -->
 
->My tables are so clean you could eat off them
+>My tables are so clean you could eat off them <!-- discworld -->
 
 >No capes <!-- the incredibles -->
 
@@ -197,11 +197,11 @@ Quotes I've found in and around the Internet, collected because they make me smi
 
 >Not great, not terrible <!-- chernobyl -->
 
->Not my circus, not my monkeys
+>Not my circus, not my monkeys <!-- polish phrase -->
 
->Not today, old friend
+>Not today, old friend <!-- the simpsons -->
 
->Not waving, but drowning
+>Not waving, but drowning <!-- stevie smith poem -->
 
 >Nothing will be born from hatred
 
@@ -227,7 +227,7 @@ Quotes I've found in and around the Internet, collected because they make me smi
 
 >Roses are red, violets are blue, Unexpected '{' on line 32
 
->Row row. Fight the power
+>Row row. Fight the power <!-- gurren lagann -->
 
 >Run Joey, Run! You should be faster now! <!-- flashgitz -->
 
@@ -253,9 +253,9 @@ Quotes I've found in and around the Internet, collected because they make me smi
 
 >Tea. Earl Grey. Hot. <!-- star trek tng -->
 
->Thanks, I hate it
+>Thanks, I hate it <!-- reddit -->
 
->That’s my secret Cap'. I’m always tired.
+>That’s my secret Cap'. I’m always tired. <!-- avengers -->
 
 >The burned hand teaches best <!-- tokien -->
 
@@ -281,7 +281,7 @@ Quotes I've found in and around the Internet, collected because they make me smi
 
 >This meme is already nothing but a memory
 
->Three men, two ladies
+>Three men, two ladies <!-- psychoville -->
 
 >Tiny Terry loves his pickles <!-- brooklyn nine-nine -->
 
@@ -289,7 +289,7 @@ Quotes I've found in and around the Internet, collected because they make me smi
 
 >Tsundoku
 
->Two hundred dollar, please
+>Two hundred dollar, please <!-- psychoville -->
 
 >Two steps forward, three steps back
 
@@ -303,7 +303,7 @@ Quotes I've found in and around the Internet, collected because they make me smi
 
 >What's her name again? - Eileen, I think <!-- american dad -->
 
->What's it all about then? Seriously, when you get down to it
+>What's it all about then? Seriously, when you get down to it <!-- discworld -->
 
 >When should I start to worry? <!-- south park -->
 
@@ -319,14 +319,16 @@ Quotes I've found in and around the Internet, collected because they make me smi
 
 >You don't need a parachute to skydive. You need one to skydive twice
 
+>You want sympathy? It's in the dictionary, between shit and syphilis <!-- what the hell did I just read -->
+
 >You guys have phones, don't you? <!-- diablo press conference -->
 
 >You sound like my parole officer
 
 >You stay, I go. No following. <!-- the iron giant -->
 
->You wouldn't find Hitler playing jungle music at 3 o'clock in the morning
+>You wouldn't find Hitler playing jungle music at 3 o'clock in the morning <!-- father ted -->
 
->Your proposal is acceptable
+>Your proposal is acceptable <!-- men in black -->
 
 >You've got razzle-dazzle <!-- sun-maid raisins -->
