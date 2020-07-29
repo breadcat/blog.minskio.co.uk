@@ -2,7 +2,7 @@
 title: Norwegian Dictionary
 language: dictionary
 date: 2017-08-08T09:00:00
-lastmod: 2020-07-28T11:30:00
+lastmod: 2020-07-29T10:50:00
 ---
 
 **Norwegian** - **English**
@@ -71,6 +71,7 @@ lastmod: 2020-07-28T11:30:00
 * befolkning - population
 * begrav - bury
 * begynne - begin, start
+* beholde - keep
 * bekreft - confirm, validate
 * bel&oslash;p - amount
 * belong - tilhør
@@ -89,6 +90,7 @@ lastmod: 2020-07-28T11:30:00
 * ble - got, became
 * blir - becoming, are
 * blitt - become
+* blom - flower
 * bo - live, reside
 * bokstaver - letters
 * bor - live, stay
@@ -113,6 +115,7 @@ lastmod: 2020-07-28T11:30:00
 * der - there, here
 * dere - you (plural)
 * direkte - directly
+* dolk - dagger
 * dratt - gone
 * du - you (singular)
 * dumt - stupid
@@ -132,6 +135,7 @@ lastmod: 2020-07-28T11:30:00
 * enormt - enormous
 * eple - apple
 * er - is
+* f&aelig;l - foul, ugly
 * f&aring;r - receives, gets
 * f&oslash;ler - feels
 * f&oslash;r - before
@@ -250,6 +254,7 @@ lastmod: 2020-07-28T11:30:00
 * kollektivtraffikk - public transport
 * kommer an - depends
 * kone - wife
+* konjakk - brandy, cognac
 * kontor - office
 * kort - card
 * koster - cost
@@ -327,7 +332,9 @@ lastmod: 2020-07-28T11:30:00
 * penger - money
 * piknik - picnic
 * pil - arrow
+* plen - lawn
 * plikt - duty
+* praktfull - magnificent, amazing
 * praktisk - practical
 * pult - desk
 * rakk - was enough
@@ -391,6 +398,7 @@ lastmod: 2020-07-28T11:30:00
 * stjal - stole
 * stol - chair
 * stolte - trusted
+* str&aring;lende - glorious
 * straks - immediately
 * stund - while
 * stygg - ugly
