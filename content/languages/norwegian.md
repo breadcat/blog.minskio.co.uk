@@ -2,7 +2,7 @@
 title: Norwegian Dictionary
 language: dictionary
 date: 2017-08-08T09:00:00
-lastmod: 2020-07-29T10:50:00
+lastmod: 2020-07-30T10:50:00
 ---
 
 **Norwegian** - **English**
@@ -194,6 +194,8 @@ lastmod: 2020-07-29T10:50:00
 * h&aelig;l - heel
 * h&oslash;y - high, tall, loud, etc
 * h&oslash;yre - right (direction, side)
+* ha det - bye
+* ha det bra - goodbye
 * hagen - garden
 * hake - chin
 * hakk - dent, notch
@@ -226,6 +228,7 @@ lastmod: 2020-07-29T10:50:00
 * hvis - if
 * hvordan - how
 * hvorfor - why
+* hyggelig - nice, pleasant
 * i - in
 * i dag - today
 * i g&aring;r - yesterday

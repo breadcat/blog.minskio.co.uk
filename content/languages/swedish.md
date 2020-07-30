@@ -7,7 +7,7 @@ lastmod: 2020-06-27T09:00:00
 
 Unfortunately, this was started *very* late into the process of learning the language, so many basic words are missing
 
-**Swedish** - **English**  
+**Swedish** - **English**
 * &aring; - on
 * &aring;drorna - veins
 * &aring;h - oh
@@ -82,11 +82,17 @@ Unfortunately, this was started *very* late into the process of learning the lan
 * dryck - drink
 * fj&auml;der - feather
 * flod - river
+* goddag - good day
 * gr&auml;dd - cream
 * gris - pig
 * h&ouml;na - hen/chicken
+* hall&aring; - hello
+* hej - hi
+* hej d&aring; - bye
 * inte - don't, not
 * k&ouml;p - buy
+* krog - pub
+* ov&auml;ntad - unexpected
 * st&auml;mmer - correct
 * svamp - sponge
 * tr&auml;ffat - met
@@ -99,6 +105,7 @@ Unfortunately, this was started *very* late into the process of learning the lan
 * utav - out of
 * utbildning - training
 * utomlands - abroad
+* v&aring;g - wave
 * v&auml;xa - grow
 * v&auml;xter - plants
 * vacker - beautiful
