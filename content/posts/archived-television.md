@@ -2,10 +2,10 @@
 title: Archived TV Shows
 tags: ["Media", "Archive"]
 date: 2018-01-01T01:00:00
-lastmod: 2020-07-21T13:33:00
+lastmod: 2020-08-04T10:35:00
 ---
 
-<!-- Work in Progress: Brooklyn Nine-Nine, Psycho-Pass, South Park, Star Trek Deep Space Nine, The Amazing World of Gumball, The Sinner, Westworld -->
+<!-- Work in Progress: Brooklyn Nine-Nine, Psycho-Pass, South Park, Star Trek Deep Space Nine, The Amazing World of Gumball, The Sinner -->
 <!-- Rewatch: Farscape, Gurren Lagann, Lexx, Police Squad!, Swiss Toni, Terry Pratchett's Going Postal, The Boondocks, The Inbetweeners, True Detective -->
 <!-- Abandoned: DARK, Designated Survivor, Doctor Who (2005), Fear the Walking Dead, How to Get Away with Murder, Making a Murderer, Sharp Objects, The Simpsons, The Walking Dead, Twin Peaks -->
 
@@ -131,6 +131,7 @@ lastmod: 2020-07-21T13:33:00
 * Tiger King: Murder, Mayhem and Madness
 * Tin Star
 * Titan Maximum
+* Tower of God
 * TRIGUN
 * True Blood
 * V (2009)

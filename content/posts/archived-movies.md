@@ -2,7 +2,7 @@
 title: Archived Movies
 tags: ["Media", "Archive"]
 date: 2018-01-01T01:00:00
-lastmod: 2020-07-21T13:33:00
+lastmod: 2020-08-04T10:34:00
 ---
 
 * [REC] (2007)
@@ -129,6 +129,7 @@ lastmod: 2020-07-21T13:33:00
 * Deadpool 2 (2018)
 * Deep Dark (2015)
 * Demolition Man (1993)
+* Demonic (2015)
 * Derren Brown: Pushed to the Edge (2016)
 * Divergent (2014)
 * Divine Access (2015)
@@ -258,6 +259,7 @@ lastmod: 2020-07-21T13:33:00
 * It Follows (2015)
 * Italian Spiderman (2007)
 * Jaws (1975)
+* Jennifer's Body (2009)
 * Jigsaw (2017)
 * John Wick (2014)
 * John Wick: Chapter 2 (2017)
@@ -295,6 +297,7 @@ lastmod: 2020-07-21T13:33:00
 * Lilo & Stitch (2002)
 * Limitless (2011)
 * Little Monsters (2019)
+* Lo and Behold: Reveries of the Connected World (2016)
 * Lockout (2012)
 * Logan (2017)
 * Logan Lucky (2017)
@@ -364,6 +367,7 @@ lastmod: 2020-07-21T13:33:00
 * Pokémon Detective Pikachu (2019)
 * Polar (2019)
 * Police Story (1985)
+* Popstar: Never Stop Never Stopping (2016)
 * Power Rangers (2017)
 * Predator (1987)
 * Pretty Woman (1990)
@@ -415,6 +419,7 @@ lastmod: 2020-07-21T13:33:00
 * Sound of My Voice (2011)
 * South Park: Bigger, Longer & Uncut (1999)
 * Southbound (2015)
+* Spaceship Earth (2020)
 * Spectral (2016)
 * Spectre (2015)
 * Spider-Man: Far from Home (2019)
