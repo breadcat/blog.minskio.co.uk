@@ -47,6 +47,8 @@ Quotes I've found in and around the Internet, collected because they make me smi
 
 >Curious and curiouser <!-- alice in wonderland -->
 
+>Damnation, for this? <!-- Gladius -->
+
 >Deus vult <!-- god wills it -->
 
 >Diamonds are intrinsically worthless <!-- de beers chairman, nicky oppenheimer -->
@@ -56,6 +58,8 @@ Quotes I've found in and around the Internet, collected because they make me smi
 >Do androids dream of dick? <!-- misprinted book label -->
 
 >Don't sweat the small stuff
+
+>Each of us fights for what he lacks most <!-- robert surcouf -->
 
 >Errors by errorlight
 
@@ -209,9 +213,11 @@ Quotes I've found in and around the Internet, collected because they make me smi
 
 >Off we go then
 
+>On the Internet, nobody knows you're a dog <!-- the new yorker -->
+
 >One clown leg <!-- midnight gospel -->
 
->Only a sith deals in absolutes <!-- star trek prequel -->
+>Only a sith deals in absolutes <!-- star wars prequel -->
 
 >Peaceful sheep live happily eating grass <!-- close to the sun -->
 
@@ -246,6 +252,8 @@ Quotes I've found in and around the Internet, collected because they make me smi
 >So it goes <!-- slaughterhouse five -->
 
 >Sometimes I work for the government <!-- psychonauts -->
+
+>Sometimes war dreams of itself <!-- carl von clausewitz -->
 
 >Swansea is the graveyard of ambition <!-- not dylan thomas -->
 
