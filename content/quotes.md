@@ -65,6 +65,8 @@ Quotes I've found in and around the Internet, collected because they make me smi
 
 >Ever felt the joy of karate chopping an ankle? <!-- lolnein -->
 
+>Extraordinary claims require extraordinary evidence <!-- sagan -->
+
 >Feed me Seymore <!-- little shop of horrors -->
 
 >Feels like we only go backwards <!-- tame impala -->
