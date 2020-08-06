@@ -8,15 +8,15 @@ tags: ["Health", "Lifestyle", "Lists"]
 Another year, another list. Here goes nothing.
 
 Continue to do:
-* Bed by midnight <!-- weighted blanket, latex foam pillow -->
+* Bed by midnight
 * Ketogenic diet
 * [Media directory logger](https://git.minskio.co.uk/cgit.cgi/logger/.git/)
 * [One book a week](/reading-list/)
 * Paperwork sorted promptly
 
 New additions:
-* 65kg weight
-* Brush teeth twice daily <!-- Sonicare electric toothbrush -->
+* [65kg weight](/weight/)
+* Brush teeth twice daily
 * [~~Config files to git repo~~](/notes-on-storing-dotfiles/)
 * Cure eczema
 * Desktop Linux
@@ -28,13 +28,13 @@ New additions:
 * Revert seedbox back to Hetzner using VPN
 * Robust (and documented) backup process
 * ~~Run 5K at the gym in under 40 minutes~~
-* Workout Regimen <!-- Weights, Walks, Push-ups, Pull-ups and Planks -->
+* Workout Regimen
 
 Potentials additions:
 * Colder/ish showers
 * Configure router to use a VPN
 * [~~Coreboot Thinkpads~~](/flashing-skulls-to-a-thinkpad-x230t/)
-* OpenWRT Wireless AP <!-- https://openwrt.org/toh/hwdata/tp-link/tp-link_tl-wa801nd_v5 / openwrt-18.06.5-ar71xx-tiny-tl-wa801nd-v3-squashfs-factory -->
+* OpenWRT Wireless AP
 * Crypto Daytrading/penny stocks
 * ~~Erase *stash*~~
 * Finish Spanish duolingo course
