@@ -2,7 +2,7 @@
 title: Norwegian Dictionary
 language: dictionary
 date: 2017-08-08T09:00:00
-lastmod: 2020-07-30T10:50:00
+lastmod: 2020-08-06T15:24:00
 ---
 
 **Norwegian** - **English**
@@ -64,6 +64,7 @@ lastmod: 2020-07-30T10:50:00
 * ba - as
 * bad - bath
 * badet - bathroom
+* bane - course, path
 * bane - orbit
 * barnehag - nursery, kindergarten
 * barnslig - childish
@@ -91,6 +92,7 @@ lastmod: 2020-07-30T10:50:00
 * blir - becoming, are
 * blitt - become
 * blom - flower
+* blottet - lacking, devoid
 * bo - live, reside
 * bokstaver - letters
 * bor - live, stay
@@ -172,6 +174,7 @@ lastmod: 2020-07-30T10:50:00
 * fugl - bird
 * fuglekvitter - birdsong
 * full - drunk
+* fylke - county, province
 * g&aring; - go
 * ganger - times (quantity)
 * ganske - quite
@@ -254,8 +257,10 @@ lastmod: 2020-07-30T10:50:00
 * kjempe - giant (mythological)
 * kjemper - giants (mythological)
 * kjent - know
+* kjent - known
 * kollektivtraffikk - public transport
 * kommer an - depends
+* kommune - municipality, council
 * kone - wife
 * konjakk - brandy, cognac
 * kontor - office
@@ -282,6 +287,7 @@ lastmod: 2020-07-30T10:50:00
 * lurt - wise
 * lys - light
 * m&aring; - have to, must
+* m&oslash;nster - pattern
 * malm - ore
 * mange - many
 * mann - man
@@ -340,13 +346,16 @@ lastmod: 2020-07-30T10:50:00
 * praktfull - magnificent, amazing
 * praktisk - practical
 * pult - desk
+* r&oslash;re - stir
 * rakk - was enough
 * rapport - report
 * redde - save
 * region - region
 * regnet - rained
 * reise - travel
+* reke - prawn, shrimp
 * ringt - ringed, rung
+* rive - tear, demolish
 * rot&oslash;l - root beer
 * rullestol - wheelchair
 * s&aelig;rlig - especially
@@ -437,6 +446,8 @@ lastmod: 2020-07-30T10:50:00
 * tragedie - tragedy
 * trang - tight
 * transaksjon - transaction
+* trapp - staircase
+* trappetrin - stair
 * travel - busy
 * tredobbelt - triple
 * treet - tree
@@ -452,6 +463,7 @@ lastmod: 2020-07-30T10:50:00
 * tyngdekraft - gravity
 * tynn - thin
 * typisk - typical
+* ub&aring;t - submarine
 * uke - week
 * ulykk - accident
 * under - during
@@ -488,6 +500,7 @@ lastmod: 2020-07-30T10:50:00
 * veske - bag
 * vet - know
 * vi - we
+* vik - inlet, cove
 * viktig - important
 * vil - want
 * vill - wild
