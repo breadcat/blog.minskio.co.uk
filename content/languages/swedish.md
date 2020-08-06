@@ -2,7 +2,7 @@
 title: Swedish Dictionary
 language: dictionary
 date: 2020-05-16T09:00:00
-lastmod: 2020-06-27T09:00:00
+lastmod: 2020-08-06T15:26:00
 ---
 
 Unfortunately, this was started *very* late into the process of learning the language, so many basic words are missing
@@ -26,6 +26,7 @@ Unfortunately, this was started *very* late into the process of learning the lan
 * &auml;nd&aring; - still
 * &auml;r - is, am, are
 * &auml;ter - eat
+* &ouml;ga - eye
 * absolut - absolutely
 * accepterat - accepted
 * akuten - emergency room
