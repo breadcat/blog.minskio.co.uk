@@ -65,6 +65,8 @@ Quotes I've found in and around the Internet, collected because they make me smi
 
 >Ever felt the joy of karate chopping an ankle? <!-- lolnein -->
 
+>Everybody lies <!-- house -->
+
 >Extraordinary claims require extraordinary evidence <!-- sagan -->
 
 >Feed me Seymore <!-- little shop of horrors -->
@@ -136,6 +138,8 @@ Quotes I've found in and around the Internet, collected because they make me smi
 >If you were any simpler you’d have to be watered every day
 
 >I'm not complaining, I'm just explaining <!-- austin mcconnell -->
+
+>In Scotland the forbidden fruit is fruit. <!-- Gary Delaney -->
 
 >In war there are no winners, only widows <!-- arrival -->
 
@@ -213,6 +217,8 @@ Quotes I've found in and around the Internet, collected because they make me smi
 
 >Nunc id vides, nunc ne vides <!-- discworld -->
 
+>Obscenity is the crutch of inarticulate motherfuckers <!-- motown missile -->
+
 >Off we go then
 
 >On the Internet, nobody knows you're a dog <!-- the new yorker -->
@@ -248,6 +254,8 @@ Quotes I've found in and around the Internet, collected because they make me smi
 >Shooting stars only <!-- the langoliers -->
 
 >Sic semper tyrannis you fucking idiot
+
+>Sleep is Just Death Being Shy <!-- exurb1a -->
 
 >Snifters of cognac for everyone
 
