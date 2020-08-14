@@ -2,7 +2,7 @@
 title: Swedish Dictionary
 language: dictionary
 date: 2020-05-16T09:00:00
-lastmod: 2020-08-06T15:26:00
+lastmod: 2020-08-14T05:15:00
 ---
 
 Unfortunately, this was started *very* late into the process of learning the language, so many basic words are missing
@@ -94,6 +94,7 @@ Unfortunately, this was started *very* late into the process of learning the lan
 * k&ouml;p - buy
 * krog - pub
 * ov&auml;ntad - unexpected
+* s&ouml;tma - sweet
 * st&auml;mmer - correct
 * svamp - sponge
 * tr&auml;ffat - met

@@ -2,7 +2,7 @@
 title: Norwegian Dictionary
 language: dictionary
 date: 2017-08-08T09:00:00
-lastmod: 2020-08-06T15:24:00
+lastmod: 2020-08-14T05:11:00
 ---
 
 **Norwegian** - **English**
@@ -25,6 +25,7 @@ lastmod: 2020-08-06T15:24:00
 * afrika - africa
 * agentbyr&aring; - agency
 * aggressivt - aggressive
+* agurk - cucumber
 * akkompagnert - accompanied
 * akkurat - exactly
 * akkurat - just, exactly
@@ -59,6 +60,7 @@ lastmod: 2020-08-06T15:24:00
 * b&aring;de - both
 * b&aring;t - boat
 * b&oslash;k - book
+* b&oslash;lge - wave
 * b&oslash;nd - bond
 * b&oslash;r - should
 * ba - as
@@ -101,6 +103,7 @@ lastmod: 2020-08-06T15:24:00
 * br&oslash;d - bread
 * bra - good, fine
 * brus - soda
+* brygga - pier
 * budskap - message
 * buss - bus
 * by - city
@@ -118,7 +121,9 @@ lastmod: 2020-08-06T15:24:00
 * dere - you (plural)
 * direkte - directly
 * dolk - dagger
+* drap - murder
 * dratt - gone
+* dritt - shit
 * du - you (singular)
 * dumt - stupid
 * dyr - animals
@@ -150,6 +155,7 @@ lastmod: 2020-08-06T15:24:00
 * ferdig - finished
 * fest - party (celebration)
 * film - movie, film
+* fin - fine
 * finne - find
 * flask - bottle
 * flere - several (uncountable)
@@ -170,6 +176,7 @@ lastmod: 2020-08-06T15:24:00
 * fremmed - foreign
 * frokost - breakfast
 * frukt - fruit
+* frykt - fear
 * fryser, kalde - cold
 * fugl - bird
 * fuglekvitter - birdsong
@@ -179,6 +186,7 @@ lastmod: 2020-08-06T15:24:00
 * ganger - times (quantity)
 * ganske - quite
 * garasje - garage
+* geit - goat
 * geniale - ingenious
 * gift - married
 * gitt - given
@@ -191,6 +199,7 @@ lastmod: 2020-08-06T15:24:00
 * gjett - guess
 * gjorde - did (action)
 * glemte - forgot
+* gr&oslash;t - porridge
 * gress - grass
 * grønnsaker - vegetables
 * gud - god
@@ -209,15 +218,18 @@ lastmod: 2020-08-06T15:24:00
 * har lyst - want
 * hatt - had
 * havfrue - mermaid
+* havregr&oslash;t - oatmeal
 * heksa - witch
 * heldig - lucky
 * hele - whole
 * helse - health
 * helt - totally, completely
+* helvete - hell
 * hemmelig - secret
 * heng - hang
 * hennes - her
 * her - here
+* himmel - sky
 * historie - history
 * hj&oslash;rn - corner
 * hjem - home
@@ -258,6 +270,7 @@ lastmod: 2020-08-06T15:24:00
 * kjemper - giants (mythological)
 * kjent - know
 * kjent - known
+* kokt - boiled
 * kollektivtraffikk - public transport
 * kommer an - depends
 * kommune - municipality, council
@@ -268,6 +281,7 @@ lastmod: 2020-08-06T15:24:00
 * koster - cost
 * kurs - course, route
 * kveld - night
+* l&aring;ve - barn
 * l&oslash;sning - solution
 * lage - make
 * lampe - lamp
@@ -285,12 +299,16 @@ lastmod: 2020-08-06T15:24:00
 * lommebok - wallet
 * lover - promise
 * lurt - wise
+* lyd - sound, noise
 * lys - light
 * m&aring; - have to, must
 * m&oslash;nster - pattern
+* m&oslash;rk - dark
+* måke - seagull
 * malm - ore
 * mange - many
 * mann - man
+* mareritt - nightmare
 * maskin - machine
 * med - with
 * meg - me
@@ -331,6 +349,7 @@ lastmod: 2020-08-06T15:24:00
 * oppf&oslash;rte - behave
 * oransje - orange (colour)
 * overskyet - cloudy
+* p&aring;legg - topping
 * p&oslash;nsker - scheme, plot
 * panne - forehead
 * pappa, far - dad, father
@@ -384,18 +403,23 @@ lastmod: 2020-08-06T15:24:00
 * sjalu - jealous
 * sjarm - charm
 * sjokolade - chocolate
+* skal - shall, should
 * skapning - creature
 * skapninger - creatures
 * skapte - created
 * skatt - treasure
 * skilt - badge, sign
+* skinke - ham
+* skinn - shine
 * skip - ship
 * sko - shoe
 * skulder - shoulder
 * skurk - villain
 * skynder - rushes
+* sl&aring;r - hit, strike
 * slags - type, kind
 * smilte - smiled
+* sola - sun
 * solnedgang - sunset
 * sonde - probe
 * sorg - pain, sorrow
