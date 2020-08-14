@@ -15,9 +15,8 @@ What powers the site and its associated clients
 <li>GPU: Sapphire Pulse RX580 8GB</li>
 <li>PSU: Corsair SF450 450W Modular 80+ Gold PSU</li>
 <li>Case: DAN Case A4-SFX v2</li>
-<li>Case Fan: Noctua NF-A9x14 PWM Slim 92mm Fan</li>
 <li>Monitors: 2x Iiyama ProLite E2710HDS</li>
-<li>OS: Microsoft Windows 10 LTSC-N 64-bit</li>
+<li>OS: Microsoft Windows 10 Pro N Version 2004</li>
 <li>Keyboard: Rosewill-RK-9000V2 Cherry MX Brown</li>
 <li>Mouse: Corsair Harpoon</li>
 <li>Headset: SteelSeries Arctis 3</li>

@@ -9,7 +9,7 @@ I generally strive for a book per week, but this is by no means a steadfast goal
 <ul>
 <li>Tsugumi Ohba - Death Note Volume 3</li>
 <li>Monica Hughes - Devil on My Back</li>
-<li>David Wong - What the Hell Did I Just Read</li>
+<li>George R R Martin - Nightflyers</li>
 </ul>
 </details>
 
@@ -36,6 +36,7 @@ To keep the page somewhat manageable, I've collapsed the list by years:
 <li>Martha Wells - Compulsory</li>
 <li>Stephen King - Secret Window, Secret Garden</li>
 <li>Yahtzee Croshaw - Mogworld</li>
+<li>David Wong - What the Hell Did I Just Read</li>
 </ul>
 </details>
 
