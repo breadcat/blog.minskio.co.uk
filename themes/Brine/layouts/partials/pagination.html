@@ -1,5 +1,1 @@
-{{ with $.Paginator }}{{ if gt .TotalPages 1 }}	<p class="pagination">
-		{{ with .Prev }}<a href="{{ .URL }}">Previous</a>
-		{{ end }}{{ range .Pagers }}<a{{ if eq .PageNumber $.Paginator.PageNumber }} class="active"{{ end }} href="{{ .URL }}">{{ .PageNumber }}</a>
-		{{ end }}{{ with .Next }}<a href="{{ .URL }}">Next</a>{{ end }}
-	</p>{{ end }}{{ end }}
+{{ with $.Paginator }}{{ if gt .TotalPages 1 }}<p class="pagination">{{ with .Prev }}<a href="{{ .URL }}">Previous</a>{{ end }}{{ range .Pagers }}<a{{ if eq .PageNumber $.Paginator.PageNumber }} class="active"{{ end }} href="{{ .URL }}">{{ .PageNumber }}</a>{{ end }}{{ with .Next }}<a href="{{ .URL }}">Next</a>{{ end }}</p>{{ end }}{{ end }}
