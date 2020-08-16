@@ -275,9 +275,9 @@ Quotes I've found in and around the Internet, collected because they make me smi
 
 >That’s my secret Cap'. I’m always tired. <!-- avengers -->
 
->The burned hand teaches best <!-- tokien -->
-
 >The Industrial Revolution and its consequences have been a disaster for the human race <!-- uncle ted -->
+
+>The burned hand teaches best <!-- tolkien -->
 
 >The things you own end up owning you <!-- fight club -->
 
@@ -286,6 +286,8 @@ Quotes I've found in and around the Internet, collected because they make me smi
 >Theoretical degree in physics <!-- fallout -->
 
 >There can be only one <!-- highlander -->
+
+>There was blood in the kitchen, there was blood in the hall <!-- shivering truth -->
 
 >They think your haircuts are un-American <!-- beatles interview -->
 
