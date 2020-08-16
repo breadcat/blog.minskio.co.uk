@@ -1,5 +1,5 @@
 ---
-title: Archived TV Shows
+title: Archived Television
 tags: ["Media", "Archive"]
 date: 2018-01-01T01:00:00
 lastmod: 2020-08-04T10:35:00
