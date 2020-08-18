@@ -2,7 +2,7 @@
 title: Archived Movies
 tags: ["Media", "Archive"]
 date: 2018-01-01T01:00:00
-lastmod: 2020-08-04T10:34:00
+lastmod: 2020-08-18T11:40:00
 ---
 
 * [REC] (2007)
@@ -97,6 +97,7 @@ lastmod: 2020-08-04T10:34:00
 * Cars 3 (2017)
 * Cartel Land (2015)
 * Cashback (2006)
+* Cast Away (2000)
 * Castle in the Sky (1986)
 * Cats (2019)
 * Catwoman (2004)
@@ -113,6 +114,7 @@ lastmod: 2020-08-04T10:34:00
 * Code 8 (2019)
 * Contact (1997)
 * Contagion (2011)
+* Contamination (1980)
 * Cool World (1992)
 * Countdown (2019)
 * Cowboys & Aliens (2011)
@@ -120,6 +122,7 @@ lastmod: 2020-08-04T10:34:00
 * Creed (2015)
 * Creepshow (1982)
 * Creepshow 2 (1987)
+* Critters (1986)
 * Cujo (1983)
 * DamNation (2014)
 * Dark Phoenix (2019)
@@ -236,6 +239,7 @@ lastmod: 2020-08-04T10:34:00
 * Howl's Moving Castle (2004)
 * Hudson Hawk (1991)
 * Hunt for the Wilderpeople (2016)
+* I Am the Pretty Thing That Lives in the House (2016)
 * I Don't Feel at Home in This World Anymore (2017)
 * I Kill Giants (2018)
 * I Saw the Devil (2010)
@@ -259,6 +263,7 @@ lastmod: 2020-08-04T10:34:00
 * It Follows (2015)
 * Italian Spiderman (2007)
 * Jaws (1975)
+* Jay and Silent Bob Reboot (2019)
 * Jennifer's Body (2009)
 * Jigsaw (2017)
 * John Wick (2014)
@@ -339,6 +344,7 @@ lastmod: 2020-08-04T10:34:00
 * New Police Story (2004)
 * Next Gen (2018)
 * Night of the Living Dead (1968)
+* Nightflyers (1987)
 * Nine Miles Down (2009)
 * Now You See Me (2013)
 * Now You See Me 2 (2016)
@@ -445,6 +451,7 @@ lastmod: 2020-08-04T10:34:00
 * Super Troopers (2001)
 * Superman: Red Son (2020)
 * Supernova (2000)
+* Swallow (2020)
 * Swiss Army Man (2016)
 * Tag (2018)
 * The 15:17 to Paris (2018)
@@ -513,6 +520,7 @@ lastmod: 2020-08-04T10:34:00
 * The Killer (1989)
 * The Killing of a Sacred Deer (2017)
 * The Killing Zone (1999)
+* The Last Days on Mars (2013)
 * The Lazarus Effect (2015)
 * The League of Extraordinary Gentlemen (2003)
 * The Lego Movie (2014)
