@@ -145,6 +145,8 @@ Quotes I've found in and around the Internet, collected because they make me smi
 
 >In your opinion, which country contributed most to the defeat of Germany in 1945? <!-- IFOP poll -->
 
+>Incidentally, my name is Ged&auml;chtnis <!-- fireball -->
+
 >Is almond a fruit? <!-- nailed it -->
 
 >Is that a euphemism?
