@@ -2,7 +2,7 @@
 title: Archived Television
 tags: ["Media", "Archive"]
 date: 2018-01-01T01:00:00
-lastmod: 2020-08-18T11:39:00
+lastmod: 2020-08-21T14:14:00
 ---
 
 <!-- Work in Progress: Brooklyn Nine-Nine, Psycho-Pass, South Park, Star Trek Deep Space Nine, Star Trek Lower Decks, The Amazing World of Gumball, The Sinner, The Twilight Zone -->
@@ -50,6 +50,7 @@ lastmod: 2020-08-18T11:39:00
 * Fargo
 * Farscape
 * Final Space
+* Fireball
 * Firefly
 * Freedom
 * Fullmetal Alchemist
