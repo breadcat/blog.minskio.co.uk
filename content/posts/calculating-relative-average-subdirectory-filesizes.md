@@ -1,7 +1,7 @@
 ---
 title: "Calculating relative average subdirectory filesizes"
 date: 2020-08-21T12:37:00
-tags: [ "Guides", "Snippets", "Software", "Windows" ]
+tags: [ "Guides", "Linux", "Media", "Snippets", "Software" ]
 ---
 
 During these _unprecedented times_ I've been watching a fair amount of movies and TV shows, and deleting once done, as you do. As a bit of a interesting insight and guiding hand I've been using the excellent [ncdu](https://dev.yorhel.nl/ncdu) and [rclone's ...clone ](https://rclone.org/commands/rclone_ncdu/) which both work excellently for when 1 folder equates to 1 _media_. With TV shows however this is complicated somewhat. In steps calculating average filesizes in a directory so you can sort them revealing the most notorious offenders.
