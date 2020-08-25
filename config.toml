@@ -2,6 +2,7 @@ baseURL = "https://minskio.co.uk"
 languageCode = "en-gb"
 title = "Minskio"
 theme = "Brine"
+disableFastRender=true
 
 [permalinks]
 	posts = "/:title/"
