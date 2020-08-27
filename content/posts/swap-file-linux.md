@@ -1,6 +1,7 @@
 ---
 title: "Creating a Swap File on Linux"
 date: 2019-06-10T10:03:00
+lastmod: 2020-08-27T01:15:00
 tags: ["Formats", "Guides", "Linux", "Servers", "Snippets", "Software"]
 ---
 
@@ -12,7 +13,7 @@ The notes here work with a 1GB swap file, but feel free to change these if need 
 
 Firstly we're going to create the file, set permissions and enable the swap file:
 ```
-sudo fallocate -l 1G /swap
+sudo dd if=/dev/zero of=/swap bs=1M count=1024 status=progress
 sudo chmod 600 /swap
 sudo mkswap /swap
 sudo swapon /swap
@@ -37,3 +38,5 @@ To make this change permanent, you'll need to write the value to your `sysctl.co
 ```
 echo "vm.swappiness=10" | sudo tee -a /etc/sysctl.conf
 ```
+
+* **Edit 2020-08-27:** Replaced `fallocate` instructions with `dd`, caused issues when trying to `swapon`.
