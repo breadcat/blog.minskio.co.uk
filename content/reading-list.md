@@ -9,7 +9,7 @@ I generally strive for a book per week, but this is by no means a steadfast goal
 <ul>
 <li>Tsugumi Ohba - Death Note Volume 3</li>
 <li>Monica Hughes - Devil on My Back</li>
-<li>George R R Martin - Weekend in a War Zone</li> <!-- https://en.wikipedia.org/wiki/Nightflyers#Collection -->
+<li>Peter Watts - The Things</li>
 </ul>
 </details>
 
@@ -39,6 +39,10 @@ To keep the page somewhat manageable, I've collapsed the list by years:
 <li>David Wong - What the Hell Did I Just Read</li>
 <li>George R R Martin - Nightflyers</li>
 <li>George R R Martin - Override</li>
+<li>George R R Martin - Weekend in a War Zone</li>
+<li>George R R Martin - And Seven Times Never Kill Man</li>
+<li>George R R Martin - Nor the Many-Colored Fires of a Star Ring</li>
+<li>George R R Martin - A Song for Lya</li>
 </ul>
 </details>
 
