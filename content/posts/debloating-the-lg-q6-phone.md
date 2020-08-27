@@ -8,7 +8,7 @@ I've had the LG Q6 for many moons now, I picked it up used for about 120GBP and 
 
 Anyway, Chris Titus recently published [a video](https://www.youtube.com/watch?v=k9ErL9L6KIw) and [matching article](https://christitus.com/debloat-android/) that ticked all my boxes. My guide is basically a rehash of his, so I recommend you go read his before seeing the list of things I removed.
 
-Without further adieu, you'll want to install ADB tools:
+Without further ado, you'll want to install ADB tools:
 ```
 sudo pacman -S adb
 ```
