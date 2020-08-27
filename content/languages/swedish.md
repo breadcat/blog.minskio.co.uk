@@ -50,6 +50,8 @@ Unfortunately, this was started *very* late into the process of learning the lan
 * artigt - polite
 * av - of
 * avsikt - intention
+* b&aring;t - boat
+* bad - swimming
 * bak&aring;t - backwards
 * barn - child
 * barnen - children
@@ -58,6 +60,7 @@ Unfortunately, this was started *very* late into the process of learning the lan
 * beh&ouml;ver - requires
 * ber&ouml;mt - famour
 * bergen - mountains
+* beskrivning - description
 * bl&aring; - blue
 * bl&aring;ser - blows
 * blannd - among
@@ -67,10 +70,12 @@ Unfortunately, this was started *very* late into the process of learning the lan
 * blivit - been
 * blod - blood
 * blomma - flower
+* bostad - home
 * brukade - used
 * brukar - usually
 * byta - change
 * certifierat - certified
+* cirka - about
 * d&ouml; - die
 * d&ouml;d - death
 * ditt - your
@@ -83,6 +88,7 @@ Unfortunately, this was started *very* late into the process of learning the lan
 * dryck - drink
 * fj&auml;der - feather
 * flod - river
+* g&auml;st - guest
 * goddag - good day
 * gr&auml;dd - cream
 * gris - pig
@@ -90,12 +96,27 @@ Unfortunately, this was started *very* late into the process of learning the lan
 * hall&aring; - hello
 * hej - hi
 * hej d&aring; - bye
+* ing&aring;r - included
 * inte - don't, not
 * k&ouml;p - buy
+* kamin - stove
+* kommande - coming
 * krog - pub
+* kund - customer
+* mysig - cozy
+* n&auml;sta - next
+* omr&aring;de - area
 * ov&auml;ntad - unexpected
+* plan - floor, level
+* pris - price
+* radhus - townhouse
+* redo - ready
 * s&ouml;tma - sweet
+* salu - sale
+* sj&ouml; - lake
+* slut - final, end, finish
 * st&auml;mmer - correct
+* stuga - cottage, cabin
 * svamp - sponge
 * tr&auml;ffat - met
 * tredimensionell - three-dimensional

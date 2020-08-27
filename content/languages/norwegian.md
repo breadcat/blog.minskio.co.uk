@@ -2,13 +2,14 @@
 title: Norwegian Dictionary
 language: dictionary
 date: 2017-08-08T09:00:00
-lastmod: 2020-08-14T05:11:00
+lastmod: 2020-08-27T01:34:00
 ---
 
 **Norwegian** - **English**
 * &aelig;rlig - honest
 * &aring; - to
 * &aring;r - year
+* &aring;rsak - cause
 * &aring;tte - eight
 * &oslash;l - beer
 * &oslash;nsker - wishes
@@ -142,6 +143,7 @@ lastmod: 2020-08-14T05:11:00
 * enormt - enormous
 * eple - apple
 * er - is
+* eske - box
 * f&aelig;l - foul, ugly
 * f&aring;r - receives, gets
 * f&oslash;ler - feels
@@ -204,6 +206,7 @@ lastmod: 2020-08-14T05:11:00
 * grønnsaker - vegetables
 * gud - god
 * h&aelig;l - heel
+* h&oslash;n - hen
 * h&oslash;y - high, tall, loud, etc
 * h&oslash;yre - right (direction, side)
 * ha det - bye
@@ -279,6 +282,9 @@ lastmod: 2020-08-14T05:11:00
 * kontor - office
 * kort - card
 * koster - cost
+* krok - bait, hook
+* kulde - cold
+* kupp - coup
 * kurs - course, route
 * kveld - night
 * l&aring;ve - barn
@@ -328,6 +334,7 @@ lastmod: 2020-08-14T05:11:00
 * mynt - coin
 * mynter - coins
 * mystisk - mysterious
+* n&aelig;rstrid - melee, hand to hand combat
 * ned - down
 * nese - nose
 * noe - something (action)
@@ -417,6 +424,7 @@ lastmod: 2020-08-14T05:11:00
 * skurk - villain
 * skynder - rushes
 * sl&aring;r - hit, strike
+* slagord - slogan
 * slags - type, kind
 * smilte - smiled
 * sola - sun
