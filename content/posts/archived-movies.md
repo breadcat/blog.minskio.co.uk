@@ -2,7 +2,7 @@
 title: Archived Movies
 tags: ["Media", "Archive"]
 date: 2018-01-01T01:00:00
-lastmod: 2020-08-21T14:14:00
+lastmod: 2020-08-31T14:57:00
 ---
 
 * [REC] (2007)
@@ -30,6 +30,7 @@ lastmod: 2020-08-21T14:14:00
 * Ad Astra (2019)
 * Addams Family Values (1993)
 * Æon Flux (2005)
+* Agent Cody Banks (2003)
 * Air (2015)
 * Airplane! (1980)
 * Aladdin (2019)
@@ -125,6 +126,7 @@ lastmod: 2020-08-21T14:14:00
 * Creepshow (1982)
 * Creepshow 2 (1987)
 * Critters (1986)
+* Critters 2 (1988)
 * Cujo (1983)
 * DamNation (2014)
 * Dark Phoenix (2019)
@@ -176,8 +178,10 @@ lastmod: 2020-08-21T14:14:00
 * Flatliners (2017)
 * Flightplan (2005)
 * Force Majeure (2014)
+* Ford v Ferrari (2019)
 * Frailty (2001)
 * Frank (2014)
+* Freejack (1992)
 * Frequency (2000)
 * Friday the 13th (1980)
 * Frozen (2013)
@@ -236,6 +240,7 @@ lastmod: 2020-08-21T14:14:00
 * Hot Rod (2007)
 * Hotel Artemis (2018)
 * House of Flying Daggers (2004)
+* House of Wax (2005)
 * House on Haunted Hill (1959)
 * How to Train Your Dragon: The Hidden World (2019)
 * Howl's Moving Castle (2004)
@@ -414,7 +419,9 @@ lastmod: 2020-08-21T14:14:00
 * Scott Pilgrim vs. the World (2010)
 * Serenity (2019)
 * Shazam! (2019)
+* Shrooms (2007)
 * Sicario (2015)
+* Silent Running (1972)
 * Sin City (2005)
 * Sin City: A Dame to Kill For (2014)
 * Skinwalker Ranch (2013)
@@ -460,6 +467,7 @@ lastmod: 2020-08-21T14:14:00
 * The 5th Wave (2016)
 * The Addams Family (2019)
 * The Avengers (2012)
+* The Banker (2020)
 * The Book of Life (2014)
 * The Boy (2016)
 * The Broken (2008)

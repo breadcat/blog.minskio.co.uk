@@ -2,10 +2,10 @@
 title: Archived Television
 tags: ["Media", "Archive"]
 date: 2018-01-01T01:00:00
-lastmod: 2020-08-21T14:14:00
+lastmod: 2020-08-31T14:57:00
 ---
 
-<!-- Work in Progress: Brooklyn Nine-Nine, Psycho-Pass, South Park, Star Trek Deep Space Nine, Star Trek Lower Decks, The Amazing World of Gumball, The Sinner, The Twilight Zone -->
+<!-- Work in Progress: Brooklyn Nine-Nine, Psycho-Pass, South Park, Star Trek Deep Space Nine, Star Trek Lower Decks, The Amazing World of Gumball, The Sinner -->
 <!-- Rewatch: Farscape, Gurren Lagann, Lexx, Police Squad!, Swiss Toni, Terry Pratchett's Going Postal, The Boondocks, The Inbetweeners, True Detective -->
 <!-- Abandoned: DARK, Designated Survivor, Doctor Who (2005), Fear the Walking Dead, How to Get Away with Murder, Making a Murderer, Sharp Objects, The Simpsons, The Walking Dead, Twin Peaks -->
 
@@ -83,6 +83,7 @@ lastmod: 2020-08-21T14:14:00
 * One-Punch Man
 * Over the Garden Wall
 * Paradise PD
+* Patrick Melrose
 * Peaky Blinders
 * Penn & Teller Bullshit!
 * Philip K. Dick's Electric Dreams
@@ -120,6 +121,7 @@ lastmod: 2020-08-21T14:14:00
 * The IT Crowd
 * The Mandalorian
 * The Men Who Made Us Fat
+* The Men Who Made Us Spend
 * The Men Who Made Us Thin
 * The Midnight Gospel
 * The Mist
