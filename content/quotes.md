@@ -67,6 +67,8 @@ Quotes I've found in and around the Internet, collected because they make me smi
 
 >Everybody lies <!-- house -->
 
+>Everyday we stray further from Saradomin's light <!-- runescape -->
+
 >Extraordinary claims require extraordinary evidence <!-- sagan -->
 
 >Feed me Seymore <!-- little shop of horrors -->
@@ -339,15 +341,17 @@ Quotes I've found in and around the Internet, collected because they make me smi
 
 >Ye shall know the truth, and the truth shall make you mad <!-- aldous huxley -->
 
->You don't need a parachute to skydive. You need one to skydive twice
+>You are being shagged by a rare parrot! <!-- last chance to see -->
 
->You want sympathy? It's in the dictionary, between shit and syphilis <!-- what the hell did I just read -->
+>You don't need a parachute to skydive. You need one to skydive twice
 
 >You guys have phones, don't you? <!-- diablo press conference -->
 
 >You sound like my parole officer
 
 >You stay, I go. No following. <!-- the iron giant -->
+
+>You want sympathy? It's in the dictionary, between shit and syphilis <!-- what the hell did I just read -->
 
 >You wouldn't find Hitler playing jungle music at 3 o'clock in the morning <!-- father ted -->
 
