@@ -1,5 +1,5 @@
 ---
-title: Mug Bread
+title: Almond Flour Mug Bread
 recipe: bread
 ---
 
