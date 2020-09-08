@@ -21,13 +21,13 @@ Quotes I've found in and around the Internet, collected because they make me smi
 
 >Back to the Pleistocene <!-- Edward Abbey -->
 
+>Be cheerful, enjoy your life <!-- turkish mosaic -->
+
 >Be excellent to each other <!-- bill and ted -->
 
 >Being pissed off is better than being pissed on
 
 >Brevity is the soul of wit
-
->Leave the handgun, take the cash <!-- simple creatures - lucy -->
 
 >Bring snacks and supplies <!-- red hot chili peppers - road trippin -->
 
@@ -35,11 +35,11 @@ Quotes I've found in and around the Internet, collected because they make me smi
 
 >But that's just a theory
 
->C'est la vie <!-- such is life -->
-
 >Caedite eos. Novit enim Dominus qui sunt eius <!-- kill them all; let God sort them out -->
 
 >Call me Ishmael <!-- moby dick -->
+
+>C'est la vie <!-- such is life -->
 
 >Coins I flip land on their sides <!-- the automatic lyrics -->
 
@@ -47,13 +47,15 @@ Quotes I've found in and around the Internet, collected because they make me smi
 
 >Curious and curiouser <!-- alice in wonderland -->
 
+>d’&auml; e &aring;, &aring; i &aring;a &auml; e &ouml; <!-- there is a stream, and in the stream there is an island -->
+
 >Damnation, for this? <!-- Gladius -->
 
 >Deus vult <!-- god wills it -->
 
 >Diamonds are intrinsically worthless <!-- de beers chairman, nicky oppenheimer -->
 
->Did you see that ludicrous display last night
+>Did you see that ludicrous display last night <!-- the it crowd -->
 
 >Do androids dream of dick? <!-- misprinted book label -->
 
@@ -125,6 +127,8 @@ Quotes I've found in and around the Internet, collected because they make me smi
 
 >I never saved anything for the swim back <!-- gattacca -->
 
+>I only doubted you up until the end <!-- forager -->
+
 >I regret learning to read
 
 >I saw her duck with my telescope <!-- ambiguous sentence -->
@@ -153,6 +157,8 @@ Quotes I've found in and around the Internet, collected because they make me smi
 
 >Is that a euphemism?
 
+>Is this capoeira? <!-- Fireball -->
+
 >ISO-8601 for life
 
 >It is a very comfortable hell
@@ -178,6 +184,8 @@ Quotes I've found in and around the Internet, collected because they make me smi
 >Keep it futile <!-- nathan barley -->
 
 >keine gnade meine kinder <!-- no mercy, my children -->
+
+>Leave the handgun, take the cash <!-- simple creatures - lucy -->
 
 >Let nothing human be alien to you
 
@@ -265,6 +273,8 @@ Quotes I've found in and around the Internet, collected because they make me smi
 
 >So it goes <!-- slaughterhouse five -->
 
+>Some men you just can't reach <!-- cool hand luke -->
+
 >Sometimes I work for the government <!-- psychonauts -->
 
 >Sometimes war dreams of itself <!-- carl von clausewitz -->
@@ -279,9 +289,9 @@ Quotes I've found in and around the Internet, collected because they make me smi
 
 >That’s my secret Cap'. I’m always tired. <!-- avengers -->
 
->The Industrial Revolution and its consequences have been a disaster for the human race <!-- uncle ted -->
-
 >The burned hand teaches best <!-- tolkien -->
+
+>The Industrial Revolution and its consequences have been a disaster for the human race <!-- uncle ted -->
 
 >The things you own end up owning you <!-- fight club -->
 
@@ -298,6 +308,8 @@ Quotes I've found in and around the Internet, collected because they make me smi
 >Things won't always be this good
 
 >This inhuman place makes human monsters <!-- The Shining -->
+
+>This is only a test of the emergency broadcast system <!-- pennywise -->
 
 >This is extremely dangerous to our democracy <!-- sinclair broadcast group -->
 
@@ -324,6 +336,8 @@ Quotes I've found in and around the Internet, collected because they make me smi
 >What a digital dummy <!-- yu-gi-oh -->
 
 >What a save! <!-- rocket league -->
+
+>What we've got here is failure to communicate <!-- cool hand luke -->
 
 >What's her name again? - Eileen, I think <!-- american dad -->
 
@@ -358,3 +372,4 @@ Quotes I've found in and around the Internet, collected because they make me smi
 >Your proposal is acceptable <!-- men in black -->
 
 >You've got razzle-dazzle <!-- sun-maid raisins -->
+
