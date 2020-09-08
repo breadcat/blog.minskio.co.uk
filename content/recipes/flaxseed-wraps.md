@@ -3,21 +3,19 @@ title: Flaxseed Meal Wraps
 recipe: bread
 ---
 
-* Servings: 4
-* Carbs: 3g per serving
+* Servings: 2
+* Carbs: 1g per serving
 * Prep Time: 5 minutes
 * Cooking Time: 5 seconds
 
 # Ingredients
-* 2 medium eggs
-* 30g flaxseed meal
-* 30g grated mozzarella
-* 60ml water
-* 1/4 tsp xanthan gum
+* 55g flaxseed meal
+* 80ml hot water
+* pinch salt
 
 # Process
-* Melt your mozzarella and combine with all other ingredients
-* Mix very thoroughly until the mixture is well combined
-* Fry on medium heat in a little butter until browned on both sides
+* Boil your water in a pan, add your flaxseed meal and mix until a ball of dough forms
+* Allow dough to cool and split dough into 2 and roll out thinly between greaseproof paper until a thickness or 1.5mm
+* Transfer to a non-stick frying pan and heat for a minute or two on each side
 
-Source: [Sugar Free Londoner](https://sugarfreelondoner.com/flaxseed-keto-wraps/)
+Source: [NutritionRefined](https://www.youtube.com/channel/UCcFw8aEX85Ki0YsmlT8iByw)
