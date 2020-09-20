@@ -94,8 +94,10 @@ Unfortunately, this was started *very* late into the process of learning the lan
 * gris - pig
 * h&ouml;na - hen/chicken
 * hall&aring; - hello
+* halv&ouml; - peninsula
 * hej - hi
 * hej d&aring; - bye
+* hese - hoarse
 * ing&aring;r - included
 * inte - don't, not
 * k&ouml;p - buy
