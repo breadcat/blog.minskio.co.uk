@@ -40,6 +40,7 @@ Some people I find interesting or inspirational:
 * Adam Curtis
 * Aldous Huxley
 * Bill Bryson
+* Chuck Feeney
 * Colin Furze
 * Eddie Vedder
 * James Randi
