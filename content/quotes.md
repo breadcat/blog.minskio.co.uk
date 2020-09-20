@@ -109,6 +109,8 @@ Quotes I've found in and around the Internet, collected because they make me smi
 
 >How far do you think I can kick this bucket? <!-- joke punchline -->
 
+>I am never gonna financially recover from this <!-- tiger king -->
+
 >I am the milkman, my milk is delicious <!-- psychonauts -->
 
 >I did not have sexual relations with that woman <!-- bill clinton -->
@@ -328,6 +330,8 @@ Quotes I've found in and around the Internet, collected because they make me smi
 >Two hundred dollar, please <!-- psychoville -->
 
 >Two steps forward, three steps back
+
+>We feel alone together <!-- feels good man documentary -->
 
 >Well I'm not here to fuck spiders <!-- australian slang -->
 
