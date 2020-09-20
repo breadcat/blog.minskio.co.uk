@@ -15,8 +15,6 @@ Things I enjoy or embrace, in no particular order (albeit alphabetical) include:
 * Coffee culture
 * Cooking and baking
 * Cryptocurrency, especially [Nano](https://nano.org/) and [Monero](https://www.getmonero.org/)
-* Running
-* Swimming
 * GNU/Linux and free software in general
 * INTJ Myers–Briggs Indicator
 * [Ketogenic food](/recipes/) and OMAD diets
@@ -25,14 +23,16 @@ Things I enjoy or embrace, in no particular order (albeit alphabetical) include:
 * Mycology and botany
 * Napping
 * [Nordic language](/languages/) and culture
-* Paperless paperwork
 * PC focused gaming including retro console and computer emulation
+* Paperless paperwork
 * [Pseudointellectual quotes](/quotes/)
 * [Reading](/reading-list/)
 * Rollercoasters and water parks
+* Running
 * Science, espcially physics and astronomy
 * Scotch whisky and Irish whiskey
 * Stoicism
+* Swimming
 * Universal Basic Income
 * Watching assorted [movies](/archived-movies/) and [television](/archived-television/) (Archiving what I've watched so it doesn't take up space and resources)
 
