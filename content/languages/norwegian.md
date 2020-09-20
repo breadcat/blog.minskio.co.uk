@@ -2,11 +2,12 @@
 title: Norwegian Dictionary
 language: dictionary
 date: 2017-08-08T09:00:00
-lastmod: 2020-08-27T01:34:00
+lastmod: 2020-09-20T13:07:00
 ---
 
 **Norwegian** - **English**
 * &aelig;rlig - honest
+* &aelig;rsord - promise
 * &aring; - to
 * &aring;r - year
 * &aring;rsak - cause
@@ -19,6 +20,7 @@ lastmod: 2020-08-27T01:34:00
 * &oslash;yne - eyes
 * absolutt - absolutely
 * adgang - access
+* adj&oslash; - goodbye
 * adlyde - obey
 * advare - warn
 * advarsel - warning
@@ -44,9 +46,10 @@ lastmod: 2020-08-27T01:34:00
 * alminnelig - ordinary
 * alpakka - alpaca
 * alts&aring; - therefore
-* alvorlig - serious
+* alvor - serious
 * ambulanse - ambulance
 * amerika - america
+* ananas - pineapple
 * and - duck
 * andel - share
 * anke - appeal
@@ -83,13 +86,17 @@ lastmod: 2020-08-27T01:34:00
 * beskrevet - described
 * beslutning - decision
 * beste - best
+* bestemt - specific
 * bestemte - decided
+* bestill - order
 * betalte - paid
 * bevis - evidence
 * bevissthet - awareness
 * bevissthetstilstand - consciousness
 * bevisstløs - unconscious
 * bilder - pictures
+* bille - beetle
+* bl&oslash; - bleed
 * blader - leaves
 * ble - got, became
 * blir - becoming, are
@@ -121,6 +128,7 @@ lastmod: 2020-08-27T01:34:00
 * der - there, here
 * dere - you (plural)
 * direkte - directly
+* djerv - bold
 * dolk - dagger
 * drap - murder
 * dratt - gone
@@ -130,6 +138,8 @@ lastmod: 2020-08-27T01:34:00
 * dyr - animals
 * dyr - expensive
 * dyrke - grow
+* edel - noble
+* edelstein - gemstone
 * effekt - effect
 * eier - owns
 * eksempler - examples
@@ -144,6 +154,7 @@ lastmod: 2020-08-27T01:34:00
 * eple - apple
 * er - is
 * eske - box
+* evig - eternal, ever
 * f&aelig;l - foul, ugly
 * f&aring;r - receives, gets
 * f&oslash;ler - feels
@@ -153,15 +164,21 @@ lastmod: 2020-08-27T01:34:00
 * fare - worry, danger
 * farge - color
 * farlig - dangerous
+* feber - fever
+* feig - coward
 * fenomen - phenomenon
 * ferdig - finished
 * fest - party (celebration)
 * film - movie, film
 * fin - fine
 * finne - find
+* fl&aring;t - fleet
+* flaks - luck
 * flask - bottle
 * flere - several (uncountable)
 * flink - clever
+* fnise - giggle
+* folkmord - genocide
 * fordi - because
 * foretrekker - prefer
 * form&aring;l - cause
@@ -185,9 +202,11 @@ lastmod: 2020-08-27T01:34:00
 * full - drunk
 * fylke - county, province
 * g&aring; - go
+* gal - crazy, mad
 * ganger - times (quantity)
 * ganske - quite
 * garasje - garage
+* gartner - gardener
 * geit - goat
 * geniale - ingenious
 * gift - married
@@ -202,8 +221,10 @@ lastmod: 2020-08-27T01:34:00
 * gjorde - did (action)
 * glemte - forgot
 * gr&oslash;t - porridge
+* gravid - pregnant
 * gress - grass
 * grønnsaker - vegetables
+* grott - cave
 * gud - god
 * h&aelig;l - heel
 * h&oslash;n - hen
@@ -220,6 +241,7 @@ lastmod: 2020-08-27T01:34:00
 * har - has, have
 * har lyst - want
 * hatt - had
+* hauk - hawk
 * havfrue - mermaid
 * havregr&oslash;t - oatmeal
 * heksa - witch
@@ -231,13 +253,17 @@ lastmod: 2020-08-27T01:34:00
 * hemmelig - secret
 * heng - hang
 * hennes - her
+* hente - get, fetch
 * her - here
 * himmel - sky
 * historie - history
 * hj&oslash;rn - corner
 * hjem - home
 * hjerne - brain
+* hode - head
+* hoff - court
 * hotellrom - hotel room
+* hule - cave
 * hun - she
 * hund - dog
 * hundemat - dogfood
@@ -258,6 +284,8 @@ lastmod: 2020-08-27T01:34:00
 * ingenting - nothing
 * inne - inside, indoors
 * intressant - interesting
+* Irsk - Irish
+* jakt - hunt
 * jeg - I (personal)
 * jo - on the contrary
 * kaffe - coffee
@@ -273,6 +301,7 @@ lastmod: 2020-08-27T01:34:00
 * kjemper - giants (mythological)
 * kjent - know
 * kjent - known
+* klem - hug
 * kokt - boiled
 * kollektivtraffikk - public transport
 * kommer an - depends
@@ -282,20 +311,26 @@ lastmod: 2020-08-27T01:34:00
 * kontor - office
 * kort - card
 * koster - cost
+* krangel - argument
 * krok - bait, hook
+* kujon - coward
 * kulde - cold
 * kupp - coup
 * kurs - course, route
 * kveld - night
+* kvitt - rid
 * l&aring;ve - barn
 * l&oslash;sning - solution
 * lage - make
 * lampe - lamp
 * land - country
+* last - cargo
 * lavt - softly
 * ledig - free, available
 * legen - doctor
 * legge - add
+* lei - sorry
+* leie - hire, rent
 * lenge - long (time, distance)
 * lettere - easier
 * levde - lived
@@ -304,6 +339,7 @@ lastmod: 2020-08-27T01:34:00
 * likte - liked, enjoyed
 * lommebok - wallet
 * lover - promise
+* lunsj - lunch
 * lurt - wise
 * lyd - sound, noise
 * lys - light
@@ -327,6 +363,8 @@ lastmod: 2020-08-27T01:34:00
 * mislykkes - failing
 * mistet - lost
 * mj&oslash;d - mead
+* modig - brave
+* moro - fun
 * motorsykkel - motorbike
 * motorvei - motorway, highway
 * mye - a lot of, much
@@ -343,8 +381,9 @@ lastmod: 2020-08-27T01:34:00
 * norge - norway
 * norsk - norwegian
 * ny - new
-* nydelig - lovely
+* nydelig - lovely, gorgeous
 * nyere - recent, newer
+* nyheter - news
 * nylig - recently
 * og - and
 * om - about
@@ -356,25 +395,31 @@ lastmod: 2020-08-27T01:34:00
 * oppf&oslash;rte - behave
 * oransje - orange (colour)
 * overskyet - cloudy
+* overta - take over
 * p&aring;legg - topping
+* p&oslash;lse - sausage
 * p&oslash;nsker - scheme, plot
 * panne - forehead
 * pappa, far - dad, father
 * par - pair, couple
 * passerer - passing
+* patrulj - patrol
 * peis - fireplace
 * pek - point
 * penger - money
 * piknik - picnic
 * pil - arrow
+* pine - pain, torment
 * plen - lawn
 * plikt - duty
+* ponni - pony
 * praktfull - magnificent, amazing
 * praktisk - practical
 * pult - desk
 * r&oslash;re - stir
 * rakk - was enough
 * rapport - report
+* raseri - rage
 * redde - save
 * region - region
 * regnet - rained
@@ -387,10 +432,12 @@ lastmod: 2020-08-27T01:34:00
 * s&aelig;rlig - especially
 * s&aring; - so
 * s&oslash;k - search
+* s&oslash;lv - silver
 * s&oslash;ppel - rubbish, litter
 * sa - said
 * sa - say
 * sagt - said
+* saktere - slower
 * sammen - together
 * samtale - conversation
 * sans - sense
@@ -404,11 +451,15 @@ lastmod: 2020-08-27T01:34:00
 * seng - bed
 * servit&oslash;r - waiter
 * sett - seen
+* sf&aelig;re - sphere
 * sikre - sure, ensure
 * sin - her, his
+* sinne - anger, rage
+* sint - angry
 * siste - last
 * sjalu - jealous
 * sjarm - charm
+* sjel - soul
 * sjokolade - chocolate
 * skal - shall, should
 * skapning - creature
@@ -419,6 +470,7 @@ lastmod: 2020-08-27T01:34:00
 * skinke - ham
 * skinn - shine
 * skip - ship
+* skiv - slice
 * sko - shoe
 * skulder - shoulder
 * skurk - villain
@@ -426,10 +478,13 @@ lastmod: 2020-08-27T01:34:00
 * sl&aring;r - hit, strike
 * slagord - slogan
 * slags - type, kind
+* slapp av - relax
 * smilte - smiled
+* snegle - snail
 * sola - sun
 * solnedgang - sunset
 * sonde - probe
+* sorg - grief
 * sorg - pain, sorrow
 * sove - sleep
 * sp&oslash;rsm&aring;l - questions
@@ -437,6 +492,7 @@ lastmod: 2020-08-27T01:34:00
 * spre - spread
 * spurt - asked
 * stavkirke - stave church
+* steke - fry
 * sterk - strong
 * stille - quiet
 * stjal - stole
@@ -453,8 +509,11 @@ lastmod: 2020-08-27T01:34:00
 * svarte - answer, respond
 * sykkel - bicycle
 * sykler - bikes
+* syrin - lilac
+* t&aring;lmodig - patient
 * t&oslash;m - empty
 * t&oslash;rst - thirty
+* tabbe - mistake
 * tak - ceiling
 * tankskip - tanker
 * tatt - taken
@@ -463,13 +522,16 @@ lastmod: 2020-08-27T01:34:00
 * tenner - teeth
 * tidligere - earlier
 * til sammen - in total
+* tilbud - offer
 * tilby - supply, offer
+* tilgi - forgive
 * tilstand - condition
 * timer - hours
 * ting - thing, things
 * tjukk - fat
 * to - two
 * tom - empty
+* tosk - idiot
 * tr&aelig;r - trees
 * tr&oslash;bbel - trouble
 * tr&oslash;ster - comforts
@@ -485,6 +547,7 @@ lastmod: 2020-08-27T01:34:00
 * treet - tree
 * trenger, beh&oslash;ver - need
 * trette - weary
+* trik - trick
 * trist - sad
 * tro - faith, belief
 * trodd - thought
@@ -496,6 +559,7 @@ lastmod: 2020-08-27T01:34:00
 * tynn - thin
 * typisk - typical
 * ub&aring;t - submarine
+* uhell - accident
 * uke - week
 * ulykk - accident
 * under - during
@@ -561,4 +625,5 @@ lastmod: 2020-08-27T01:34:00
 * vunnet - winning
 * worse - verre
 * ydmyke - humble
+* yndling - favourite
 * yngre - younger
