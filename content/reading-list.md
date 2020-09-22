@@ -9,7 +9,6 @@ I generally strive for a book per week, but this is by no means a steadfast goal
 <ul>
 <li>Tsugumi Ohba - Death Note Volume 3</li>
 <li>Monica Hughes - Devil on My Back</li>
-<li>Terry Pratchett - The Truth</li>
 </ul>
 </details>
 
@@ -44,6 +43,9 @@ To keep the page somewhat manageable, I've collapsed the list by years:
 <li>George R R Martin - Nor the Many-Colored Fires of a Star Ring</li>
 <li>George R R Martin - A Song for Lya</li>
 <li>Peter Watts - The Things</li>
+<li>Terry Pratchett - The Truth</li>
+<li>Stephen King - Gwendy's Button Box </li>
+<li>Stephen King - The Music Room</li>
 </ul>
 </details>
 
