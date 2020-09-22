@@ -287,6 +287,8 @@ Quotes I've found in and around the Internet, collected because they make me smi
 
 >Tea. Earl Grey. Hot. <!-- star trek tng -->
 
+>Thank you for pressing the self-destruct button <!-- spaceballs -->
+
 >Thanks, I hate it <!-- reddit -->
 
 >That’s my secret Cap'. I’m always tired. <!-- avengers -->
