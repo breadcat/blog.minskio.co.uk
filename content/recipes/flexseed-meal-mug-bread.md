@@ -18,6 +18,7 @@ recipe: bread
 # Process
 * Mix all ingredients in a microwave safe dish
 * Mix thoroughly until homogeneous
+* Microwave for 2 minutes and remove from container once done
 * Eat as is, or grill/fry for a crisper taste
 
 Source: [Vernaz](https://www.youtube.com/watch?v=D74Vhb1kZWs)
