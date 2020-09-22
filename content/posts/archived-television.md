@@ -2,10 +2,10 @@
 title: Archived Television
 tags: ["Media", "Archive"]
 date: 2018-01-01T01:00:00
-lastmod: 2020-08-31T14:57:00
+lastmod: 2020-09-22T12:30:00
 ---
 
-<!-- Work in Progress: Brooklyn Nine-Nine, Psycho-Pass, South Park, Star Trek Deep Space Nine, Star Trek Lower Decks, The Amazing World of Gumball, The Sinner -->
+<!-- Work in Progress: Archer, Brooklyn Nine-Nine, Psycho-Pass, Raised by Wolves, South Park, Space Patrol Luluco, Star Trek Deep Space Nine, Star Trek Lower Decks, Star Trek: Deep Space Nine, Star Trek: Lower Decks, The Amazing World of Gumball, The Sinner, Travel Man: 48 Hours in..., Warrior -->
 <!-- Rewatch: Farscape, Gurren Lagann, Lexx, Police Squad!, Swiss Toni, Terry Pratchett's Going Postal, The Boondocks, The Inbetweeners, True Detective -->
 <!-- Abandoned: DARK, Designated Survivor, Doctor Who (2005), Fear the Walking Dead, How to Get Away with Murder, Making a Murderer, Sharp Objects, The Simpsons, The Walking Dead, Twin Peaks -->
 
@@ -17,7 +17,6 @@ lastmod: 2020-08-31T14:57:00
 * Altered Carbon
 * American Gods
 * Angel Cop
-* Archer
 * Ash vs. Evil Dead
 * Avenue 5
 * Battle Angel Alita
@@ -62,6 +61,7 @@ lastmod: 2020-08-31T14:57:00
 * Gunpowder
 * Hannibal
 * Heroes
+* Hometown: A Killing
 * How to Get Away With Murder
 * Hyperdrive
 * Ideal
@@ -89,6 +89,7 @@ lastmod: 2020-08-31T14:57:00
 * Philip K. Dick's Electric Dreams
 * Phoenix Nights
 * Pretty Little Liars
+* Psycho-Pass
 * Psychoville
 * Rick and Morty
 * Savage Builds
@@ -130,6 +131,7 @@ lastmod: 2020-08-31T14:57:00
 * The Shivering Truth
 * The Sinner
 * The Strain
+* The Twilight Zone
 * The Twilight Zone (2019)
 * The Wire
 * Tidying Up with Marie Kondo
