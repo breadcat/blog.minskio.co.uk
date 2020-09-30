@@ -199,7 +199,11 @@ Quotes I've found in and around the Internet, collected because they make me smi
 
 >Mark, be honest. Is this not a little bit better than being dead? <!-- that mitchell and webb look -->
 
+>May you live in interesting times <!-- english expression -->
+
 >Me? The one person I trusted most? <!-- poorly drawn lines -->
+
+>More similar than different <!-- travel man -->
 
 >Mother, should I trust the government <!-- pink floyd -->
 
