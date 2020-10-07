@@ -207,7 +207,11 @@ Quotes I've found in and around the Internet, collected because they make me smi
 
 >Mother, should I trust the government <!-- pink floyd -->
 
+>Multiple exclamation marks are a sure sign of a diseased mind <!-- discworld -->
+
 >Mustn't grumble <!-- chas and dave wallop -->
+
+>My name is Bolo Santosi, I am the leader of the revolutionary army known as the Reapers. <!-- just cause 2 -->
 
 >My tables are so clean you could eat off them <!-- discworld -->
 
