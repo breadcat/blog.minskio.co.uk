@@ -3,7 +3,7 @@ title: Untitled Archive Dream 2
 dream: undated
 ---
 
-I was in the car park at work before work started, CM who usually installs our phone systems had been called from an install due to being pulled over by the police.
+I was in the car park at work before work started, our usual phone system installer <!-- CM --> had been called from an install due to being pulled over by the police.
 
 He was escorted back to the office with the police and instructed us that the police wanted to check over everything, to such a level that it was almost harassment.
 

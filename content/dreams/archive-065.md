@@ -11,4 +11,4 @@ For some reason [Private Frazer](https://en.wikipedia.org/wiki/Private_Frazer) h
 
 The apes didnt' seem particularly violent and one even helped me personally enter the building.
 
-We also made a cup of tea by boiliong water on a wood burning stove in one of the corridors.
+We also made a cup of tea by boiling water on a wood burning stove in one of the corridors.
