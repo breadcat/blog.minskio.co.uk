@@ -15,6 +15,8 @@ Quotes I've found in and around the Internet, collected because they make me smi
 
 >Apply the handbrake ya dumb broad <!-- yu-gi-oh abridged -->
 
+>Are we still in denial when we know we're not happy here <!-- outkast - hey ya -->
+
 >Aryan Tupac
 
 >As above, so below
@@ -138,6 +140,8 @@ Quotes I've found in and around the Internet, collected because they make me smi
 >I think he took his wallet <!-- back to the future -->
 
 >If you die in russia, you die in real life
+
+>If you don't stand for something, you'll be sure to fall for anything <!-- aj whitney -->
 
 >If you play your cards right, you might just get to meet the whole gang <!-- anchorman -->
 
@@ -298,6 +302,8 @@ Quotes I've found in and around the Internet, collected because they make me smi
 >Thank you for pressing the self-destruct button <!-- spaceballs -->
 
 >Thanks, I hate it <!-- reddit -->
+
+>That anime hologram's just not that into you <!-- archer -->
 
 >That’s my secret Cap'. I’m always tired. <!-- avengers -->
 
