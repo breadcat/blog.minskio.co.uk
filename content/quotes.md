@@ -143,6 +143,8 @@ Quotes I've found in and around the Internet, collected because they make me smi
 
 >If you don't stand for something, you'll be sure to fall for anything <!-- aj whitney -->
 
+>If you know beans about chili, you know that chili has no beans <!-- Kent Finlay -->
+
 >If you play your cards right, you might just get to meet the whole gang <!-- anchorman -->
 
 >If you see something, say nothing, and drink to forget <!-- night vale -->
@@ -158,6 +160,8 @@ Quotes I've found in and around the Internet, collected because they make me smi
 >In your opinion, which country contributed most to the defeat of Germany in 1945? <!-- IFOP poll -->
 
 >Incidentally, my name is Ged&auml;chtnis <!-- fireball -->
+
+>Into the incinerator you go <!-- jonathan pie -->
 
 >Is almond a fruit? <!-- nailed it -->
 
