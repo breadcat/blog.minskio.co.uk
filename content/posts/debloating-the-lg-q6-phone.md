@@ -28,6 +28,7 @@ As we don't have root, you can't globally uninstall applications using `adb unin
 I don't use many Google products, so I uninstalled swathes of Android without any serious side effects. The full list of what I removed is...
 
 ```
+adb shell pm uninstall --user 0 com.android.calendar
 adb shell pm uninstall --user 0 com.android.cellbroadcastreceiver
 adb shell pm uninstall --user 0 com.android.chrome
 adb shell pm uninstall --user 0 com.android.gallery3d
@@ -48,6 +49,7 @@ adb shell pm uninstall --user 0 com.google.android.videos
 adb shell pm uninstall --user 0 com.google.android.youtube
 adb shell pm uninstall --user 0 com.lge.bnr
 adb shell pm uninstall --user 0 com.lge.bnr.launcher
+adb shell pm uninstall --user 0 com.lge.email
 adb shell pm uninstall --user 0 com.lge.equalizer
 adb shell pm uninstall --user 0 com.lge.eula
 adb shell pm uninstall --user 0 com.lge.eulaprovider
@@ -82,3 +84,10 @@ adb shell pm uninstall --user 0 com.lge.videostudio
 ```
 
 You'll **very, very** likely want to look up what most of these applications are/do before just blindly running the above commands.
+
+Lastly, in the event you ever uninstall something you wanted to keep, you can re-install the application by issuing:
+```
+adb shell cmd package install-existing application_name
+```
+
+* **Edit 2020-10-26:** Add reinstall instructions, remove calendar and email applications.
