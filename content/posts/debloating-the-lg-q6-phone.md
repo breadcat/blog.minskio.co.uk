@@ -13,7 +13,7 @@ Without further ado, you'll want to install ADB tools:
 sudo pacman -S adb
 ```
 
-Then enable developer mode on your phone (Tap Build Number 7 times in About > Software). Connect up a USB cable to your phone and start the make sure your phone isn't `unauthorized`. I had to set my phone to Charding Mode only for it to appear authorized.
+Then enable developer mode on your phone (Tap Build Number 7 times in About > Software). Connect up a USB cable to your phone and start the make sure your phone isn't `unauthorized`. I had to set my phone to Charging Mode only for it to appear authorized.
 ```
 adb devices
 ```
