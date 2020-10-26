@@ -2,10 +2,10 @@
 title: Archived Television
 tags: ["Media", "Archive"]
 date: 2018-01-01T01:00:00
-lastmod: 2020-09-22T12:30:00
+lastmod: 2020-10-26T16:20:00
 ---
 
-<!-- Work in Progress: Archer, Brooklyn Nine-Nine, Psycho-Pass, Raised by Wolves, South Park, Space Patrol Luluco, Star Trek Deep Space Nine, Star Trek Lower Decks, Star Trek: Deep Space Nine, Star Trek: Lower Decks, The Amazing World of Gumball, The Sinner, Travel Man: 48 Hours in..., Warrior -->
+<!-- Work in Progress: Archer, Brooklyn Nine-Nine, South Park, Space Patrol Luluco, Star Trek Deep Space Nine, The Amazing World of Gumball, The Sinner, Travel Man: 48 Hours in..., Warrior -->
 <!-- Rewatch: Farscape, Gurren Lagann, Lexx, Police Squad!, Swiss Toni, Terry Pratchett's Going Postal, The Boondocks, The Inbetweeners, True Detective -->
 <!-- Abandoned: DARK, Designated Survivor, Doctor Who (2005), Fear the Walking Dead, How to Get Away with Murder, Making a Murderer, Sharp Objects, The Simpsons, The Walking Dead, Twin Peaks -->
 
@@ -91,6 +91,7 @@ lastmod: 2020-09-22T12:30:00
 * Pretty Little Liars
 * Psycho-Pass
 * Psychoville
+* Raised by Wolves
 * Rick and Morty
 * Savage Builds
 * Sherlock
@@ -99,6 +100,7 @@ lastmod: 2020-09-22T12:30:00
 * SS-GB
 * Star Trek: Discovery
 * Star Trek: Enterprise
+* Star Trek: Lower Decks
 * Star Trek: Picard
 * Star Trek: Voyager
 * Stargate Atlantis
@@ -118,6 +120,7 @@ lastmod: 2020-09-22T12:30:00
 * The Exorcist
 * The Expanse
 * The Grand Tour
+* The Haunting of Bly Manor
 * The Haunting of Hill House
 * The IT Crowd
 * The Mandalorian

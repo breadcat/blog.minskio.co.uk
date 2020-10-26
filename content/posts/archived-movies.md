@@ -2,7 +2,7 @@
 title: Archived Movies
 tags: ["Media", "Archive"]
 date: 2018-01-01T01:00:00
-lastmod: 2020-09-22T12:27:00
+lastmod: 2020-10-26T16:17:00
 ---
 
 * [REC] (2007)
@@ -39,6 +39,7 @@ lastmod: 2020-09-22T12:27:00
 * Allegiant (2016)
 * American Animals (2018)
 * American Beauty (1999)
+* An American Tail: Fievel Goes West (1991)
 * An American Werewolf in London (1981)
 * An Honest Liar (2014)
 * Angel Has Fallen (2019)
@@ -94,6 +95,7 @@ lastmod: 2020-09-22T12:27:00
 * Bright (2017)
 * Brightburn (2019)
 * Bugsy Malone (1976)
+* Bullitt (1968)
 * Bumblebee (2018)
 * Captain America: Civil War (2016)
 * Captain America: The First Avenger (2011)
@@ -115,6 +117,8 @@ lastmod: 2020-09-22T12:27:00
 * CHiPS (2017)
 * Christine (1983)
 * Chronicle (2012)
+* Class Action Park (2020)
+* Close Encounters of the Third Kind (1977)
 * Cloud Atlas (2012)
 * Clue (1985)
 * Coco (2017)
@@ -160,6 +164,7 @@ lastmod: 2020-09-22T12:27:00
 * Elf (2003)
 * Encounters at the End of the World (2007)
 * Ender's Game (2013)
+* Enemy (2013)
 * Equilibrium (2002)
 * Escape Plan (2013)
 * Escape Room (2019)
@@ -268,6 +273,7 @@ lastmod: 2020-09-22T12:27:00
 * Inside Man (2006)
 * Inside Out (2015)
 * Insurgent (2015)
+* Interstella 5555: The 5tory of the 5ecret 5tar 5ystem (2003)
 * Into the Abyss (2011)
 * Invader ZIM: Enter the Florpus (2019)
 * Iron Man (2008)
@@ -337,6 +343,7 @@ lastmod: 2020-09-22T12:27:00
 * Midsommar (2019)
 * Mighty Morphin Power Rangers: The Movie (1995)
 * Mindscape (2013)
+* Mirrors (2008)
 * Misery (1990)
 * Missing Link (2019)
 * Mission: Impossible - Fallout (2018)
@@ -356,6 +363,7 @@ lastmod: 2020-09-22T12:27:00
 * My Scientology Movie (2016)
 * Mysterious Skin (2004)
 * Mystery Men (1999)
+* Naked Gun 33⅓: The Final Insult (1994)
 * Nerve (2016)
 * New Police Story (2004)
 * Next Gen (2018)
@@ -386,6 +394,7 @@ lastmod: 2020-09-22T12:27:00
 * Pirates of the Caribbean: Dead Men Tell No Tales (2017)
 * Pirates of the Caribbean: On Stranger Tides (2011)
 * Pirates of the Caribbean: The Curse of the Black Pearl (2003)
+* Point Break (1991)
 * Pokémon Detective Pikachu (2019)
 * Polar (2019)
 * Police Story (1985)
@@ -527,6 +536,7 @@ lastmod: 2020-09-22T12:27:00
 * The Grudge (2020)
 * The Harmony Game (2011)
 * The Haunting (1963)
+* The Hidden (1987)
 * The Hobbit: An Unexpected Journey (2012)
 * The Hobbit: The Desolation of Smaug (2013)
 * The Hole in the Ground (2019)

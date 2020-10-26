@@ -9,7 +9,7 @@ I generally strive for a book per week, but this is by no means a steadfast goal
 <ul>
 <li>Tsugumi Ohba - Death Note Volume 3</li>
 <li>Monica Hughes - Devil on My Back</li>
-<li>Dennis E Taylor - We Are Legion (We Are Bob)</li>
+<li>Stephen King - Elevation</li>
 </ul>
 </details>
 
@@ -48,6 +48,7 @@ To keep the page somewhat manageable, I've collapsed the list by years:
 <li>Stephen King - Gwendy's Button Box </li>
 <li>Stephen King - The Music Room</li>
 <li>Philip Reeve - A Darkling Plain</li>
+<li>Dennis E Taylor - We Are Legion (We Are Bob)</li>
 </ul>
 </details>
 
