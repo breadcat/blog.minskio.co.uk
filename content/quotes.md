@@ -69,6 +69,8 @@ Quotes I've found in and around the Internet, collected because they make me smi
 
 >Ever felt the joy of karate chopping an ankle? <!-- lolnein -->
 
+>Every man has his price <!-- harold robbins -->
+
 >Everybody lies <!-- house -->
 
 >Everyday we stray further from Saradomin's light <!-- runescape -->
@@ -316,6 +318,8 @@ Quotes I've found in and around the Internet, collected because they make me smi
 >The Industrial Revolution and its consequences have been a disaster for the human race <!-- uncle ted -->
 
 >The things you own end up owning you <!-- fight club -->
+
+>The truth shall set you free
 
 >The years start coming and they don't stop coming <!-- smash mouth -->
 
