@@ -1,4 +1,12 @@
 {{ define "main" }}	<h1>{{ .Title }}</h1>
-	<ul>{{ $paginator := .Paginate (where .Site.RegularPages.ByDate.Reverse "Section" "posts") }}{{ range $paginator.Pages }}
-		<li><h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3><span>{{ .PublishDate.Format "Jan 2, 2006" }}{{ if ne .Lastmod .PublishDate }} updated{{ end }}, {{ .ReadingTime }} min read</span></li>{{ end }}
-	</ul>{{ partial "pagination.html" $ }}{{ end }}
+<ul>
+{{ if .IsHome }}
+	{{ $paginator := .Paginate (where .Site.RegularPages.ByDate.Reverse "Section" "posts") }}{{ range $paginator.Pages }}
+	<li><h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3><span>{{ .PublishDate.Format "Jan 2, 2006" }}{{ if ne .Lastmod .PublishDate }} updated{{ end }}, {{ .ReadingTime }} min read</span></li>{{ end }}
+{{ else }}
+	{{ range .Pages.ByDate.Reverse }}
+	<li><h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3><span>{{ .PublishDate.Format "Jan 2, 2006" }}{{ if ne .Lastmod .PublishDate }} updated{{ end }}, {{ .ReadingTime }} min read</span></li>
+    {{ end }}
+{{ end }}
+</ul>{{ partial "pagination.html" $ }}{{ end }}
+
