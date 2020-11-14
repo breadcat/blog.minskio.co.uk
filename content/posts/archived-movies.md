@@ -228,7 +228,7 @@ lastmod: 2020-10-26T16:17:00
 * Happy Death Day (2017)
 * Happy Death Day 2U (2019)
 * Hard Boiled (1992)
-* Hardcore Henry (1978)
+* Hardcore Henry (2015)
 * Harry Potter and the Chamber of Secrets (2002)
 * Harry Potter and the Deathly Hallows: Part 1 (2010)
 * Harry Potter and the Deathly Hallows: Part 2 (2011)
