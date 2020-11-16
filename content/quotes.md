@@ -129,6 +129,8 @@ Quotes I've found in and around the Internet, collected because they make me smi
 
 >I know it when I see it
 
+>I loathe Zuni aesthetics <!-- tales from the darkside -->
+
 >I mentally shake hands with you for your answer
 
 >I never saved anything for the swim back <!-- gattacca -->
@@ -398,6 +400,8 @@ Quotes I've found in and around the Internet, collected because they make me smi
 >You wouldn't find Hitler playing jungle music at 3 o'clock in the morning <!-- father ted -->
 
 >Your proposal is acceptable <!-- men in black -->
+
+>Your stories have entertained me. I will let you into the cave for a short time. <!-- oldschool runescape -->
 
 >You've got razzle-dazzle <!-- sun-maid raisins -->
 
