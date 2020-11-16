@@ -1,5 +1,5 @@
 ---
-title: "Selfhosted Password Manager"
+title: "Selfhosted password manager"
 date: 2018-09-26T11:30:00
 tags: ["Guides", "Linux", "Selfhosted", "Software"]
 ---

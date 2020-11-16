@@ -1,5 +1,5 @@
 ---
-title: "Windows 10 Network Share Guest Access"
+title: "Windows 10 network share guest access"
 date: 2019-02-15T11:47:00
 tags: ["Servers", "Snippets", "Software", "Windows"]
 ---

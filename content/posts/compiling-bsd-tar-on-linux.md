@@ -1,5 +1,5 @@
 ---
-title: "Compiling BSD Tar on Linux"
+title: "Compiling BSD tar on Linux"
 date: 2018-11-09T12:09:00
 tags: ["Guides", "Linux", "Snippets", "Software"]
 ---

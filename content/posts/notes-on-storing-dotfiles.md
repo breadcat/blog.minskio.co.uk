@@ -1,5 +1,5 @@
 ---
-title: "Notes on Storing Dotfiles"
+title: "Notes on storing Dotfiles"
 date: 2020-06-28T15:29:00
 lastmod: 2020-06-29T11:43:00
 tags: ["Linux", "Selfhosted", "Software"]

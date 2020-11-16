@@ -1,5 +1,5 @@
 ---
-title: "PS2 Image CSO Compression on Linux with MaxCSO"
+title: "PS2 image CSO compression on Linux with MaxCSO"
 date: 2018-11-27T10:23:00
 tags: ["Formats", "Guides", "Linux", "Snippets", "Software"]
 ---

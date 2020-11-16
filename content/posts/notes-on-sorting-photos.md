@@ -1,5 +1,5 @@
 ---
-title: "Notes on Sorting Photos"
+title: "Notes on sorting Photos"
 date: 2019-12-23T11:50:00
 tags: ["Android", "Formats", "Guides", "Linux", "Media", "Minimalism", "Snippets", "Software"]
 ---

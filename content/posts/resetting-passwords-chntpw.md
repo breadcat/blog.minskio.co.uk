@@ -1,5 +1,5 @@
 ---
-title: "Resetting Windows Passwords from Linux with chntpw"
+title: "Resetting Windows passwords from Linux with chntpw"
 date: 2018-12-13T09:58:00
 tags: ["Guides", "Linux", "Snippets", "Software", "Windows"]
 ---

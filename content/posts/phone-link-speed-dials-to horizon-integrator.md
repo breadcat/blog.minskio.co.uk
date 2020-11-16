@@ -1,5 +1,5 @@
 ---
-title: "Migrating LG Phone-Link Contacts to Horizon Integrator"
+title: "Migrating LG Phone-Link contacts to Horizon Integrator"
 date: 2019-07-23T12:48:00
 tags: ["Databases", "Formats", "Guides", "Linux", "PBX", "Servers", "Windows", "Work"]
 ---

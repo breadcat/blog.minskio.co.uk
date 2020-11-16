@@ -1,5 +1,5 @@
 ---
-title: "ArchLinux Retroarch Guide"
+title: "ArchLinux Retroarch guide"
 date: 2019-02-19T09:46:00
 tags: ["Emulation", "Games", "Linux", "Media", "Snippets", "Software"]
 ---

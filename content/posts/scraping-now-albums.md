@@ -1,5 +1,5 @@
 ---
-title: "Scraping and Grabbing Now! albums"
+title: "Scraping and grabbing Now! albums"
 date: 2018-12-04T16:28:00
 tags: ["Guides", "Linux", "Lists", "Music", "Servers", "Snippets", "Software"]
 ---
@@ -25,7 +25,7 @@ To manage this, we'll run a youtube search on every entry, and grab the resultin
 while read line; do youtube-dl -x --audio-format=mp3 ytsearch:"$line lyrics"; done < parse_list.txt
 ```
 
-Please note, I append a " lyrics" in the search string to avoid too obvious music videos that sometimes have 
+Please note, I append a " lyrics" in the search string to avoid too obvious music videos that sometimes have
 
 With this, we have 73 `mp3` files dumped into our working directory with messy filenames. I usually throw these into `beets` in singleton mode via docker to improve the quality of the filenames/tags.
 

@@ -1,5 +1,5 @@
 ---
-title: "Upgrading Ubiquiti Routers Over SSH"
+title: "Upgrading Ubiquiti routers over SSH"
 date: 2019-03-27T14:55:00
 tags: ["Guides", "Hardware", "Linux", "Networks", "Servers", "Software"]
 ---

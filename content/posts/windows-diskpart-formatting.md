@@ -1,5 +1,5 @@
 ---
-title: "Windows Diskpart Formatting"
+title: "Windows Diskpart formatting"
 date: 2018-11-13T15:02:00
 tags: ["Guides", "Snippets", "Software", "Windows"]
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Borderlands Weapon Parts Breakdown"
+title: "Borderlands weapon parts breakdown"
 date: 2018-10-01T11:22:00
 tags: ["Games", "Guides", "Lists", "Software"]
 ---

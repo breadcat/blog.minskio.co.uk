@@ -1,5 +1,5 @@
 ---
-title: "Compacting a VirtualBox VDI Image"
+title: "Compacting a VirtualBox VDI image"
 date: 2018-09-06T12:26:00
 tags: ["Formats", "Guides", "Linux", "Snippets", "Software", "Windows"]
 ---

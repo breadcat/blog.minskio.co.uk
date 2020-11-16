@@ -1,5 +1,5 @@
 ---
-title: "Exporting Kodi Watched Status to Markdown"
+title: "Exporting Kodi watched status to Markdown"
 date: 2019-01-31T10:25:00
 tags: [ "Guides", "Kodi", "Linux", "Media", "Movies", "Servers", "Snippets", "Software" ]
 ---

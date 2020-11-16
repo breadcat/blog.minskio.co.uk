@@ -1,5 +1,5 @@
 ---
-title: "Sony PS1 Image Conversion Guide"
+title: "Sony PS1 image conversion guide"
 date: 2020-05-03T16:52:00
 tags: ["Formats", "Guides", "Linux", "Snippets", "Software"]
 ---

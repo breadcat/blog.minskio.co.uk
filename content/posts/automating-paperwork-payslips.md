@@ -1,5 +1,5 @@
 ---
-title: "Automating Grabbing Payslips For Use With Paperless"
+title: "Automating grabbing payslips for use with Paperless"
 date: 2019-02-04T11:47:00
 tags: ["Formats", "Guides", "Linux", "Servers", "Software"]
 ---

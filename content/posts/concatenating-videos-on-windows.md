@@ -1,5 +1,5 @@
 ---
-title: "Concatenating Videos on Windows with FFmpeg"
+title: "Concatenating videos on Windows with FFmpeg"
 date: 2019-05-09T09:21:00
 tags: ["Formats", "Guides", "Media", "Snippets", "Software", "Windows"]
 ---
