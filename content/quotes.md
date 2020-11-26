@@ -49,7 +49,7 @@ Quotes I've found in and around the Internet, collected because they make me smi
 
 >Curious and curiouser <!-- alice in wonderland -->
 
->d’&auml; e &aring;, &aring; i &aring;a &auml; e &ouml; <!-- there is a stream, and in the stream there is an island -->
+>d'&auml; e &aring;, &aring; i &aring;a &auml; e &ouml; <!-- there is a stream, and in the stream there is an island -->
 
 >Damnation, for this? <!-- Gladius -->
 
@@ -153,7 +153,7 @@ Quotes I've found in and around the Internet, collected because they make me smi
 
 >If you see something, say nothing, and drink to forget <!-- night vale -->
 
->If you were any simpler you’d have to be watered every day
+>If you were any simpler you'd have to be watered every day
 
 >I'm not complaining, I'm just explaining <!-- austin mcconnell -->
 
@@ -313,7 +313,7 @@ Quotes I've found in and around the Internet, collected because they make me smi
 
 >That anime hologram's just not that into you <!-- archer -->
 
->That’s my secret Cap'. I’m always tired. <!-- avengers -->
+>That's my secret Cap'. I'm always tired. <!-- avengers -->
 
 >The burned hand teaches best <!-- tolkien -->
 
