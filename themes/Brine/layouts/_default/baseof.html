@@ -1,6 +1,6 @@
 <!doctype html>
 <html lang="{{ .Site.LanguageCode | default "en-us" }}">
-<title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Site.Title }} - {{ .Title }}{{ end }}</title>
+<title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} - {{ .Site.Title }}{{ end }}</title>
 <link href="/favicon.ico" rel=icon />
 <meta content="{{ if .IsHome }}{{ .Site.Params.description }}{{ else }}{{ .Description }}{{ end }}" name="description" />
 <meta content="{{ .Site.Params.author | default "John Doe" }}" name="author" />
