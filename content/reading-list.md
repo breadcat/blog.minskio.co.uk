@@ -9,6 +9,7 @@ I generally strive for a book per week, but this is by no means a steadfast goal
 <ul>
 <li>Tsugumi Ohba - Death Note Volume 3</li>
 <li>Monica Hughes - Devil on My Back</li>
+<li>John Scalzi - The Last Emperox</li>
 </ul>
 </details>
 
@@ -52,6 +53,8 @@ To keep the page somewhat manageable, I've collapsed the list by years:
 <li>Stephen King - Laurie</li>
 <li>Denis E Taylor - For We Are Many</li>
 <li>Denis E Taylor - All These Worlds</li>
+<li> John Steakley - Armor</li>
+<li>Richard Ayoade - Ayoade on Top</li>
 </ul>
 </details>
 
