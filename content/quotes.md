@@ -71,6 +71,8 @@ Quotes I've found in and around the Internet, collected because they make me smi
 
 >Every man has his price <!-- harold robbins -->
 
+>Every sixty seconds in Africa, a minute passes <!-- big man tyrone -->
+
 >Everybody lies <!-- house -->
 
 >Everyday we stray further from Saradomin's light <!-- runescape -->
@@ -126,6 +128,8 @@ Quotes I've found in and around the Internet, collected because they make me smi
 >I don't repeat gossip, so listen carefully
 
 >I had a plan for that rock <!-- hoarders -->
+
+>I hate to hate and I hate that <!-- Till Lindemann -->
 
 >I have diplomatic immunity <!-- lethal weapon 2 -->
 
@@ -327,6 +331,8 @@ Quotes I've found in and around the Internet, collected because they make me smi
 
 >The truth shall set you free
 
+>The victim of a clerical error <!-- Richard Ayoade -->
+
 >The years start coming and they don't stop coming <!-- smash mouth -->
 
 >Theoretical degree in physics <!-- fallout -->
@@ -338,6 +344,8 @@ Quotes I've found in and around the Internet, collected because they make me smi
 >They think your haircuts are un-American <!-- beatles interview -->
 
 >Things won't always be this good
+
+>This better not awaken anything in me <!-- Dean Pelton -->
 
 >This inhuman place makes human monsters <!-- The Shining -->
 
