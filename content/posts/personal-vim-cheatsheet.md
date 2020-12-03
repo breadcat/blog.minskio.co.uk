@@ -70,6 +70,8 @@ $ move to the end of the line
 :%s/old/new/gc replace old with new every time in the whole file, but prompting beforehand
 
 :! run shell command
+:r filename read text from filename
+:r ! command read output from running command
 
 :norm run command on highlighted lines
 
@@ -116,3 +118,5 @@ Add the below to your `init.vim` file (if using neovim):
 	autocmd BufWritePre * %s/\s\+$//e
 	autocmd BufWritepre * %s/\n\+\%$//e
 ```
+
+* **Edit 2020-12-02:** Added notes regarding reading file contents and command output.
