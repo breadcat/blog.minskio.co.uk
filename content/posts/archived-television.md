@@ -2,10 +2,10 @@
 title: Archived Television
 tags: ["Media", "Archive"]
 date: 2018-01-01T01:00:00
-lastmod: 2020-10-26T16:20:00
+lastmod: 2020-12-02T17:29:00
 ---
 
-<!-- Work in Progress: Archer, Brooklyn Nine-Nine, South Park, Space Patrol Luluco, Star Trek Deep Space Nine, The Amazing World of Gumball, The Sinner, Travel Man: 48 Hours in..., Warrior -->
+<!-- Work in Progress: South Park, Space Patrol Luluco, The Amazing World of Gumball, The Sinner, Warrior -->
 <!-- Rewatch: Farscape, Gurren Lagann, Lexx, Police Squad!, Swiss Toni, Terry Pratchett's Going Postal, The Boondocks, The Inbetweeners, True Detective -->
 <!-- Abandoned: DARK, Designated Survivor, Doctor Who (2005), Fear the Walking Dead, How to Get Away with Murder, Making a Murderer, Sharp Objects, The Simpsons, The Walking Dead, Twin Peaks -->
 
@@ -17,6 +17,7 @@ lastmod: 2020-10-26T16:20:00
 * Altered Carbon
 * American Gods
 * Angel Cop
+* Archer
 * Ash vs. Evil Dead
 * Avenue 5
 * Battle Angel Alita
@@ -30,6 +31,7 @@ lastmod: 2020-10-26T16:20:00
 * BoJack Horseman
 * Bosch
 * Breaking Bad
+* Brooklyn Nine-Nine
 * Burnistoun
 * Chernobyl
 * Childhood's End
@@ -72,6 +74,7 @@ lastmod: 2020-10-26T16:20:00
 * Last Chance Lawyer NYC
 * Lifeline
 * Line of Duty
+* Long Way Up
 * Love, Death & Robots
 * Luther
 * Mind Field
@@ -98,6 +101,7 @@ lastmod: 2020-10-26T16:20:00
 * Sons of Anarchy
 * Space Dandy
 * SS-GB
+* Star Trek: Deep Space Nine
 * Star Trek: Discovery
 * Star Trek: Enterprise
 * Star Trek: Lower Decks
@@ -142,6 +146,7 @@ lastmod: 2020-10-26T16:20:00
 * Tin Star
 * Titan Maximum
 * Tower of God
+* Travel Man: 48 Hours in...
 * TRIGUN
 * True Blood
 * V (2009)
