@@ -9,7 +9,7 @@ I generally strive for a book per week, but this is by no means a steadfast goal
 <ul>
 <li>Tsugumi Ohba - Death Note Volume 3</li>
 <li>Monica Hughes - Devil on My Back</li>
-<li>Dennis E Taylor - Heaven's River</li>
+<li>Ernest Cline - Ready Player Two</li>
 </ul>
 </details>
 
@@ -56,6 +56,7 @@ To keep the page somewhat manageable, I've collapsed the list by years:
 <li> John Steakley - Armor</li>
 <li>Richard Ayoade - Ayoade on Top</li>
 <li>John Scalzi - The Last Emperox</li>
+<li>Dennis E Taylor - Heaven's River</li>
 </ul>
 </details>
 
