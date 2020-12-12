@@ -323,6 +323,8 @@ Quotes I've found in and around the Internet, collected because they make me smi
 
 >That's not theft, that's sporting spirit <!-- ayoade on top -->
 
+>The beatings will continue until morale improves
+
 >The burned hand teaches best <!-- tolkien -->
 
 >The Industrial Revolution and its consequences have been a disaster for the human race <!-- uncle ted -->
@@ -361,6 +363,8 @@ Quotes I've found in and around the Internet, collected because they make me smi
 
 >Tiny Terry loves his pickles <!-- brooklyn nine-nine -->
 
+>Trust, but verify <!-- russian phrase -->
+
 >'Tis a silly place <!-- monty python and the holy grail -->
 
 >Tsundoku
@@ -378,6 +382,8 @@ Quotes I've found in and around the Internet, collected because they make me smi
 >What a digital dummy <!-- yu-gi-oh -->
 
 >What a save! <!-- rocket league -->
+
+>What are you screaming for? I haven't even started cooking yet <!-- Life of Boris -->
 
 >What goes on in liminal space stays in liminal space, right? <!-- ayoade on top -->
 
