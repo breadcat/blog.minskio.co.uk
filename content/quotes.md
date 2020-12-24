@@ -33,6 +33,8 @@ Quotes I've found in and around the Internet, collected because they make me smi
 
 >Bring snacks and supplies <!-- red hot chili peppers - road trippin -->
 
+>Buckle Up Buckaroo <!-- south park -->
+
 >Bugger this for a game of soldiers
 
 >But that's just a theory
@@ -161,6 +163,8 @@ Quotes I've found in and around the Internet, collected because they make me smi
 
 >If you were any simpler you'd have to be watered every day
 
+>I'm not a real doctor, But I am a real worm <!-- they might be giants -->
+
 >I'm not complaining, I'm just explaining <!-- austin mcconnell -->
 
 >In Scotland the forbidden fruit is fruit. <!-- Gary Delaney -->
@@ -276,6 +280,8 @@ Quotes I've found in and around the Internet, collected because they make me smi
 >Poverty has its freedoms; opulence has its obstacles
 
 >RAID is not backup
+
+>Reader beware, you're in for a slap <!-- goosebumps photoshop -->
 
 >Rosalind's a fucking nightmare <!-- taskmaster -->
 
@@ -406,6 +412,8 @@ Quotes I've found in and around the Internet, collected because they make me smi
 >Ye shall know the truth, and the truth shall make you mad <!-- aldous huxley -->
 
 >You are being shagged by a rare parrot! <!-- last chance to see -->
+
+>you are tending a plant that is dead <!-- star trek discovery -->
 
 >You don't need a parachute to skydive. You need one to skydive twice
 
