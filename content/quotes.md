@@ -189,6 +189,8 @@ Quotes I've found in and around the Internet, collected because they make me smi
 
 >It takes forever, until it doesn't
 
+>It's called a child-size soda because it is the size of a child <!-- parks and recreation -->
+
 >It's funny how a diagnosis can make things worse
 
 >It's not that I'm lazy, it's that I just don't care <!-- office space -->
@@ -197,7 +199,7 @@ Quotes I've found in and around the Internet, collected because they make me smi
 
 >It's probably fine
 
->Jeremy Irons lives in your garage
+>Jeremy Irons lives in your garage <!-- taskmaster -->
 
 >Jessie, you're a good dog <!-- paw - jessie -->
 
