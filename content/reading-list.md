@@ -9,11 +9,23 @@ I generally strive for a book per week, but this is by no means a steadfast goal
 <ul>
 <li>Tsugumi Ohba - Death Note Volume 3</li>
 <li>Monica Hughes - Devil on My Back</li>
-<li>Edgar Rice Burroughs - A Princess of Mars</li>
+<li>David Graeber - Bullshit Jobs</li>
 </ul>
 </details>
 
 To keep the page somewhat manageable, I've collapsed the list by years:
+
+<details><summary>2021</summary>
+<ul>
+<li>Edgar Rice Burroughs - A Princess of Mars</li>
+<li>Bill Hammack - Fatal Flight</li>
+<li>Madeleine L'Engle - A Wrinkle in Time</li>
+<li>Jo Nesb&oslash; - Headhunters</li>
+<li>Michael Wall - Out There</li>
+<li>Yahtzee Croshaw - Differently Morphous</li>
+<li>Jessica Bruder - Nomadland</li>
+</ul>
+</details>
 
 <details><summary>2020</summary>
 <ul>
