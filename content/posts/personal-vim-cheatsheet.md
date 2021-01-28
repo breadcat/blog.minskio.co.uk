@@ -119,4 +119,10 @@ Add the below to your `init.vim` file (if using neovim):
 	autocmd BufWritepre * %s/\n\+\%$//e
 ```
 
+Another point worth adding is sometimes files formatted outside vim will contain '^@' symbols scattered between letters. These represent null characters and can be removed by running:
+```
+%s/[\x0]//g
+```
+
 * **Edit 2020-12-02:** Added notes regarding reading file contents and command output.
+* **Edit 2021-01-02:** Added null character removal note.
