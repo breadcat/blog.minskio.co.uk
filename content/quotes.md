@@ -417,6 +417,8 @@ Quotes I've found in and around the Internet, collected because they make me smi
 
 >you are tending a plant that is dead <!-- star trek discovery -->
 
+>You can't eat your cake and have it too <!-- ted kaczynski -->
+
 >You don't need a parachute to skydive. You need one to skydive twice
 
 >You guys have phones, don't you? <!-- diablo press conference -->
