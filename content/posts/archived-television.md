@@ -2,7 +2,7 @@
 title: Archived Television
 tags: ["Media", "Archive"]
 date: 2018-01-01T01:00:00
-lastmod: 2020-12-02T17:29:00
+lastmod: 2021-01-31T14:20:00
 ---
 
 <!-- Work in Progress: South Park, Space Patrol Luluco, The Amazing World of Gumball, The Sinner, Warrior -->
@@ -65,11 +65,13 @@ lastmod: 2020-12-02T17:29:00
 * Heroes
 * Hometown: A Killing
 * How to Get Away With Murder
+* How To with John Wilson
 * Hyperdrive
 * Ideal
 * Inferno Cop
 * Inside No. 9
 * Jonathan Creek
+* Junji Ito Collection
 * KonoSuba - God’s Blessing on This Wonderful World!!
 * Last Chance Lawyer NYC
 * Lifeline
@@ -149,6 +151,7 @@ lastmod: 2020-12-02T17:29:00
 * Travel Man: 48 Hours in...
 * TRIGUN
 * True Blood
+* Undone
 * V (2009)
 * Watchmen
 * Wayward Pines
