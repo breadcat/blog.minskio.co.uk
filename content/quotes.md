@@ -151,7 +151,7 @@ Quotes I've found in and around the Internet, collected because they make me smi
 
 >I think he took his wallet <!-- back to the future -->
 
->If you die in russia, you die in real life
+>If you die in Russia, you die in real life
 
 >If you don't stand for something, you'll be sure to fall for anything <!-- aj whitney -->
 
@@ -198,6 +198,8 @@ Quotes I've found in and around the Internet, collected because they make me smi
 >It's not your pudding, you alzheimer's lout! <!-- cloud atlas -->
 
 >It's probably fine
+
+>I've got a horse called Treacle. It's got golden stirrups <!-- tim vine -->
 
 >Jeremy Irons lives in your garage <!-- taskmaster -->
 
