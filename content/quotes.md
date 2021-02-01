@@ -389,6 +389,8 @@ Quotes I've found in and around the Internet, collected because they make me smi
 
 >Well. I guess there's nothing to do but lay here and wait to die
 
+>We've all technically kicked a pregnant woman
+
 >What a digital dummy <!-- yu-gi-oh -->
 
 >What a save! <!-- rocket league -->
