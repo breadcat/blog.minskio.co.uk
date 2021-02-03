@@ -1,6 +1,7 @@
 ---
 title: "Enabling Swype on the AOSP keyboard"
 date: 2021-01-31T14:42:00
+lastmod: 2021-02-03T11:51:00
 tags: ["Android", "Linux", "Snippets", "Software"]
 ---
 
@@ -37,4 +38,21 @@ Once rebooted, browse to:
 Settings > System > Languages & input > Virtual Keyboard > Android Keyboard (AOSP) > Gesture Typing > Enable gesture typing
 ```
 
+One annoyance is that whenever a OTA update is pushed out to your device, it will remove this library. A [helpful script](https://gist.github.com/rugk/a4c9fa11c5c031faf45602d6bf922a1c) ([and instructions](https://android.stackexchange.com/a/187686)) to workaround this have been provided by [rugk](https://github.com/rugk):
+```
+wget "https://gist.github.com/rugk/a4c9fa11c5c031faf45602d6bf922a1c/raw/eed64cea4d37f5c35cd4ced5ceb0281fef38afc9/95-latinimegoogle.sh"
+sed -i 's/lib\//lib64\//g' 95-latinimegoogle.sh
+adb root
+adb remount
+adb push 95-latinimegoogle.sh /system/addon.d/
+adb shell
+cd /system/addon.d
+chmod +x 95-latinimegoogle.sh
+exit
+adb unroot
+adb reboot
+```
+
 And you should be done.
+
+* **Edit 2021-02-03:** Add OTA update library preservation section.
