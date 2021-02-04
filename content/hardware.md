@@ -21,6 +21,7 @@ What powers the site and its associated clients
 <li>Mouse: Corsair Harpoon</li>
 <li>Headset: SteelSeries Arctis 3</li>
 <li>Scanner: Fujitsu ScanSnap iX500</li>
+<li>UserBenchmark: <a href="https://www.userbenchmark.com/UserRun/39415002">Results</a></li>
 </ul>
 </details>
 
