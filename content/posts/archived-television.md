@@ -44,6 +44,7 @@ lastmod: 2021-01-31T14:20:00
 * Death Note
 * Defying Gravity
 * Dirk Gently's Holistic Detective Agency
+* Doom Patrol
 * Dorohedoro
 * Dr. Stone
 * Drugs, Inc.
