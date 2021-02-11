@@ -2,12 +2,12 @@
 title: Weight
 layout: single
 date: 2018-04-06T12:00:00
-lastmod: 2020-11-16T09:20:00
+lastmod: 2021-02-11T11:21:00
 ---
 
-<svg width="600" height="480" xmlns="http://www.w3.org/2000/svg"><path fill="none" d="M0 0h600v480H0z"/><path stroke="gray" stroke-dasharray="2,4" class="gridline" d="M63.6 422.4H575" fill="none" color="gray" stroke-width=".5"/><g fill="none" color="#000" stroke="currentColor"><path stroke="#000" d="M63.6 422.4h9m502.4 0h-9"/><text transform="translate(55.3 426.3)" stroke="none" fill="#000" font-family="sans-serif" font-size="12" text-anchor="end"><tspan>64</tspan></text></g><path stroke="gray" stroke-dasharray="2,4" class="gridline" d="M63.6 364.6H575" fill="none" color="gray" stroke-width=".5"/><g fill="none" color="#000" stroke="currentColor"><path stroke="#000" d="M63.6 364.6h9m502.4 0h-9"/><text transform="translate(55.3 368.5)" stroke="none" fill="#000" font-family="sans-serif" font-size="12" text-anchor="end"><tspan>66</tspan></text></g><path stroke="gray" stroke-dasharray="2,4" class="gridline" d="M63.6 306.9H575" fill="none" color="gray" stroke-width=".5"/><g fill="none" color="#000" stroke="currentColor"><path stroke="#000" d="M63.6 306.9h9m502.4 0h-9"/><text transform="translate(55.3 310.8)" stroke="none" fill="#000" font-family="sans-serif" font-size="12" text-anchor="end"><tspan>68</tspan></text></g><path stroke="gray" stroke-dasharray="2,4" class="gridline" d="M63.6 249.1H575" fill="none" color="gray" stroke-width=".5"/><g fill="none" color="#000" stroke="currentColor"><path stroke="#000" d="M63.6 249.1h9m502.4 0h-9"/><text transform="translate(55.3 253)" stroke="none" fill="#000" font-family="sans-serif" font-size="12" text-anchor="end"><tspan>70</tspan></text></g><path stroke="gray" stroke-dasharray="2,4" class="gridline" d="M63.6 191.4H575" fill="none" color="gray" stroke-width=".5"/><g fill="none" color="#000" stroke="currentColor"><path stroke="#000" d="M63.6 191.4h9m502.4 0h-9"/><text transform="translate(55.3 195.3)" stroke="none" fill="#000" font-family="sans-serif" font-size="12" text-anchor="end"><tspan>72</tspan></text></g><path stroke="gray" stroke-dasharray="2,4" class="gridline" d="M63.6 133.6H575" fill="none" color="gray" stroke-width=".5"/><g fill="none" color="#000" stroke="currentColor"><path stroke="#000" d="M63.6 133.6h9m502.4 0h-9"/><text transform="translate(55.3 137.5)" stroke="none" fill="#000" font-family="sans-serif" font-size="12" text-anchor="end"><tspan>74</tspan></text></g><path stroke="gray" stroke-dasharray="2,4" class="gridline" d="M63.6 75.9H575" fill="none" color="gray" stroke-width=".5"/><g fill="none" color="#000" stroke="currentColor"><path stroke="#000" d="M63.6 75.9h9m502.4 0h-9"/><text transform="translate(55.3 79.8)" stroke="none" fill="#000" font-family="sans-serif" font-size="12" text-anchor="end"><tspan>76</tspan></text></g><path stroke="gray" stroke-dasharray="2,4" class="gridline" d="M63.6 18.1H575" fill="none" color="gray" stroke-width=".5"/><g fill="none" color="#000" stroke="currentColor"><path stroke="#000" d="M63.6 18.1h9m502.4 0h-9"/><text transform="translate(55.3 22)" stroke="none" fill="#000" font-family="sans-serif" font-size="12" text-anchor="end"><tspan>78</tspan></text></g><path stroke="gray" stroke-dasharray="2,4" class="gridline" d="M63.6 422.4V18.1" fill="none" color="gray" stroke-width=".5"/><g fill="none" color="#000" stroke="currentColor"><path stroke="#000" d="M63.6 422.4v-9m0-395.3v9"/><text transform="translate(63.6 444.3)" stroke="none" fill="#000" font-family="sans-serif" font-size="12" text-anchor="middle"><tspan>December</tspan></text></g><path stroke="#000" d="M77.6 422.4v-4.5m0-399.8v4.5m13.9 399.8v-4.5m0-399.8v4.5" fill="none" color="#000"/><path stroke="gray" stroke-dasharray="2,4" class="gridline" d="M107.5 422.4V18.1" fill="none" color="gray" stroke-width=".5"/><g fill="none" color="#000" stroke="currentColor"><path stroke="#000" d="M107.5 422.4v-9m0-395.3v9"/><text transform="translate(107.5 444.3)" stroke="none" fill="#000" font-family="sans-serif" font-size="12" text-anchor="middle"><tspan>January</tspan></text></g><path stroke="#000" d="M121.5 422.4v-4.5m0-399.8v4.5m13.9 399.8v-4.5m0-399.8v4.5" fill="none" color="#000"/><path stroke="gray" stroke-dasharray="2,4" class="gridline" d="M151.4 422.4V18.1" fill="none" color="gray" stroke-width=".5"/><g fill="none" color="#000" stroke="currentColor"><path stroke="#000" d="M151.4 422.4v-9m0-395.3v9"/><text transform="translate(151.4 444.3)" stroke="none" fill="#000" font-family="sans-serif" font-size="12" text-anchor="middle"><tspan>February</tspan></text></g><path stroke="#000" d="M165.4 422.4v-4.5m0-399.8v4.5m13.9 399.8v-4.5m0-399.8v4.5" fill="none" color="#000"/><path stroke="gray" stroke-dasharray="2,4" class="gridline" d="M191.1 422.4V18.1" fill="none" color="gray" stroke-width=".5"/><g fill="none" color="#000" stroke="currentColor"><path stroke="#000" d="M191.1 422.4v-9m0-395.3v9"/><text transform="translate(191.1 444.3)" stroke="none" fill="#000" font-family="sans-serif" font-size="12" text-anchor="middle"><tspan>March</tspan></text></g><path stroke="#000" d="M205.1 422.4v-4.5m0-399.8v4.5M219 422.4v-4.5m0-399.8v4.5" fill="none" color="#000"/><path stroke="gray" stroke-dasharray="2,4" class="gridline" d="M235 422.4V18.1" fill="none" color="gray" stroke-width=".5"/><g fill="none" color="#000" stroke="currentColor"><path stroke="#000" d="M235 422.4v-9m0-395.3v9"/><text transform="translate(235 444.3)" stroke="none" fill="#000" font-family="sans-serif" font-size="12" text-anchor="middle"><tspan>April</tspan></text></g><path stroke="#000" d="M249 422.4v-4.5m0-399.8v4.5m13.9 399.8v-4.5m0-399.8v4.5" fill="none" color="#000"/><path stroke="gray" stroke-dasharray="2,4" class="gridline" d="M276.1 422.4V18.1" fill="none" color="gray" stroke-width=".5"/><g fill="none" color="#000" stroke="currentColor"><path stroke="#000" d="M276.1 422.4v-9m0-395.3v9"/><text transform="translate(276.1 444.3)" stroke="none" fill="#000" font-family="sans-serif" font-size="12" text-anchor="middle"><tspan>May</tspan></text></g><path stroke="#000" d="M290.1 422.4v-4.5m0-399.8v4.5M304 422.4v-4.5m0-399.8v4.5" fill="none" color="#000"/><path stroke="gray" stroke-dasharray="2,4" class="gridline" d="M320 422.4V18.1" fill="none" color="gray" stroke-width=".5"/><g fill="none" color="#000" stroke="currentColor"><path stroke="#000" d="M320 422.4v-9m0-395.3v9"/><text transform="translate(320 444.3)" stroke="none" fill="#000" font-family="sans-serif" font-size="12" text-anchor="middle"><tspan>June</tspan></text></g><path stroke="#000" d="M333.9 422.4v-4.5m0-399.8v4.5m14 399.8v-4.5m0-399.8v4.5" fill="none" color="#000"/><path stroke="gray" stroke-dasharray="2,4" class="gridline" d="M361.1 422.4V18.1" fill="none" color="gray" stroke-width=".5"/><g fill="none" color="#000" stroke="currentColor"><path stroke="#000" d="M361.1 422.4v-9m0-395.3v9"/><text transform="translate(361.1 444.3)" stroke="none" fill="#000" font-family="sans-serif" font-size="12" text-anchor="middle"><tspan>July</tspan></text></g><path stroke="#000" d="M375.1 422.4v-4.5m0-399.8v4.5M389 422.4v-4.5m0-399.8v4.5" fill="none" color="#000"/><path stroke="gray" stroke-dasharray="2,4" class="gridline" d="M405 422.4V18.1" fill="none" color="gray" stroke-width=".5"/><g fill="none" color="#000" stroke="currentColor"><path stroke="#000" d="M405 422.4v-9m0-395.3v9"/><text transform="translate(405 444.3)" stroke="none" fill="#000" font-family="sans-serif" font-size="12" text-anchor="middle"><tspan>August</tspan></text></g><path stroke="#000" d="M418.9 422.4v-4.5m0-399.8v4.5m14 399.8v-4.5m0-399.8v4.5" fill="none" color="#000"/><path stroke="gray" stroke-dasharray="2,4" class="gridline" d="M447.5 422.4V18.1" fill="none" color="gray" stroke-width=".5"/><g fill="none" color="#000" stroke="currentColor"><path stroke="#000" d="M447.5 422.4v-9m0-395.3v9"/><text transform="translate(447.5 444.3)" stroke="none" fill="#000" font-family="sans-serif" font-size="12" text-anchor="middle"><tspan>September</tspan></text></g><path stroke="#000" d="M461.5 422.4v-4.5m0-399.8v4.5m13.9 399.8v-4.5m0-399.8v4.5" fill="none" color="#000"/><path stroke="gray" stroke-dasharray="2,4" class="gridline" d="M490 422.4V18.1" fill="none" color="gray" stroke-width=".5"/><g fill="none" color="#000" stroke="currentColor"><path stroke="#000" d="M490 422.4v-9m0-395.3v9"/><text transform="translate(490 444.3)" stroke="none" fill="#000" font-family="sans-serif" font-size="12" text-anchor="middle"><tspan>October</tspan></text></g><path stroke="#000" d="M503.9 422.4v-4.5m0-399.8v4.5m14 399.8v-4.5m0-399.8v4.5" fill="none" color="#000"/><path stroke="gray" stroke-dasharray="2,4" class="gridline" d="M533.9 422.4V18.1" fill="none" color="gray" stroke-width=".5"/><g fill="none" color="#000" stroke="currentColor"><path stroke="#000" d="M533.9 422.4v-9m0-395.3v9"/><text transform="translate(533.9 444.3)" stroke="none" fill="#000" font-family="sans-serif" font-size="12" text-anchor="middle"><tspan>November</tspan></text></g><path stroke="#000" d="M547.9 422.4v-4.5m0-399.8v4.5m13.9 399.8v-4.5m0-399.8v4.5" fill="none" color="#000"/><path stroke="gray" stroke-dasharray="2,4" class="gridline" d="M575 422.4V18.1" fill="none" color="gray" stroke-width=".5"/><g fill="none" color="#000" stroke="currentColor"><path stroke="#000" d="M575 422.4v-9m0-395.3v9"/><text transform="translate(575 444.3)" stroke="none" fill="#000" font-family="sans-serif" font-size="12" text-anchor="middle"><tspan>December</tspan></text></g><path stroke="#000" d="M63.6 18.1v404.3H575V18.1H63.6z" fill="none" color="#000"/><text transform="rotate(-90 118.3 102)" font-family="sans-serif" font-size="12" text-anchor="middle" color="#000"><tspan>Kilograms</tspan></text><text transform="translate(319.3 471.3)" font-family="sans-serif" font-size="12" text-anchor="middle" color="#000"><tspan>Date</tspan></text><path stroke="#9400D3" d="M106.8 23.9l9.1 147.6 9.2 28.7 9.1-15.9 9.1 24.8 9.1 14.7 9.1 10 9.2 15.1 9.1 24.4 9.1-30.7 9.1-64.2 9.1-41.2 9.1-10.7 9.2 9.6 9.1-7.7 9.1-41.3 9.1 22.7 9.1 26.7 9.2-44.1 9.1-22 9.1-22.7 9.1 39.9 9.1 42.6 9.1 41.1 9.2-4.1 9.1 4.1 9.1 19.4 9.1 33 9.1-11.1 9.2 1.8 9.1 49.3 9.1.7 9.1-4.1 9.1 10.6 9.1 10.8L426 307l9.1-14.4 9.1 20.6 9.1 32.5 9.1-6.4 9.2 14.9 9.1 8.7 9.1 28.7 9.1-3.8L508 367l9.1 15.5 9.2 20.4 9.1-96.3 9.1 38.8 9.1 10.6" fill="none" color="#000"/><path stroke="#000" d="M63.6 18.1v404.3H575V18.1H63.6z" fill="none" color="#000"/></svg>
+<svg width="600" height="480" xmlns="http://www.w3.org/2000/svg"><path fill="none" d="M0 0h600v480H0z"/><path stroke="gray" stroke-dasharray="2,4" class="gridline" d="M63.6 422.4H575" fill="none" color="gray" stroke-width=".5"/><g fill="none" color="#000" stroke="currentColor"><path stroke="#000" d="M63.6 422.4h9m502.4 0h-9"/><text transform="translate(55.3 426.3)" stroke="none" fill="#000" font-family="sans-serif" font-size="12" text-anchor="end"><tspan>67</tspan></text></g><path stroke="gray" stroke-dasharray="2,4" class="gridline" d="M63.6 364.6H575" fill="none" color="gray" stroke-width=".5"/><g fill="none" color="#000" stroke="currentColor"><path stroke="#000" d="M63.6 364.6h9m502.4 0h-9"/><text transform="translate(55.3 368.5)" stroke="none" fill="#000" font-family="sans-serif" font-size="12" text-anchor="end"><tspan>68</tspan></text></g><path stroke="gray" stroke-dasharray="2,4" class="gridline" d="M63.6 306.9H575" fill="none" color="gray" stroke-width=".5"/><g fill="none" color="#000" stroke="currentColor"><path stroke="#000" d="M63.6 306.9h9m502.4 0h-9"/><text transform="translate(55.3 310.8)" stroke="none" fill="#000" font-family="sans-serif" font-size="12" text-anchor="end"><tspan>69</tspan></text></g><path stroke="gray" stroke-dasharray="2,4" class="gridline" d="M63.6 249.1H575" fill="none" color="gray" stroke-width=".5"/><g fill="none" color="#000" stroke="currentColor"><path stroke="#000" d="M63.6 249.1h9m502.4 0h-9"/><text transform="translate(55.3 253)" stroke="none" fill="#000" font-family="sans-serif" font-size="12" text-anchor="end"><tspan>70</tspan></text></g><path stroke="gray" stroke-dasharray="2,4" class="gridline" d="M63.6 191.4H575" fill="none" color="gray" stroke-width=".5"/><g fill="none" color="#000" stroke="currentColor"><path stroke="#000" d="M63.6 191.4h9m502.4 0h-9"/><text transform="translate(55.3 195.3)" stroke="none" fill="#000" font-family="sans-serif" font-size="12" text-anchor="end"><tspan>71</tspan></text></g><path stroke="gray" stroke-dasharray="2,4" class="gridline" d="M63.6 133.6H575" fill="none" color="gray" stroke-width=".5"/><g fill="none" color="#000" stroke="currentColor"><path stroke="#000" d="M63.6 133.6h9m502.4 0h-9"/><text transform="translate(55.3 137.5)" stroke="none" fill="#000" font-family="sans-serif" font-size="12" text-anchor="end"><tspan>72</tspan></text></g><path stroke="gray" stroke-dasharray="2,4" class="gridline" d="M63.6 75.9H575" fill="none" color="gray" stroke-width=".5"/><g fill="none" color="#000" stroke="currentColor"><path stroke="#000" d="M63.6 75.9h9m502.4 0h-9"/><text transform="translate(55.3 79.8)" stroke="none" fill="#000" font-family="sans-serif" font-size="12" text-anchor="end"><tspan>73</tspan></text></g><path stroke="gray" stroke-dasharray="2,4" class="gridline" d="M63.6 18.1H575" fill="none" color="gray" stroke-width=".5"/><g fill="none" color="#000" stroke="currentColor"><path stroke="#000" d="M63.6 18.1h9m502.4 0h-9"/><text transform="translate(55.3 22)" stroke="none" fill="#000" font-family="sans-serif" font-size="12" text-anchor="end"><tspan>74</tspan></text></g><path stroke="gray" stroke-dasharray="2,4" class="gridline" d="M63.6 422.4V18.1" fill="none" color="gray" stroke-width=".5"/><g fill="none" color="#000" stroke="currentColor"><path stroke="#000" d="M63.6 422.4v-9m0-395.3v9"/><text transform="translate(63.6 444.3)" stroke="none" fill="#000" font-family="sans-serif" font-size="12" text-anchor="middle"><tspan>December</tspan></text></g><path stroke="#000" d="M75.8 422.4v-4.5m0-399.8v4.5M88 422.4v-4.5m0-399.8v4.5m12.1 399.8v-4.5m0-399.8v4.5m12.2 399.8v-4.5m0-399.8v4.5m12.2 399.8v-4.5m0-399.8v4.5m12.2 399.8v-4.5m0-399.8v4.5" fill="none" color="#000"/><path stroke="gray" stroke-dasharray="2,4" class="gridline" d="M148.8 422.4V18.1" fill="none" color="gray" stroke-width=".5"/><g fill="none" color="#000" stroke="currentColor"><path stroke="#000" d="M148.8 422.4v-9m0-395.3v9"/><text transform="translate(148.8 444.3)" stroke="none" fill="#000" font-family="sans-serif" font-size="12" text-anchor="middle"><tspan>January</tspan></text></g><path stroke="#000" d="M161 422.4v-4.5m0-399.8v4.5m12.2 399.8v-4.5m0-399.8v4.5m12.2 399.8v-4.5m0-399.8v4.5m12.1 399.8v-4.5m0-399.8v4.5m12.2 399.8v-4.5m0-399.8v4.5m12.2 399.8v-4.5m0-399.8v4.5" fill="none" color="#000"/><path stroke="gray" stroke-dasharray="2,4" class="gridline" d="M234.1 422.4V18.1" fill="none" color="gray" stroke-width=".5"/><g fill="none" color="#000" stroke="currentColor"><path stroke="#000" d="M234.1 422.4v-9m0-395.3v9"/><text transform="translate(234.1 444.3)" stroke="none" fill="#000" font-family="sans-serif" font-size="12" text-anchor="middle"><tspan>January</tspan></text></g><path stroke="#000" d="M246.2 422.4v-4.5m0-399.8v4.5m12.2 399.8v-4.5m0-399.8v4.5m12.2 399.8v-4.5m0-399.8v4.5m12.2 399.8v-4.5m0-399.8v4.5m12.1 399.8v-4.5m0-399.8v4.5m12.2 399.8v-4.5m0-399.8v4.5" fill="none" color="#000"/><path stroke="gray" stroke-dasharray="2,4" class="gridline" d="M319.3 422.4V18.1" fill="none" color="gray" stroke-width=".5"/><g fill="none" color="#000" stroke="currentColor"><path stroke="#000" d="M319.3 422.4v-9m0-395.3v9"/><text transform="translate(319.3 444.3)" stroke="none" fill="#000" font-family="sans-serif" font-size="12" text-anchor="middle"><tspan>January</tspan></text></g><path stroke="#000" d="M331.5 422.4v-4.5m0-399.8v4.5m12.2 399.8v-4.5m0-399.8v4.5m12.1 399.8v-4.5m0-399.8v4.5M368 422.4v-4.5m0-399.8v4.5m12.2 399.8v-4.5m0-399.8v4.5m12.2 399.8v-4.5m0-399.8v4.5" fill="none" color="#000"/><path stroke="gray" stroke-dasharray="2,4" class="gridline" d="M404.5 422.4V18.1" fill="none" color="gray" stroke-width=".5"/><g fill="none" color="#000" stroke="currentColor"><path stroke="#000" d="M404.5 422.4v-9m0-395.3v9"/><text transform="translate(404.5 444.3)" stroke="none" fill="#000" font-family="sans-serif" font-size="12" text-anchor="middle"><tspan>January</tspan></text></g><path stroke="#000" d="M416.7 422.4v-4.5m0-399.8v4.5m12.2 399.8v-4.5m0-399.8v4.5m12.2 399.8v-4.5m0-399.8v4.5m12.1 399.8v-4.5m0-399.8v4.5m12.2 399.8v-4.5m0-399.8v4.5m12.2 399.8v-4.5m0-399.8v4.5" fill="none" color="#000"/><path stroke="gray" stroke-dasharray="2,4" class="gridline" d="M489.8 422.4V18.1" fill="none" color="gray" stroke-width=".5"/><g fill="none" color="#000" stroke="currentColor"><path stroke="#000" d="M489.8 422.4v-9m0-395.3v9"/><text transform="translate(489.8 444.3)" stroke="none" fill="#000" font-family="sans-serif" font-size="12" text-anchor="middle"><tspan>February</tspan></text></g><path stroke="#000" d="M501.9 422.4v-4.5m0-399.8v4.5m12.2 399.8v-4.5m0-399.8v4.5m12.2 399.8v-4.5m0-399.8v4.5m12.2 399.8v-4.5m0-399.8v4.5m12.1 399.8v-4.5m0-399.8v4.5m12.2 399.8v-4.5m0-399.8v4.5" fill="none" color="#000"/><path stroke="gray" stroke-dasharray="2,4" class="gridline" d="M575 422.4V18.1" fill="none" color="gray" stroke-width=".5"/><g fill="none" color="#000" stroke="currentColor"><path stroke="#000" d="M575 422.4v-9m0-395.3v9"/><text transform="translate(575 444.3)" stroke="none" fill="#000" font-family="sans-serif" font-size="12" text-anchor="middle"><tspan>February</tspan></text></g><path stroke="#000" d="M63.6 18.1v404.3H575V18.1H63.6z" fill="none" color="#000"/><text transform="rotate(-90 118.3 102)" font-family="sans-serif" font-size="12" text-anchor="middle" color="#000"><tspan>Kilograms</tspan></text><text transform="translate(319.3 471.3)" font-family="sans-serif" font-size="12" text-anchor="middle" color="#000"><tspan>Date</tspan></text><path stroke="#9400D3" d="M75.8 116.3l10.2-55 10.2 16.3 10.1 7 10.2 7.3 10.2 35.8 10.2 12 10.2 15.2 10.2 7.1 10.2 26.6 10.2-2 10.1-24.5 10.2 24.7 10.2 10.8 10.2-8.6 10.2-5.8 10.2 7 10.2 8 10.2 5.7 10.2 11.8 10.1-23.6 10.2 26.6 10.2 15.5 10.2.2 10.2 31.6 10.2-28.6 10.2 41.3 10.2 1.2 10.1-32.5 10.2 11 10.2 33.5 10.2 3.2 10.2 9.7 10.2 1.6 10.2 7.2 10.2 27 10.2 18.4 10.1-11.4 10.2 1.8 10.2-21.9 10.2-6.9 10.2 11.4 10.2-11 10.2-8.7 10.2 31.8 10.1-9.7 10.2 10.6 10.2 21.6 10.2-7.5 10.2 17.1" fill="none" color="#000"/><path stroke="#000" d="M63.6 18.1v404.3H575V18.1H63.6z" fill="none" color="#000"/></svg>
 
-2020 graph
+2021 graph
 
 <details><summary>Raw data</summary>
 <pre>
@@ -931,4 +931,90 @@ lastmod: 2020-11-16T09:20:00
 2020-11-14,65.4
 2020-11-15,64.5
 2020-11-16,66.3
+2020-11-17,66.0
+2020-11-18,65.8
+2020-11-19,65.9
+2020-11-20,64.9
+2020-11-21,65.7
+2020-11-22,66.5
+2020-11-23,65.8
+2020-11-24,65.6
+2020-11-25,64.9
+2020-11-26,65.4
+2020-11-27,65.0
+2020-11-28,65.7
+2020-11-29,65.7
+2020-11-30,65.5
+2020-12-01,66.0
+2020-12-02,66.4
+2020-12-03,65.8
+2020-12-04,66.3
+2020-12-05,65.6
+2020-12-06,66.6
+2020-12-07,66.4
+2020-12-08,66.4
+2020-12-09,65.7
+2020-12-11,67.4
+2020-12-12,68.5
+2020-12-13,69.0
+2020-12-14,69.3
+2020-12-15,69.4
+2020-12-16,69.0
+2020-12-17,69.1
+2020-12-18,68.8
+2020-12-19,70.2
+2020-12-20,70.1
+2020-12-21,71.1
+2020-12-22,70.8
+2020-12-23,70.1
+2020-12-24,71.2
+2020-12-25,70.8
+2020-12-26,72.9
+2020-12-27,71.9
+2020-12-28,72.8
+2020-12-29,72.5
+2020-12-30,72.4
+2020-12-31,73.0
+2021-01-01,72.3
+2021-01-02,73.3
+2021-01-03,72.8
+2021-01-04,72.9
+2021-01-05,72.2
+2021-01-06,71.9
+2021-01-07,71.6
+2021-01-08,71.4
+2021-01-09,70.9
+2021-01-10,71.5
+2021-01-11,71.1
+2021-01-12,70.9
+2021-01-13,71.1
+2021-01-14,71.1
+2021-01-15,70.9
+2021-01-16,70.8
+2021-01-17,70.6
+2021-01-18,71.0
+2021-01-19,70.2
+2021-01-20,70.4
+2021-01-21,69.7
+2021-01-22,70.2
+2021-01-23,69.3
+2021-01-24,69.8
+2021-01-25,70.0
+2021-01-26,69.3
+2021-01-27,69.2
+2021-01-28,69.0
+2021-01-29,69.0
+2021-01-30,68.6
+2021-01-31,68.1
+2021-02-01,68.3
+2021-02-02,68.3
+2021-02-03,68.8
+2021-02-04,68.6
+2021-02-05,68.7
+2021-02-06,68.9
+2021-02-07,68.3
+2021-02-08,68.6
+2021-02-09,68.0
+2021-02-10,68.1
+2021-02-11,67.8
 </pre></details>
