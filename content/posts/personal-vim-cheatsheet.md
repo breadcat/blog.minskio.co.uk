@@ -1,6 +1,7 @@
 ---
 title: "Personal VIM cheatsheet"
 date: 2020-06-14T12:58:00
+lastmod: 2021-02-11T11:23:00
 tags : [ "Guides", "Learning", "Linux", "Servers", "Snippets", "Software", ]
 ---
 
@@ -119,10 +120,12 @@ Add the below to your `init.vim` file (if using neovim):
 	autocmd BufWritepre * %s/\n\+\%$//e
 ```
 
-Another point worth adding is sometimes files formatted outside vim will contain '^@' symbols scattered between letters. These represent null characters and can be removed by running:
+Another point worth adding is sometimes files formatted outside vim will contain '^@' or '^M' symbols scattered between letters. These represent null or line break characters and can be removed by running:
 ```
 %s/[\x0]//g
+%s/\r//g
 ```
 
 * **Edit 2020-12-02:** Added notes regarding reading file contents and command output.
 * **Edit 2021-01-02:** Added null character removal note.
+* **Edit 2021-02-11:** Added additional line break removal note.
