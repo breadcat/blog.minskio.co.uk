@@ -9,7 +9,7 @@ I generally strive for a book per week, but this is by no means a steadfast goal
 <ul>
 <li>Tsugumi Ohba - Death Note Volume 3</li>
 <li>Monica Hughes - Devil on My Back</li>
-<li>David Graeber - Bullshit Jobs</li>
+<li>Albert-László Barabási - Bursts</li>
 </ul>
 </details>
 
@@ -24,6 +24,10 @@ To keep the page somewhat manageable, I've collapsed the list by years:
 <li>Michael Wall - Out There</li>
 <li>Yahtzee Croshaw - Differently Morphous</li>
 <li>Jessica Bruder - Nomadland</li>
+<li>David Graeber - Bullshit Jobs</li>
+<li>Terry Pratchett - The Last Hero</li>
+<li>Terry Bisson - Bears Discover Fire, and Other Stories</li>
+<li>Terry Pratchett - The Amazing Maurice and His Educated Rodents</li>
 </ul>
 </details>
 
