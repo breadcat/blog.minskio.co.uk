@@ -55,6 +55,8 @@ Quotes I've found in and around the Internet, collected because they make me smi
 
 >Damnation, for this? <!-- Gladius -->
 
+>Defer your gratification
+
 >Deus vult <!-- god wills it -->
 
 >Diamonds are intrinsically worthless <!-- de beers chairman, nicky oppenheimer -->
@@ -148,6 +150,8 @@ Quotes I've found in and around the Internet, collected because they make me smi
 >I regret learning to read
 
 >I saw her duck with my telescope <!-- ambiguous sentence -->
+
+>I suppose he meant well, but then so did Hitler <!-- Spike Milligan -->
 
 >I think he took his wallet <!-- back to the future -->
 
@@ -269,6 +273,8 @@ Quotes I've found in and around the Internet, collected because they make me smi
 
 >Off we go then
 
+>Oll Korrect <!-- OK etymology -->
+
 >On the Internet, nobody knows you're a dog <!-- the new yorker -->
 
 >One clown leg <!-- midnight gospel -->
@@ -337,6 +343,8 @@ Quotes I've found in and around the Internet, collected because they make me smi
 
 >The burned hand teaches best <!-- tolkien -->
 
+>The house always wins
+
 >The Industrial Revolution and its consequences have been a disaster for the human race <!-- uncle ted -->
 
 >The things you own end up owning you <!-- fight club -->
@@ -382,6 +390,8 @@ Quotes I've found in and around the Internet, collected because they make me smi
 >Two hundred dollar, please <!-- psychoville -->
 
 >Two steps forward, three steps back
+
+>Vado a bordo, cazzo! <!-- costa concordia -->
 
 >We feel alone together <!-- feels good man documentary -->
 
