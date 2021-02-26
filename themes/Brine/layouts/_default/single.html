@@ -1,5 +1,5 @@
 {{ define "main" }}	<h1>{{ .Title }}</h1>{{ if .PublishDate }}
 	<div>Published: {{ .PublishDate.Format "Jan 2, 2006" }}{{ if ne .Lastmod .PublishDate }}, last updated: {{ .Lastmod.Format "Jan 2, 2006" }}{{ end }}</div>{{ end }}
-	<div>Reading time: {{ .ReadingTime }} min</div>
-	<div>Tags: {{ range $i, $e := .Params.tags -}}{{- if $i -}}, {{ end -}}<a href='{{ "/tags/" | relLangURL }}{{ . | urlize }}'>{{ $e | humanize }}</a>{{- end -}}</div>
+	<div>Reading time: {{ .ReadingTime }} min</div>{{ if .Params.tags }}
+	<div>Tags: {{ range $i, $e := .Params.tags -}}{{- if $i -}}, {{ end -}}<a href='{{ "/tags/" | relLangURL }}{{ . | urlize }}'>{{ $e | humanize }}</a>{{- end -}}</div>{{ end }}
 	{{ .Content }}{{ end }}
