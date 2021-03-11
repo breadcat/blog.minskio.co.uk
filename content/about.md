@@ -33,8 +33,8 @@ Things I enjoy or embrace, in no particular order (albeit alphabetical) include:
 * Scotch whisky and Irish whiskey
 * Stoicism
 * Swimming
-* Universal Basic Income
-* Watching assorted [movies](/archived-movies/) and [television](/archived-television/) (Archiving what I've watched so it doesn't take up space and resources)
+* Universal basic income
+* Watching assorted [movies](/archived-movies/) and [television](/archived-television/), archiving when watched
 
 Some people I find interesting or inspirational:
 * Adam Curtis
