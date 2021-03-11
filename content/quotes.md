@@ -83,6 +83,8 @@ Quotes I've found in and around the Internet, collected because they make me smi
 
 >Extraordinary claims require extraordinary evidence <!-- sagan -->
 
+>Face down, ass up, I've fallen and I can't get up
+
 >Feed me Seymore <!-- little shop of horrors -->
 
 >Feels like we only go backwards <!-- tame impala -->
@@ -154,6 +156,8 @@ Quotes I've found in and around the Internet, collected because they make me smi
 >I suppose he meant well, but then so did Hitler <!-- Spike Milligan -->
 
 >I think he took his wallet <!-- back to the future -->
+
+>I would rather starve than eat your bread <!-- pearl jam corduroy -->
 
 >If you die in Russia, you die in real life
 
@@ -264,6 +268,8 @@ Quotes I've found in and around the Internet, collected because they make me smi
 >Not today, old friend <!-- the simpsons -->
 
 >Not waving, but drowning <!-- stevie smith poem -->
+
+>Not your keys, not your coins <!-- cryptocurrency phrase -->
 
 >Nothing will be born from hatred
 
