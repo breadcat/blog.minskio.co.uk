@@ -2,7 +2,7 @@
 title: Archived Television
 tags: ["Media", "Archive"]
 date: 2018-01-01T01:00:00
-lastmod: 2021-01-31T14:20:00
+lastmod: 2021-03-20T17:03:00
 ---
 
 <!-- Work in Progress: South Park, Space Patrol Luluco, The Amazing World of Gumball, The Sinner, Warrior -->
@@ -103,6 +103,7 @@ lastmod: 2021-01-31T14:20:00
 * Sherlock
 * Sons of Anarchy
 * Space Dandy
+* Space Patrol Luluco
 * SS-GB
 * Star Trek: Deep Space Nine
 * Star Trek: Discovery
@@ -117,6 +118,7 @@ lastmod: 2021-01-31T14:20:00
 * Swamp Thing
 * Taken
 * Taskmaster
+* Taskmaster: Champion of Champions
 * Terror in Resonance
 * Testees
 * The Andromeda Strain (2008)
@@ -140,6 +142,7 @@ lastmod: 2021-01-31T14:20:00
 * The Orville
 * The Shivering Truth
 * The Sinner
+* The Stand (1994)
 * The Strain
 * The Twilight Zone
 * The Twilight Zone (2019)
