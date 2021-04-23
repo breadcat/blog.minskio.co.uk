@@ -1,7 +1,7 @@
 ---
 title: "FFmpeg audio conversions for PBX"
 date: 2019-01-14T16:08:00
-tags: ["Formats", "Guides", "Linux", "PBX", "Snippets", "Windows"]
+tags: ["Formats", "Guides", "Linux", "PBX", "Snippets", "Windows", "Work"]
 ---
 
 Firstly, grab a copy of `ffmpeg` from the [official website](https://www.ffmpeg.org/download.html#build-windows) if you're running Windows, or your package manager if you're running Linux.
