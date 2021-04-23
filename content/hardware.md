@@ -66,9 +66,8 @@ What powers the site and its associated clients
 
 <details><summary>Mobile Phone</summary>
 <ul>
-<li>Phone: LG Q6</li>
-<li>OS: Stock LG</li>
-<li>Headphones: Jays a-Jays Five</li>
+<li>Phone: Google Pixel 4</li>
+<li>OS: Lineage OS</li>
 </ul>
 </details>
 
