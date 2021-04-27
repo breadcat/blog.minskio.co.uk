@@ -91,7 +91,11 @@ Quotes I've found in and around the Internet, collected because they make me smi
 
 >Fuck off up the model village <!-- hot fuzz -->
 
+>Fuck the state <!-- drug sniffing cats-->
+
 >Furthermore, I consider that Carthage must be destroyed <!-- Cato the Censor -->
+
+>Geography is destiny <!-- rare earth -->
 
 >Get used to disappointment
 
@@ -145,6 +149,8 @@ Quotes I've found in and around the Internet, collected because they make me smi
 
 >I mentally shake hands with you for your answer
 
+>I must apologize for Wimp Lo... he is an idiot. We have purposely trained him wrong, as a joke. <!-- kung pow -->
+
 >I never saved anything for the swim back <!-- gattacca -->
 
 >I only doubted you up until the end <!-- forager -->
@@ -156,6 +162,8 @@ Quotes I've found in and around the Internet, collected because they make me smi
 >I suppose he meant well, but then so did Hitler <!-- Spike Milligan -->
 
 >I think he took his wallet <!-- back to the future -->
+
+>I want to be cremated, and I want my ashes blown in Uri Geller's eyes <!-- James Randi -->
 
 >I would rather starve than eat your bread <!-- pearl jam corduroy -->
 
@@ -170,6 +178,8 @@ Quotes I've found in and around the Internet, collected because they make me smi
 >If you see something, say nothing, and drink to forget <!-- night vale -->
 
 >If you were any simpler you'd have to be watered every day
+
+>I'm bleeding, making me the victor <!-- kung pow -->
 
 >I'm not a real doctor, But I am a real worm <!-- they might be giants -->
 
@@ -341,6 +351,8 @@ Quotes I've found in and around the Internet, collected because they make me smi
 
 >That anime hologram's just not that into you <!-- archer -->
 
+>That's a maniac standpoint <!-- Enter Shikari -->
+
 >That's my secret Cap'. I'm always tired. <!-- avengers -->
 
 >That's not theft, that's sporting spirit <!-- ayoade on top -->
@@ -401,6 +413,8 @@ Quotes I've found in and around the Internet, collected because they make me smi
 
 >We feel alone together <!-- feels good man documentary -->
 
+>We'll burn that bridge when we get to it <!-- malaphor -->
+
 >Well I'm not here to fuck spiders <!-- australian slang -->
 
 >Well. I guess there's nothing to do but lay here and wait to die
@@ -435,7 +449,7 @@ Quotes I've found in and around the Internet, collected because they make me smi
 
 >You are being shagged by a rare parrot! <!-- last chance to see -->
 
->you are tending a plant that is dead <!-- star trek discovery -->
+>You are tending a plant that is dead <!-- star trek discovery -->
 
 >You can't eat your cake and have it too <!-- ted kaczynski -->
 
