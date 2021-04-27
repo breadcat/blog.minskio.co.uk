@@ -7,9 +7,8 @@ I generally strive for a book per week, but this is by no means a steadfast goal
 
 <details><summary>Works in Progress</summary>
 <ul>
-<li>Tsugumi Ohba - Death Note Volume 3</li>
-<li>Monica Hughes - Devil on My Back</li>
-<li>Albert-László Barabási - Bursts</li>
+<li>Stephen King - The Colorado Kid</li>
+<li>V E Schwab - Vengeful</li>
 </ul>
 </details>
 
@@ -28,6 +27,19 @@ To keep the page somewhat manageable, I've collapsed the list by years:
 <li>Terry Pratchett - The Last Hero</li>
 <li>Terry Bisson - Bears Discover Fire, and Other Stories</li>
 <li>Terry Pratchett - The Amazing Maurice and His Educated Rodents</li>
+<li>Albert-László Barabási - Bursts</li>
+<li>Stephen King - 1408</li>
+<li>John Twelve Hawks - The Traveler</li>
+<li>Mira Grant - Parasite</li>
+<li>Mary Robinette Kowal - The Fated Sky</li>
+<li>Tsugumi Ohba - Death Note Volume 3</li>
+<li>Monica Hughes - Devil on My Back</li>
+<li>Esther Friesner - A Birthday</li>
+<li>Martha Wells - Network Effect</li>
+<li>Mira Grant - Symbiont</li>
+<li>Mary Robinette Kowal - The Lady Astronaut of Mars</li>
+<li>Seanan McGuire - Sparrow Hill Road</li>
+<li>V E Schwab - Vicious</li>
 </ul>
 </details>
 
