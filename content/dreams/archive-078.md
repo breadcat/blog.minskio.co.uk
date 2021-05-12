@@ -1,5 +1,5 @@
 ---
-title: Untitled Archive Dream 78
+title: Spinning platform
 dream: undated
 ---
 

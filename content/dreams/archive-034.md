@@ -1,5 +1,5 @@
 ---
-title: Untitled Archive Dream 34
+title: African museum exhibit
 dream: undated
 ---
 

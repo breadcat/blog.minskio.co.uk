@@ -1,5 +1,5 @@
 ---
-title: Untitled Archive Dream 52
+title: Mystery box
 dream: undated
 ---
 

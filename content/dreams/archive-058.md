@@ -1,5 +1,5 @@
 ---
-title: Untitled Archive Dream 58
+title: Desert diner
 dream: undated
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Untitled Archive Dream 67
+title: Chinese hotel
 dream: undated
 ---
 

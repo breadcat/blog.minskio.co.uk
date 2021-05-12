@@ -1,5 +1,5 @@
 ---
-title: Untitled Archive Dream 93
+title: Frozen gym class
 dream: undated
 ---
 

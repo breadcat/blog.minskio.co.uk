@@ -1,5 +1,5 @@
 ---
-title: Untitled Archive Dream 94
+title: Alarming journal
 dream: undated
 ---
 

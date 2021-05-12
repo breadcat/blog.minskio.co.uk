@@ -1,5 +1,5 @@
 ---
-title: Untitled Archive Dream 89
+title: Defacing crucifixes
 dream: undated
 ---
 
