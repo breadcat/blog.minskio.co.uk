@@ -9,6 +9,6 @@ I was with the original [cast of Dad's Army](https://en.wikipedia.org/wiki/Dad%2
 
 For some reason [Private Frazer](https://en.wikipedia.org/wiki/Private_Frazer) had decided that he would create a large explosion using a blowtorch and some pieces of metal piping.
 
-The apes didnt' seem particularly violent and one even helped me personally enter the building.
+The apes didn't seem particularly violent and one even helped me personally enter the building.
 
 We also made a cup of tea by boiling water on a wood burning stove in one of the corridors.

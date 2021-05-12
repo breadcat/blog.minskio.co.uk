@@ -3,7 +3,7 @@ title: Dragon attack
 dream: undated
 ---
 
-There was a large metal portakcabin in an underground cave that you had to spend time in to be considered 'The Best Jew'. there were other tests but nearly everybody that tried this test failed it.
+There was a large metal portacabin in an underground cave that you had to spend time in to be considered 'The Best Jew'. there were other tests but nearly everybody that tried this test failed it.
 
 I was called out as I had failed it after about a minute. Thinking that the test was somehow unfair, I spoke with a military general type person who told me that the test was about judging whether people were worthy to wield the 'Ultimate Jewish Armour' to fight 'The Final Battle'. Not being worthy, I was given a sword with handles on both ends which I figured I could still make into a usable sword.
 

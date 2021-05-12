@@ -7,7 +7,7 @@ A long and stranger than usual overarching dream involving far-right politics, a
 
 We'd owned a company that was doing very well but a government imposed war economy brought the whole company to it's knees. At the end of the dream we all agreed to go back to our roots in an effort to save the company.
 
-Meanwhile I was at a large right wind sympathisers house who had amassed a large collection of 'UK Legal' weaons like air rifles and blades of all sorts.
+Meanwhile I was at a large right wing sympathisers house who had amassed a large collection of 'UK Legal' weaons like air rifles and blades of all sorts.
 
 Some guy had made multiple attempts on the house using at first an air rifle then storming the house with a revolver in each hand while my friend <!-- JM --> was upstairs.
 

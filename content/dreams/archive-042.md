@@ -3,7 +3,7 @@ title: Speedy swimming
 dream: undated
 ---
 
-I was dreaming about swimming at highs chool with it's various cliques.
+I was dreaming about swimming at high school with it's various cliques.
 
 I wasn't immediately accepted into any group but still competed and won a 25 metre front crawl race by a huge margin, even struggling to slow down as the end approached.
 

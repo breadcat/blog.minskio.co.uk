@@ -3,7 +3,7 @@ title: Shooting rabbits before work
 dream: undated
 ---
 
-I was dropping off a parcel for work so was staying at home untl a little later in the morning until the post office opened up.
+I was dropping off a parcel for work so was staying at home until a little later in the morning until the post office opened up.
 
 My father had already tried shooting a rabbit earlier and missed, I saw the same black and white rabbit outside my window and took a shot at it using the air rifle, hitting it but not killing it.
 

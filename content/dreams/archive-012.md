@@ -5,7 +5,7 @@ dream: undated
 
 A group of about 20 of us from high school were driving around London in a large VW van that had been used by three of the group of friends<!-- CD, AG, AW --> as a tour bus for their band.
 
-As we drove, instruments and equipment wer ebeing set up and tuned and there were speakers and amps in the van.
+As we drove, instruments and equipment were being set up and tuned and there were speakers and amps in the van.
 
 We were staying at a hotel in a cul-de-sac and the band were going to play there.
 

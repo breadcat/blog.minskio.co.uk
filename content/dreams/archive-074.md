@@ -5,7 +5,7 @@ dream: undated
 
 Every year there's a mandatory fun-run type marathon event. After completing the run you get a rest of the day off to do as you please.
 
-I had completed the run and was on my way home on a mopoed when I saw two people I knew <!-- DoS GW --> from my high school being kicked out of a tax on the way back.
+I had completed the run and was on my way home on a moped when I saw two people I knew <!-- DoS GW --> from my high school being kicked out of a taxi on the way back.
 
 I invited them around to my house as we were nearby which they agreed to and offered to call them another taxi which they refused and then started wandering around outside the house.
 
