@@ -2,7 +2,7 @@
 title: Archived Movies
 tags: ["Media", "Archive"]
 date: 2018-01-01T01:00:00
-lastmod: 2021-03-20T17:02:00
+lastmod: 2021-05-16T20:56:00
 ---
 
 * [REC] (2007)
@@ -28,6 +28,7 @@ lastmod: 2021-03-20T17:02:00
 * Abbott and Costello Meet Frankenstein (1948)
 * Abduction (2011)
 * Abominable (2019)
+* Ace Attorney (2012)
 * Ad Astra (2019)
 * Addams Family Values (1993)
 * Æon Flux (2005)
@@ -92,10 +93,12 @@ lastmod: 2021-03-20T17:02:00
 * Blade of the Immortal (2017)
 * Blade Runner (1982)
 * Blade Runner 2049 (2017)
+* Blade Runner: Black Out 2022 (2017)
 * Blazing Saddles (1974)
 * Bliss (2019)
 * Blockers (2018)
 * Bob Lazar: Area 51 and Flying Saucers (2018)
+* Boss Level (2021)
 * Boy (2010)
 * Bright (2017)
 * Brightburn (2019)
@@ -138,6 +141,7 @@ lastmod: 2021-03-20T17:02:00
 * Creed (2015)
 * Creepshow (1982)
 * Creepshow 2 (1987)
+* Crimson Peak (2015)
 * Crisis (2021)
 * Critters (1986)
 * Critters 2 (1988)
@@ -331,6 +335,7 @@ lastmod: 2021-03-20T17:02:00
 * Krampus (2015)
 * Krampus: The Reckoning (2015)
 * KSI: Can't Lose (2018)
+* Kung Pow: Enter the Fist (2002)
 * Land of Mine (2015)
 * Landlock (1995)
 * Lars and the Real Girl (2007)
@@ -446,6 +451,7 @@ lastmod: 2021-03-20T17:02:00
 * Rescue Dawn (2006)
 * Resolution (2012)
 * Rings (2017)
+* Roald Dahl's The Witches (2020)
 * RoboCop (2014)
 * Robot & Frank (2012)
 * RockNRolla (2008)
@@ -505,6 +511,7 @@ lastmod: 2021-03-20T17:02:00
 * Star Wars: The Last Jedi (2017)
 * Stephen King's It (1990)
 * Stir of Echoes (1999)
+* Stowaway (2021)
 * Street Fighter (1994)
 * Streets of Fire (1984)
 * Strong Island (2017)
@@ -521,6 +528,7 @@ lastmod: 2021-03-20T17:02:00
 * Swiss Army Man (2016)
 * Tag (2018)
 * Tai Chi Zero (2012)
+* Tenet (2020)
 * The 15:17 to Paris (2018)
 * The 5th Wave (2016)
 * The Addams Family (2019)
@@ -702,6 +710,7 @@ lastmod: 2021-03-20T17:02:00
 * Venom (2018)
 * View from the Top (2003)
 * Wake in Fright (1971)
+* Walk Hard: The Dewey Cox Story (2007)
 * Wanted (2008)
 * War Dogs (2016)
 * Warcraft (2016)
@@ -723,5 +732,6 @@ lastmod: 2021-03-20T17:02:00
 * X-Men: Apocalypse (2016)
 * X-Men: Days of Future Past (2014)
 * XX (2017)
+* Yesterday (2019)
 * Zombieland (2009)
 * Zombieland: Double Tap (2019)

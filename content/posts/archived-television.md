@@ -2,10 +2,10 @@
 title: Archived Television
 tags: ["Media", "Archive"]
 date: 2018-01-01T01:00:00
-lastmod: 2021-03-20T17:03:00
+lastmod: 2021-05-16T20:56:00
 ---
 
-<!-- Work in Progress: South Park, Space Patrol Luluco, The Amazing World of Gumball, The Sinner, Warrior -->
+<!-- Work in Progress: South Park, Star Trek, The Amazing World of Gumball, The Sinner -->
 <!-- Rewatch: Farscape, Gurren Lagann, Lexx, Police Squad!, Swiss Toni, Terry Pratchett's Going Postal, The Boondocks, The Inbetweeners, True Detective -->
 <!-- Abandoned: DARK, Designated Survivor, Doctor Who (2005), Fear the Walking Dead, How to Get Away with Murder, Making a Murderer, Sharp Objects, The Simpsons, The Walking Dead, Twin Peaks -->
 
@@ -71,6 +71,7 @@ lastmod: 2021-03-20T17:03:00
 * Ideal
 * Inferno Cop
 * Inside No. 9
+* Invincible
 * Jonathan Creek
 * Junji Ito Collection
 * KonoSuba - God’s Blessing on This Wonderful World!!
@@ -101,6 +102,7 @@ lastmod: 2021-03-20T17:03:00
 * Rick and Morty
 * Savage Builds
 * Sherlock
+* Solar Opposites
 * Sons of Anarchy
 * Space Dandy
 * Space Patrol Luluco
@@ -157,6 +159,8 @@ lastmod: 2021-03-20T17:03:00
 * True Blood
 * Undone
 * V (2009)
+* WandaVision
+* Warrior
 * Watchmen
 * Wayward Pines
 * Westworld
