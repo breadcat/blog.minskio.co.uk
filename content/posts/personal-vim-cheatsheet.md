@@ -26,9 +26,20 @@ Ctrl + r redo changes
 Ctrl + g shows location status bar
 gg go to the top line
 G go to last line
+gj move one line down in a text block
+gk move one line up in a text block
+g$ move to the end of a text blocks' current line
+g0 move to the start of a text blocks' current line
 25% move to 25% of the way through the file
 '' move back to previous location before % movement
 u undoes changes
+gu uncapitalise
+gU capitalise
+~ switch case of current letter
+gv jump back to previously selected text
+
+J join current and next line
+gJ join current and next line, without spaces
 
 v start visual selection/highlighting
 Ctrl + v start visual selection as a block
@@ -61,9 +72,11 @@ R replace mode, more than one character, but exact length matching
 v enters visual mode
 V enters visual mode, whole lines
 
+0 move to the start of the line
 $ move to the end of the line
 ^ move to the start of the line
 % jump to matching parenthesis
+W jump one word right
 
 :s/old/new/ replace old with new once on a line
 :s/old/new/g replace old with new every time on a line
