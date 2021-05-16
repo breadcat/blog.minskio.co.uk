@@ -85,6 +85,8 @@ Quotes I've found in and around the Internet, collected because they make me smi
 
 >Face down, ass up, I've fallen and I can't get up
 
+>Fan oven nonce <!-- https://www.reddit.com/r/CasualUK/comments/n0m195/british_cuisine_is_bad_oh_yeah_think_again/gw87i5n/ -->
+
 >Feed me Seymore <!-- little shop of horrors -->
 
 >Feels like we only go backwards <!-- tame impala -->
@@ -185,6 +187,8 @@ Quotes I've found in and around the Internet, collected because they make me smi
 
 >I'm not complaining, I'm just explaining <!-- austin mcconnell -->
 
+>I'm not giving my name to a machine <!-- futurama -->
+
 >In Scotland the forbidden fruit is fruit. <!-- Gary Delaney -->
 
 >In war there are no winners, only widows <!-- arrival -->
@@ -247,6 +251,8 @@ Quotes I've found in and around the Internet, collected because they make me smi
 
 >Me? The one person I trusted most? <!-- poorly drawn lines -->
 
+>Monster Island's actually a peninsula <!-- the simpsons -->
+
 >More similar than different <!-- travel man -->
 
 >Mother, should I trust the government <!-- pink floyd -->
@@ -264,7 +270,6 @@ Quotes I've found in and around the Internet, collected because they make me smi
 >NO ESCAPE, NO SURRENDER, NO WITNESSES
 
 >No kali-ba
-
 >No one knows anything
 
 >nofkyo <!-- exurb1a - no one fucking knows yet, okay -->
@@ -281,7 +286,9 @@ Quotes I've found in and around the Internet, collected because they make me smi
 
 >Not your keys, not your coins <!-- cryptocurrency phrase -->
 
->Nothing will be born from hatred
+>Nothing Is True and Everything Is Possible <!-- Peter Pomerantsev book -->
+
+>Nothing will be born from hatred <!-- Gesicht, Pluto manga -->
 
 >Nunc id vides, nunc ne vides <!-- discworld -->
 
