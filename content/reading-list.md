@@ -7,8 +7,8 @@ I generally strive for a book per week, but this is by no means a steadfast goal
 
 <details><summary>Works in Progress</summary>
 <ul>
-<li>Stephen King - The Colorado Kid</li>
-<li>V E Schwab - Vengeful</li>
+<li>Mira Grant - Chimera</li>
+<li>V E Schwab - Warm Up</li>
 </ul>
 </details>
 
@@ -40,6 +40,11 @@ To keep the page somewhat manageable, I've collapsed the list by years:
 <li>Mary Robinette Kowal - The Lady Astronaut of Mars</li>
 <li>Seanan McGuire - Sparrow Hill Road</li>
 <li>V E Schwab - Vicious</li>
+<li>Stephen King - The Colorado Kid</li>
+<li>V E Schwab - Vengeful</li>
+<li>Barry J Hutchison - Dial D for Deadman</li>
+<li>Connie Willis - At the Realto</li>
+<li>Barry J Hutchison - Dead Inside</li>
 </ul>
 </details>
 
