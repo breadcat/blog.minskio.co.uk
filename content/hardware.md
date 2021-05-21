@@ -83,6 +83,6 @@ What powers the site and its associated clients
 
 <details><summary>eReader</summary>
 <ul>
-<li>Hardware: Kindle Paperwhite PQ94WIF 32GB</li>
+<li>Hardware: Kindle Paperwhite PQ94WIF 32GB (Jailbroken)</li>
 </ul>
 </details>

@@ -16,6 +16,7 @@ Things I enjoy or embrace, in no particular order (albeit alphabetical) include:
 * Cooking and baking
 * Cryptocurrency, especially [Nano](https://nano.org/) and [Monero](https://www.getmonero.org/)
 * GNU/Linux and free software in general
+* Hypermiling
 * INTJ Myers–Briggs Indicator
 * [Ketogenic food](/recipes/) and OMAD diets
 * Lucid dreaming

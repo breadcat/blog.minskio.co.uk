@@ -241,6 +241,8 @@ Quotes I've found in and around the Internet, collected because they make me smi
 
 >Let's see what life has installed for us <!-- typo -->
 
+>Like a boozy panda <!-- James Corden AMA -->
+
 >Magic must defeat magic <!-- jackie chan adventures -->
 
 >Make your influence positive
