@@ -103,6 +103,10 @@ Quotes I've found in and around the Internet, collected because they make me smi
 
 >Glory to Arstotska <!-- papers please -->
 
+>Guess this will be my last message. Good-bye, boys. <!-- Vince Coleman -->
+
+>Guys literally only want one thing and it's fucking disgusting <!-- ashcammm -->
+
 >Hail Hydra <!-- avengers -->
 
 >Happy birthday to the ground <!-- the lonely island -->
@@ -318,6 +322,8 @@ Quotes I've found in and around the Internet, collected because they make me smi
 
 >Reader beware, you're in for a slap <!-- goosebumps photoshop -->
 
+>Reduce, Reuse, Recycle
+
 >Rosalind's a fucking nightmare <!-- taskmaster -->
 
 >Roses are red, violets are blue, Unexpected '{' on line 32
@@ -456,6 +462,8 @@ Quotes I've found in and around the Internet, collected because they make me smi
 
 >Ye shall know the truth, and the truth shall make you mad <!-- aldous huxley -->
 
+>Yes, even if they ask stupid questions <!-- love everyone meme, no matter what -->
+
 >You are being shagged by a rare parrot! <!-- last chance to see -->
 
 >You are tending a plant that is dead <!-- star trek discovery -->
@@ -465,6 +473,8 @@ Quotes I've found in and around the Internet, collected because they make me smi
 >You don't need a parachute to skydive. You need one to skydive twice
 
 >You guys have phones, don't you? <!-- diablo press conference -->
+
+>You need to work on your threats
 
 >You sound like my parole officer
 
