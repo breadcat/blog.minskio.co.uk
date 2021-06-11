@@ -3,7 +3,7 @@ title: Reading List
 layout: single
 ---
 
-I generally strive for a book per week, but this is by no means a steadfast goal.
+I generally strive for a book per week, but this is by no means a steadfast goal. For a list of series and their status, there's the [Reading List Series](/reading-series/) page.
 
 <details><summary>Works in Progress</summary>
 <ul>
