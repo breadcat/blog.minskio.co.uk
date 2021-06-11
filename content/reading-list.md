@@ -7,8 +7,7 @@ I generally strive for a book per week, but this is by no means a steadfast goal
 
 <details><summary>Works in Progress</summary>
 <ul>
-<li>Mira Grant - Chimera</li>
-<li>V E Schwab - Warm Up</li>
+<li>Andy Weir - Project Hail Mary</li>
 </ul>
 </details>
 
@@ -45,6 +44,10 @@ To keep the page somewhat manageable, I've collapsed the list by years:
 <li>Barry J Hutchison - Dial D for Deadman</li>
 <li>Connie Willis - At the Realto</li>
 <li>Barry J Hutchison - Dead Inside</li>
+<li>Mira Grant - Chimera</li>
+<li>August Marion - Vegetablemen in Peanut Town</li>
+<li>Martha Wells - Fugitive Telemetry</li>
+<li>Barry J Hutchison - Dead in the Water</li>
 </ul>
 </details>
 
