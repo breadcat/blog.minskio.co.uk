@@ -4,7 +4,7 @@ recipe: dessert
 ---
 
 * Servings: 16
-* Carbs: Approx 4 carbs per Cookie
+* Carbs: Approx 4 carbs per brownie
 * Prep Time: 10 minutes
 * Cooking Time: 25 minutes at 180&deg;C
 
