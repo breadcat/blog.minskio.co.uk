@@ -7,7 +7,7 @@ I generally strive for a book per week, but this is by no means a steadfast goal
 
 <details><summary>Works in Progress</summary>
 <ul>
-<li>Andy Weir - Project Hail Mary</li>
+<li>Ernest Cline - Armada</li>
 </ul>
 </details>
 
@@ -48,6 +48,7 @@ To keep the page somewhat manageable, I've collapsed the list by years:
 <li>August Marion - Vegetablemen in Peanut Town</li>
 <li>Martha Wells - Fugitive Telemetry</li>
 <li>Barry J Hutchison - Dead in the Water</li>
+<li>Andy Weir - Project Hail Mary</li>
 </ul>
 </details>
 
