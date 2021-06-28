@@ -66,4 +66,4 @@ The compressed sizes were as follows, with percentage values to match:
 | RVZ (2MiB, Zstandard, level 10) | 98,800,396 | 41.32 |
 | RVZ (2MiB, Zstandard, level 22) | 93,857,212 | 39.25 |
 
-As you can see, from this extremely limited test, the best performing archive format is LZMA using a 2MiB block size at compression level 9. It doesn't matter which container, our of RVZ and WIA you use.
+As you can see, from this extremely limited test, the best performing archive format is LZMA using a 2MiB block size at compression level 9. It doesn't matter which container, out of RVZ and WIA you use.
