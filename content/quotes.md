@@ -11,6 +11,10 @@ Quotes I've found in and around the Internet, collected because they make me smi
 
 >7/11 was a part time job
 
+>A little bit of everything, all of the time <!-- bo burnham -->
+
+>A priest, a minister and a rabbit walk into a blood bank. The rabbit says "I think I might be type-o"
+
 >Abandon hope all ye who enter here <!-- Dante's Inferno -->
 
 >Apply the handbrake ya dumb broad <!-- yu-gi-oh abridged -->
@@ -241,6 +245,8 @@ Quotes I've found in and around the Internet, collected because they make me smi
 
 >Leave the handgun, take the cash <!-- simple creatures - lucy -->
 
+>Let go or be dragged
+
 >Let nothing human be alien to you
 
 >Let's see what life has installed for us <!-- typo -->
@@ -315,6 +321,8 @@ Quotes I've found in and around the Internet, collected because they make me smi
 >Pining for the fjords <!-- monty python -->
 
 >Play stupid games, win stupid prizes
+
+>Please don't ask if I'm a real seagull, I think it's pretty obvious I am <!-- Scott on Tinder -->
 
 >Poverty has its freedoms; opulence has its obstacles
 
@@ -391,6 +399,8 @@ Quotes I've found in and around the Internet, collected because they make me smi
 >Theoretical degree in physics <!-- fallout -->
 
 >There can be only one <!-- highlander -->
+
+>There it is again. That funny feeling. <!-- bo burnham -->
 
 >There was blood in the kitchen, there was blood in the hall <!-- shivering truth -->
 
