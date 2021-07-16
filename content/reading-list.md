@@ -50,6 +50,9 @@ To keep the page somewhat manageable, I've collapsed the list by years:
 <li>Barry J Hutchison - Dead in the Water</li>
 <li>Andy Weir - Project Hail Mary</li>
 <li>Ernest Cline - Armada</li>
+<li>Isaac Asimov - Foundation</li>
+<li>Isaac Asimov - Foundation and Empire</li>
+<li>Isaac Asimov - Second Foundation</li>
 </ul>
 </details>
 

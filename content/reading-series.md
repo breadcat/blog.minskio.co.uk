@@ -4,11 +4,11 @@ layout: single
 ---
 
 # Work in Progress
-* Barry J Hutchison - Dan Deadman - 2/3
 * Douglas Adams - The Hitchhiker's Guide to the Galaxy - 1/6
 * Frederik Pohl - Heechee - 3/6
 * Guillermo del Toro &amp; Chuck Hogan - The Strain - 1/3
 * Iain M Banks - The Culture - 4/10
+* Isaac Asimov - Foundation - 3/7
 * Jeff VanderMeer - Southern Reach Trilogy - 1/3
 * John Scalzi - Old Man's War - 4/6
 * Mary Robinette Kowal - Lady Astronaut - 3/4
@@ -20,6 +20,7 @@ layout: single
 
 # Completed
 * Anthony Horowitz - The Power of Five - 5/5
+* Barry J Hutchison - Dan Deadman - 3/3
 * Blake Crouch - The Wayward Pines trilogy - 3/3
 * David Wong - John and Dave series - 3/3
 * Dennis E Taylor - Bobiverse Series - 4/4
