@@ -137,6 +137,8 @@ Quotes I've found in and around the Internet, collected because they make me smi
 
 >How far do you think I can kick this bucket? <!-- joke punchline -->
 
+>Hurt people hurt people
+
 >I am never gonna financially recover from this <!-- tiger king -->
 
 >I am the milkman, my milk is delicious <!-- psychonauts -->
@@ -252,6 +254,8 @@ Quotes I've found in and around the Internet, collected because they make me smi
 >Let's see what life has installed for us <!-- typo -->
 
 >Like a boozy panda <!-- James Corden AMA -->
+
+>Long days and pleasant nights <!-- dark tower book -->
 
 >Magic must defeat magic <!-- jackie chan adventures -->
 
@@ -435,6 +439,8 @@ Quotes I've found in and around the Internet, collected because they make me smi
 >Two steps forward, three steps back
 
 >Vado a bordo, cazzo! <!-- costa concordia -->
+
+>We cook bacon, but we bake cookies
 
 >We feel alone together <!-- feels good man documentary -->
 
