@@ -71,7 +71,7 @@ Assuming remote setup, using an IP phone for testing
 * PGM 222 > Index 1 - Area code digits (i.e. 01282)
 
 # Usability
-* Call group pickup key: 115 > programming (numbering plan) > 566
+* Call group pickup key: 115 > Programming (numbering plan) > 566
 * Call log flex key: PGM115 > programming (PGM code) > 57 
 * Change date/time from attendant phone: Trans/PGM 0 4 1
 * Clear attendant alarm: 565
@@ -79,3 +79,5 @@ Assuming remote setup, using an IP phone for testing
 * Don't repeat auto-attendant message: PGM 160 > DISA Retry Count > 0
 * Setting an unconditional divert flex key via the web interface: PGM 115 > Programming (Numbering Plan) > 5546 speed bin number
 * Toggle CO line isolation: Trans/PGM 0 7 2
+* Calls cut off after 10 minutes: PGM180 > Unsupervised Conference Timer
+* ATD Off Duty / Unavailable: 562
