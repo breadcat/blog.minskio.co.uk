@@ -7,7 +7,7 @@ I generally strive for a book per week, but this is by no means a steadfast goal
 
 <details><summary>Works in Progress</summary>
 <ul>
-<li>Samuel R Delany - Babel-17</li>
+<li>James S A Corey - Caliban's War</li>
 </ul>
 </details>
 
@@ -53,6 +53,8 @@ To keep the page somewhat manageable, I've collapsed the list by years:
 <li>Isaac Asimov - Foundation</li>
 <li>Isaac Asimov - Foundation and Empire</li>
 <li>Isaac Asimov - Second Foundation</li>
+<li>Samuel R Delany - Babel-17</li>
+<li>James S A Corey - Leviathan Wakes</li>
 </ul>
 </details>
 
