@@ -47,6 +47,8 @@ Quotes I've found in and around the Internet, collected because they make me smi
 
 >Call me Ishmael <!-- moby dick -->
 
+>Carne Por la Machina <!-- the expanse -->
+
 >C'est la vie <!-- such is life -->
 
 >Coins I flip land on their sides <!-- the automatic lyrics -->
@@ -217,10 +219,6 @@ Quotes I've found in and around the Internet, collected because they make me smi
 
 >ISO-8601 for life
 
->It is a very comfortable hell
-
->It takes forever, until it doesn't
-
 >It's called a child-size soda because it is the size of a child <!-- parks and recreation -->
 
 >It's funny how a diagnosis can make things worse
@@ -230,6 +228,12 @@ Quotes I've found in and around the Internet, collected because they make me smi
 >It's not your pudding, you alzheimer's lout! <!-- cloud atlas -->
 
 >It's probably fine
+
+>It is a very comfortable hell
+
+>It is difficult to remember conversations one has while shooting on a grouse moor <!-- William Keswick -->
+
+>It takes forever, until it doesn't
 
 >I've got a horse called Treacle. It's got golden stirrups <!-- tim vine -->
 
@@ -372,6 +376,8 @@ Quotes I've found in and around the Internet, collected because they make me smi
 
 >Tea. Earl Grey. Hot. <!-- star trek tng -->
 
+>Tell me what you want, and I'll tell you if I'm free
+
 >Thank you for pressing the self-destruct button <!-- spaceballs -->
 
 >Thanks, I hate it <!-- reddit -->
@@ -391,6 +397,8 @@ Quotes I've found in and around the Internet, collected because they make me smi
 >The house always wins
 
 >The Industrial Revolution and its consequences have been a disaster for the human race <!-- uncle ted -->
+
+>The mask is heavy today? <!-- calibans war -->
 
 >The things you own end up owning you <!-- fight club -->
 
