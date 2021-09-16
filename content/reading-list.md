@@ -7,8 +7,8 @@ I generally strive for a book per week, but this is by no means a steadfast goal
 
 <details><summary>Works in Progress</summary>
 <ul>
-<li>James S A Corey - Abaddon's Gate</li>
 <li>Norman Boutin - Empress Theresa</li>
+<li>James S A Corey - Cibola Burn</li>
 </ul>
 </details>
 
@@ -59,6 +59,7 @@ To keep the page somewhat manageable, I've collapsed the list by years:
 <li>James S A Corey - Caliban's War</li>
 <li>Richard Ayoade - The Grip of Film</li>
 <li>Lynne Martin - Home Sweet Anywhere</li>
+<li>James S A Corey - Abaddon's Gate</li>
 </ul>
 </details>
 
