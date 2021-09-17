@@ -11,6 +11,8 @@ Quotes I've found in and around the Internet, collected because they make me smi
 
 >7/11 was a part time job
 
+>A friend to all is a friend to none <!-- aristotle -->
+
 >A little bit of everything, all of the time <!-- bo burnham -->
 
 >A priest, a minister and a rabbit walk into a blood bank. The rabbit says "I think I might be type-o"
@@ -192,6 +194,8 @@ Quotes I've found in and around the Internet, collected because they make me smi
 >If you see something, say nothing, and drink to forget <!-- night vale -->
 
 >If you were any simpler you'd have to be watered every day
+
+>If you're not turned on to politics, politics will turn on you <!-- ralph nader -->
 
 >I'm bleeding, making me the victor <!-- kung pow -->
 
