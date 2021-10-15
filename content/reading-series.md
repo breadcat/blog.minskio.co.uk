@@ -9,7 +9,7 @@ layout: single
 * Guillermo del Toro &amp; Chuck Hogan - The Strain - 1/3
 * Iain M Banks - The Culture - 4/10
 * Isaac Asimov - Foundation - 3/7
-* James S A Corey - The Expanse - 3/8
+* James S A Corey - The Expanse - 5/8
 * Jeff VanderMeer - Southern Reach Trilogy - 1/3
 * John Scalzi - Old Man's War - 4/6
 * Mary Robinette Kowal - Lady Astronaut - 3/4
