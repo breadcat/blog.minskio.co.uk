@@ -44,9 +44,9 @@ What powers the site and its associated clients
 
 <details><summary>Laptop</summary>
 <ul>
-<li>Model: Lenovo Thinkpad x200</li>
-<li>CPU: Intel Core 2 Duo P8600</li>
-<li>RAM: 4GB SODIMM</li>
+<li>Model: Lenovo Thinkpad x230t</li>
+<li>CPU: Intel i5-3320M</li>
+<li>RAM: 2x 8GB</li>
 <li>Storage: 120GB SSD</li>
 <li>OS: ArchLinux</li>
 </ul>
