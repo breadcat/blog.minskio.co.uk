@@ -171,6 +171,8 @@ Quotes I've found in and around the Internet, collected because they make me smi
 
 >I only doubted you up until the end <!-- forager -->
 
+>I pledge not to spill 4.9 million barrels of oil into the gulf of mexico <!-- andrew henderson -->
+
 >I regret learning to read
 
 >I saw her duck with my telescope <!-- ambiguous sentence -->
