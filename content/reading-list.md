@@ -3,7 +3,7 @@ title: Reading List
 layout: single
 ---
 
-I generally strive for a book per week, but this is by no means a steadfast goal. For a list of series and their status, there's the [Reading List Series](/reading-series/) page.
+I generally strive for a book per week, but this is by no means a steadfast goal. For a list of series and their status, check [the bottom of this page](#book-series).
 
 <details><summary>Works in Progress</summary>
 <ul>
@@ -12,7 +12,7 @@ I generally strive for a book per week, but this is by no means a steadfast goal
 </ul>
 </details>
 
-To keep the page somewhat manageable, I've collapsed the list by years:
+To keep the page somewhat manageable, I've collapsed the lists by years:
 
 <details><summary>2021</summary>
 <ul>
@@ -403,5 +403,56 @@ To keep the page somewhat manageable, I've collapsed the list by years:
 <li>Aldous Huxley - Brave New World</li>
 <li>Aldous Huxley - The Doors of Perception</li>
 <li>Max Brooks - World War Z</li>
+</ul>
+</details>
+
+
+# Book Series
+<details><summary>Work in Progress</summary>
+<ul>
+<li>Douglas Adams - The Hitchhiker's Guide to the Galaxy - 1/6</li>
+<li>Frederik Pohl - Heechee - 3/6</li>
+<li>Guillermo del Toro &amp; Chuck Hogan - The Strain - 1/3</li>
+<li>Iain M Banks - The Culture - 4/10</li>
+<li>Isaac Asimov - Foundation - 3/7</li>
+<li>James S A Corey - The Expanse - 5/8</li>
+<li>Jeff VanderMeer - Southern Reach Trilogy - 1/3</li>
+<li>John Scalzi - Old Man's War - 4/6</li>
+<li>Mary Robinette Kowal - Lady Astronaut - 3/4</li>
+<li>Monica Hughes - Arc One - 1/2</li>
+<li>Neal Shusterman - The Unwind dystology - 1/6</li>
+<li>Orson Scott Card - Ender saga - 2/6</li>
+<li>Suzanne Collins - The Hunger Games - 3/4</li>
+<li>Terry Pratchett - Discworld - 28/41</li>
+</ul>
+</details>
+
+<details><summary>Completed</summary>
+<ul>
+<li>Anthony Horowitz - The Power of Five - 5/5</li>
+<li>Barry J Hutchison - Dan Deadman - 3/3</li>
+<li>Blake Crouch - The Wayward Pines trilogy - 3/3</li>
+<li>David Wong - John and Dave series - 3/3</li>
+<li>Dennis E Taylor - Bobiverse Series - 4/4</li>
+<li>Ernest Cline - Ready Player One series - 2/2</li>
+<li>Grant Naylor - Red Dwarf - 4/4</li>
+<li>J K Rowling - Harry Potter - 7/7</li>
+<li>John Scalzi - The Interdependency - 3/3</li>
+<li>Kim Stanley Robinson - The Mars trilogy - 3/3</li>
+<li>Martha Wells - The Murderbot Diaries - 6/6</li>
+<li>Mira Grant - Parasitology - 3/3</li>
+<li>Philip K Dick - VALIS trilogy - 3/3</li>
+<li>Philip Pullman - His Dark Materials - 3/3</li>
+<li>Philip Reeve - Mortal Engines Quartet - 4/4</li>
+<li>Stephen King - Bill Hodges Trilogy - 3/3</li>
+<li>Stephen King - The Shining - 2/2</li>
+<li>V E Schwab - Villains - 2/2</li>
+</ul>
+</details>
+
+<details><summary>Abandoned</summary>
+<ul>
+<li>Ann Leckie - Imperial Radch trilogy - 1/3</li>
+<li>John Twelve Hawks - The Fourth Realm Trilogy - 1/3</li>
 </ul>
 </details>
