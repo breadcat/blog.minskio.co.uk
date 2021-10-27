@@ -25,3 +25,5 @@ sudo youtube-dl -U
 ```
 
 And you're done.
+
+* **Edit 2021-10-27:** [yt-dlp](https://archlinux.org/packages/community/any/yt-dlp/) is now available as an official package making this guide obsolete
