@@ -366,6 +366,8 @@ Quotes I've found in and around the Internet, collected because they make me smi
 
 >Sleep is Just Death Being Shy <!-- exurb1a -->
 
+>Smells like white spirit <!-- john shuttleworth -->
+
 >Snifters of cognac for everyone
 
 >So it goes <!-- slaughterhouse five -->
