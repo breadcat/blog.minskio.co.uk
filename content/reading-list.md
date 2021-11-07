@@ -8,7 +8,8 @@ I generally strive for a book per week, but this is by no means a steadfast goal
 <details><summary>Works in Progress</summary>
 <ul>
 <li>Norman Boutin - Empress Theresa</li>
-<li>James S A Corey - Babylon's Ashes</li>
+<li>Jim Butcher - Storm Front</li>
+<li>James S A Corey - Tiamat's Wrath</li>
 </ul>
 </details>
 
@@ -62,6 +63,8 @@ To keep the page somewhat manageable, I've collapsed the lists by years:
 <li>James S A Corey - Abaddon's Gate</li>
 <li>James S A Corey - Cibola Burn</li>
 <li>James S A Corey - Nemesis Games</li>
+<li>James S A Corey - Babylon's Ashes</li>
+<li>James S A Corey - Persepolis Rising</li>
 </ul>
 </details>
 
@@ -415,8 +418,9 @@ To keep the page somewhat manageable, I've collapsed the lists by years:
 <li>Guillermo del Toro &amp; Chuck Hogan - The Strain - 1/3</li>
 <li>Iain M Banks - The Culture - 4/10</li>
 <li>Isaac Asimov - Foundation - 3/7</li>
-<li>James S A Corey - The Expanse - 5/8</li>
+<li>James S A Corey - The Expanse - 7/8</li>
 <li>Jeff VanderMeer - Southern Reach Trilogy - 1/3</li>
+<li>Jim Butcher - The Dresden Files - 0/17</li>
 <li>John Scalzi - Old Man's War - 4/6</li>
 <li>Mary Robinette Kowal - Lady Astronaut - 3/4</li>
 <li>Monica Hughes - Arc One - 1/2</li>
