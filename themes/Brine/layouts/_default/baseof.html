@@ -6,18 +6,19 @@
 <meta content="{{ .Site.Params.author | default "John Doe" }}" name="author" />
 <meta content="width=device-width" name="viewport" />
 <style>
-	a:hover,a.active{text-decoration:underline}
+	a.active,a:hover{text-decoration:underline}
 	body{margin:0;word-wrap:break-word;font:calc(.75em + 1.3vmin)/1.6 "Segoe UI",Helvetica,Arial,sans-serif}
 	h2{font-size:xx-large;margin-bottom:unset}
 	a{text-decoration:none;color:#03c}
 	aside ul{list-style:none;white-space:nowrap;padding:10px}
-	aside a,aside li{color:#E0E0E0}
-	aside{background:#212121;padding:3.75vw;top:0}
+	aside a,aside li{color:#e0e0e0}
+	aside{background:#212121;padding:3.5vw;top:0}
+	aside ul form input{background:#212121;color:#e0e0e0;padding:1.5vh;border:1px solid #e0e0e0;border-radius:1vh}
 	main{margin:8vh auto;max-width:90%}
-	main h1 {font-size: xx-large; margin-top: 8vh}
+	main h1{font-size:xx-large;margin-top:8vh}
 	code{background:#eee;font-family:Consolas,monaco,monospace;padding:5px;font-size:75%}
 	pre>code{display:block;padding:20px;white-space:pre-wrap;font-size:75%;max-width:80ch}
-	p,a,li,h1{max-width:70ch}
+	a,h1,li,p{max-width:70ch}
 	blockquote{color:#333;border-left:7px solid #fc9;padding:0 14px;margin:0}
 	td,th{text-align:left;padding-right:10px}
 	p.pagination>a{padding:5px}
@@ -25,7 +26,7 @@
 		aside{position:fixed;min-width:14vw;max-width:17vw;bottom:0;overflow-y:auto}
 		#l{margin-top:0}
 		main{width:63%;margin-left:31vw;margin-top:0}
-	}
+		}
 </style>
 <aside>
 	<ul>
@@ -43,6 +44,12 @@
 	<ul>
 		<li><a href="/tags/">Tags</a></li>
 		<li><a href="/index.xml">RSS Feed</a></li>
+	</ul>
+	<ul>
+		<form action="https://duckduckgo.com/" method="get">
+			<input name="sites" type="hidden" value="{{ .Site.BaseURL }}">
+			<input aria-label="Search..." name="q" type="text" placeholder="Search..." >
+		</form>
 	</ul>
 	<ul>
 		<li>&copy; {{ now.Format "2006" }}</li>
