@@ -364,6 +364,8 @@ Quotes I've found in and around the Internet, collected because they make me smi
 
 >Sic semper tyrannis you fucking idiot
 
+>Six trombones is not a parade <!-- jackbox -->
+
 >Sleep is Just Death Being Shy <!-- exurb1a -->
 
 >Smells like white spirit <!-- john shuttleworth -->
@@ -401,6 +403,8 @@ Quotes I've found in and around the Internet, collected because they make me smi
 >The beatings will continue until morale improves
 
 >The burned hand teaches best <!-- tolkien -->
+
+>The gaping maw of consumerism <!-- jackbox -->
 
 >The house always wins
 
