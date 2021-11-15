@@ -2,12 +2,8 @@
 title: Archived Television
 tags: ["Media", "Archive"]
 date: 2018-01-01T01:00:00
-lastmod: 2021-08-31T10:58:00
+lastmod: 2021-11-15T16:33:00
 ---
-
-<!-- Work in Progress: South Park, Star Trek, The Amazing World of Gumball, The Sinner -->
-<!-- Rewatch: Farscape, Gurren Lagann, Lexx, Police Squad!, Swiss Toni, Terry Pratchett's Going Postal, The Boondocks, The Inbetweeners, True Detective -->
-<!-- Abandoned: DARK, Designated Survivor, Doctor Who (2005), Fear the Walking Dead, How to Get Away with Murder, Making a Murderer, Sharp Objects, The Simpsons, The Walking Dead, Twin Peaks -->
 
 * 11.22.63
 * A Certain Scientific Railgun
@@ -16,6 +12,7 @@ lastmod: 2021-08-31T10:58:00
 * Almost Human
 * Altered Carbon
 * American Gods
+* An Idiot Abroad
 * Angel Cop
 * Archer
 * Ash vs. Evil Dead
@@ -33,6 +30,7 @@ lastmod: 2021-08-31T10:58:00
 * Breaking Bad
 * Brooklyn Nine-Nine
 * Burnistoun
+* Can't Get You Out of My Head
 * Chernobyl
 * Childhood's End
 * Clarkson's Farm
@@ -108,6 +106,7 @@ lastmod: 2021-08-31T10:58:00
 * Sons of Anarchy
 * Space Dandy
 * Space Patrol Luluco
+* Squid Game
 * SS-GB
 * Star Trek: Deep Space Nine
 * Star Trek: Discovery
@@ -148,6 +147,7 @@ lastmod: 2021-08-31T10:58:00
 * The Sinner
 * The Stand (1994)
 * The Strain
+* The Terror
 * The Twilight Zone
 * The Twilight Zone (2019)
 * The Wire
