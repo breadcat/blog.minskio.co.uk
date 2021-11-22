@@ -4,3 +4,6 @@ drafts
 
 # status page (https://git.minskio.co.uk/cgit.cgi/dockerfiles/.git/plain/server.sh func_status)
 status.md
+
+# hugo lockfile
+.hugo_build.lock
