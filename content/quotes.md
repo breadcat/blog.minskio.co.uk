@@ -75,6 +75,8 @@ Quotes I've found in and around the Internet, collected because they make me smi
 
 >Don't sweat the small stuff
 
+>Don't worry, it'll evaporate
+
 >Each of us fights for what he lacks most <!-- robert surcouf -->
 
 >Errors by errorlight
@@ -255,6 +257,8 @@ Quotes I've found in and around the Internet, collected because they make me smi
 
 >keine gnade meine kinder <!-- no mercy, my children -->
 
+>Learn to live on lentils and you will not have to be subservient to the king <!-- Diogenes -->
+
 >Leave the handgun, take the cash <!-- simple creatures - lucy -->
 
 >Let go or be dragged
@@ -364,6 +368,8 @@ Quotes I've found in and around the Internet, collected because they make me smi
 
 >Sic semper tyrannis you fucking idiot
 
+>Silver or lead? <!-- Auberon -->
+
 >Six trombones is not a parade <!-- jackbox -->
 
 >Sleep is Just Death Being Shy <!-- exurb1a -->
@@ -411,6 +417,8 @@ Quotes I've found in and around the Internet, collected because they make me smi
 >The Industrial Revolution and its consequences have been a disaster for the human race <!-- uncle ted -->
 
 >The mask is heavy today? <!-- calibans war -->
+
+>The patron saint of putting up with idiots <!-- leviathan's fall -->
 
 >The things you own end up owning you <!-- fight club -->
 
