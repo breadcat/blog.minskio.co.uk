@@ -2,7 +2,7 @@
 title: Archived Television
 tags: ["Media", "Archive"]
 date: 2018-01-01T01:00:00
-lastmod: 2021-11-15T16:33:00
+lastmod: 2022-01-01T12:50:00
 ---
 
 * 11.22.63
@@ -16,6 +16,7 @@ lastmod: 2021-11-15T16:33:00
 * Angel Cop
 * Archer
 * Ash vs. Evil Dead
+* Attack on Titan
 * Avenue 5
 * Battle Angel Alita
 * Berry & Fulcher's Snuff Box
@@ -81,6 +82,7 @@ lastmod: 2021-11-15T16:33:00
 * Long Way Up
 * Love, Death & Robots
 * Luther
+* Made For Love
 * Mind Field
 * Mr. Mercedes
 * Mr. Pickles
