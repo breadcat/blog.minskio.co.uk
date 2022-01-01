@@ -9,7 +9,6 @@ I generally strive for a book per week, but this is by no means a steadfast goal
 <ul>
 <li>Norman Boutin - Empress Theresa</li>
 <li>Jim Butcher - Storm Front</li>
-<li>James S A Corey - Tiamat's Wrath</li>
 </ul>
 </details>
 
@@ -65,6 +64,20 @@ To keep the page somewhat manageable, I've collapsed the lists by years:
 <li>James S A Corey - Nemesis Games</li>
 <li>James S A Corey - Babylon's Ashes</li>
 <li>James S A Corey - Persepolis Rising</li>
+<li>James S A Corey - Tiamat's Wrath</li>
+<li>James S A Corey - Drive</li>
+<li>James S A Corey - The Churn</li>
+<li>James S A Corey - The Expanse Origins</li>
+<li>James S A Corey - Gods of Risk</li>
+<li>James S A Corey - The Vital Abyss</li>
+<li>James S A Corey - Strange Dogs</li>
+<li>Ray Bradbury - A Sound of Thunder</li>
+<li>Frank Herbert - Dune</li>
+<li>Bob Mortimer - And Away...</li>
+<li>James S A Corey - The Butcher of Anderson Station</li>
+<li>James S A Corey - The Last Flight of the Cassandra</li>
+<li>James S A Corey - Leviathan Falls</li>
+<li>James S A Corey - Auberon</li>
 </ul>
 </details>
 
@@ -418,7 +431,6 @@ To keep the page somewhat manageable, I've collapsed the lists by years:
 <li>Guillermo del Toro &amp; Chuck Hogan - The Strain - 1/3</li>
 <li>Iain M Banks - The Culture - 4/10</li>
 <li>Isaac Asimov - Foundation - 3/7</li>
-<li>James S A Corey - The Expanse - 7/8</li>
 <li>Jeff VanderMeer - Southern Reach Trilogy - 1/3</li>
 <li>Jim Butcher - The Dresden Files - 0/17</li>
 <li>John Scalzi - Old Man's War - 4/6</li>
@@ -441,6 +453,8 @@ To keep the page somewhat manageable, I've collapsed the lists by years:
 <li>Ernest Cline - Ready Player One series - 2/2</li>
 <li>Grant Naylor - Red Dwarf - 4/4</li>
 <li>J K Rowling - Harry Potter - 7/7</li>
+<li>James S A Corey - The Expanse - 9/9</li>
+<li>James S A Corey - The Expanse Novellas - 9/9</li>
 <li>John Scalzi - The Interdependency - 3/3</li>
 <li>Kim Stanley Robinson - The Mars trilogy - 3/3</li>
 <li>Martha Wells - The Murderbot Diaries - 6/6</li>
