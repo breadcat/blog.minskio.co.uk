@@ -101,6 +101,8 @@ Quotes I've found in and around the Internet, collected because they make me smi
 
 >Feels like we only go backwards <!-- tame impala -->
 
+>Follow the money <!-- all the presidents men -->
+
 >Fuck off up the model village <!-- hot fuzz -->
 
 >Fuck the state <!-- drug sniffing cats-->
@@ -365,6 +367,8 @@ Quotes I've found in and around the Internet, collected because they make me smi
 >Shikata ga nai <!-- japanese phrase, it cannot be helped -->
 
 >Shooting stars only <!-- the langoliers -->
+
+>Should I kill myself, or have a cup of coffee? <!-- albert camus -->
 
 >Sic semper tyrannis you fucking idiot
 
