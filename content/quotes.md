@@ -510,6 +510,8 @@ Quotes I've found in and around the Internet, collected because they make me smi
 
 >Ye shall know the truth, and the truth shall make you mad <!-- aldous huxley -->
 
+>Yes I Can Hear You Clem Fandango <!-- toast of london -->
+
 >Yes, even if they ask stupid questions <!-- love everyone meme, no matter what -->
 
 >You are being shagged by a rare parrot! <!-- last chance to see -->
