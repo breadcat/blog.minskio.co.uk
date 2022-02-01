@@ -17,7 +17,7 @@ Things I enjoy or embrace, in no particular order (albeit alphabetical) include:
 * Cryptocurrency, especially [Nano](https://nano.org/) and [Monero](https://www.getmonero.org/)
 * GNU/Linux and free software in general
 * Hypermiling
-* INTJ Myers–Briggs Indicator
+* [INTJ Myers–Briggs Indicator](https://www.16personalities.com/profiles/ef5f8da14ed9e)
 * [Ketogenic food](/recipes/) and OMAD diets
 * Lucid dreaming
 * Minimalism
