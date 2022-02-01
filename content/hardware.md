@@ -57,7 +57,7 @@ What powers the site and its associated clients
 <li>Hardware: Intel NUC NUC5i3RYH</li>
 <li>CPU: Intel i3-5010U</li>
 <li>Storage: 120GB SSD</li>
-<li>OS: ArchLinux</li>
+<li>OS: LibreELEC</li>
 <li>Television: Sony 42"</li>
 <li>Other Hardware: Intel NUC HDMI-CEC Adapter</li>
 <li>Controller: Sony DualShock 4</li>
