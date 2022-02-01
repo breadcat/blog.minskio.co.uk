@@ -40,6 +40,21 @@ If you'd like to see what has changed before you commit them, you can run:
 dotfiles diff $HOME/.config/bspwm/bspwmrc
 ```
 
+Another point worth noting, [shamelessly stolen from jbauer](https://www.paritybit.ca/blog/how-i-manage-my-dotfiles) is omitting repository specific files (`readme.md`, `licence`, etc) via the `--skip-worktree` option, for example:
+```
+dotfiles add readme.md
+dotfiles commit -m "Add Readme"
+rm readme.md
+dotfiles update-index --skip-worktree readme.md
+```
+
+And then to update this file:
+```
+dotfiles update-index --no-skip-worktree readme.md
+dotfiles checkout -- readme.md
+```
+
 And you're done. This guide is by no means unique, but has been collated from many posts accross the Internet detailing this process.
 
 * **Edit 2020-07-21:** Added note about diffing changes
+* **Edit 2021-11-29:** Added note about removing files from the work tree
