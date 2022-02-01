@@ -18,7 +18,7 @@ What powers the site and its associated clients
 <li>Monitors: 2x Iiyama ProLite E2710HDS</li>
 <li>OS: Microsoft Windows 10 Pro N Version 2004</li>
 <li>Keyboard: Rosewill-RK-9000V2 Cherry MX Brown</li>
-<li>Mouse: Corsair Harpoon</li>
+<li>Mouse: Zowie S2</li>
 <li>Headset: SteelSeries Arctis 3</li>
 <li>Scanner: Fujitsu ScanSnap iX500</li>
 <li>UserBenchmark: <a href="https://www.userbenchmark.com/UserRun/39415002">Results</a></li>
