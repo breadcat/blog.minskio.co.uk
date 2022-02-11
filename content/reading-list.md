@@ -9,7 +9,7 @@ I generally strive for a book per week, but this is by no means a steadfast goal
 <ul>
 <li>Norman Boutin - Empress Theresa</li>
 <li>Jim Butcher - Storm Front</li>
-<li>Terry Pratchett - Monstrous Regiment</li>
+<li>Mary Robinette Kowal - The Relentless Moon</li>
 </ul>
 </details>
 
@@ -23,6 +23,8 @@ To keep the page somewhat manageable, I've collapsed the lists by years:
 <li>Terry Pratchett - Night Watch</li>
 <li>Terry Pratchett - The Wee Free Men</li>
 <li>Pat Cadigan - The Final Performance of the Amazing Ralphie</li>
+<li>Terry Pratchett - Monstrous Regiment</li>
+<li>Terry Pratchett - A Hat Full of Sky</li>
 </ul>
 </details>
 
@@ -452,7 +454,7 @@ To keep the page somewhat manageable, I've collapsed the lists by years:
 <li>Orson Scott Card - Ender saga - 2/6</li>
 <li>Suzanne Collins - The Hunger Games - 3/4</li>
 <li>Tade Thompson - The Wormwood Trilogy - 1/3</li>
-<li>Terry Pratchett - Discworld - 30/41</li>
+<li>Terry Pratchett - Discworld - 32/41</li>
 </ul>
 </details>
 
