@@ -480,6 +480,8 @@ Quotes I've found in and around the Internet, collected because they make me smi
 
 >Well I'm not here to fuck spiders <!-- australian slang -->
 
+>We've also arrested your older, balder, fatter son <!-- the simpsons -->
+
 >Well. I guess there's nothing to do but lay here and wait to die
 
 >We've all technically kicked a pregnant woman
