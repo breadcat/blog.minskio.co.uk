@@ -68,6 +68,11 @@ qpdf input.pdf --pages input.pdf 1-2,4 -- outputfile1.pdf
 qpdf input.pdf --pages input.pdf 3,5-6 -- outputfile2.pdf
 ```
 
+## Merging
+```
+qpdf second_file.pdf --pages first_file.pdf 1 second_file.pdf 1 -- output_file.pdf
+```
+
 ## Rotating
 ```
 qpdf in out.pdf --rotate=180:1,4
@@ -144,3 +149,4 @@ Lastly, and the key to keeping things easy to work with, my folder structure loo
 This is all kept backed up on cloud storage, as you'd expect. So finally, at the end of all this, we have sorted, digital-only paperwork, backed up online.
 
 * **Edit 2020-07-01:** Updated vehicle insurance and tax structure
+* **Edit 2022-02-17:** Added merging pdf instructions
