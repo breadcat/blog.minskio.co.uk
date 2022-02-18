@@ -9,7 +9,7 @@ I generally strive for a book per week, but this is by no means a steadfast goal
 <ul>
 <li>Norman Boutin - Empress Theresa</li>
 <li>Jim Butcher - Storm Front</li>
-<li>Mary Robinette Kowal - The Relentless Moon</li>
+<li>Terry Pratchett - Going Postal</li>
 </ul>
 </details>
 
@@ -25,6 +25,7 @@ To keep the page somewhat manageable, I've collapsed the lists by years:
 <li>Pat Cadigan - The Final Performance of the Amazing Ralphie</li>
 <li>Terry Pratchett - Monstrous Regiment</li>
 <li>Terry Pratchett - A Hat Full of Sky</li>
+<li>Mary Robinette Kowal - The Relentless Moon</li>
 </ul>
 </details>
 
@@ -448,7 +449,6 @@ To keep the page somewhat manageable, I've collapsed the lists by years:
 <li>Jeff VanderMeer - Southern Reach Trilogy - 1/3</li>
 <li>Jim Butcher - The Dresden Files - 0/17</li>
 <li>John Scalzi - Old Man's War - 4/6</li>
-<li>Mary Robinette Kowal - Lady Astronaut - 3/4</li>
 <li>Monica Hughes - Arc One - 1/2</li>
 <li>Neal Shusterman - The Unwind dystology - 1/6</li>
 <li>Orson Scott Card - Ender saga - 2/6</li>
@@ -473,6 +473,7 @@ To keep the page somewhat manageable, I've collapsed the lists by years:
 <li>John Scalzi - The Interdependency - 3/3</li>
 <li>Kim Stanley Robinson - The Mars trilogy - 3/3</li>
 <li>Martha Wells - The Murderbot Diaries - 6/6</li>
+<li>Mary Robinette Kowal - Lady Astronaut - 4/4</li>
 <li>Mira Grant - Parasitology - 3/3</li>
 <li>Philip K Dick - VALIS trilogy - 3/3</li>
 <li>Philip Pullman - His Dark Materials - 3/3</li>
