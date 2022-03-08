@@ -1,6 +1,7 @@
 ---
 title: "Oracle Alpine Linux ARM server"
 date: 2022-02-16T18:59:00
+lastmod: 2022-03-08T12:03:00
 tags: ["Guides", "Linux", "Networks", "Servers", "Software"]
 ---
 
@@ -62,6 +63,7 @@ parted /dev/sda
 p
 resizepart
 2
+yes
 100%
 quit
 ```
@@ -71,7 +73,7 @@ Once completed, reboot again and check your partitions using `fdisk -l`.
 
 ## Securing SSH
 
-As mentioned in the guide, all the above remote work was done using password authentication which we're not a fan of in the long term. I did this from my /other/ server for easy access to my SSH keys:
+As mentioned in the guide, all the above remote work was done using password authentication which we're not a fan of in the long term. I did this from my *other* server for easy access to my SSH keys:
 ```
 ssh-copy-id -i your_ssh_key.pub root@server.ip.address
 ```
@@ -117,3 +119,34 @@ I'm looking at managing my servers with ansible, the requirements here are somew
 ```
 apk add python3
 ```
+
+## Block Storage
+Much like [Hetzner](/manually-formatting-mounting-and-using-hetzner-volumes/), Oracle also offer Block Storage with the added bonus of being free. I decided to opt for the 4 OCPU/24GB instance and then use my remaining 150GB block storage creating a storage volume. When creating this there are a few things to note:
+* Ensure the availability domain is the same between instance and block storage
+* When you're attaching the volume to the instance, use *paravirtualized* instead of ISCSI
+
+Now, you can check your storage is available by issuing `lsblk`, your disk should be listed as `/dev/sdb`. To start using this storage you can do the following:
+```
+fdisk /dev/sdb
+n
+{enter}
+{enter}
+{enter}
+{enter}
+w
+```
+This should give us a new partition to use. We can now format it to ext4 with:
+```
+mkfs.ext4 /dev/sdb1
+```
+We can also reduce the reserved space on this partiton giving us a little more breathing room:
+```
+tune2fs -m1 /dev/sdb1
+```
+All that's left now is to edit `/etc/fstab` and add an entry like the following:
+```
+/dev/sdb1       /mnt/tank       ext4    rw,nofail	0	0
+```
+You can now mount everything using `mount -a`, and you're done.
+
+* **Edit 2022-03-08:** Added block storage instructions
