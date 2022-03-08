@@ -2,7 +2,7 @@
 title: "Notes on sorting Paperwork"
 date: 2020-06-23T15:29:00
 lastmod: 2020-07-01T11:12:00
-tags: ["Formats", "Guides", "Minimalism", "Snippets", "Software", "Windows"]
+tags: ["Formats", "Guides", "Minimalism", "Notes", "Snippets", "Software", "Windows"]
 ---
 
 # Intention

@@ -2,7 +2,7 @@
 title: "Notes on storing Dotfiles"
 date: 2020-06-28T15:29:00
 lastmod: 2020-06-29T11:43:00
-tags: ["Linux", "Selfhosted", "Software"]
+tags: ["Linux", "Notes", "Selfhosted", "Software"]
 ---
 
 I've run various versions of Linux on and off for quite a few years now, and I've never really thought about archiving my dotfiles in any meaningful way. I would re-install Linux so infrequently, and generally make so few changes that it never made sense to set up systems or repositories for config files.

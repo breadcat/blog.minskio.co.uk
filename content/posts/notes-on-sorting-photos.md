@@ -1,7 +1,7 @@
 ---
 title: "Notes on sorting Photos"
 date: 2019-12-23T11:50:00
-tags: ["Android", "Formats", "Guides", "Linux", "Media", "Minimalism", "Snippets", "Software"]
+tags: ["Android", "Formats", "Guides", "Linux", "Media", "Minimalism", "Notes", "Snippets", "Software"]
 ---
 
 My smart phone is an android device, it connects to my computer via MTP over USB and I store my photographs on cloud storage. Subsequently I want these pictures to be sorted, and I don't want any duplicates.
