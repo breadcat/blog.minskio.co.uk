@@ -302,7 +302,10 @@ Quotes I've found in and around the Internet, collected because they make me smi
 >NO ESCAPE, NO SURRENDER, NO WITNESSES
 
 >No kali-ba
+
 >No one knows anything
+
+>Nothing cleans stubborn stains like suppressed anger <!-- Unseen Academicals -->
 
 >nofkyo <!-- exurb1a - no one fucking knows yet, okay -->
 
