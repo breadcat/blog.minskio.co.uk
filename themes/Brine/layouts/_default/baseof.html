@@ -46,10 +46,12 @@
 		<li><a href="/index.xml">RSS Feed</a></li>
 	</ul>
 	<ul>
-		<form action="https://duckduckgo.com/" method="get">
-			<input name="sites" type="hidden" value="{{ .Site.BaseURL }}">
-			<input aria-label="Search..." name="q" type="text" placeholder="Search..." >
-		</form>
+		<li>
+			<form action="https://duckduckgo.com/" method="get">
+				<input name="sites" type="hidden" value="{{ .Site.BaseURL }}">
+				<input aria-label="Search..." name="q" type="text" placeholder="Search..." >
+			</form>
+		</li>
 	</ul>
 	<ul>
 		<li>&copy; {{ now.Format "2006" }}</li>
