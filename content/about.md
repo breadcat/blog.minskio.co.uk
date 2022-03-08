@@ -51,6 +51,7 @@ Some people I find interesting or inspirational:
 * Xu Xiaodong
 
 There are some actual places online however that you'll find me:
+* [ArchLinux AUR](https://aur.archlinux.org/packages/?K=midvalley&SeB=m)
 * [Docker](https://hub.docker.com/u/wervv/) (alternatively, check the [GitHub repo](https://github.com/breadcat/Dockerfiles))
 * [Duolingo](https://www.duolingo.com/unholybanquet) - [Extended stats available here](https://duome.eu/unholybanquet)
 * [GitHub](https://github.com/breadcat)
