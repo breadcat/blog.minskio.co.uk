@@ -79,6 +79,8 @@ Quotes I've found in and around the Internet, collected because they make me smi
 
 >Each of us fights for what he lacks most <!-- robert surcouf -->
 
+>En svensk tiger
+
 >Errors by errorlight
 
 >Ever felt the joy of karate chopping an ankle? <!-- lolnein -->
@@ -270,6 +272,8 @@ Quotes I've found in and around the Internet, collected because they make me smi
 >Let's see what life has installed for us <!-- typo -->
 
 >Like a boozy panda <!-- James Corden AMA -->
+
+>Like with a cloth or something? <!-- Hillary Clinton -->
 
 >Long days and pleasant nights <!-- dark tower book -->
 
@@ -472,6 +476,8 @@ Quotes I've found in and around the Internet, collected because they make me smi
 >Two hundred dollar, please <!-- psychoville -->
 
 >Two steps forward, three steps back
+
+>Use it up, wear it out, make it do, or do without
 
 >Vado a bordo, cazzo! <!-- costa concordia -->
 
