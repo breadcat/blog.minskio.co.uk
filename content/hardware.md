@@ -16,7 +16,7 @@ What powers the site and its associated clients
 <li>PSU: Corsair SF450 450W Modular 80+ Gold PSU</li>
 <li>Case: DAN Case A4-SFX v2</li>
 <li>Monitors: 2x Iiyama ProLite E2710HDS</li>
-<li>OS: Microsoft Windows 11 Education</li>
+<li>OS: Microsoft Windows 10 IoT Enterprise LTSC</li>
 <li>Keyboard: Rosewill-RK-9000V2 Cherry MX Brown</li>
 <li>Mouse: Zowie S2</li>
 <li>Headset: SteelSeries Arctis 3</li>
