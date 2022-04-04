@@ -2,7 +2,7 @@
 title: Archived Television
 tags: ["Media", "Archive"]
 date: 2018-01-01T01:00:00
-lastmod: 2022-01-01T12:50:00
+lastmod: 2022-04-04T11:04:00
 ---
 
 * 11.22.63
@@ -38,6 +38,7 @@ lastmod: 2022-01-01T12:50:00
 * Cleopatra 2525
 * Conquering Northern China
 * Cowboy Bebop
+* Cowboy Bebop (2021)
 * Creepshow
 * Dark Angel
 * Dark Tourist
@@ -153,6 +154,7 @@ lastmod: 2022-01-01T12:50:00
 * The Twilight Zone
 * The Twilight Zone (2019)
 * The Wire
+* The Woman in the House Across the Street from the Girl in the Window
 * Tidying Up with Marie Kondo
 * Tiger King: Murder, Mayhem and Madness
 * Tin Star
@@ -168,4 +170,5 @@ lastmod: 2022-01-01T12:50:00
 * Watchmen
 * Wayward Pines
 * Westworld
+* X-Men
 * X-Men Evolution
