@@ -1,0 +1,30 @@
+{{ define "main" }}	<h1>{{ .Title }}</h1>
+	{{ .Content }}
+	<details>
+		<summary>College</summary>
+		<ul>{{ range sort .Site.Taxonomies.memoir.college ".Page.RelPermalink" "desc" }}
+			<li><a href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a></li>{{ end }}
+		</ul>
+	</details>
+
+	<details>
+		<summary>Sixth Form</summary>
+		<ul>{{ range sort .Site.Taxonomies.memoir.sixthform ".Page.RelPermalink" "desc" }}
+			<li><a href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a></li>{{ end }}
+		</ul>
+	</details>
+
+	<details>
+		<summary>Junior School</summary>
+		<ul>{{ range sort .Site.Taxonomies.memoir.juniorschool ".Page.RelPermalink" "desc" }}
+			<li><a href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a></li>{{ end }}
+		</ul>
+	</details>
+
+	<details>
+		<summary>Nursery</summary>
+		<ul>{{ range sort .Site.Taxonomies.memoir.nursery ".Page.RelPermalink" "desc" }}
+			<li><a href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a></li>{{ end }}
+		</ul>
+	</details>
+{{ end }}

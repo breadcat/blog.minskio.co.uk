@@ -20,3 +20,4 @@ disableFastRender=true
 	recipe = "recipe"
 	dream = "dream"
 	language = "language"
+	memoir = "memoir"
