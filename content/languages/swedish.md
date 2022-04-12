@@ -109,6 +109,8 @@ Unfortunately, this was started *very* late into the process of learning the lan
 * n&auml;sta - next
 * omr&aring;de - area
 * ov&auml;ntad - unexpected
+* p&aring;sk - easter
+* pga (p&aring; grund av) - due to, because of
 * plan - floor, level
 * pris - price
 * radhus - townhouse
