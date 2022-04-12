@@ -35,6 +35,8 @@ Quotes I've found in and around the Internet, collected because they make me smi
 
 >Being pissed off is better than being pissed on
 
+>Better one day as a lion than a hundred days as a sheep
+
 >Brevity is the soul of wit
 
 >Bring snacks and supplies <!-- red hot chili peppers - road trippin -->
@@ -269,6 +271,8 @@ Quotes I've found in and around the Internet, collected because they make me smi
 
 >Let nothing human be alien to you
 
+>Let's grow old together, and die at the same time <!-- to lose my love -->
+
 >Let's see what life has installed for us <!-- typo -->
 
 >Like a boozy panda <!-- James Corden AMA -->
@@ -468,6 +472,8 @@ Quotes I've found in and around the Internet, collected because they make me smi
 >Tiny Terry loves his pickles <!-- brooklyn nine-nine -->
 
 >Trust, but verify <!-- russian phrase -->
+
+>Two lovers missing the tranquility of solitude <!-- that's entertainment -->
 
 >'Tis a silly place <!-- monty python and the holy grail -->
 
