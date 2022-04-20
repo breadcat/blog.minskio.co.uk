@@ -9,7 +9,7 @@ I generally strive for a book per week, but this is by no means a steadfast goal
 <ul>
 <li>Norman Boutin - Empress Theresa</li>
 <li>Jim Butcher - Storm Front</li>
-<li>Terry Pratchett - Snuff</li>
+<li>Jeff VanderMeer - Authority</li>
 </ul>
 </details>
 
@@ -33,7 +33,9 @@ To keep the page somewhat manageable, I've collapsed the lists by years:
 <li>Terry Pratchett - Unseen Academicals</li>
 <li>Terry Pratchett - Making Money</li>
 <li>Terry Pratchett - I Shall Wear Midnight</li>
-
+<li>Terry Pratchett - Snuff</li>
+<li>Terry Pratchett - Raising Steam</li>
+<li>Terry Pratchett - The Shepherd's Crown</li>
 </ul>
 </details>
 
@@ -462,7 +464,6 @@ To keep the page somewhat manageable, I've collapsed the lists by years:
 <li>Orson Scott Card - Ender saga - 2/6</li>
 <li>Suzanne Collins - The Hunger Games - 3/4</li>
 <li>Tade Thompson - The Wormwood Trilogy - 1/3</li>
-<li>Terry Pratchett - Discworld - 38/41</li>
 </ul>
 </details>
 
@@ -488,6 +489,7 @@ To keep the page somewhat manageable, I've collapsed the lists by years:
 <li>Philip Reeve - Mortal Engines Quartet - 4/4</li>
 <li>Stephen King - Bill Hodges Trilogy - 3/3</li>
 <li>Stephen King - The Shining - 2/2</li>
+<li>Terry Pratchett - Discworld - 41/41</li>
 <li>V E Schwab - Villains - 2/2</li>
 </ul>
 </details>
