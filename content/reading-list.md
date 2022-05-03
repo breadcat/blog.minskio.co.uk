@@ -1,6 +1,7 @@
 ---
 title: Reading List
 layout: single
+lastmod: 2022-04-25T14:23:00
 ---
 
 I generally strive for a book per week, but this is by no means a steadfast goal. For a list of series and their status, check [the bottom of this page](#book-series).
@@ -9,7 +10,7 @@ I generally strive for a book per week, but this is by no means a steadfast goal
 <ul>
 <li>Norman Boutin - Empress Theresa</li>
 <li>Jim Butcher - Storm Front</li>
-<li>Jeff VanderMeer - Authority</li>
+<li>Kim Stanley Robinson - New York 2140</li>
 </ul>
 </details>
 
@@ -36,6 +37,8 @@ To keep the page somewhat manageable, I've collapsed the lists by years:
 <li>Terry Pratchett - Snuff</li>
 <li>Terry Pratchett - Raising Steam</li>
 <li>Terry Pratchett - The Shepherd's Crown</li>
+<li>Jeff VanderMeer - Authority</li>
+<li>Jeff VanderMeer - Acceptance</li>
 </ul>
 </details>
 
@@ -144,7 +147,7 @@ To keep the page somewhat manageable, I've collapsed the lists by years:
 <li>Stephen King - Laurie</li>
 <li>Dennis E Taylor - For We Are Many</li>
 <li>Dennis E Taylor - All These Worlds</li>
-<li> John Steakley - Armor</li>
+<li>John Steakley - Armor</li>
 <li>Richard Ayoade - Ayoade on Top</li>
 <li>John Scalzi - The Last Emperox</li>
 <li>Dennis E Taylor - Heaven's River</li>
@@ -456,7 +459,6 @@ To keep the page somewhat manageable, I've collapsed the lists by years:
 <li>Guillermo del Toro &amp; Chuck Hogan - The Strain - 1/3</li>
 <li>Iain M Banks - The Culture - 4/10</li>
 <li>Isaac Asimov - Foundation - 3/7</li>
-<li>Jeff VanderMeer - Southern Reach Trilogy - 1/3</li>
 <li>Jim Butcher - The Dresden Files - 0/17</li>
 <li>John Scalzi - Old Man's War - 4/6</li>
 <li>Monica Hughes - Arc One - 1/2</li>
@@ -479,6 +481,7 @@ To keep the page somewhat manageable, I've collapsed the lists by years:
 <li>J K Rowling - Harry Potter - 7/7</li>
 <li>James S A Corey - The Expanse - 9/9</li>
 <li>James S A Corey - The Expanse Novellas - 9/9</li>
+<li>Jeff VanderMeer - Southern Reach Trilogy - 3/3</li>
 <li>John Scalzi - The Interdependency - 3/3</li>
 <li>Kim Stanley Robinson - The Mars trilogy - 3/3</li>
 <li>Martha Wells - The Murderbot Diaries - 6/6</li>
