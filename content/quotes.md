@@ -37,6 +37,8 @@ Quotes I've found in and around the Internet, collected because they make me smi
 
 >Better one day as a lion than a hundred days as a sheep
 
+>Bread and circuses <!-- juvenal, roman poet -->
+
 >Brevity is the soul of wit
 
 >Bring snacks and supplies <!-- red hot chili peppers - road trippin -->
@@ -540,6 +542,8 @@ Quotes I've found in and around the Internet, collected because they make me smi
 >You don't need a parachute to skydive. You need one to skydive twice
 
 >You guys have phones, don't you? <!-- diablo press conference -->
+
+>You load 16 tons, what do you get? <!-- Tennessee Ernie Ford -->
 
 >You need to work on your threats
 
