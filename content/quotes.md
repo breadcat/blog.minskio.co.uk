@@ -303,6 +303,8 @@ Quotes I've found in and around the Internet, collected because they make me smi
 
 >Mustn't grumble <!-- chas and dave wallop -->
 
+>My disappointment is immeasurable, and my day is ruined <!-- the report of the week -->
+
 >My name is Bolo Santosi, I am the leader of the revolutionary army known as the Reapers. <!-- just cause 2 -->
 
 >My tables are so clean you could eat off them <!-- discworld -->
