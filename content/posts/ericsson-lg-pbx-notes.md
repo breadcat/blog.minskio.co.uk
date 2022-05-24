@@ -1,6 +1,7 @@
 ---
 title: "Ericsson-LG PBX notes"
 date: 2021-05-21T13:48:00
+lastmod: 2022-05-23T15:58:00
 tags: ["Guides", "Hardware", "PBX", "Snippets", "Work"]
 ---
 
@@ -72,12 +73,17 @@ Assuming remote setup, using an IP phone for testing
 
 # Usability
 * Call group pickup key: 115 > Programming (numbering plan) > 566
-* Call log flex key: PGM115 > programming (PGM code) > 57 
+* Call log flex key: PGM115 > programming (PGM code) > 57
 * Change date/time from attendant phone: Trans/PGM 0 4 1
 * Clear attendant alarm: 565
 * Day/Night toggle flex key: PGM 115 > Programming (PGM Code) > 8*612
+* Two way record flex key: PGM 115 > Programming (PGM Code) > 80
 * Don't repeat auto-attendant message: PGM 160 > DISA Retry Count > 0
 * Setting an unconditional divert flex key via the web interface: PGM 115 > Programming (Numbering Plan) > 5546 speed bin number
 * Toggle CO line isolation: Trans/PGM 0 7 2
 * Calls cut off after 10 minutes: PGM180 > Unsupervised Conference Timer
 * ATD Off Duty / Unavailable: 562
+
+
+## Updates
+* **2022-05-23:** Added two way record instruction
