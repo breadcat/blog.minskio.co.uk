@@ -10,7 +10,7 @@ I generally strive for a book per week, but this is by no means a steadfast goal
 <ul>
 <li>Norman Boutin - Empress Theresa</li>
 <li>Jim Butcher - Storm Front</li>
-<li>Kim Stanley Robinson - New York 2140</li>
+<li>Tade Thompson - The Rosewater Insurrection</li>
 </ul>
 </details>
 
@@ -39,6 +39,9 @@ To keep the page somewhat manageable, I've collapsed the lists by years:
 <li>Terry Pratchett - The Shepherd's Crown</li>
 <li>Jeff VanderMeer - Authority</li>
 <li>Jeff VanderMeer - Acceptance</li>
+<li>Kim Stanley Robinson - New York 2140</li>
+<li>Paolo Bacigalupi - Pump Six</li>
+<li>Paolo Bacigalupi - The People of Sand and Slag</li>
 </ul>
 </details>
 
