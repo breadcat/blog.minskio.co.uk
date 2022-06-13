@@ -149,6 +149,8 @@ Quotes I've found in and around the Internet, collected because they make me smi
 
 >Holding onto anger is like drinking poison and expecting the other person to die <!-- fake buddhist quote -->
 
+>How dare you gamble with their souls <!-- sealab 2021 -->
+
 >How far do you think I can kick this bucket? <!-- joke punchline -->
 
 >Hurt people hurt people
