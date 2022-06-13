@@ -1,6 +1,7 @@
 ---
 title: "Upgrading (and Downgrading) Skulls on a Thinkpad laptop"
 date: 2020-11-16T22:59:00
+lastmod: 2022-06-13T12:14:00
 tags: ["Guides", "Hardware", "Linux", "Software"]
 ---
 
@@ -8,7 +9,7 @@ After posting [my previous guide](/flashing-skulls-to-a-thinkpad-x230t/) regardi
 
 The first thing you'll want is to install the two dependencies the script requires.
 ```
-sudo pacman -S dimdecode flashrom
+sudo pacman -S dmidecode flashrom
 ```
 
 Now grab the [latest release](https://github.com/merge/skulls/releases) from the projects Github repository and extract the archive using `tar -xf skulls-x230t-0.0.2.tar.xz`.
@@ -34,3 +35,6 @@ This can easily be amended by editing `/etc/default/grub` and adding the line `G
 Unfortunately, not was all well with my upgrade. Even thought the process completed without issue I noticed strange issues with the computer and firefox crashing intermittently. I tried flashing the non-free image which gave me the exact same response.
 
 So with only a few moments hesitation I decided to revert to version 0.1.8 again. The process is mostly the exact same as installation (albeit with a different release), however I did get a strange error while installing relating to `Reading old flash chip contents`. As [mentioned (and fixed) in this issue report](https://github.com/merge/skulls/issues/142#issuecomment-593694005), it can be fixed by simply replacing flashroms' `-p internal` parameter with with `-p internal:boardmismatch=force --force --noverify-all`.
+
+
+* **Edit 2022-06-13:** Typo fix
