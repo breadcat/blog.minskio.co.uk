@@ -109,6 +109,8 @@ Quotes I've found in and around the Internet, collected because they make me smi
 
 >Follow the money <!-- all the presidents men -->
 
+>Forged bonds harm no one! <!-- going postal TV series -->
+
 >Fuck off up the model village <!-- hot fuzz -->
 
 >Fuck the state <!-- drug sniffing cats-->
@@ -430,6 +432,8 @@ Quotes I've found in and around the Internet, collected because they make me smi
 >The beatings will continue until morale improves
 
 >The burned hand teaches best <!-- tolkien -->
+
+>The call of the void <!-- suicide ideation -->
 
 >The gaping maw of consumerism <!-- jackbox -->
 
