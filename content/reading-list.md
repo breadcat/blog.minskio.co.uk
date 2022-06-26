@@ -1,7 +1,7 @@
 ---
 title: Reading List
 layout: single
-lastmod: 2022-06-13T12:04:00
+lastmod: 2022-06-26T11:10:00
 ---
 
 I generally strive for a book per week, but this is by no means a steadfast goal. For a list of series and their status, check [the bottom of this page](#book-series).
@@ -9,7 +9,7 @@ I generally strive for a book per week, but this is by no means a steadfast goal
 <details><summary>Works in Progress</summary>
 <ul>
 <li>Norman Boutin - Empress Theresa</li>
-<li>Tade Thompson - The Rosewater Insurrection</li>
+<li>David Wong - Futuristic Violence and Fancy Suits</li>
 </ul>
 </details>
 
@@ -43,6 +43,11 @@ To keep the page somewhat manageable, I've collapsed the lists by years:
 <li>Paolo Bacigalupi - The People of Sand and Slag</li>
 <li>Jim Butcher - Storm Front</li>
 <li>Kim Stanley Robinson - The Ministry for the Future</li>
+<li>Tade Thompson - The Rosewater Insurrection</li>
+<li>Stanis&lstrok;aw Lem - The Cyberiad</li>
+<li>Adrian Tchaikovsky - Firewalkers</li>
+<li>John Scalzi - Lock In</li>
+<li>John Scalzi - Unlocked</li>
 </ul>
 </details>
 
@@ -458,18 +463,21 @@ To keep the page somewhat manageable, I've collapsed the lists by years:
 # Book Series
 <details><summary>Work in Progress</summary>
 <ul>
+<li>David Wong - Zoey Ashe series - 0/2</li>
 <li>Douglas Adams - The Hitchhiker's Guide to the Galaxy - 1/6</li>
 <li>Frederik Pohl - Heechee - 3/6</li>
 <li>Guillermo del Toro &amp; Chuck Hogan - The Strain - 1/3</li>
 <li>Iain M Banks - The Culture - 4/10</li>
 <li>Isaac Asimov - Foundation - 3/7</li>
 <li>Jim Butcher - The Dresden Files - 1/17</li>
+<li>John Scalzi - Lock In Universe - 2/3</li>
 <li>John Scalzi - Old Man's War - 4/6</li>
+<li>John Scalzi - The Dispatcher series - 1/2</li>
 <li>Monica Hughes - Arc One - 1/2</li>
 <li>Neal Shusterman - The Unwind dystology - 1/6</li>
 <li>Orson Scott Card - Ender saga - 2/6</li>
 <li>Suzanne Collins - The Hunger Games - 3/4</li>
-<li>Tade Thompson - The Wormwood Trilogy - 1/3</li>
+<li>Tade Thompson - The Wormwood Trilogy - 2/3</li>
 </ul>
 </details>
 
