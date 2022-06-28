@@ -509,6 +509,8 @@ Quotes I've found in and around the Internet, collected because they make me smi
 
 >Well. I guess there's nothing to do but lay here and wait to die
 
+>We're in a giant car heading towards a brick wall and everyones arguing over where they're going to sit <!-- david suzuki -->
+
 >We've all technically kicked a pregnant woman
 
 >What a digital dummy <!-- yu-gi-oh -->
