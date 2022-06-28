@@ -32,6 +32,11 @@ apk --update upgrade
 ```
 Reboot again, and you should be running the latest version. Feel free to add any additional pacakges using `apk --update add neofetch neovim` etc.
 
+
+## Fixing sda1
+
+The bootstrap script doesn't specify any mount options for `/dev/sda1` so every time you issue `mount -a` it will give an error as your dump value is parsed as options instead. This is really easily fixed by replacing the `/dev/sda1	/boot/efi	vfat	0	0` line with `/dev/sda1	/boot/efi	vfat	auto	0	0` in `/etc/fstab`. Now the error is gone.
+
 ## Shuffling Partitions
 
 As mentioned in the guide, Alpine is currently installed on the /old/ swap `/dev/sda2` partition. You can now delete your old Oracle partiton to regain some 40GB space.
@@ -150,3 +155,4 @@ All that's left now is to edit `/etc/fstab` and add an entry like the following:
 You can now mount everything using `mount -a`, and you're done.
 
 * **Edit 2022-03-08:** Added block storage instructions
+* **Edit 2022-06-28:** Added sda1 mount fix
