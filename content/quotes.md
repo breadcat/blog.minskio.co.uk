@@ -47,7 +47,7 @@ Quotes I've found in and around the Internet, collected because they make me smi
 
 >Bugger this for a game of soldiers
 
->But that's just a theory
+>But that's just a theory <!-- game theory youtube -->
 
 >Caedite eos. Novit enim Dominus qui sunt eius <!-- kill them all; let God sort them out -->
 
@@ -79,11 +79,13 @@ Quotes I've found in and around the Internet, collected because they make me smi
 
 >Don't sweat the small stuff
 
->Don't worry, it'll evaporate
+>Don't worry, it'll evaporate <!-- spilt milk -->
+
+>Down here, salt is a way of life <!-- how stuff works, salt mining -->
 
 >Each of us fights for what he lacks most <!-- robert surcouf -->
 
->En svensk tiger
+>En svensk tiger <!-- swedish propaganda -->
 
 >Errors by errorlight
 
@@ -221,6 +223,8 @@ Quotes I've found in and around the Internet, collected because they make me smi
 
 >I'm not giving my name to a machine <!-- futurama -->
 
+>I'm not superstitious, but I am a little stitious. <!-- the office -->
+
 >In Scotland the forbidden fruit is fruit. <!-- Gary Delaney -->
 
 >In war there are no winners, only widows <!-- arrival -->
@@ -308,6 +312,8 @@ Quotes I've found in and around the Internet, collected because they make me smi
 >Mustn't grumble <!-- chas and dave wallop -->
 
 >My disappointment is immeasurable, and my day is ruined <!-- the report of the week -->
+
+>My Mill grinds Pepper, and Spice. Your Mill grinds Rats, and Mice <!-- Tommy Thumb's Pretty Song Book -->
 
 >My name is Bolo Santosi, I am the leader of the revolutionary army known as the Reapers. <!-- just cause 2 -->
 
@@ -564,6 +570,8 @@ Quotes I've found in and around the Internet, collected because they make me smi
 >You want sympathy? It's in the dictionary, between shit and syphilis <!-- what the hell did I just read -->
 
 >You wouldn't find Hitler playing jungle music at 3 o'clock in the morning <!-- father ted -->
+
+>You'll Own Nothing and You'll Be Happy <!-- Ida Auken -->
 
 >Your proposal is acceptable <!-- men in black -->
 
