@@ -1,7 +1,7 @@
 ---
 title: Music Library
 layout: single
-lastmod: 2022-06-26T11:49:00
+lastmod: 2022-07-20T09:41:00
 ---
 
 This page is purely for reference, parsed by a script that I'll finish up and link later.
@@ -9,6 +9,9 @@ This page is purely for reference, parsed by a script that I'll finish up and li
 | Artist | Title | Genre | Release |
 |------- | ----- | ----- | ------- |
 | 3TEETH | Pumped Up Kicks | Industrial Metal | Single |
+| A | Nothing | Alternative Rock | Single |
+| A | Rush Song | Alternative Rock | Single |
+| ABBA | SOS | Pop | Single |
 | Alcest | Sapphire | Blackgaze | Single |
 | Alien Ant Farm | These Days | Alternative | Single |
 | Alien Ant Farm | Wish | Alternative| Single |
@@ -19,20 +22,27 @@ This page is purely for reference, parsed by a script that I'll finish up and li
 | Bassnectar | Heads Up (The Glitch Mob Remix) | Glitch | Single |
 | Ben Kweller | How It Should Be (Sha Sha) | Indie | Single |
 | Björk | Army of Me | Electronic | Single |
+| Black Light Burns | Lie | Industrial Rock | Single |
 | Black Moth Super Rainbow | Jump into My Mouth and Breathe the Stardust | Psychedelic Rock | Single |
 | Black Sabbath | Spiral Architect | Heavy Metal | Single |
 | Blind Iris | Drive | Alternative | Single |
+| Blossoms | Charlemagne | Synthpop | Single |
 | Bring Me The Horizon | Throne | Emo | Single |
 | Can't Swim | Stranger | Post-Hardcore | Single |
+| Canterbury | Peace & Quiet | Indie | Single |
+| Carpenter Brut | Turbo Killer | Synthwave | Single |
 | Celldweller | Switchback | Industrial | Single |
 | Celldweller ft. Klayton | Erasus | Industrial | Single |
 | Childish Gambino | This Is America | Hip Hop | Single |
 | Combichrist | Get Your Body Beat | Industrial | Single |
+| Death From Above 1979 | Crystal Ball | Indie Rock | Single |
 | Dorp | London Out There | Alternative | Single |
 | Fever the Ghost | Source | Psychedelic Rock | Single |
 | Fischerspooner | Emerge | Electronic | Single |
 | Foals | My Number | Indie | Single |
+| Forest Swords | Dagger Paths | Experimental | Album |
 | Foster the People | Helena Beat | Electropop | Single |
+| GACKT | Redemption | |J-Rock | Single |
 | Gojira | Another World | Groove Metal | Single |
 | Goldfinger | Superman | Ska | Single |
 | Grimes & i_o | Violence | Synthpop | Single |
@@ -53,6 +63,7 @@ This page is purely for reference, parsed by a script that I'll finish up and li
 | Machine Gun Kelly | Bloody Valentine | Emo | Single |
 | Manic Street Preachers | Kevin Carter | Rock | Single |
 | Martha and the Muffins | Echo Beach | New Wave | Single |
+| Men at Work | Who Can It Be Now | New Wave | Single |
 | MGMT | Little Dark Age | Synthpop | Single |
 | MGMT | When You Die | Neo Psychedelia | Single |
 | Miles Kane | Rearrange | Indie | Single |
@@ -70,6 +81,7 @@ This page is purely for reference, parsed by a script that I'll finish up and li
 | Noisestorm | Crab Rave | Drum & Bass | Single |
 | N'to | Trauma (Worakls Remix) | Trip | Single |
 | Ocean Grove | Junkie$ | Nu Metal | Single |
+| Paolo Nutini | Iron Sky | Soul | Single |
 | Paramore | Hard Times | New Wave | Single |
 | Pascal Letoublon ft. Leony | Friendships (Lost My Love) | House | Single |
 | Peach Pit | Psychics in LA | Indie | Single |
@@ -94,23 +106,35 @@ This page is purely for reference, parsed by a script that I'll finish up and li
 | Sigrid | Strangers | Electropop | Single |
 | Silversun Pickups | Melatonin | Indie | Single |
 | Silversun Pickups | Panic Switch | Indie | Single |
+| Sirkel Sag | Ørsta rådhus | Rap | Single |
 | Skid Row | The Gang's All Here | Hard Rock | Single |
 | Slipknot | Nero Forte | Nu Metal | Single |
 | Soul Asylum | Somebody to Shove | Grunge | Single |
+| Spineshank | New Disease | Nu Metal | Single |
+| Spineshank | Smothered | Nu Metal | Single |
 | ssshhhiiittt! | корабль | Garage | Single |
 | Static-X | Black and White | Industrial Metal | Single |
 | Student Rick | Falling For You | Emo | Single |
 | Sum 41 | Over My Head (Better Off Dead) | Punk Rock | Single |
 | Sum 41 | The Hell Song | Punk Rock | Single |
 | Swiss Lips | U Got the Power | Electropop | Single |
+| Taking Back Sunday | Cute Without the E | Emo | Single |
+| The Box Tops | The Letter | Classic Rock | Single |
 | The Comet Is Coming | Summon The Fire | Nu Jazz | Single |
 | The Cooper Temple Clause | Blind Pilots | Alternative | Single |
 | The Cooper Temple Clause | Promises, Promises | Alternative | Single |
 | The Mighty Mighty Bosstones | The Impression That I Get | Ska | Single |
+| the pillows | Last Dinosaur | J-Rock | Single |
+| the pillows | Ride on Shooting Star | J-Rock | Single |
+| The Seahorses | Love Is The Law | Britpop | Single |
+| The Strokes | Hard to Explain | Indie Rock | Single |
 | The Verve | Love is Noise | Alternative | Single |
 | The Vines | Get Free | Alternative | Single |
 | The Weeknd | Blinding Lights | Synthpop | Single |
 | The xx | Islands | Indie | Single |
+| The Zombies | I Love You | Psychedelic Rock | Single |
+| The Zombies | She's Not There | Psychedelic Rock | Single |
+| The Zombies | Time of the Season | Psychedelic Rock | Single |
 | Tigercub | Control | Alternative | Single |
 | Tobacco | Ultima II Massage | Experimental | Album |
 | Tove Lo | Habits (Stay High) | Electronic | Single |
