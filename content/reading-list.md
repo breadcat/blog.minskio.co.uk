@@ -1,7 +1,7 @@
 ---
 title: Reading List
 layout: single
-lastmod: 2022-07-15T13:43:00
+lastmod: 2022-08-02T15:18:00
 ---
 
 I generally strive for a book per week, but this is by no means a steadfast goal. For a list of series and their status, check [the bottom of this page](#book-series).
@@ -9,7 +9,7 @@ I generally strive for a book per week, but this is by no means a steadfast goal
 <details><summary>Works in Progress</summary>
 <ul>
 <li>Norman Boutin - Empress Theresa</li>
-<li>John Scalzi - The Kaiju Preservation Society</li>
+<li>Paolo Bacigalupi - The Water Knife</li>
 </ul>
 </details>
 
@@ -52,6 +52,10 @@ To keep the page somewhat manageable, I've collapsed the lists by years:
 <li>John Scalzi - Head On</li>
 <li>John Scalzi - Murder by Other Means</li>
 <li>John Scalzi - The Human Division</li>
+<li>John Scalzi - The Kaiju Preservation Society</li>
+<li>John Scalzi - The End of All Things</li>
+<li>David Wong - Zoey Punches the Future in the Dick</li>
+<li>Philip K Dick - Colony</li>
 </ul>
 </details>
 
@@ -467,14 +471,12 @@ To keep the page somewhat manageable, I've collapsed the lists by years:
 # Book Series
 <details><summary>Work in Progress</summary>
 <ul>
-<li>David Wong - Zoey Ashe series - 1/2</li>
 <li>Douglas Adams - The Hitchhiker's Guide to the Galaxy - 1/6</li>
 <li>Frederik Pohl - Heechee - 3/6</li>
 <li>Guillermo del Toro &amp; Chuck Hogan - The Strain - 1/3</li>
 <li>Iain M Banks - The Culture - 4/10</li>
 <li>Isaac Asimov - Foundation - 3/7</li>
 <li>Jim Butcher - The Dresden Files - 1/17</li>
-<li>John Scalzi - Old Man's War - 5/6</li>
 <li>Monica Hughes - Arc One - 1/2</li>
 <li>Neal Shusterman - The Unwind dystology - 1/6</li>
 <li>Orson Scott Card - Ender saga - 2/6</li>
@@ -489,6 +491,7 @@ To keep the page somewhat manageable, I've collapsed the lists by years:
 <li>Barry J Hutchison - Dan Deadman - 3/3</li>
 <li>Blake Crouch - The Wayward Pines trilogy - 3/3</li>
 <li>David Wong - John and Dave series - 3/3</li>
+<li>David Wong - Zoey Ashe series - 2/2</li>
 <li>Dennis E Taylor - Bobiverse Series - 4/4</li>
 <li>Ernest Cline - Ready Player One series - 2/2</li>
 <li>Grant Naylor - Red Dwarf - 4/4</li>
@@ -497,6 +500,7 @@ To keep the page somewhat manageable, I've collapsed the lists by years:
 <li>James S A Corey - The Expanse Novellas - 9/9</li>
 <li>Jeff VanderMeer - Southern Reach Trilogy - 3/3</li>
 <li>John Scalzi - Lock In Universe - 3/3</li>
+<li>John Scalzi - Old Man's War - 6/6</li>
 <li>John Scalzi - The Dispatcher series - 2/2</li>
 <li>John Scalzi - The Interdependency - 3/3</li>
 <li>Kim Stanley Robinson - The Mars trilogy - 3/3</li>
