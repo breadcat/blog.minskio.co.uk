@@ -1,7 +1,7 @@
 ---
 title: Music Library
 layout: single
-lastmod: 2022-07-20T09:41:00
+lastmod: 2022-08-02T15:21:00
 ---
 
 This page is purely for reference, parsed by a script that I'll finish up and link later.
@@ -42,7 +42,7 @@ This page is purely for reference, parsed by a script that I'll finish up and li
 | Foals | My Number | Indie | Single |
 | Forest Swords | Dagger Paths | Experimental | Album |
 | Foster the People | Helena Beat | Electropop | Single |
-| GACKT | Redemption | |J-Rock | Single |
+| GACKT | Redemption | J-Rock | Single |
 | Gojira | Another World | Groove Metal | Single |
 | Goldfinger | Superman | Ska | Single |
 | Grimes & i_o | Violence | Synthpop | Single |
@@ -63,6 +63,8 @@ This page is purely for reference, parsed by a script that I'll finish up and li
 | Machine Gun Kelly | Bloody Valentine | Emo | Single |
 | Manic Street Preachers | Kevin Carter | Rock | Single |
 | Martha and the Muffins | Echo Beach | New Wave | Single |
+| Megadeth | A Tout Le Monde | Thrash Metal | Single |
+| Megadeth | Trust | Thrash Metal | Single |
 | Men at Work | Who Can It Be Now | New Wave | Single |
 | MGMT | Little Dark Age | Synthpop | Single |
 | MGMT | When You Die | Neo Psychedelia | Single |
@@ -89,6 +91,7 @@ This page is purely for reference, parsed by a script that I'll finish up and li
 | Q Lazzarus | Goodbye Horses | Synthpop | Single |
 | Radish | Little Pink EStars | Grunge | Single |
 | Rammstein | DEUTSCHLAND | Industrial Metal | Single |
+| Rare Americans | Baggage | Alternative | Single |
 | Rival Schools | Travel by Telephone | Post Hardcore | Single |
 | Rival Schools | Used For Glue | Post Hardcore | Single |
 | Robyn | Dancing On My Own | Synthpop | Single |
