@@ -73,6 +73,8 @@ Quotes I've found in and around the Internet, collected because they make me smi
 
 >Diamonds are intrinsically worthless <!-- de beers chairman, nicky oppenheimer -->
 
+>Did he have hands? Did he have a face? <!-- the wire -->
+
 >Did you see that ludicrous display last night <!-- the it crowd -->
 
 >Do androids dream of dick? <!-- misprinted book label -->
@@ -574,6 +576,8 @@ Quotes I've found in and around the Internet, collected because they make me smi
 >You'll Own Nothing and You'll Be Happy <!-- Ida Auken -->
 
 >Your proposal is acceptable <!-- men in black -->
+
+>Your scientists were so preoccupied with whether or not they could that they didn't stop to think if they should. <!-- jurassic park -->
 
 >Your stories have entertained me. I will let you into the cave for a short time. <!-- oldschool runescape -->
 
