@@ -2,7 +2,7 @@
 title: Norwegian Dictionary
 language: dictionary
 date: 2017-08-08T09:00:00
-lastmod: 2022-04-12T13:15:00
+lastmod: 2022-08-03T13:18:00
 ---
 
 **Norwegian** - **English**
@@ -10,6 +10,7 @@ lastmod: 2022-04-12T13:15:00
 * &aelig;rlig - honest
 * &aelig;rsord - promise
 * &aring; - to
+* &aring; nei - oh no
 * &aring;r - year
 * &aring;rsak - cause
 * &aring;tte - eight
@@ -55,6 +56,7 @@ lastmod: 2022-04-12T13:15:00
 * anke - appeal
 * annenhver - every other
 * appelsin - orange (fruit)
+* arbeid - work
 * arbeidet - worked
 * arv - heritage
 * at - that
@@ -72,9 +74,12 @@ lastmod: 2022-04-12T13:15:00
 * ba - as
 * bad - bath
 * badet - bathroom
+* bakk - ground, floor
 * bane - course, path
 * bane - orbit
 * barnehag - nursery, kindergarten
+* barnevakt - babysitter
+* barnevogn - pram
 * barnslig - childish
 * basert - based
 * basseng - pool
@@ -100,6 +105,7 @@ lastmod: 2022-04-12T13:15:00
 * bevisstløs - unconscious
 * bilder - pictures
 * bille - beetle
+* binders - paperclip
 * bl&oslash; - bleed
 * blader - leaves
 * ble - got, became
@@ -107,15 +113,18 @@ lastmod: 2022-04-12T13:15:00
 * blitt - become
 * blom - flower
 * blottet - lacking, devoid
+* blyant - pencil
 * bo - live, reside
 * bokstaver - letters
 * bor - live, stay
 * bord - table
 * borte - disappearing, away
+* bortenfor - beyond
 * br&oslash;d - bread
 * bra - good, fine
 * brakte - brought
 * bringer - brings
+* bruk - use, wear
 * brus - soda
 * brygga - pier
 * bryst - breast, chest
@@ -130,13 +139,14 @@ lastmod: 2022-04-12T13:15:00
 * dagbok - diary
 * daglig - daily
 * danse - dance
+* datamaskin - computer
 * de - they, those
 * del - part
-* den, det - that
-* den, det - that, this
+* den, det, denne, dette - that, this
 * deprimerte - depressed
 * der - there, here
 * dere - you (plural)
+* derfra - from there
 * dikt - poem
 * direkte - directly
 * disse - these
@@ -189,7 +199,7 @@ lastmod: 2022-04-12T13:15:00
 * feig - coward
 * feil - wrong
 * fenomen - phenomenon
-* ferdig - finished
+* ferdig - done, finished
 * fest - party (celebration)
 * film - movie, film
 * fin - fine
@@ -206,6 +216,7 @@ lastmod: 2022-04-12T13:15:00
 * forbi - past, over, by (direction)
 * fordi - because
 * foretrekker - prefer
+* forferdelig - terrible
 * form&aring;l - cause
 * form&aring;let - purpose
 * formasjon - formation
@@ -220,7 +231,6 @@ lastmod: 2022-04-12T13:15:00
 * frem - forward (direction)
 * fremmed - foreign
 * frokost - breakfast
-* hjemmefra - from home
 * frukt - fruit
 * frykt - fear
 * fryser, kalde - cold
@@ -235,9 +245,11 @@ lastmod: 2022-04-12T13:15:00
 * garasje - garage
 * gartner - gardener
 * geit - goat
+* genbruge - recycle
 * geniale - ingenious
 * gift - married
 * gitt - given
+* gj&oslash;k - cuckoo
 * gjennom - through
 * gjennombrudd - breakthrough
 * gjenskape - recreate
@@ -284,11 +296,13 @@ lastmod: 2022-04-12T13:15:00
 * hennes - her
 * hente - get, fetch
 * her - here
+* herfra - from here
 * himmel - sky
 * historie - history
 * hit - here
 * hj&oslash;rn - corner
 * hjem - home
+* hjemmefra - from home
 * hjerne - brain
 * hode - head
 * hodepine - headache
@@ -309,6 +323,7 @@ lastmod: 2022-04-12T13:15:00
 * i dag - today
 * i g&aring;r - yesterday
 * i morgen - tomorrow
+* i stedet for - instead of
 * id&eacute;, ide - idea
 * idrett - sport
 * igjen - again
@@ -317,12 +332,15 @@ lastmod: 2022-04-12T13:15:00
 * ingen - no, nobody
 * ingenting - nothing
 * inne - inside, indoors
+* innenfor - within, inside
 * innsj&oslash;o - lake
 * intressant - interesting
 * Irsk - Irish
+* ja visst - certainly
 * jakt - hunt
 * jeg - I (personal)
 * jo - on the contrary
+* jobb - job
 * kaffe - coffee
 * kalles - known
 * kamp - fight
@@ -333,6 +351,7 @@ lastmod: 2022-04-12T13:15:00
 * kaste - throw
 * kinn - cheek
 * kj&aelig;ledyr - pet
+* kj&oslash;leskap - fridge
 * kj&oslash;re - drive (vehicle)
 * kj&oslash;ret&oslash;y - vehicle
 * kjempe - giant (mythological)
@@ -347,9 +366,10 @@ lastmod: 2022-04-12T13:15:00
 * kommune - municipality, council
 * kone - wife
 * konjakk - brandy, cognac
+* kontant - cash
 * kontor - office
 * kor - choir
-* kort - card
+* kort - (credit)card/short
 * koster - cost
 * krangel - argument
 * krok - bait, hook
@@ -391,11 +411,13 @@ lastmod: 2022-04-12T13:15:00
 * lys - light
 * m&aring; - have to, must
 * m&aring;ke - seagull
+* m&oslash;bel - furniture
 * m&oslash;nster - pattern
 * m&oslash;rk - dark
 * malm - ore
 * mange - many
 * mann - man
+* mappe - folder
 * mareritt - nightmare
 * maskin - machine
 * med - with (mixed)
@@ -416,12 +438,14 @@ lastmod: 2022-04-12T13:15:00
 * mot - towards (direction)
 * motorsykkel - motorbike
 * motorvei - motorway, highway
+* mulig - possible
 * mvh (med vennlig hilsen) - kind regards
 * mye - a lot of, much
 * mykt - soft
 * mynt - coin
 * mynter - coins
 * mystisk - mysterious
+* n&aelig;rheten - this area
 * n&aelig;rstrid - melee, hand to hand combat
 * ned - down
 * nese - nose
@@ -491,6 +515,7 @@ lastmod: 2022-04-12T13:15:00
 * sa - said
 * sa - say
 * sagt - said
+* saks (en) - pair of scissors
 * saktere - slower
 * sammen - together
 * samtale - conversation
@@ -508,6 +533,7 @@ lastmod: 2022-04-12T13:15:00
 * seng - bed
 * servit&oslash;r - waiter
 * sett - seen
+* setter - sits down, places
 * sf&aelig;re - sphere
 * sikre - sure, ensure
 * sin - her, his
@@ -517,7 +543,9 @@ lastmod: 2022-04-12T13:15:00
 * sjalu - jealous
 * sjarm - charm
 * sjel - soul
+* sjenert - shy
 * sjokolade - chocolate
+* sk&aring;l - bowl
 * skade - damage
 * skader - injuries
 * skal - shall, should
@@ -619,20 +647,24 @@ lastmod: 2022-04-12T13:15:00
 * tro - faith, belief
 * trodd - thought
 * trodde - thought
-* tror - believe
+* tror - believe, think
 * true - threaten
 * tunge - tounge
 * tvung - force
 * tyngdekraft - gravity
 * tynn - thin
 * typisk - typical
+* tyrkia - turkey (country)
+* uansett - anyway
 * ub&aring;t - submarine
 * uhell - accident
 * uke - week
 * ulykk - accident
+* umulig - impossible
 * under - during
 * unik - unique
 * unnskyld - sorry, excuse me
+* unntatt - except
 * ut - out
 * utenkelig - unthinkable
 * utenlands - abroad
@@ -647,6 +679,7 @@ lastmod: 2022-04-12T13:15:00
 * vakker - beautiful
 * valg - choice
 * vanligvis - usually
+* vanskelig - hard/difficult
 * var - was
 * var - were
 * varebil - van
