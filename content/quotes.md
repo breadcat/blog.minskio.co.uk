@@ -203,6 +203,8 @@ Quotes I've found in and around the Internet, collected because they make me smi
 
 >I would rather starve than eat your bread <!-- pearl jam corduroy -->
 
+>If you could blow up the world with the flick of a switch would you do it? <!-- flaming lips -->
+
 >If you die in Russia, you die in real life
 
 >If you don't stand for something, you'll be sure to fall for anything <!-- aj whitney -->
@@ -362,6 +364,8 @@ Quotes I've found in and around the Internet, collected because they make me smi
 >One clown leg <!-- midnight gospel -->
 
 >Only a sith deals in absolutes <!-- star wars prequel -->
+
+>Outside of a Dog, a Book is Man's Best Friend. Inside of a Dog, It's Too Dark to Read <!-- groucho marx? -->
 
 >Peaceful sheep live happily eating grass <!-- close to the sun -->
 
