@@ -37,6 +37,17 @@ What powers the site and its associated clients
 </ul>
 </details>
 
+<details><summary>NAS</summary>
+<ul>
+<li>Name: Ilias</li>
+<li>Hardware: ODROID-HC4 /w RTC+OLED</li>
+<li>CPU: Amlogic S905X3</li>
+<li>RAM: 4GB</li>
+<li>Storage: 480GB SSD, 12TB HDD</li>
+<li>OS: <a href="https://github.com/manjaro-arm/ohc4-images">Manjaro ARM</a></li>
+</ul>
+</details>
+
 <details><summary>Seedbox</summary>
 <ul>
 <li>Storage: 300GB</li>
