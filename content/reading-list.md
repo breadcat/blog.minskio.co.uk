@@ -1,7 +1,7 @@
 ---
 title: Reading List
 layout: single
-lastmod: 2022-08-02T15:18:00
+lastmod: 2022-08-17T16:32:00
 ---
 
 I generally strive for a book per week, but this is by no means a steadfast goal. For a list of series and their status, check [the bottom of this page](#book-series).
@@ -9,7 +9,7 @@ I generally strive for a book per week, but this is by no means a steadfast goal
 <details><summary>Works in Progress</summary>
 <ul>
 <li>Norman Boutin - Empress Theresa</li>
-<li>Paolo Bacigalupi - The Water Knife</li>
+<li>Neal Stephenson - Seveneves</li>
 </ul>
 </details>
 
@@ -56,6 +56,9 @@ To keep the page somewhat manageable, I've collapsed the lists by years:
 <li>John Scalzi - The End of All Things</li>
 <li>David Wong - Zoey Punches the Future in the Dick</li>
 <li>Philip K Dick - Colony</li>
+<li>Paolo Bacigalupi - The Water Knife</li>
+<li>Jared Diamond - Collapse</li>
+<li>Roger Zelazny - Lord of Light</li>
 </ul>
 </details>
 
