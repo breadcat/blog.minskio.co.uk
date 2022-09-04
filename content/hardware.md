@@ -7,6 +7,7 @@ What powers the site and its associated clients
 
 <details><summary>Desktop</summary>
 <ul>
+<li>Name: Titan</li>
 <li>CPU: Intel Core i5 7600 @ 3.50 Ghz</li>
 <li>CPU Cooler: Noctua NH-L9i</li>
 <li>RAM: 2x Crucial 8GB DDR4 @ 2400 MHz</li>
@@ -27,6 +28,7 @@ What powers the site and its associated clients
 
 <details><summary>Server</summary>
 <ul>
+<li>Name: Atlas</li>
 <li>CPU: Intel Xeon Processor (Skylake)</li>
 <li>RAM: 2GB</li>
 <li>Storage: 20GB SSD</li>
@@ -44,6 +46,7 @@ What powers the site and its associated clients
 
 <details><summary>Laptop</summary>
 <ul>
+<li>Name: Minerva</li>
 <li>Model: Lenovo Thinkpad x230t</li>
 <li>CPU: Intel i5-3320M</li>
 <li>RAM: 2x 8GB</li>
@@ -54,6 +57,7 @@ What powers the site and its associated clients
 
 <details><summary>HTPC</summary>
 <ul>
+<li>Name: Arcadia</li>
 <li>Hardware: Intel NUC NUC5i3RYH</li>
 <li>CPU: Intel i3-5010U</li>
 <li>Storage: 120GB SSD</li>
@@ -66,6 +70,7 @@ What powers the site and its associated clients
 
 <details><summary>Mobile Phone</summary>
 <ul>
+<li>Name: Artemis</li>
 <li>Phone: Google Pixel 4</li>
 <li>OS: GrapheneOS</li>
 </ul>
@@ -83,6 +88,7 @@ What powers the site and its associated clients
 
 <details><summary>eReader</summary>
 <ul>
+<li>Name: Hermes</li>
 <li>Hardware: Kindle Paperwhite PQ94WIF 32GB (Jailbroken)</li>
 </ul>
 </details>
