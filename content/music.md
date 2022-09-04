@@ -1,7 +1,7 @@
 ---
 title: Music Library
 layout: single
-lastmod: 2022-08-02T15:21:00
+lastmod: 2022-09-04T01:15:00
 ---
 
 This page is purely for reference, parsed by a script that I'll finish up and link later.
@@ -12,6 +12,8 @@ This page is purely for reference, parsed by a script that I'll finish up and li
 | A | Nothing | Alternative Rock | Single |
 | A | Rush Song | Alternative Rock | Single |
 | ABBA | SOS | Pop | Single |
+| AFI | Miss Murder | Emo | Single |
+| AFI | The Boy Who Destroyed The World | Punk | Single |
 | Alcest | Sapphire | Blackgaze | Single |
 | Alien Ant Farm | These Days | Alternative | Single |
 | Alien Ant Farm | Wish | Alternative| Single |
@@ -37,6 +39,7 @@ This page is purely for reference, parsed by a script that I'll finish up and li
 | Combichrist | Get Your Body Beat | Industrial | Single |
 | Death From Above 1979 | Crystal Ball | Indie Rock | Single |
 | Dorp | London Out There | Alternative | Single |
+| Dxrk ダーク | RAVE | EDM | Single |
 | Fever the Ghost | Source | Psychedelic Rock | Single |
 | Fischerspooner | Emerge | Electronic | Single |
 | Foals | My Number | Indie | Single |
@@ -46,11 +49,13 @@ This page is purely for reference, parsed by a script that I'll finish up and li
 | Gojira | Another World | Groove Metal | Single |
 | Goldfinger | Superman | Ska | Single |
 | Grimes & i_o | Violence | Synthpop | Single |
+| Hombres G | Devuelveme a mi Chica | Spanish Rock | Single |
 | Hundredth | Whatever | Shoegaze | Single |
 | Interpol | Antics | Indie | Album |
 | Interpol | Evil | Indie | Single |
 | Interpol | Slow Hands | Indie | Single |
 | Izgrim x Jasper | Hologram | Cold Wave | Single |
+| Korn | Got the Life | Nu Metal | Single |
 | KT Tunstall | Black Horse and the Cherry Tree | Indie | Single |
 | KT Tunstall | Other Side of the World | Indie | Single |
 | KT Tunstall | Suddenly I See | Indie | Single |
@@ -71,7 +76,7 @@ This page is purely for reference, parsed by a script that I'll finish up and li
 | Miles Kane | Rearrange | Indie | Single |
 | Morphine | Claire | Jazz Rock | Single |
 | Mystery Skulls | Money | Synthpop | Single |
-| N.A.S.A. ft. Kanye West | Gifted | Hip-Hop | Single |
+| N.A.S.A. ft. Kanye West | Gifted | Hip Hop | Single |
 | Nebula | Giant | Stoner Rock | Single |
 | Never Not Nothing | Body & Soul | Electropunk | Single |
 | New Found Glory | All Downhill From Here | Emo | Single |
@@ -88,7 +93,10 @@ This page is purely for reference, parsed by a script that I'll finish up and li
 | Pascal Letoublon ft. Leony | Friendships (Lost My Love) | House | Single |
 | Peach Pit | Psychics in LA | Indie | Single |
 | Pendulum | Through the Loop | Drum & Bass | Single |
+| Pete Rock | Grown Man Sport | Hip Hop | Single |
+| Poppy | Flux | Rock | Single |
 | Q Lazzarus | Goodbye Horses | Synthpop | Single |
+| Queens of the Stone Age | In The Fade | Stoner Rock | Single |
 | Radish | Little Pink EStars | Grunge | Single |
 | Rammstein | DEUTSCHLAND | Industrial Metal | Single |
 | Rare Americans | Baggage | Alternative | Single |
