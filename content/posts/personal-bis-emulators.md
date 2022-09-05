@@ -1,6 +1,7 @@
 ---
 title: "Personal 'best in slot' emulators"
 date: 2022-07-21T14:16:00
+lastmod: 2022-09-05T20:26:00
 tags: ["Emulation", "Lists", "Software"]
 ---
 
@@ -13,7 +14,7 @@ At the end of the day I just wanted a single page for reference I could open up 
 # Consoles
 * Atari 2600: [Stella](https://stella-emu.github.io/)
 * Microsoft Xbox: [xemu](https://github.com/mborgerson/xemu)
-* Nintendo 64: [m64p](https://m64p.github.io/)
+* Nintendo 64: [simple64](https://simple64.github.io/)
 * Nintendo Entertainment System: [Mesen](https://github.com/SourMesen/Mesen)
 * Nintendo GameCube: [Dolphin](https://dolphin-emu.org/)
 * Nintendo Switch: [Yuzu](https://yuzu-emu.org/)
@@ -44,3 +45,5 @@ At the end of the day I just wanted a single page for reference I could open up 
 # Launchers
 * Emulators: [Pegasus](https://pegasus-frontend.org/)
 * PC Games: [GOG Galaxy](https://www.gog.com/galaxy)
+
+* **Edit 2022-09-05:** Rename m64p to simple64
