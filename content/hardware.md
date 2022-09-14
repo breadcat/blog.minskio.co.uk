@@ -80,6 +80,14 @@ What powers the site and its associated clients
 </ul>
 </details>
 
+<details><summary>eReader</summary>
+<ul>
+<li>Name: Hermes</li>
+<li>Hardware: Kindle Paperwhite PQ94WIF 32GB</li>
+<li>Reader: <a href="https://github.com/koreader/koreader/">KOReader</a></li>
+</ul>
+</details>
+
 <details><summary>Networking</summary>
 <ul>
 <li>Modem: Virgin Media Superhub</li>
@@ -87,12 +95,5 @@ What powers the site and its associated clients
 <li>Router: Ubiquiti Edgerouter Lite</li>
 <li>Switch: Netgear 8 Port Gigabit</li>
 <li>Access Point: TP-Link TL-WA801ND v3 /w OpenWrt</li>
-</ul>
-</details>
-
-<details><summary>eReader</summary>
-<ul>
-<li>Name: Hermes</li>
-<li>Hardware: Kindle Paperwhite PQ94WIF 32GB (Jailbroken)</li>
 </ul>
 </details>
