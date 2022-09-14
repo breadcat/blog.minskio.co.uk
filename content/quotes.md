@@ -419,6 +419,8 @@ Quotes I've found in and around the Internet, collected because they make me smi
 
 >Sometimes I work for the government <!-- psychonauts -->
 
+>Sometimes maybe good, sometimes maybe shit <!-- Gennaro Gattuso -->
+
 >Sometimes war dreams of itself <!-- carl von clausewitz -->
 
 >Swansea is the graveyard of ambition <!-- not dylan thomas -->
