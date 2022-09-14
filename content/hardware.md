@@ -86,7 +86,7 @@ What powers the site and its associated clients
 <li>Internet: Virgin Media 100Mbps</li>
 <li>Router: Ubiquiti Edgerouter Lite</li>
 <li>Switch: Netgear 8 Port Gigabit</li>
-<li>Access Point: TP-Link TL-WA801ND v3</li>
+<li>Access Point: TP-Link TL-WA801ND v3 /w OpenWrt</li>
 </ul>
 </details>
 
