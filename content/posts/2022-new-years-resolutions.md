@@ -12,5 +12,5 @@ Another year, another belated list:
 * Increase crypto holdings and savings
 * Install FOSS Wi-Fi AP
 * Provision computers using ansible
-* Server 2.0 Project (email, xmpp, seedbox)
+* Server 2.0 Project (email, xmpp, ~~seedbox~~)
 * Start running again

@@ -48,13 +48,6 @@ What powers the site and its associated clients
 </ul>
 </details>
 
-<details><summary>Seedbox</summary>
-<ul>
-<li>Storage: 300GB</li>
-<li>Provider: Seedbox.io</li>
-</ul>
-</details>
-
 <details><summary>Laptop</summary>
 <ul>
 <li>Name: Minerva</li>
