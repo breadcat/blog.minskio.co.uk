@@ -19,6 +19,8 @@ Quotes I've found in and around the Internet, collected because they make me smi
 
 >Abandon hope all ye who enter here <!-- Dante's Inferno -->
 
+>Ambition makes you look pretty ugly <!-- paranoid android -->
+
 >Apply the handbrake ya dumb broad <!-- yu-gi-oh abridged -->
 
 >Are we still in denial when we know we're not happy here <!-- outkast - hey ya -->
@@ -90,6 +92,8 @@ Quotes I've found in and around the Internet, collected because they make me smi
 >En svensk tiger <!-- swedish propaganda -->
 
 >Errors by errorlight
+
+>Even a Q-tip-shaped, rough draft Pixar-looking motherfucker like you. <!-- solar opposites -->
 
 >Ever felt the joy of karate chopping an ankle? <!-- lolnein -->
 
