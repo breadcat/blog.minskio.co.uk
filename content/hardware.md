@@ -29,11 +29,11 @@ What powers the site and its associated clients
 <details><summary>Server</summary>
 <ul>
 <li>Name: Atlas</li>
-<li>CPU: Intel Xeon Processor (Skylake)</li>
-<li>RAM: 2GB</li>
-<li>Storage: 20GB SSD</li>
-<li>OS: Debian 10 x86_64</li>
-<li>Provider: Hetzner</li>
+<li>CPU: 4x Ampere Altra A1 cores</li>
+<li>RAM: 24GB</li>
+<li>Storage: 200GB SSD</li>
+<li>OS: ArchLinux ARM</li>
+<li>Provider: Oracle</li>
 </ul>
 </details>
 

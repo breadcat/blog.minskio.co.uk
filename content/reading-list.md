@@ -1,7 +1,7 @@
 ---
 title: Reading List
 layout: single
-lastmod: 2022-08-17T16:32:00
+lastmod: 2022-10-03T10:50:00
 ---
 
 I generally strive for a book per week, but this is by no means a steadfast goal. For a list of series and their status, check [the bottom of this page](#book-series).
@@ -9,7 +9,7 @@ I generally strive for a book per week, but this is by no means a steadfast goal
 <details><summary>Works in Progress</summary>
 <ul>
 <li>Norman Boutin - Empress Theresa</li>
-<li>Neal Stephenson - Seveneves</li>
+<li>Liu Cixin - The Three-Body Problem</li>
 </ul>
 </details>
 
@@ -59,6 +59,9 @@ To keep the page somewhat manageable, I've collapsed the lists by years:
 <li>Paolo Bacigalupi - The Water Knife</li>
 <li>Jared Diamond - Collapse</li>
 <li>Roger Zelazny - Lord of Light</li>
+<li>C C Finlay - Time Bomb Time</li>
+<li>Paolo Bacigalupi - The Calorie Man</li>
+<li>Neal Stephenson - Seveneves</li>
 </ul>
 </details>
 
@@ -480,6 +483,7 @@ To keep the page somewhat manageable, I've collapsed the lists by years:
 <li>Iain M Banks - The Culture - 4/10</li>
 <li>Isaac Asimov - Foundation - 3/7</li>
 <li>Jim Butcher - The Dresden Files - 1/17</li>
+<li>Liu Cixin - Remembrance of Earth's Past - 0/3</li>
 <li>Monica Hughes - Arc One - 1/2</li>
 <li>Neal Shusterman - The Unwind dystology - 1/6</li>
 <li>Orson Scott Card - Ender saga - 2/6</li>
