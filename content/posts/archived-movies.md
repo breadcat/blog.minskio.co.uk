@@ -2,7 +2,7 @@
 title: Archived Movies
 tags: ["Media", "Archive"]
 date: 2018-01-01T01:00:00
-lastmod: 2022-09-04T01:19:00
+lastmod: 2022-10-13T14:31:00
 ---
 
 * [REC] (2007)
@@ -159,6 +159,7 @@ lastmod: 2022-09-04T01:19:00
 * Critters 2 (1988)
 * Cujo (1983)
 * DamNation (2014)
+* Dark Angel (1990)
 * Dark Phoenix (2019)
 * Dark Shadows (2012)
 * Dark Skies (2013)
@@ -318,6 +319,7 @@ lastmod: 2022-09-04T01:19:00
 * I Saw the Devil (2010)
 * I See You (2019)
 * I, Frankenstein (2014)
+* I'm Gonna Git You Sucka (1988)
 * I'm Thinking of Ending Things (2020)
 * Imperium (2016)
 * In the Mouth of Madness (1994)
@@ -400,6 +402,7 @@ lastmod: 2022-09-04T01:19:00
 * Lucy (2014)
 * Lupin III: The First (2019)
 * Ma (2019)
+* Mad God (2022)
 * Maleficent (2014)
 * Maleficent: Mistress of Evil (2019)
 * Mars Attacks! (1996)
@@ -506,6 +509,7 @@ lastmod: 2022-09-04T01:19:00
 * Rescue Dawn (2006)
 * Resolution (2012)
 * Riders of Justice (2020)
+* Riki-Oh: The Story of Ricky (1991)
 * Rings (2017)
 * Road House (1989)
 * Roald Dahl's The Witches (2020)
@@ -722,6 +726,7 @@ lastmod: 2022-09-04T01:19:00
 * The Purge: Election Year (2016)
 * The Raid (2011)
 * The Raid 2 (2014)
+* The Return of the Living Dead (1985)
 * The Revenant (2015)
 * The Ritual (2017)
 * The Road to El Dorado (2000)
