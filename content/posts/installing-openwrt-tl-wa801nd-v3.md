@@ -27,7 +27,7 @@ First things first, you'll need the two binary installation files, [available he
 
 What I ended up needing to do now (as I needed Internet access for package management), was to set up the AP as a DHCP client using the following:
 ```
-uci set network.lan.proto=dhcp"
+uci set network.lan.proto="dhcp"
 uci commit network
 /etc/init.d/network restart
 ```
@@ -38,3 +38,5 @@ With this done however you should be able to log back in using the IP given via 
 You can now access this newly installed Web Interface and make any other changes you require. In my case, I just needed to edit and then enable the Wireless SSID under Network > Wireless.
 
 With that complete, enjoy your new open source access point!
+
+* **Edit 2022-10-08:** Missing quote in DHCP commands
