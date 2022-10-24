@@ -495,6 +495,8 @@ Quotes I've found in and around the Internet, collected because they make me smi
 
 >This meme is already nothing but a memory
 
+>Those are my principles, and if you don't like them... well, I have others. <!-- groucho marx -->
+
 >Three men, two ladies <!-- psychoville -->
 
 >Tiny Terry loves his pickles <!-- brooklyn nine-nine -->
