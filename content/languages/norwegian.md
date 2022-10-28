@@ -2,7 +2,7 @@
 title: Norwegian Dictionary
 language: dictionary
 date: 2017-08-08T09:00:00
-lastmod: 2022-08-03T13:18:00
+lastmod: 2022-10-17T12:15:00
 ---
 
 **Norwegian** - **English**
@@ -46,6 +46,7 @@ lastmod: 2022-08-03T13:18:00
 * alltid - always
 * alminnelig - ordinary
 * alpakka - alpaca
+* altfor - far too
 * alts&aring; - therefore
 * alvor - serious
 * ambulanse - ambulance
@@ -259,6 +260,7 @@ lastmod: 2022-08-03T13:18:00
 * gjett - guess
 * gjorde - did (action)
 * glemte - forgot
+* gnist - spark
 * gr&oslash;t - porridge
 * gravid - pregnant
 * gress - grass
@@ -284,6 +286,7 @@ lastmod: 2022-08-03T13:18:00
 * hauk - hawk
 * havfrue - mermaid
 * havregr&oslash;t - oatmeal
+* hei sann - hey there
 * heksa - witch
 * heldig - lucky
 * hele - whole
@@ -352,6 +355,7 @@ lastmod: 2022-08-03T13:18:00
 * kinn - cheek
 * kj&aelig;ledyr - pet
 * kj&oslash;leskap - fridge
+* kj&oslash;pesenter - shopping centre
 * kj&oslash;re - drive (vehicle)
 * kj&oslash;ret&oslash;y - vehicle
 * kjempe - giant (mythological)
@@ -367,10 +371,12 @@ lastmod: 2022-08-03T13:18:00
 * kone - wife
 * konjakk - brandy, cognac
 * kontant - cash
+* kontanter - cash
 * kontor - office
 * kor - choir
 * kort - (credit)card/short
 * koster - cost
+* krabbe - crawl, crab
 * krangel - argument
 * krok - bait, hook
 * kujon - coward
@@ -411,6 +417,7 @@ lastmod: 2022-08-03T13:18:00
 * lys - light
 * m&aring; - have to, must
 * m&aring;ke - seagull
+* m&aring;ned - month
 * m&oslash;bel - furniture
 * m&oslash;nster - pattern
 * m&oslash;rk - dark
@@ -430,6 +437,7 @@ lastmod: 2022-08-03T13:18:00
 * midnatt - midnight
 * mindre - less
 * mindretall - minority
+* minibank - cash machine/ATM
 * mislykkes - failing
 * mistet - lost
 * mj&oslash;d - mead
@@ -490,6 +498,7 @@ lastmod: 2022-08-03T13:18:00
 * plen - lawn
 * plikt - duty
 * ponni - pony
+* pr&slash;verom - fitting/changing room
 * praktfull - magnificent, amazing
 * praktisk - practical
 * pult - desk
@@ -512,6 +521,7 @@ lastmod: 2022-08-03T13:18:00
 * s&oslash;k - search
 * s&oslash;lv - silver
 * s&oslash;ppel - rubbish, litter
+* s&oslash;t - sweet
 * sa - said
 * sa - say
 * sagt - said
@@ -592,6 +602,7 @@ lastmod: 2022-08-03T13:18:00
 * stolte - trusted
 * str&aring;lende - glorious
 * straks - immediately
+* streng - strict
 * stund - while
 * stygg - ugly
 * sug - suck
