@@ -336,7 +336,7 @@ To keep the page somewhat manageable, I've collapsed the lists by years:
 <li>Philip K Dick - The Commuter</li>
 <li>Alfred Bester - The Stars My Destination</li>
 <li>Louis Sachar - Holes</li>
-<li>Arthur C Clark - Childhood's End</li>
+<li>Arthur C Clarke - Childhood's End</li>
 <li>Andy Weir - The Egg</li>
 <li>Stephen King - Misery</li>
 <li>John Scalzi - Old Man's War</li>
@@ -380,7 +380,7 @@ To keep the page somewhat manageable, I've collapsed the lists by years:
 <li>Walter M Miller - A Canticle for Leibowitz</li>
 <li>Olaf Stapledon - Star Maker</li>
 <li>Orson Scott Card - Enders Game</li>
-<li>Frederick Pohl - Beyond the Blue Event Horizon</li>
+<li>Frederik Pohl - Beyond the Blue Event Horizon</li>
 <li>H P Lovecraft - At the Mountains of Madness</li>
 <li>William Shatner - TekWar</li>
 <li>Warren Ellis - Crooked Little Vein</li>
@@ -417,7 +417,7 @@ To keep the page somewhat manageable, I've collapsed the lists by years:
 <li>H P Lovecraft - The Shadow Over Innsmouth</li>
 <li>Philip K Dick - The Three Stigmata of Palmer Eldritch</li>
 <li>Andrew Weir - The Martian</li>
-<li>Frederick Pohl - Gateway</li>
+<li>Frederik Pohl - Gateway</li>
 <li>Philip K Dick - Flow My Tears, the Policeman Said</li>
 <li>Douglas Adams - The Hitchhikers Guide to the Galaxy</li>
 <li>John Steinbeck - Of Mice and Men</li>
@@ -428,16 +428,16 @@ To keep the page somewhat manageable, I've collapsed the lists by years:
 <li>Kurt Vonnegut - Slaughterhouse Five</li>
 <li>Philip K Dick - Dr Bloodmoney</li>
 <li>Irvine Welsh - Trainspotting</li>
-<li>Frederick Pohl - Man Plus</li>
+<li>Frederik Pohl - Man Plus</li>
 <li>Greg Bear - Eon</li>
 <li>John Wyndham - Day of the Triffids</li>
-<li>Arthur C Clark - 2001 A Space Odyssey</li>
+<li>Arthur C Clarke - 2001 A Space Odyssey</li>
 <li>Philip K Dick - Now Wait for Last Year</li>
-<li>Arthur C Clark - Rendezvous with Rama</li>
+<li>Arthur C Clarke - Rendezvous with Rama</li>
 <li>Cormac McCarthy - The Road</li>
 <li>Richard Matheson - The Shrinking Man</li>
 <li>David Wong - John Dies at the End</li>
-<li>Frederick Pohl - The Space Merchants</li>
+<li>Frederik Pohl - The Space Merchants</li>
 <li>Greg Bear - Blood Music</li>
 <li>David Wong - This Book is Full of Spiders</li>
 <li>Charles Stross - A Colder War</li>
