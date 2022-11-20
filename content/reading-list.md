@@ -9,7 +9,7 @@ I generally strive for a book per week, but this is by no means a steadfast goal
 <details><summary>Works in Progress</summary>
 <ul>
 <li>Norman Boutin - Empress Theresa</li>
-<li>Robert Silverberg - Dying Inside</li>
+<li>Bob Mortimer - The Satsuma Complex</li>
 </ul>
 </details>
 
@@ -65,6 +65,13 @@ To keep the page somewhat manageable, I've collapsed the lists by years:
 <li>Liu Cixin - The Three-Body Problem</li>
 <li>Liu Cixin - The Dark Forest</li>
 <li>Liu Cixin - Death's End</li>
+<li>Robert Silverberg - Dying Inside</li>
+<li>Tade Thompson - The Rosewater Redemption</li>
+<li>Alfred Bester - The Demolished Man</li>
+<li>James Blish - A Case of Conscience</li>
+<li>Beau Miles - The Backyard Adventurer</li>
+<li>Stephen Graham Jones - I Was a Teenage Space Jockey</li>
+<li>Kim Fu - #ClimbingNation</li>
 </ul>
 </details>
 
@@ -490,7 +497,6 @@ To keep the page somewhat manageable, I've collapsed the lists by years:
 <li>Neal Shusterman - The Unwind dystology - 1/6</li>
 <li>Orson Scott Card - Ender saga - 2/6</li>
 <li>Suzanne Collins - The Hunger Games - 3/4</li>
-<li>Tade Thompson - The Wormwood Trilogy - 2/3</li>
 </ul>
 </details>
 
@@ -522,6 +528,7 @@ To keep the page somewhat manageable, I've collapsed the lists by years:
 <li>Philip Reeve - Mortal Engines Quartet - 4/4</li>
 <li>Stephen King - Bill Hodges Trilogy - 3/3</li>
 <li>Stephen King - The Shining - 2/2</li>
+<li>Tade Thompson - The Wormwood Trilogy - 3/3</li>
 <li>Terry Pratchett - Discworld - 41/41</li>
 <li>V E Schwab - Villains - 2/2</li>
 </ul>
