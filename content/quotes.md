@@ -131,6 +131,8 @@ Quotes I've found in and around the Internet, collected because they make me smi
 
 >Glory to Arstotska <!-- papers please -->
 
+>Greetings, proletariat <!-- georg rockall-scmidt -->
+
 >Guess this will be my last message. Good-bye, boys. <!-- Vince Coleman -->
 
 >Guys literally only want one thing and it's fucking disgusting <!-- ashcammm -->
