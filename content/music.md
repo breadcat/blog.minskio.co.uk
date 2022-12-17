@@ -1,7 +1,7 @@
 ---
 title: Music Library
 layout: single
-lastmod: 2022-09-04T01:15:00
+lastmod: 2022-12-17T21:20:00
 ---
 
 This page is purely for reference, parsed by a script that I'll finish up and link later.
@@ -14,10 +14,15 @@ This page is purely for reference, parsed by a script that I'll finish up and li
 | ABBA | SOS | Pop | Single |
 | AFI | Miss Murder | Emo | Single |
 | AFI | The Boy Who Destroyed The World | Punk | Single |
+| aguagu11 | while (money>0) | Techno | Single |
+| Alabama 3 | Woke Up This Morning | Blues | Single |
 | Alcest | Sapphire | Blackgaze | Single |
 | Alien Ant Farm | These Days | Alternative | Single |
 | Alien Ant Farm | Wish | Alternative| Single |
 | alt-J | Breezeblocks | Indie | Single |
+| Andreas Johnson | Glorious | Pop | Single |
+| Anti-Flag | Depleted Uranium Is A War Crime | Punk | Single |
+| Anti-Flag | Die for Your Government | Punk | Single |
 | Armor For Sleep | Car Underwater | Emo | Single |
 | Astrophysics | Komm, süsser Tod | Synthwave | Single |
 | Atlas Plug | 2 Days or Die | Electronic | Album |
@@ -33,28 +38,37 @@ This page is purely for reference, parsed by a script that I'll finish up and li
 | Can't Swim | Stranger | Post-Hardcore | Single |
 | Canterbury | Peace & Quiet | Indie | Single |
 | Carpenter Brut | Turbo Killer | Synthwave | Single |
+| Cassyette | Sad Girl Summer | Pop Punk | Single |
 | Celldweller | Switchback | Industrial | Single |
 | Celldweller ft. Klayton | Erasus | Industrial | Single |
 | Childish Gambino | This Is America | Hip Hop | Single |
 | Combichrist | Get Your Body Beat | Industrial | Single |
 | Death From Above 1979 | Crystal Ball | Indie Rock | Single |
+| Des Rocs | This is Our Life | Alternative | Single |
 | Dorp | London Out There | Alternative | Single |
 | Dxrk ダーク | RAVE | EDM | Single |
 | Fever the Ghost | Source | Psychedelic Rock | Single |
 | Fischerspooner | Emerge | Electronic | Single |
+| Fleetwood Mac | Landslide | Rock | Single |
+| Flobots | Handlebars | Hip hop | Single |
+| Florence + The Machine | My Love | Pop | Single |
 | Foals | My Number | Indie | Single |
 | Forest Swords | Dagger Paths | Experimental | Album |
 | Foster the People | Helena Beat | Electropop | Single |
 | GACKT | Redemption | J-Rock | Single |
+| Gary Moore & Phil Lynott | Out in the Fields | Rock | Single |
+| Gluecifer | Losing End | Hard Rock | Single |
 | Gojira | Another World | Groove Metal | Single |
 | Goldfinger | Superman | Ska | Single |
 | Grimes & i_o | Violence | Synthpop | Single |
+| Himalayas | From Hell to Here | Hard Rock | Single |
 | Hombres G | Devuelveme a mi Chica | Spanish Rock | Single |
 | Hundredth | Whatever | Shoegaze | Single |
 | Interpol | Antics | Indie | Album |
 | Interpol | Evil | Indie | Single |
 | Interpol | Slow Hands | Indie | Single |
 | Izgrim x Jasper | Hologram | Cold Wave | Single |
+| Kate Bush | Babooshka | Alternative | Single |
 | Korn | Got the Life | Nu Metal | Single |
 | KT Tunstall | Black Horse and the Cherry Tree | Indie | Single |
 | KT Tunstall | Other Side of the World | Indie | Single |
@@ -65,6 +79,8 @@ This page is purely for reference, parsed by a script that I'll finish up and li
 | Love | The Red Telephone | Psychedelic | Single |
 | M83 | Midnight City | Electronic | Single |
 | M83 | We Own the Sky | Electronic| Single |
+| Mac Miller | Frick Park Market | Hip Hop | Single |
+| Mac Miller | Smile Back | Hip Hop | Single |
 | Machine Gun Kelly | Bloody Valentine | Emo | Single |
 | Manic Street Preachers | Kevin Carter | Rock | Single |
 | Martha and the Muffins | Echo Beach | New Wave | Single |
@@ -134,6 +150,8 @@ This page is purely for reference, parsed by a script that I'll finish up and li
 | The Comet Is Coming | Summon The Fire | Nu Jazz | Single |
 | The Cooper Temple Clause | Blind Pilots | Alternative | Single |
 | The Cooper Temple Clause | Promises, Promises | Alternative | Single |
+| The Isley Brothers | Shout | Soul | Single |
+| The Jam | That's Entertainment | Mod | Single |
 | The Mighty Mighty Bosstones | The Impression That I Get | Ska | Single |
 | the pillows | Last Dinosaur | J-Rock | Single |
 | the pillows | Ride on Shooting Star | J-Rock | Single |
@@ -154,6 +172,7 @@ This page is purely for reference, parsed by a script that I'll finish up and li
 | VAST | Pretty When You Cry | Industrial | Single |
 | We Were Promised Jetpacks | Quiet Little Voices | Indie | Single |
 | Weapons of Mass Belief | Black Line Ninja | Rapcore | Single |
+| Wet Leg | Wet Dream | Indie Rock | Single |
 | White Lies | To Lose My Life | Indie | Single |
 | Yeah Yeah Yeahs | Heads Will Roll | Indie | Single |
 | YELLE | Comme un enfant (Freaks Radio Mix) | Electropop | Single |
