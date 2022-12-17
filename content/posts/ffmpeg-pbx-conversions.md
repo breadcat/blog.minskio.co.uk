@@ -31,4 +31,9 @@ ffmpeg -i "input.ext" -codec:a pcm_mulaw -ar 8000 -ac 1 -ab 64k "output.wav"
 ffmpeg -i "input.ext" -codec:a pcm_mulaw -ar 8000 -ac 1 -ab 64k "output.wav"
 ```
 
+## 3CX
+```
+ffmpeg -i "input.ext" -codec pcm_s16le -ar 8000 -ac 1 -ab 128k "output.wav"
+```
+
 Sometimes, the files can be a little loud when played. You can simply knock this down during conversion via `-af volume=0.8` which predictably equates to 80% of the original volume
