@@ -9,7 +9,7 @@ I generally strive for a book per week, but this is by no means a steadfast goal
 <details><summary>Works in Progress</summary>
 <ul>
 <li>Norman Boutin - Empress Theresa</li>
-<li>Bob Mortimer - The Satsuma Complex</li>
+<li>Jared Diamond - Guns, Germs, and Steel</li>
 </ul>
 </details>
 
@@ -72,6 +72,8 @@ To keep the page somewhat manageable, I've collapsed the lists by years:
 <li>Beau Miles - The Backyard Adventurer</li>
 <li>Stephen Graham Jones - I Was a Teenage Space Jockey</li>
 <li>Kim Fu - #ClimbingNation</li>
+<li>Bob Mortimer - The Satsuma Complex</li>
+<li>Samuel R Delaney - Nova</li>
 </ul>
 </details>
 
