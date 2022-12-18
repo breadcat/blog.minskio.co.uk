@@ -113,7 +113,7 @@ This page is purely for reference, parsed by a script that I'll finish up and li
 | Poppy | Flux | Rock | Single |
 | Q Lazzarus | Goodbye Horses | Synthpop | Single |
 | Queens of the Stone Age | In The Fade | Stoner Rock | Single |
-| Radish | Little Pink EStars | Grunge | Single |
+| Radish | Little Pink Stars | Grunge | Single |
 | Rammstein | DEUTSCHLAND | Industrial Metal | Single |
 | Rare Americans | Baggage | Alternative | Single |
 | Rival Schools | Travel by Telephone | Post Hardcore | Single |
