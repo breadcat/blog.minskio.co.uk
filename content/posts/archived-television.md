@@ -2,7 +2,7 @@
 title: Archived Television
 tags: ["Media", "Archive"]
 date: 2018-01-01T01:00:00
-lastmod: 2022-04-04T11:04:00
+lastmod: 2022-12-26T14:27:00
 ---
 
 * 11.22.63
@@ -28,6 +28,7 @@ lastmod: 2022-04-04T11:04:00
 * Bob's Burgers
 * BoJack Horseman
 * Bosch
+* Bosch: Legacy
 * Breaking Bad
 * Brooklyn Nine-Nine
 * Burnistoun
@@ -44,6 +45,7 @@ lastmod: 2022-04-04T11:04:00
 * Dark Tourist
 * Death Note
 * Defying Gravity
+* Demon Slayer: Kimetsu no Yaiba
 * Dirk Gently's Holistic Detective Agency
 * Doom Patrol
 * Dorohedoro
@@ -55,12 +57,14 @@ lastmod: 2022-04-04T11:04:00
 * Final Space
 * Fireball
 * Firefly
+* Foundation
 * Freedom
 * Fullmetal Alchemist
 * Fullmetal Alchemist Brotherhood
 * Futurama
 * Game of Thrones
 * Garth Marenghi's Darkplace
+* Going Postal
 * Gravity Falls
 * Gunpowder
 * Hannibal
@@ -72,6 +76,8 @@ lastmod: 2022-04-04T11:04:00
 * Hyperdrive
 * Ideal
 * Inferno Cop
+* Infinity Train
+* Inside Job
 * Inside No. 9
 * Invincible
 * Jonathan Creek
@@ -90,6 +96,7 @@ lastmod: 2022-04-04T11:04:00
 * Nailed It!
 * Nathan Barley
 * Nightflyers
+* Obi-Wan Kenobi
 * One-Punch Man
 * Over the Garden Wall
 * Paradise PD
@@ -103,14 +110,17 @@ lastmod: 2022-04-04T11:04:00
 * Psychoville
 * Raised by Wolves
 * Rick and Morty
+* Ross Kemp on Gangs
 * Savage Builds
 * Sherlock
+* Smiling Friends
 * Solar Opposites
 * Sons of Anarchy
 * Space Dandy
 * Space Patrol Luluco
 * Squid Game
 * SS-GB
+* Star Trek
 * Star Trek: Deep Space Nine
 * Star Trek: Discovery
 * Star Trek: Enterprise
@@ -129,11 +139,14 @@ lastmod: 2022-04-04T11:04:00
 * Testees
 * The Andromeda Strain (2008)
 * The Boys
+* The Colour of Magic
 * The Crossing
+* The Cuphead Show!
 * The End of the F***ing World
 * The Event
 * The Exorcist
 * The Expanse
+* The Fear Index
 * The Grand Tour
 * The Haunting of Bly Manor
 * The Haunting of Hill House
@@ -159,6 +172,7 @@ lastmod: 2022-04-04T11:04:00
 * Tiger King: Murder, Mayhem and Madness
 * Tin Star
 * Titan Maximum
+* Toast of London
 * Tower of God
 * Travel Man: 48 Hours in...
 * TRIGUN
