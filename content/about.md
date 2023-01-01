@@ -40,10 +40,12 @@ Things I enjoy or embrace, in no particular order (albeit alphabetical) include:
 Some people I find interesting or inspirational:
 * Adam Curtis
 * Aldous Huxley
+* Ben Goldacre
 * Bill Bryson
 * Chuck Feeney
 * Colin Furze
 * Eddie Vedder
+* Greta Thunberg
 * James Randi
 * Louis Theroux
 * Marie Kondo
