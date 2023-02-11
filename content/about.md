@@ -16,23 +16,24 @@ Things I enjoy or embrace, in no particular order (albeit alphabetical) include:
 * Cooking and baking
 * Cryptocurrency, especially [Nano](https://nano.org/) and [Monero](https://www.getmonero.org/)
 * GNU/Linux and free software in general
+* Hiking
+* [Home cooking](/recipes/) and OMAD diets
 * Hypermiling
 * [INTJ Myers–Briggs Indicator](https://www.16personalities.com/profiles/ef5f8da14ed9e)
-* [Ketogenic food](/recipes/) and OMAD diets
+* Left wing politics
 * Lucid dreaming
-* Minimalism
+* Minimalism and Stoicism
 * Napping
 * [Nordic language](/languages/) and culture
 * Nuclear power
-* PC focused gaming including retro console and computer emulation
 * Paperless paperwork
+* PC focused gaming including retro console and computer emulation
 * [Pseudointellectual quotes](/quotes/)
 * [Reading](/reading-list/)
 * Rollercoasters and water parks
 * Running
 * Science, espcially physics and astronomy
 * Scotch whisky and Irish whiskey
-* Stoicism
 * Swimming
 * Universal basic income
 * Watching assorted [movies](/archived-movies/) and [television](/archived-television/), archiving when watched
