@@ -1,7 +1,7 @@
 ---
 title: Reading List
 layout: single
-lastmod: 2022-10-28T12:10:00
+lastmod: 2023-02-11T19:18:00
 ---
 
 I generally strive for a book per week, but this is by no means a steadfast goal. For a list of series and their status, check [the bottom of this page](#book-series).
@@ -9,11 +9,23 @@ I generally strive for a book per week, but this is by no means a steadfast goal
 <details><summary>Works in Progress</summary>
 <ul>
 <li>Norman Boutin - Empress Theresa</li>
-<li>Jared Diamond - Guns, Germs, and Steel</li>
+<li>Paolo Bacigalupi - The Alchemist and The Executioness</li>
 </ul>
 </details>
 
 To keep the page somewhat manageable, I've collapsed the lists by years:
+
+<details><summary>2023</summary>
+<ul>
+<li>Jared Diamond - Guns, Germs, and Steel</li>
+<li>Ursula K Le Guin - The Dispossessed</li>
+<li>Brian Aldiss - Non-Stop</li>
+<li>Michael Lewis - The Premonition</li>
+<li>Paolo Bacigalupi - Ship Breaker</li>
+<li>Paolo Bacigalupi - The Drowned Cities</li>
+<li>Clifford D Simak - Way Station</li>
+</ul>
+</details>
 
 <details><summary>2022</summary>
 <ul>
@@ -498,6 +510,7 @@ To keep the page somewhat manageable, I've collapsed the lists by years:
 <li>Monica Hughes - Arc One - 1/2</li>
 <li>Neal Shusterman - The Unwind dystology - 1/6</li>
 <li>Orson Scott Card - Ender saga - 2/6</li>
+<li>Paolo Bacigalupi - Ship Breaker Trilogy - 2/3</li>
 <li>Suzanne Collins - The Hunger Games - 3/4</li>
 </ul>
 </details>
