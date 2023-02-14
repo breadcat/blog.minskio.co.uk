@@ -1,6 +1,7 @@
 ---
 title: "Upgrading PostgreSQL in an Alpine docker container"
 date: 2021-10-18T17:16:00
+lastmod: 2023-02-14T22:37:00
 tags: ["Databases", "Docker", "Guides", "Linux", "Servers", "Software"]
 ---
 
@@ -34,10 +35,11 @@ Now we can check if the container is running and ready to accept connections:
 docker logs -f postgres
 ```
 
-If all looks good, move your `postgres-dump.sql` to your mounted volume using `sudo mv postgres-dump.sql postgres/`. With this backup now accessible in our container, access it and import the backup into the live database:
+If all looks good, we'll copy over the `postgres-dump.sql` file to the container, and restore it:
 ```
-docker exec -it postgres
-psql -U postgres < /var/lib/postgresql/data/postgres-dump.sql
+docker cp postgres-dump.sql postgres:/
+docker exec -it postgres sh
+psql -U postgres < /postgres-dump.sql
 ```
 
 Now exit from the container and restart the container, then watch the logs to ensure everything comes up as expected:
@@ -48,3 +50,5 @@ docker logs -f postgres
 ```
 
 All being well, everything will have gone well and you can bookmark this guide for the next major upgrade.
+
+* **Edit 2023-02-14:** Streamlined restoration instructions
