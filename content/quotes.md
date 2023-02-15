@@ -119,6 +119,8 @@ Quotes I've found in and around the Internet, collected because they make me smi
 
 >Forged bonds harm no one! <!-- going postal TV series -->
 
+>Friends have been urging me to write to you for the sake of humanity <!-- Gandhi -->
+
 >Fuck off up the model village <!-- hot fuzz -->
 
 >Fuck the state <!-- drug sniffing cats-->
