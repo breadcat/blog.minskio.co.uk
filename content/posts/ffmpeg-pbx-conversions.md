@@ -11,7 +11,7 @@ Firstly, grab a copy of `ffmpeg` from the [official website](https://www.ffmpeg.
 ffmpeg -i "input.ext" -codec pcm_s16le -ar 8000 -ac 1 -ab 128k "output.wav"
 ```
 
-### LG/Ericsson eMG80
+### LG/Ericsson eMG/UCP
 ```
 ffmpeg -i "input.ext" -codec:a pcm_mulaw -ar 8000 -ac 1 -ab 64k "output.wav"
 ```
