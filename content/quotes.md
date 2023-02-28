@@ -567,6 +567,8 @@ Quotes I've found in and around the Internet, collected because they make me smi
 
 >Yes, even if they ask stupid questions <!-- love everyone meme, no matter what -->
 
+>Yes, the planet got destroyed. But for a beautiful moment in time we created a lot of value for shareholders <!-- the new yorker -->
+
 >You are being shagged by a rare parrot! <!-- last chance to see -->
 
 >You are tending a plant that is dead <!-- star trek discovery -->
@@ -587,9 +589,13 @@ Quotes I've found in and around the Internet, collected because they make me smi
 
 >You want sympathy? It's in the dictionary, between shit and syphilis <!-- what the hell did I just read -->
 
+>You will find out what we make at the factory when you work at the factory <!-- weird the al yankovic story -->
+
 >You wouldn't find Hitler playing jungle music at 3 o'clock in the morning <!-- father ted -->
 
 >You'll Own Nothing and You'll Be Happy <!-- Ida Auken -->
+
+>Your friends are having children on purpose <!-- reddit rastus547 -->
 
 >Your proposal is acceptable <!-- men in black -->
 
