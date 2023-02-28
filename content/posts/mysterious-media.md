@@ -1,7 +1,7 @@
 ---
 title: "Mysterious media, solved and unsolved"
 date: 2022-04-04T11:44:00
-lastmod: 2022-04-04T11:44:00
+lastmod: 2022-12-26T13:07:00
 tags: ["Books", "Games", "Lists", "Media", "Music", "Television"]
 
 ---
@@ -10,6 +10,7 @@ Below is a list of TV shows, movies, books and games that I remember vaugely fro
 
 # Unsolved
 * Animated film about christmas I had on VHS. A kid somehow gets taken via a old flying boat/airship to an area with rooms branching off a central room. For whatever reason, something happens and they run away back to the airship and take him home where all the family issues he had have been resolved.
+* British rap duo, from either Birmingham or London, one of the two is likely bald. Not necessarily black, but also not white, unlikely late 80's, maybe early to mid 90's. Lyrics relate to living life, having a job, not necessarily stereotypical women/drug/violence themes. Music video or album cover may feature a leather chair in some kind of apartment
 * Couple move to a neighbourhood and face racial tensions, because everybody thinks his wife is Jewish? The man is attacked while visiting a town hall meeting then they go on holiday to a lakeside motel.
 * Crazy Art Student vandalises school by breaking windows, turns out he was a schitzophrenic and it was him all along. His art is ripped up by a teacher and then put back together with tape by his friends. named something like august underground, but not
 * Cyborg sent from the future to avert a space shuttle blowing up on the launchpad from sabotage. Gets shot in the process and throws a baseball pretty far
