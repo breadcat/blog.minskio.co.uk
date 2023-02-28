@@ -1,6 +1,7 @@
 ---
 title: "Notes on sorting Photos"
 date: 2019-12-23T11:50:00
+lastmod: 2023-02-19T21:05:00
 tags: ["Android", "Formats", "Guides", "Linux", "Media", "Minimalism", "Notes", "Snippets", "Software"]
 ---
 
@@ -42,7 +43,7 @@ Now we can invoke `phockup` to sort and move the source files to the destination
 phockup phone/DCIM/Camera/ pictures/personal/photos/ -m
 mv phone/Pictures/Screenshots/* pictures/personal/screenshots/ -v
 rm -rf phone/DCIM/.thumbnails
-find phone -maxdepth 2 -type d -not -path "*/\.*" -empty -delete
+find phone -maxdepth 2 -type d -not -path "*/\.*" -empty -delete -print
 ```
 I also move my screenshots, as I like these being backed up but I don't care about how they're sorted.
 I also delete unused thumbnails and empty folders, just to keep things tidy.
@@ -57,3 +58,4 @@ jdupes pictures/personal -rd
 And you're done.
 
 * **Edit 2020-10-26:** Improved empty directory deletion section
+* **Edit 2023-02-19:** Print list of directories removed
