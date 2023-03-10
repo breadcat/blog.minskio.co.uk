@@ -1,8 +1,8 @@
 ---
 title: "Personal 'best in slot' emulators"
 date: 2022-07-21T14:16:00
-lastmod: 2022-09-05T20:26:00
-tags: ["Emulation", "Lists", "Software"]
+lastmod: 2023-03-10T17:59:00
+tags: ["Emulation", "Games", "Lists", "Software"]
 ---
 
 The majority of the information on this page came from [NonMAME](http://nonmame.retrogames.com/) and the [Emulation General Wiki](https://emulation.gametechwiki.com/index.php/Main_Page), visit those sites for a more detailed breakdown and actually useful guides.
@@ -21,7 +21,7 @@ At the end of the day I just wanted a single page for reference I could open up 
 * Nintendo Wii U: [Cemu](http://cemu.info/)
 * Nintendo Wii: [Dolphin](https://dolphin-emu.org/)
 * Sega Dreamcast: [Flycast](https://flyinghead.github.io/flycast-builds/)
-* Sega Mega Drive (CD): [Kega Fusion](https://www.carpeludum.com/kega-fusion/)
+* Sega Mega Drive: [BlastEm](https://www.retrodev.com/blastem/)
 * Sega Saturn: [Kronos](https://github.com/FCare/Kronos)
 * SNK Neo Geo: [FinalBurn Neo](https://github.com/finalburnneo/FBNeo)
 * Sony PlayStation 2: [PCSX2](https://pcsx2.net/)
@@ -41,9 +41,13 @@ At the end of the day I just wanted a single page for reference I could open up 
 * Atari ST: [Hatari](https://hatari.tuxfamily.org/)
 * DOS: [DOSBox-X](https://dosbox-x.com/)
 * MSX: [OpenMSX](http://openmsx.org/)
+* PC: [PCem](https://pcem-emulator.co.uk/)
 
 # Launchers
 * Emulators: [Pegasus](https://pegasus-frontend.org/)
 * PC Games: [GOG Galaxy](https://www.gog.com/galaxy)
 
+
+### Updates
 * **Edit 2022-09-05:** Rename m64p to simple64
+* **Edit 2023-03-10:** Replace Kega Fusion with BlastEm, add PCem
