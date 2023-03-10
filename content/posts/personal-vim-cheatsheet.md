@@ -1,7 +1,7 @@
 ---
 title: "Personal VIM cheatsheet"
 date: 2020-06-14T12:58:00
-lastmod: 2021-02-11T11:23:00
+lastmod: 2023-03-10T18:05:00
 tags : [ "Guides", "Learning", "Linux", "Servers", "Snippets", "Software", ]
 ---
 
@@ -95,6 +95,7 @@ z= correct misspelled word when highlighted
 ]s jumps to next misspelled word
 
 p put/paste previously deleted lines
+P put/paste at current cursor, instead of after
 5p paste, 5 times
 
 x delete character under cursor
@@ -142,3 +143,4 @@ Another point worth adding is sometimes files formatted outside vim will contain
 * **Edit 2020-12-02:** Added notes regarding reading file contents and command output.
 * **Edit 2021-01-02:** Added null character removal note.
 * **Edit 2021-02-11:** Added additional line break removal note.
+* **Edit 2023-03-10:** Add P/paste at position line
