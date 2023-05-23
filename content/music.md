@@ -1,7 +1,7 @@
 ---
 title: Music Library
 layout: single
-lastmod: 2023-02-15T18:18:00
+lastmod: 2023-02-24T19:56:00
 ---
 
 This page is purely for reference, parsed by a script that I'll finish up and link later.
@@ -31,7 +31,6 @@ This page is purely for reference, parsed by a script that I'll finish up and li
 | Astrophysics | Komm, süsser Tod | Synthwave |
 | Atlas Plug | 2 Days or Die (Album) | Electronic |
 | Atomship | Pencil Fight | Alternative |
-| Atomship | Pencil Fight | Alternative Metal |
 | Bad Religion | You | Punk Rock |
 | BADBADNOTGOOD | Time Moves Slow | Soul Jazz |
 | Bassnectar | Heads Up (The Glitch Mob Remix) | Glitch |
@@ -52,7 +51,6 @@ This page is purely for reference, parsed by a script that I'll finish up and li
 | Boy Kill Boy | Suzie | Indie Rock |
 | Bring Me The Horizon | Throne | Emo |
 | Can't Swim | Stranger | Post Hardcore |
-| Can't Swim | Stranger | Post-Hardcore |
 | Canterbury | Peace & Quiet | Indie |
 | Carpenter Brut | Turbo Killer | Synthwave |
 | Cassyette | Sad Girl Summer | Pop Punk |
@@ -92,13 +90,13 @@ This page is purely for reference, parsed by a script that I'll finish up and li
 | Ghost | Mary on a Cross | Psychedelic Rock |
 | Gluecifer | Losing End | Hard Rock |
 | Gojira | Another World | Groove Metal |
-| Goldfinger | Superman | Punk Rock |
 | Goldfinger | Superman | Ska |
 | Greta Van Fleet | Highway Tune | Hard Rock |
 | Grimes & i_o | Violence | Synthpop |
-| Groove Armada | At The River | House |
+| Groove Armada | At the River | House |
 | Head Automatica | Decadence (Album) | Emo |
 | Himalayas | From Hell to Here | Hard Rock |
+| Hole | Malibu | Grunge |
 | Hombres G | Devuelveme a mi Chica | Spanish Rock |
 | Hot Chip | Boy From School | Electropop |
 | Hot Chip | I Feel Better | Electropop |
@@ -117,6 +115,7 @@ This page is purely for reference, parsed by a script that I'll finish up and li
 | Kasabian | Shoot the Runner | Indie Rock |
 | Kasabian | Underdog | Indie Rock |
 | Kate Bush | Babooshka | Alternative |
+| Kate Bush | Cloudbusting | Alternative |
 | Kings of Leon | The Bandit | Alternative Rock |
 | Kings of Leon | Waste a Moment | Alternative Rock |
 | Korn | Got the Life | Nu Metal |
@@ -201,6 +200,7 @@ This page is purely for reference, parsed by a script that I'll finish up and li
 | Sirkel Sag | Ørsta rådhus | Rap |
 | Skid Row | The Gang's All Here | Hard Rock |
 | Sleep | Dopesmoker (Album) | Doom Metal |
+| Sleep Token | The Offering | Alternative Metal |
 | Slipknot | Nero Forte | Nu Metal |
 | Slow Crush | Swoon | Shoegaze |
 | Soul Asylum | Somebody to Shove | Grunge |
