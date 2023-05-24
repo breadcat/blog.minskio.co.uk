@@ -2,7 +2,7 @@
 title: Logging Duolingo ranks over time
 layout: single
 date: 2022-05-03T14:58:00
-lastmod: 2023-02-28T18:23:00
+lastmod: 2023-05-23T23:38:00
 ---
 
 I was curious as to how my rank would change over time and what the rate of attrition would look like over time.
@@ -40,3 +40,4 @@ Currently this script is manually run whenever I'm curious. Perhaps as time goes
 | 2022-10-17 | 12:12 | 3152 | 3152 |
 | 2022-11-29 | 22:37 | 2966 | 3085 |
 | 2023-02-28 | 18:23 | 2922 | 3001 |
+| 2023-05-23 | 23:38 | 3030 | 2958 |
