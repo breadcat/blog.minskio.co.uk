@@ -19,6 +19,8 @@ Quotes I've found in and around the Internet, collected because they make me smi
 
 >Abandon hope all ye who enter here <!-- Dante's Inferno -->
 
+>Abort, she's onto us <!-- brooklyn nine-nine -->
+
 >Ambition makes you look pretty ugly <!-- paranoid android -->
 
 >Apply the handbrake ya dumb broad <!-- yu-gi-oh abridged -->
@@ -173,6 +175,8 @@ Quotes I've found in and around the Internet, collected because they make me smi
 
 >I am the milkman, my milk is delicious <!-- psychonauts -->
 
+>I can't get enough of that wanky bread <!-- athletico mince, episode 63 -->
+
 >I did not have sexual relations with that woman <!-- bill clinton -->
 
 >I don't know about you, but I could murder a curry <!-- discworld -->
@@ -255,6 +259,14 @@ Quotes I've found in and around the Internet, collected because they make me smi
 
 >ISO-8601 for life
 
+>It is a very comfortable hell
+
+>It is difficult to remember conversations one has while shooting on a grouse moor <!-- William Keswick -->
+
+>It may not be a perfect system, but it's still the best one there is
+
+>It takes forever, until it doesn't
+
 >It's called a child-size soda because it is the size of a child <!-- parks and recreation -->
 
 >It's funny how a diagnosis can make things worse
@@ -264,12 +276,6 @@ Quotes I've found in and around the Internet, collected because they make me smi
 >It's not your pudding, you alzheimer's lout! <!-- cloud atlas -->
 
 >It's probably fine
-
->It is a very comfortable hell
-
->It is difficult to remember conversations one has while shooting on a grouse moor <!-- William Keswick -->
-
->It takes forever, until it doesn't
 
 >I've got a horse called Treacle. It's got golden stirrups <!-- tim vine -->
 
