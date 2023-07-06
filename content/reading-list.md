@@ -1,7 +1,7 @@
 ---
 title: Reading List
 layout: single
-lastmod: 2023-05-09T00:50:00
+lastmod: 2023-07-06T17:10:00
 ---
 
 I generally strive for a book per week, but this is by no means a steadfast goal. For a list of series and their status, check [the bottom of this page](#book-series).
@@ -33,6 +33,15 @@ To keep the page somewhat manageable, I've collapsed the lists by years:
 <li>Kurt Vonnegut - DP</li>
 <li>Yahtzee Croshaw - Existentially Challenged</li>
 <li>John Scalzi - Travel by Bullet</li>
+<li>Annalee Newitz - The Terraformers</li>
+<li>Keith Roberts - Pavane</li>
+<li>Walter Tevis - Mockingbird</li>
+<li>Philip K Dick - The Simulacra</li>
+<li>Gregory Marlow - The Destination Star</li>
+<li>Karen Osborne - An Equal Share of the Bone</li>
+<li>Gene Wolfe - The Fifth Head of Cerberus</li>
+<li>Paolo Bacigalupi - Softer</li>
+<li>Paolo Bacigalupi - Pocketful of Dharma</li>
 </ul>
 </details>
 
