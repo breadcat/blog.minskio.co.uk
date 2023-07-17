@@ -1,7 +1,7 @@
 ---
 title: Reading List
 layout: single
-lastmod: 2023-07-06T17:10:00
+lastmod: 2023-07-17T15:53:00
 ---
 
 I generally strive for a book per week, but this is by no means a steadfast goal. For a list of series and their status, check [the bottom of this page](#book-series).
@@ -9,6 +9,8 @@ I generally strive for a book per week, but this is by no means a steadfast goal
 <details><summary>Works in Progress</summary>
 <ul>
 <li>Norman Boutin - Empress Theresa</li>
+<li>V C Andrews - Flowers in the Attic</li>
+<li>John Scalzi - Fuzzy Nation</li>
 </ul>
 </details>
 
@@ -42,6 +44,9 @@ To keep the page somewhat manageable, I've collapsed the lists by years:
 <li>Gene Wolfe - The Fifth Head of Cerberus</li>
 <li>Paolo Bacigalupi - Softer</li>
 <li>Paolo Bacigalupi - Pocketful of Dharma</li>
+<li>Paolo Bacigalupi - Yellow Card Man</li>
+<li>Paolo Bacigalupi - The Fluted Girl</li>
+<li>Paolo Bacigalupi - The Pasho</li>
 </ul>
 </details>
 
