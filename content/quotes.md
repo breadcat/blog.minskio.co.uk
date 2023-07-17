@@ -53,6 +53,8 @@ Quotes I've found in and around the Internet, collected because they make me smi
 
 >But that's just a theory <!-- game theory youtube -->
 
+>Butter the toast, eat the toast, shit the toast. God, life’s relentless. <!-- peep show -->
+
 >Caedite eos. Novit enim Dominus qui sunt eius <!-- kill them all; let God sort them out -->
 
 >Call me Ishmael <!-- moby dick -->
