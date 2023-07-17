@@ -1,7 +1,7 @@
 ---
 title: "Ericsson-LG PBX notes"
 date: 2021-05-21T13:48:00
-lastmod: 2022-05-23T15:58:00
+lastmod: 2023-03-21T13:13:00
 tags: ["Guides", "Hardware", "PBX", "Snippets", "Work"]
 ---
 
@@ -19,6 +19,12 @@ With the news that Ericsson LG will be discontinuing the eMG80 PBX, I'm publishi
 * Line cord RJ45: Line 1, Pins 1 and 2. Line 2 Pins 5 and 6
 * Digital extension RJ45: Pins 4 and 5 (innermost 2)
 * BT>RJ45 line cord conversion: Pins 2 and 5 > Pins 4 and 5 (innermost 2)
+
+## Tollring modified switch ports
+* Port 1 - PBX
+* Ports 2-3 - Voice modules
+* Port 7 - Network uplink
+* Port 8 - Call recording server
 
 # Software
 
@@ -87,3 +93,4 @@ Assuming remote setup, using an IP phone for testing
 
 ## Updates
 * **2022-05-23:** Added two way record instruction
+* **2023-03-21:** Added modified switch port setup
