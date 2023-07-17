@@ -1,13 +1,14 @@
 ---
 title: Music Library
 layout: single
-lastmod: 2023-05-24T01:00:00
+lastmod: 2023-07-17T14:53:00
 ---
 
 This page is purely for reference, parsed by a script that I'll finish up and link later.
 
 | Artist | Title |
 | ------ | ----- |
+| 10cc | Dreadlock Holiday |
 | 3TEETH | PUMPED UP KICKS |
 | 99 Souls | The Girl Is Mine |
 | ABBA | SOS |
@@ -15,12 +16,14 @@ This page is purely for reference, parsed by a script that I'll finish up and li
 | AFI | The Boy Who Destroyed The World |
 | aguagu11, Lapis Aoki | while (money>0) |
 | Air Traffic | Charlotte |
+| Airways | Reckless Tongue |
 | Alabama 3 | Woke Up This Morning |
 | Alanis Morissette | Head over Feet |
 | Alcest | Sapphire |
 | Alice In Chains | Down In A Hole (2022 Remaster) |
 | Alice In Chains | Them Bones (2022 Remaster) |
 | Alice In Chains | Would? (2022 Remaster) |
+| Alice Merton | No Roots |
 | Alien Ant Farm | These Days |
 | Alien Ant Farm | Wish |
 | alt-J | Breezeblocks |
@@ -41,7 +44,8 @@ This page is purely for reference, parsed by a script that I'll finish up and li
 | Armor For Sleep | Car Underwater |
 | A | Rush Song |
 | ASHES dIVIDE | Enemies |
-| Astrophysics | Komm, süsser Tod |
+| Asia | Heat Of The Moment |
+| Astrophysics, Marina Rios | Komm, süsser Tod |
 | Atomship | Pencil Fight |
 | Audioslave | Be Yourself |
 | Audioslave | Doesn't Remind Me |
@@ -61,6 +65,7 @@ This page is purely for reference, parsed by a script that I'll finish up and li
 | Ben Kweller, Kimya Dawson, John David Kent, Josh Lattanzi | How It Should Be (Sha Sha) |
 | Biffy Clyro | Mountains |
 | Billy Joel | Piano Man |
+| Billy Talent | Rusted From the Rain |
 | Birdy Nam Nam | The Parachute Ending |
 | Björk | Army Of Me |
 | Black Blood and The Chocolate Pickles | Black Blood (In the Mississippi Mud) |
@@ -85,6 +90,8 @@ This page is purely for reference, parsed by a script that I'll finish up and li
 | Brand New | Sic Transit Gloria ... Glory Fades |
 | Brand New | The Quiet Things That No One Ever Knows |
 | Brand of Sacrifice | Altered Eyes - Remix |
+| Bring Me The Horizon, BABYMETAL | Kingslayer (feat. BABYMETAL) |
+| Bring Me The Horizon | Can You Feel My Heart |
 | Bring Me The Horizon | Throne |
 | Built To Spill | Carry the Zero |
 | Bush | Everything Zen - Remastered |
@@ -129,9 +136,11 @@ This page is purely for reference, parsed by a script that I'll finish up and li
 | DMA'S | Everybody's Saying Thursday's The Weekend |
 | Dogs | Tuned To A Different Station |
 | Dorp | London Out There |
+| Dragged Under | Instability |
 | Duran Duran | Rio |
 | Duran Duran | Save a Prayer - 2009 Remaster |
 | Dxrk ダーク | RAVE |
+| Edie Brickell & New Bohemians | What I Am |
 | Edward Sharpe & The Magnetic Zeros | Home |
 | Eels | Dog Faced Boy |
 | Eels | Novocaine For The Soul |
@@ -164,9 +173,11 @@ This page is purely for reference, parsed by a script that I'll finish up and li
 | Foals | Mountain at My Gates |
 | Foals | My Number |
 | Foals | The Runner |
+| Forest Swords | Miarches - Remastered |
 | ¡Forward Russia! | Nine |
 | ¡Forward Russia! | Thirteen |
 | Foster The People | Helena Beat |
+| Four Year Strong | It Must Really Suck To Be Four Year Strong Right Now |
 | Freeze the Atlantic | Tusen Takk |
 | French 79 | Hometown |
 | Fubbs N' Chubbs | New Cadillac |
@@ -209,6 +220,7 @@ This page is purely for reference, parsed by a script that I'll finish up and li
 | Interpol | The Heinrich Maneuver |
 | Izgrim, Jasper | Hologram |
 | Jake Bugg | Seen It All |
+| Jeff Buckley | Grace |
 | Jeff Wayne, Richard Burton, Justin Hayward | Forever Autumn |
 | Jennifer Rush | If You're Ever Gonna Lose My Love |
 | Jimmy Eat World | Bleed American |
@@ -275,6 +287,7 @@ This page is purely for reference, parsed by a script that I'll finish up and li
 | Martin Garrix | Animals |
 | Massive Attack | Angel |
 | Massive Attack | Teardrop |
+| Mastodon | Show Yourself |
 | Mastodon | The Motherload |
 | Maximo Park | Sandblasted And Set Free |
 | MAXIMUM THE HORMONE | What's up, people?! |
@@ -288,6 +301,7 @@ This page is purely for reference, parsed by a script that I'll finish up and li
 | MGMT | When You Die |
 | Miike Snow | Animal |
 | Miike Snow | Genghis Khan |
+| Milburn | Lo And Behold |
 | Miles Kane | Come Closer |
 | Miles Kane | Don't Forget Who You Are |
 | Miles Kane | Inhaler |
@@ -360,6 +374,7 @@ This page is purely for reference, parsed by a script that I'll finish up and li
 | Powderfinger | My Happiness |
 | Powderfinger | Nature Boy |
 | Powderfinger | Waiting For The Sun |
+| Powerman 5000 | Free |
 | Pulled Apart By Horses | Back to the Fuck Yeah |
 | Pulled Apart By Horses | High Five, Swan Dive, Nose Dive |
 | Q Lazzarus | Goodbye Horses |
@@ -411,12 +426,16 @@ This page is purely for reference, parsed by a script that I'll finish up and li
 | Sirkel Sag | Ørsta rådhus |
 | Skid Row | The Gang's All Here |
 | Skunk Anansie | Weak |
+| Sleep | Dopesmoker - 2022 Remastered Version |
 | Sleep Token | The Offering |
 | Slipknot | Before I Forget |
 | Slipknot | Duality |
 | Slipknot | Nero Forte |
 | Slipknot | Wait and Bleed |
 | Slow Crush | Swoon |
+| Soil | Breaking Me Down |
+| Soil | Halo |
+| Soilwork | Distortion Sleep |
 | Solar Quest | Singtree |
 | Soul Asylum | Somebody to Shove |
 | Space Debris | Sunlight |
@@ -426,6 +445,7 @@ This page is purely for reference, parsed by a script that I'll finish up and li
 | Spirit Caravan | Healing Tongue |
 | ssshhhiiittt! | Корабль |
 | Static-X | Black and White |
+| Stephen Paul Taylor | Everybody Knows Shit's Fucked |
 | Steppenwolf | Magic Carpet Ride |
 | Steppenwolf | The Pusher |
 | Stonebride | The Amazing Voyagers |
@@ -506,14 +526,17 @@ This page is purely for reference, parsed by a script that I'll finish up and li
 | The Smashing Pumpkins | Bullet With Butterfly Wings - Remastered 2012 |
 | The Stone Roses | I Wanna Be Adored - Remastered |
 | The Strokes | Hard To Explain |
-| The Verve | Bitter Sweet Symphony |
+| The Sword | Acheron/Unearthing the Orb |
+| The Verve | Bitter Sweet Symphony - Remastered 2016 |
 | The Verve | Love Is Noise |
 | The Verve | Lucky Man |
 | The Verve | The Drugs Don't Work |
 | The Vines | Get Free |
 | The Von Bondies | C'mon C'mon |
+| The Warning | MORE |
 | The Weeknd | Blinding Lights |
 | The xx | Islands |
+| They Might Be Giants | Birdhouse in Your Soul |
 | The Zombies | I Love You |
 | The Zombies | She's Not There |
 | The Zombies | Time of the Season |
@@ -527,6 +550,7 @@ This page is purely for reference, parsed by a script that I'll finish up and li
 | TOOL | Schism |
 | Tove Lo | Habits (Stay High) |
 | Trivium | A Gunshot to the Head of Trepidation |
+| Turbowolf, Sebastien Grainger | Cheap Magic |
 | TV On The Radio | DLZ |
 | TV On The Radio | Happy Idiot |
 | Two Door Cinema Club | I Can Talk |
@@ -537,6 +561,7 @@ This page is purely for reference, parsed by a script that I'll finish up and li
 | Vampire Weekend | A-Punk |
 | Vance Joy | Riptide |
 | Vast | Beautiful |
+| Vast | Pretty When You Cry |
 | Vast | Touched |
 | Wall of Death | Away |
 | weapons | Black Line Ninja |
