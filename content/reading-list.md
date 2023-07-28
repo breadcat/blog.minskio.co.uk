@@ -1,7 +1,7 @@
 ---
 title: Reading List
 layout: single
-lastmod: 2023-07-17T15:53:00
+lastmod: 2023-07-28T13:21:00
 ---
 
 I generally strive for a book per week, but this is by no means a steadfast goal. For a list of series and their status, check [the bottom of this page](#book-series).
@@ -9,8 +9,8 @@ I generally strive for a book per week, but this is by no means a steadfast goal
 <details><summary>Works in Progress</summary>
 <ul>
 <li>Norman Boutin - Empress Theresa</li>
-<li>V C Andrews - Flowers in the Attic</li>
-<li>John Scalzi - Fuzzy Nation</li>
+<li>VC Andrews - Petals on the Wind</li>
+<li>Kim Stanley Robinson - Icehenge</li>
 </ul>
 </details>
 
@@ -47,6 +47,8 @@ To keep the page somewhat manageable, I've collapsed the lists by years:
 <li>Paolo Bacigalupi - Yellow Card Man</li>
 <li>Paolo Bacigalupi - The Fluted Girl</li>
 <li>Paolo Bacigalupi - The Pasho</li>
+<li>VC Andrews - Flowers in the Attic</li>
+<li>John Scalzi - Fuzzy Nation</li>
 </ul>
 </details>
 
@@ -534,6 +536,7 @@ To keep the page somewhat manageable, I've collapsed the lists by years:
 <li>Neal Shusterman - The Unwind dystology - 1/6</li>
 <li>Orson Scott Card - Ender saga - 2/6</li>
 <li>Suzanne Collins - The Hunger Games - 3/4</li>
+<li>VC Andrews - Dollanganger series - 1/5</li>
 </ul>
 </details>
 
