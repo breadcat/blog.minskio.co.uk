@@ -11,7 +11,7 @@ As you'd expect from someone that ~~owns~~ rents their own server, I enjoy the u
 
 Things I enjoy or embrace, in no particular order (albeit alphabetical) include:
 * Anti-natalism
-* Botany and mycology
+* [Botany](/plants) and mycology
 * Coffee culture
 * Cooking and baking
 * Cryptocurrency, especially [Nano](https://nano.org/) and [Monero](https://www.getmonero.org/)
