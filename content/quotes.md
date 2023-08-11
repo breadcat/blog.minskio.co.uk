@@ -465,6 +465,8 @@ Quotes I've found in and around the Internet, collected because they make me smi
 
 >The call of the void <!-- suicide ideation -->
 
+>The egg bar is coveted as fuck <!-- severance -->
+
 >The gaping maw of consumerism <!-- jackbox -->
 
 >The house always wins
