@@ -1,7 +1,7 @@
 ---
 title: Reading List
 layout: single
-lastmod: 2023-07-28T13:21:00
+lastmod: 2023-08-12T00:28:00
 ---
 
 I generally strive for a book per week, but this is by no means a steadfast goal. For a list of series and their status, check [the bottom of this page](#book-series).
@@ -10,7 +10,6 @@ I generally strive for a book per week, but this is by no means a steadfast goal
 <ul>
 <li>Norman Boutin - Empress Theresa</li>
 <li>VC Andrews - Petals on the Wind</li>
-<li>Kim Stanley Robinson - Icehenge</li>
 </ul>
 </details>
 
@@ -49,6 +48,9 @@ To keep the page somewhat manageable, I've collapsed the lists by years:
 <li>Paolo Bacigalupi - The Pasho</li>
 <li>VC Andrews - Flowers in the Attic</li>
 <li>John Scalzi - Fuzzy Nation</li>
+<li>Kim Stanley Robinson - Icehenge</li>
+<li>Paolo Bacigalupi - Pop Squad</li>
+<li>John Scalzi - Agent to the Stars</li>
 </ul>
 </details>
 
