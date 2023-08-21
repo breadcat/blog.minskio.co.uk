@@ -1,7 +1,7 @@
 ---
 title: Music Library
 layout: single
-lastmod: 2023-08-21T16:55:00
+lastmod: 2023-08-21T18:07:00
 ---
 
 This page is purely for reference, parsed by a script that I'll finish up and link later.
@@ -134,8 +134,8 @@ This page is purely for reference, parsed by a script that I'll finish up and li
 | Depeche Mode | [Enjoy the Silence](spotify:track:0yp3TvJNlG50Q4tAHWNCRm) |
 | Des Rocs | [This is Our Life](spotify:track:7iRiNHAj2DjU1o0q4v4V8k) |
 | Detroit Diesel | [Lost Signal](spotify:track:3mYdOwPtjHLTdCVeyrWgD8) |
-| Detroit Diesel | [Lost Signal](spotify:track:4RScHCNhjtN3GRfbduGLG9) |
 | Dextro | [Momentary](spotify:track:0qqtXZt7YyKbvp8T9ndpWu) |
+| Dirty Pretty Things | [Deadwood](spotify:track:6WeEgi4zkGaHuFXZOWXX3m) |
 | DMA'S | [Everybody's Saying Thursday's The Weekend](spotify:track:1uK65VcfQeZ6cPxnUm0TCv) |
 | Dogs | [Tuned To A Different Station](spotify:track:1W1hnjCTtlxJRL1QBVJGSs) |
 | Dorp | [London Out There](spotify:track:2zfbSH1trZF7cK5rpXcb3l) |
@@ -289,6 +289,7 @@ This page is purely for reference, parsed by a script that I'll finish up and li
 | Marilyn Manson | [The Dope Show](spotify:track:1KQxH1Z1BiSo3MMukVpRfl) |
 | Marilyn Manson | [The Fight Song](spotify:track:6pfdW2NouUI3ZnugM7r0G0) |
 | Marilyn Manson | [This Is The New Shit](spotify:track:2BD4AgZ1seuWauxzbCcDEw) |
+| Mars Red Sky | [Strong Reflection](spotify:track:3ITVfnOWqufdNq3rD0lFsh) |
 | Martha and the Muffins | [Echo Beach](spotify:track:49wHCjiu34kM3VRgumQ1tJ) |
 | Martin Garrix | [Animals](spotify:track:1xMLthTaWJieT9YGV1hyS5) |
 | Massive Attack | [Angel](spotify:track:7uv632EkfwYhXoqf8rhYrg) |
@@ -324,6 +325,10 @@ This page is purely for reference, parsed by a script that I'll finish up and li
 | Motion City Soundtrack | [Everything Is Alright](spotify:track:6xyiHZgrmXw7sMyYXbXjPV) |
 | Motion City Soundtrack | [The Future Freaks Me Out](spotify:track:7N2DblLu8DuZ0seGYSg73v) |
 | Mudvayne | [Happy?](spotify:track:0INUE1K7cEiE8VH63Rv5RJ) |
+| Muse | [Bliss](spotify:track:0j3obufLXq5toSs592dX9U) |
+| Muse | [Muscle Museum](spotify:track:5rupf5kRDLhhFPxH15ZmBF) |
+| Muse | [Starlight](spotify:track:3skn2lauGk7Dx6bVIt5DVj) |
+| Muse | [Sunburn](spotify:track:5wq8wceQvaFlOZovDtfr0j) |
 | My Chemical Romance | [I'm Not Okay (I Promise)](spotify:track:7lRlq939cDG4SzWOF4VAnd) |
 | Mystery Skulls | [Money](spotify:track:6uoccjn6gLDixD0EKYH3AY) |
 | Nada Surf | [Popular](spotify:track:48sJGpBLqQTs0sZ2ImHJof) |
@@ -418,7 +423,6 @@ This page is purely for reference, parsed by a script that I'll finish up and li
 | Screaming Trees | [More or Less](spotify:track:6V6tVj4fpdHyxUfjSXFwNW) |
 | Seigmen | [Slaver Av Solen](spotify:track:4xEbZptSUUOqQzgCKjBWZq) |
 | Selda Bağcan | [Yaz Gazeteci](spotify:track:0Lci8gqXuIdWnIPMTX93lZ) |
-| Semisonic | [Closing Time](spotify:track:1A5V1sxyCLpKJezp75tUXn) |
 | Semisonic | [Closing Time](spotify:track:6liaHE9iHh23PLVvw7lK8V) |
 | Semisonic | [Secret Smile](spotify:track:1OhctVvuAU8kVCtzDWsCTj) |
 | Send More Paramedics | [Everything Is Not Under Control](spotify:track:61w4JG7VXH7XLMZX3z4Qm7) |
@@ -467,8 +471,8 @@ This page is purely for reference, parsed by a script that I'll finish up and li
 | Sum 41 | [The Hell Song](spotify:track:5jVKpqA8ARnVuMmt8yTyGi) |
 | Surfer Blood | [Floating Vibes](spotify:track:6UDYTfeSS4IVbJeHTaMxxA) |
 | Swiss Lips | [U Got the Power](spotify:track:3NBFW6x1NVJ3mCxWb6LDqG) |
+| System Of A Down | [Sugar](spotify:track:31RTFPrB7wmYBhlkM2ILXG) |
 | Taking Back Sunday | [Cute Without The 'E' (Cut From The Team)](spotify:track:0ObyshwXoUY4NTib9v2eji) |
-| Taking Back Sunday | [Cute Without The 'E' (Cut From The Team)](spotify:track:6OyKBwLzq4h15XmxeWf5n4) |
 | Taking Back Sunday | [MakeDamnSure](spotify:track:6fTgbkBiMITtHUmik95ClX) |
 | Tame Impala | [Feels Like We Only Go Backwards](spotify:track:0LtOwyZoSNZKJWHqjzADpW) |
 | Tame Impala | [The Less I Know The Better](spotify:track:6K4t31amVTZDgR3sKmwUJJ) |
