@@ -27,5 +27,3 @@ docker system prune -af
 ```
 
 ...now if you'll excuse me, I need to go read through my [updating postgres blog post](/upgrading-postgresql-in-an-alpine-docker-container/) again...
-
-* **Edit 2023-03-15:** Improved empty directory deletion section
