@@ -1,10 +1,18 @@
 ---
 title: Music Library
 layout: single
-lastmod: 2023-08-21T18:07:00
+lastmod: 2023-09-22T18:28:00
 ---
 
-This page is purely for reference, parsed by a script that I'll finish up and link later.
+This page is purely for reference, as detailed [in this post](/notes-on-sorting-music). While Spotify has 99.9% of songs you'd want, there are some unusual omissions that I've collapsed in a list below.
+<details><summary>Missing Tracks</summary>
+<ul>
+<li>DeVotchKa - Charlotte Mittnacht (The Fabulous Destiny of...)</li>
+<li>DeVotchKa - How It Ends</li>
+<li>VAST - Pretty When You Cry</li>
+</ul>
+</details>
+<br />
 
 | Artist | Title |
 | ------ | ----- |
@@ -64,6 +72,7 @@ This page is purely for reference, parsed by a script that I'll finish up and li
 | Belinda Carlisle | [Leave a Light On](spotify:track:7vJz53OhSGMIxLlwhfwqzu) |
 | Ben Kweller | [How It Should Be (Sha Sha)](spotify:track:77h5SC6UU6kfKNSGQ9hZ4k) |
 | Biffy Clyro | [Mountains](spotify:track:51MbtYQHW8ph3lE5oyfLLs) |
+| Big Country | [In A Big Country](spotify:track:4cY1KFcIcTkjXxxF4KVDpY) |
 | Billy Joel | [Piano Man](spotify:track:70C4NyhjD5OZUMzvWZ3njJ) |
 | Billy Talent | [Rusted From the Rain](spotify:track:1VbsSYNXKBpjPvqddk8zjs) |
 | Birdy Nam Nam | [The Parachute Ending](spotify:track:1LgZLXloDTLKtkQ8CJ5IKv) |
@@ -81,6 +90,7 @@ This page is purely for reference, parsed by a script that I'll finish up and li
 | Blood Red Shoes | [Doesn't Matter Much](spotify:track:3dppeflqlBthF7DJ03lhjI) |
 | Blood Red Shoes | [It's Getting Boring By The Sea](spotify:track:0Y1FLqg7c4YFCKP2F6HXsG) |
 | Blossoms | [Charlemagne](spotify:track:7H5WVBQdSnJ1zmu8JoD6pg) |
+| Blur | [Barbaric](spotify:track:71o2pLB6Xu62uVjqpwmiS9) |
 | Blur | [Coffee & TV](spotify:track:5eSllZgRWCIJsDTAqFRwQw) |
 | Blur | [The Universal](spotify:track:0qmCWYu7hOvriyuqXfPw7I) |
 | Bob Dylan | [The Times They Are A-Changin'](spotify:track:52vA3CYKZqZVdQnzRrdZt6) |
@@ -127,6 +137,7 @@ This page is purely for reference, parsed by a script that I'll finish up and li
 | Courteeners | [Not Nineteen Forever](spotify:track:19CIsQ1HElu4XHdLCMlSqu) |
 | CSS | [Let's Make Love and Listen to Death From Above](spotify:track:1Jd9W7k8DTnBSovDSxK77n) |
 | David Byrne | [Like Humans Do](spotify:track:5SuD0gVWOj2o1n9pporwr0) |
+| Dawid Podsiadło | [Let You Down](spotify:track:1qpGMJi0ippCaMUOs7cz2q) |
 | Death From Above 1979 | [Crystal Ball](spotify:track:6Q9NqbIsNZj8oOlP6BguS4) |
 | Death From Above 1979 | [Freeze Me](spotify:track:50jXnyrzW4mcBBqFTMEoAC) |
 | Deftones | [Back to School (Mini Maggit)](spotify:track:0Qrb3L8JgreLBW8g4qyan9) |
@@ -169,6 +180,7 @@ This page is purely for reference, parsed by a script that I'll finish up and li
 | Finley Quaye | [Sunday Shining](spotify:track:1zoQeNvtQRMm1LqCWlG9S5) |
 | Finley Quaye | [Your Love Gets Sweeter](spotify:track:1SfQCY234gf6C2dlyUUMn9) |
 | Fischerspooner | [Emerge](spotify:track:3vyKSb9sAdXl0kQ1KnS9fY) |
+| Five | [Keep On Movin'](spotify:track:0MjMqYIYzcCteAs4c0BZGy) |
 | Fleetwood Mac | [Landslide](spotify:track:5ihS6UUlyQAfmp48eSkxuQ) |
 | Flobots | [Handlebars](spotify:track:6JH9yWhgbm0y9iAJhCslNc) |
 | Flobots | [There's A War Going On For Your Mind](spotify:track:4ZuWAdlZS2bmkwSMAhHohN) |
@@ -322,8 +334,10 @@ This page is purely for reference, parsed by a script that I'll finish up and li
 | Morning Runner | [Gone up in Flames](spotify:track:0Y0isUif72qN1sMdkb5tsi) |
 | Morphine | [Claire](spotify:track:6Y34Mwcu1WqGS086PIUz7A) |
 | Morphine | [Good](spotify:track:6QQ8diRSTraMgZIE4O0LNy) |
+| Motion City Soundtrack | [Disappear](spotify:track:0V33glu7euozGGQMAobin4) |
 | Motion City Soundtrack | [Everything Is Alright](spotify:track:6xyiHZgrmXw7sMyYXbXjPV) |
 | Motion City Soundtrack | [The Future Freaks Me Out](spotify:track:7N2DblLu8DuZ0seGYSg73v) |
+| Mott The Hoople | [Roll Away the Stone](spotify:track:7cQXdm6y9KE8n1Lw2z75Ey) |
 | Mudvayne | [Happy?](spotify:track:0INUE1K7cEiE8VH63Rv5RJ) |
 | Muse | [Bliss](spotify:track:0j3obufLXq5toSs592dX9U) |
 | Muse | [Muscle Museum](spotify:track:5rupf5kRDLhhFPxH15ZmBF) |
@@ -374,6 +388,7 @@ This page is purely for reference, parsed by a script that I'll finish up and li
 | Peter Bjorn and John | [Amsterdam](spotify:track:4xj5OL6pyQTOsDRewbO5zv) |
 | Peter Bjorn and John | [Young Folks](spotify:track:4dyx5SzxPPaD8xQIid5Wjj) |
 | Pete Rock | [Grown Man Sport](spotify:track:6hANdvhL9H7bkESqIVeVIZ) |
+| Phantogram | [Black Out Days - Future Islands Remix](spotify:track:3kxkjirben9RVm9NqYa6rm) |
 | Phantogram | [Cruel World](spotify:track:5PaViyJwv0XJbCcrnBNuAt) |
 | Phantogram | [When I'm Small](spotify:track:0PERS23jNsjcjBywXLvpyc) |
 | Pitchshifter | [Eight Days](spotify:track:2pZVifelUObW6BheSCoA6I) |
@@ -456,6 +471,7 @@ This page is purely for reference, parsed by a script that I'll finish up and li
 | Spineshank | [New Disease](spotify:track:5xqi4X6J5PHwndSJc7YLYH) |
 | Spineshank | [Smothered](spotify:track:2wdjEAsK64EUPmNIIH6MWt) |
 | Spirit Caravan | [Healing Tongue](spotify:track:14hlVXq8wqo63APIXCBAml) |
+| Split Enz | [I Got You](spotify:track:3KOPorZiKeW6gFeIViqMoq) |
 | ssshhhiiittt! | [Корабль](spotify:track:1RP5XjvtlcwdqEZ0e8rPWG) |
 | Static-X | [Black and White](spotify:track:1GwiQCsJ0wEtzQTnblUSnH) |
 | Stephen Paul Taylor | [Everybody Knows Shit's Fucked](spotify:track:5l4AUpGX1rjfPKWEujoFT3) |
@@ -484,6 +500,7 @@ This page is purely for reference, parsed by a script that I'll finish up and li
 | The All-American Rejects | [Move Along](spotify:track:4mygCMA74xSGIqRLdfSzAb) |
 | The All-American Rejects | [Swing, Swing](spotify:track:003FTlCpBTM4eSqYSWPv4H) |
 | The Allergies | [Felony](spotify:track:1o9mPAHKGHB2xYnEIE4jtb) |
+| The Almost | [Say This Sooner](spotify:track:7waZfrpjfOYktwulz6fo02) |
 | The Answer | [Blood Brother](spotify:track:54fbXxenk3fTC75Sn6SEN1) |
 | The Automatic | [Steve McQueen](spotify:track:5HxgWJvo0IVSwGVgvdp33D) |
 | The Black Keys | [Gold on the Ceiling](spotify:track:5lN1EH25gdiqT1SFALMAq1) |
