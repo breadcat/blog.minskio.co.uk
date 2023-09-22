@@ -2,7 +2,7 @@
 title: Archived Television
 tags: ["Media", "Archive"]
 date: 2018-01-01T01:00:00
-lastmod: 2023-03-10T17:53:00
+lastmod: 2023-09-22T18:26:00
 ---
 
 * 11.22.63
@@ -33,6 +33,7 @@ lastmod: 2023-03-10T17:53:00
 * Brooklyn Nine-Nine
 * Burnistoun
 * Can't Get You Out of My Head
+* Chainsaw Man
 * Chernobyl
 * Childhood's End
 * Clarkson's Farm
@@ -41,6 +42,7 @@ lastmod: 2023-03-10T17:53:00
 * Cowboy Bebop
 * Cowboy Bebop (2021)
 * Creepshow
+* Cyberpunk: Edgerunners
 * Dark Angel
 * Dark Tourist
 * Death Note
@@ -57,6 +59,7 @@ lastmod: 2023-03-10T17:53:00
 * Final Space
 * Fireball
 * Firefly
+* Flowers in the Attic: The Origin
 * Foundation
 * Freedom
 * Fullmetal Alchemist
@@ -69,6 +72,7 @@ lastmod: 2023-03-10T17:53:00
 * Guillermo del Toro's Cabinet of Curiosities
 * Gunpowder
 * Hannibal
+* Heartland
 * Heroes
 * High Score
 * Hometown: A Killing
@@ -87,11 +91,13 @@ lastmod: 2023-03-10T17:53:00
 * Last Chance Lawyer NYC
 * Lifeline
 * Line of Duty
+* Loki
 * Long Way Up
 * Love, Death & Robots
 * Luther
 * Made For Love
 * Mind Field
+* Moon Knight
 * Mr. Mercedes
 * Mr. Pickles
 * Nailed It!
@@ -113,6 +119,7 @@ lastmod: 2023-03-10T17:53:00
 * Rick and Morty
 * Ross Kemp on Gangs
 * Savage Builds
+* Severance
 * Sherlock
 * Smiling Friends
 * Solar Opposites
@@ -183,12 +190,14 @@ lastmod: 2023-03-10T17:53:00
 * TRIGUN
 * True Blood
 * Undone
+* Upload
 * V (2009)
 * WandaVision
 * Warrior
 * Watchmen
 * Wayward Pines
 * Westworld
+* What If...?
 * World on a Wire
 * X-Men
 * X-Men Evolution
