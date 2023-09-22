@@ -9,7 +9,7 @@ I generally strive for a book per week, but this is by no means a steadfast goal
 <details><summary>Works in Progress</summary>
 <ul>
 <li>Norman Boutin - Empress Theresa</li>
-<li>VC Andrews - Petals on the Wind</li>
+<li>Frederik Pohl - The Annals of the Heechee</li>
 </ul>
 </details>
 
@@ -51,6 +51,11 @@ To keep the page somewhat manageable, I've collapsed the lists by years:
 <li>Kim Stanley Robinson - Icehenge</li>
 <li>Paolo Bacigalupi - Pop Squad</li>
 <li>John Scalzi - Agent to the Stars</li>
+<li>Paolo Bacigalupi - The Tamarisk Hunter</li>
+<li>John Scalzi - The God Engines</li>
+<li>Arthur C Clarke - The City and the Stars</li>
+<li>H G Wells - The First Men in the Moon</li>
+<li>VC Andrews - Petals on the Wind</li>
 </ul>
 </details>
 
@@ -538,7 +543,7 @@ To keep the page somewhat manageable, I've collapsed the lists by years:
 <li>Neal Shusterman - The Unwind dystology - 1/6</li>
 <li>Orson Scott Card - Ender saga - 2/6</li>
 <li>Suzanne Collins - The Hunger Games - 3/4</li>
-<li>VC Andrews - Dollanganger series - 1/5</li>
+<li>VC Andrews - Dollanganger series - 2/5</li>
 </ul>
 </details>
 
