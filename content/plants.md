@@ -3,8 +3,9 @@ title: Plants
 layout: single
 ---
 
-* Wandering Jew<br />Tradescantia zebrina
-* Spider Plant<br />Chlorophytum comosum
-* Aloe Vera
+* Lace Aloe<br>Aristaloe aristata
+* Hebe Green Globe
 * Hebe Margaret
-* Mexican Heather<br />Cuphea hyssopifolia
+* Mexican Heather<br>Cuphea hyssopifolia
+* Spider Plant<br>Chlorophytum comosum
+* Wandering Jew<br>Tradescantia zebrina
