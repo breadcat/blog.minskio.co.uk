@@ -5,7 +5,7 @@ layout: single
 
 * Hebe - Green Globe
 * Hebe - Hey Beauty
-* Hebe - Margaret
+* Hebe - Margret
 * Lace Aloe<br>Aristaloe aristata
 * Mexican Heather<br>Cuphea hyssopifolia
 * Spider Plant<br>Chlorophytum comosum
