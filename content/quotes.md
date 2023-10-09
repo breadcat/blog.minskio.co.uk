@@ -5,11 +5,11 @@ layout: single
 
 Quotes I've found in and around the Internet, collected because they make me smile. Check the page source if you want to see some commented sources.
 
->:(){ :|: & };: <!-- bash forkbomb -->
-
->[brackets], (parentheses) and {squirlies}
+>'Tis a silly place <!-- monty python and the holy grail -->
 
 >7/11 was a part time job
+
+>:(){ :|: & };: <!-- bash forkbomb -->
 
 >A friend to all is a friend to none <!-- aristotle -->
 
@@ -55,13 +55,13 @@ Quotes I've found in and around the Internet, collected because they make me smi
 
 >Butter the toast, eat the toast, shit the toast. God, life’s relentless. <!-- peep show -->
 
+>C'est la vie <!-- such is life -->
+
 >Caedite eos. Novit enim Dominus qui sunt eius <!-- kill them all; let God sort them out -->
 
 >Call me Ishmael <!-- moby dick -->
 
 >Carne Por la Machina <!-- the expanse -->
-
->C'est la vie <!-- such is life -->
 
 >Coins I flip land on their sides <!-- the automatic lyrics -->
 
@@ -219,6 +219,18 @@ Quotes I've found in and around the Internet, collected because they make me smi
 
 >I would rather starve than eat your bread <!-- pearl jam corduroy -->
 
+>I'm bleeding, making me the victor <!-- kung pow -->
+
+>I'm not a real doctor, But I am a real worm <!-- they might be giants -->
+
+>I'm not complaining, I'm just explaining <!-- austin mcconnell -->
+
+>I'm not giving my name to a machine <!-- futurama -->
+
+>I'm not superstitious, but I am a little stitious. <!-- the office -->
+
+>I've got a horse called Treacle. It's got golden stirrups <!-- tim vine -->
+
 >If you could blow up the world with the flick of a switch would you do it? <!-- flaming lips -->
 
 >If you die in Russia, you die in real life
@@ -234,16 +246,6 @@ Quotes I've found in and around the Internet, collected because they make me smi
 >If you were any simpler you'd have to be watered every day
 
 >If you're not turned on to politics, politics will turn on you <!-- ralph nader -->
-
->I'm bleeding, making me the victor <!-- kung pow -->
-
->I'm not a real doctor, But I am a real worm <!-- they might be giants -->
-
->I'm not complaining, I'm just explaining <!-- austin mcconnell -->
-
->I'm not giving my name to a machine <!-- futurama -->
-
->I'm not superstitious, but I am a little stitious. <!-- the office -->
 
 >In Scotland the forbidden fruit is fruit. <!-- Gary Delaney -->
 
@@ -280,8 +282,6 @@ Quotes I've found in and around the Internet, collected because they make me smi
 >It's not your pudding, you alzheimer's lout! <!-- cloud atlas -->
 
 >It's probably fine
-
->I've got a horse called Treacle. It's got golden stirrups <!-- tim vine -->
 
 >Jeremy Irons lives in your garage <!-- taskmaster -->
 
@@ -349,8 +349,6 @@ Quotes I've found in and around the Internet, collected because they make me smi
 
 >No one knows anything
 
->Nothing cleans stubborn stains like suppressed anger <!-- Unseen Academicals -->
-
 >nofkyo <!-- exurb1a - no one fucking knows yet, okay -->
 
 >Not a hill I want to die on
@@ -364,6 +362,8 @@ Quotes I've found in and around the Internet, collected because they make me smi
 >Not waving, but drowning <!-- stevie smith poem -->
 
 >Not your keys, not your coins <!-- cryptocurrency phrase -->
+
+>Nothing cleans stubborn stains like suppressed anger <!-- Unseen Academicals -->
 
 >Nothing Is True and Everything Is Possible <!-- Peter Pomerantsev book -->
 
@@ -503,9 +503,9 @@ Quotes I've found in and around the Internet, collected because they make me smi
 
 >This inhuman place makes human monsters <!-- The Shining -->
 
->This is only a test of the emergency broadcast system <!-- pennywise -->
-
 >This is extremely dangerous to our democracy <!-- sinclair broadcast group -->
+
+>This is only a test of the emergency broadcast system <!-- pennywise -->
 
 >This isn't horseplay, it's a major felony <!-- Hudson Hawk -->
 
@@ -519,13 +519,11 @@ Quotes I've found in and around the Internet, collected because they make me smi
 
 >Trust, but verify <!-- russian phrase -->
 
->Two lovers missing the tranquility of solitude <!-- that's entertainment -->
-
->'Tis a silly place <!-- monty python and the holy grail -->
-
 >Tsundoku
 
 >Two hundred dollar, please <!-- psychoville -->
+
+>Two lovers missing the tranquility of solitude <!-- that's entertainment -->
 
 >Two steps forward, three steps back
 
@@ -539,15 +537,17 @@ Quotes I've found in and around the Internet, collected because they make me smi
 
 >We'll burn that bridge when we get to it <!-- malaphor -->
 
->Well I'm not here to fuck spiders <!-- australian slang -->
+>We're in a giant car heading towards a brick wall and everyones arguing over where they're going to sit <!-- david suzuki -->
+
+>We're just normal men. We're just innocent men <!-- cbbc hacker -->
+
+>We've all technically kicked a pregnant woman
 
 >We've also arrested your older, balder, fatter son <!-- the simpsons -->
 
+>Well I'm not here to fuck spiders <!-- australian slang -->
+
 >Well. I guess there's nothing to do but lay here and wait to die
-
->We're in a giant car heading towards a brick wall and everyones arguing over where they're going to sit <!-- david suzuki -->
-
->We've all technically kicked a pregnant woman
 
 >What a digital dummy <!-- yu-gi-oh -->
 
@@ -607,6 +607,8 @@ Quotes I've found in and around the Internet, collected because they make me smi
 
 >You'll Own Nothing and You'll Be Happy <!-- Ida Auken -->
 
+>You've got razzle-dazzle <!-- sun-maid raisins -->
+
 >Your friends are having children on purpose <!-- reddit rastus547 -->
 
 >Your proposal is acceptable <!-- men in black -->
@@ -615,6 +617,6 @@ Quotes I've found in and around the Internet, collected because they make me smi
 
 >Your stories have entertained me. I will let you into the cave for a short time. <!-- oldschool runescape -->
 
->You've got razzle-dazzle <!-- sun-maid raisins -->
+>[brackets], (parentheses) and {squirlies}
 
 >🇬🇧 English (Traditional), 🇺🇸 English (Simplified)
