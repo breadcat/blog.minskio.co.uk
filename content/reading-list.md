@@ -1,7 +1,7 @@
 ---
 title: Reading List
 layout: single
-lastmod: 2023-08-12T00:28:00
+lastmod: 2023-11-13T17:04:00
 ---
 
 I generally strive for a book per week, but this is by no means a steadfast goal. For a list of series and their status, check [the bottom of this page](#book-series).
@@ -9,7 +9,7 @@ I generally strive for a book per week, but this is by no means a steadfast goal
 <details><summary>Works in Progress</summary>
 <ul>
 <li>Norman Boutin - Empress Theresa</li>
-<li>Frederik Pohl - The Annals of the Heechee</li>
+<li>Hugh Howey - Shift</li>
 </ul>
 </details>
 
@@ -56,6 +56,11 @@ To keep the page somewhat manageable, I've collapsed the lists by years:
 <li>Arthur C Clarke - The City and the Stars</li>
 <li>H G Wells - The First Men in the Moon</li>
 <li>VC Andrews - Petals on the Wind</li>
+<li>Frederik Pohl - The Annals of the Heechee</li>
+<li>Frederik Pohl - The Boy Who Would Live Forever</li>
+<li>Wendy Nikel - Driftwood in the Sea of Time</li>
+<li>Hugh Howey - Wool</li>
+<li>VC Andrews - If There Be Thorns</li>
 </ul>
 </details>
 
@@ -534,8 +539,9 @@ To keep the page somewhat manageable, I've collapsed the lists by years:
 <details><summary>Work in Progress</summary>
 <ul>
 <li>Douglas Adams - The Hitchhiker's Guide to the Galaxy - 1/6</li>
-<li>Frederik Pohl - Heechee - 3/6</li>
+<li>Frederik Pohl - Heechee - 5/6</li>
 <li>Guillermo del Toro &amp; Chuck Hogan - The Strain - 1/3</li>
+<li>Hugh Howey - Silo - 1/3</li>
 <li>Iain M Banks - The Culture - 4/10</li>
 <li>Isaac Asimov - Foundation - 3/7</li>
 <li>Jim Butcher - The Dresden Files - 1/17</li>
@@ -543,7 +549,7 @@ To keep the page somewhat manageable, I've collapsed the lists by years:
 <li>Neal Shusterman - The Unwind dystology - 1/6</li>
 <li>Orson Scott Card - Ender saga - 2/6</li>
 <li>Suzanne Collins - The Hunger Games - 3/4</li>
-<li>VC Andrews - Dollanganger series - 2/5</li>
+<li>VC Andrews - Dollanganger series - 3/5</li>
 </ul>
 </details>
 
