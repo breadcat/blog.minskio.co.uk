@@ -1,7 +1,7 @@
 ---
 title: Music Library
 layout: single
-lastmod: 2023-10-02T15:19:00
+lastmod: 2023-11-13T20:21:00
 ---
 
 This page is purely for reference, as detailed [in this post](/notes-on-sorting-music). While Spotify has 99.9% of songs you'd want, there are some unusual omissions that I've collapsed in a list below.
@@ -75,6 +75,7 @@ This page is purely for reference, as detailed [in this post](/notes-on-sorting-
 | Biffy Clyro | [Mountains](spotify:track:51MbtYQHW8ph3lE5oyfLLs) |
 | Big Country | [In A Big Country](spotify:track:4cY1KFcIcTkjXxxF4KVDpY) |
 | Billy Joel | [Piano Man](spotify:track:70C4NyhjD5OZUMzvWZ3njJ) |
+| Billy Ocean | [Red Light Spells Danger](spotify:track:557cxXIeiwh03kI2F2jKdh) |
 | Billy Talent | [Rusted From the Rain](spotify:track:1VbsSYNXKBpjPvqddk8zjs) |
 | Birdy Nam Nam | [The Parachute Ending](spotify:track:1LgZLXloDTLKtkQ8CJ5IKv) |
 | Björk | [Army Of Me](spotify:track:5zRuPOBoe38AjACFMsxkof) |
@@ -124,6 +125,7 @@ This page is purely for reference, as detailed [in this post](/notes-on-sorting-
 | Catfish and the Bottlemen | [Longshot](spotify:track:2VcS3oKcOPkubN9LVzZ96l) |
 | Celldweller | [Switchback](spotify:track:3lUwCryVobacobYrN5f2Je) |
 | Childish Gambino | [This Is America](spotify:track:0b9oOr2ZgvyQu88wzixux9) |
+| Chris Isaak | [Wicked Game](spotify:track:7w5AOd6HrDIHewHfpABEss) |
 | CKY | [96 Quite Bitter Beings](spotify:track:7AimHQrOUoUTYbVX87D3Zl) |
 | Clint Mansell | [Death Is the Road to Awe](spotify:track:3RoQX4ou3qYEASsuC7YAWD) |
 | Coheed and Cambria | [The Suffering](spotify:track:4dcUque6026WExzwJYWG7H) |
@@ -138,6 +140,7 @@ This page is purely for reference, as detailed [in this post](/notes-on-sorting-
 | Consumed | [Heavy Metal Winner](spotify:track:7tt28wbdKmFqZZXsCh4tTk) |
 | Corey Hart | [Sunglasses At Night](spotify:track:1QbQL5m30YNvukitIqAnFG) |
 | Courteeners | [Not Nineteen Forever](spotify:track:19CIsQ1HElu4XHdLCMlSqu) |
+| Crystal Fighters | [You & I](spotify:track:2UUJTDdO3K5jQ4Qqq19jBV) |
 | CSS | [Let's Make Love and Listen to Death From Above](spotify:track:1Jd9W7k8DTnBSovDSxK77n) |
 | David Byrne | [Like Humans Do](spotify:track:5SuD0gVWOj2o1n9pporwr0) |
 | Dawid Podsiadło | [Let You Down](spotify:track:1qpGMJi0ippCaMUOs7cz2q) |
@@ -178,6 +181,7 @@ This page is purely for reference, as detailed [in this post](/notes-on-sorting-
 | Enter Shikari | [T.I.N.A.](spotify:track:1glamaHwWaC9AO0HX9G85y) |
 | Enya | [Only Time](spotify:track:6FLwmdmW77N1Pxb1aWsZmO) |
 | Enya | [Orinoco Flow](spotify:track:0Fyj9w0HVfjoxm9S8nGClt) |
+| Eurythmics | [Here Comes the Rain Again - Remastered Version](spotify:track:78RIER8V6EhrqVPOBi2GYa) |
 | Faith No More | [Midlife Crisis](spotify:track:3Ph7fws05DvPwpn5CQHTBy) |
 | Fear Factory | [Monolith](spotify:track:0ITgHE0E5jnng0t81jV2oK) |
 | Fever the Ghost | [Source](spotify:track:1w7WAOQ65UjKpwhqB5rTNl) |
@@ -201,6 +205,7 @@ This page is purely for reference, as detailed [in this post](/notes-on-sorting-
 | French 79 | [Hometown](spotify:track:47x1Gh7yk5mblUWxWRdtjH) |
 | Fubbs N' Chubbs | [New Cadillac](spotify:track:6c5cg2Kor8LE4YaMJM1X3r) |
 | Funeral For A Friend | [Bullet Theory](spotify:track:7nh7lmeaUtM0EejuRCy8Jn) |
+| Fuzz | [Loose Sutures](spotify:track:7Cww7IuARJxXVv7Rg8r2zG) |
 | GABRIELLE | [Rise](spotify:track:63nkNgHkmfgjElTEnCzKYU) |
 | Gackt | [REDEMPTION](spotify:track:1OcDyY8XQNT8ckiTPgLMfv) |
 | Garbage | [Bleed Like Me](spotify:track:5Zzev4Yk9atMR98vlgXMAF) |
@@ -212,6 +217,7 @@ This page is purely for reference, as detailed [in this post](/notes-on-sorting-
 | Ghost | [Dance Macabre](spotify:track:4pIKFpwflOdhYNIRmPTj3E) |
 | Ghost | [Kiss The Go-Goat](spotify:track:56k2ztFw7hQRzDeoe80pJo) |
 | Ghost | [Mary On A Cross](spotify:track:2HZLXBOnaSRhXStMLrq9fD) |
+| Girls' Generation | [Gee](spotify:track:0t7kjpVLgOYITrSfFCoBEA) |
 | Gluecifer | [Losing End](spotify:track:2nHS5c27OLtE4gaCFkvx0f) |
 | Gojira | [Another World](spotify:track:7cRGgrQ9eg8V8A4FsSj020) |
 | Goldfinger | [Superman](spotify:track:4X3qGigyU6ARi3HP4lWD95) |
@@ -342,6 +348,7 @@ This page is purely for reference, as detailed [in this post](/notes-on-sorting-
 | Mindless Self Indulgence | [Never Wanted To Dance](spotify:track:3nM1EJJ80pJGiG32WFfJxc) |
 | Mineral | [Parking Lot](spotify:track:4JTjHx8xto0GyYJ8F2cJ0n) |
 | Ministry | [Lay Lady Lay](spotify:track:4pVGf7BJe4i2qbPsrtbmga) |
+| Moloko | [The Time Is Now](spotify:track:6caODjFlH5iakvYJIrhATv) |
 | Monaco | [What Do You Want From Me?](spotify:track:3H097K41pskob32JipdXzK) |
 | Monster Magnet | [Space Lord](spotify:track:09bkkXFpOVi3aPLvByyWD5) |
 | Morcheeba | [The Sea](spotify:track:0xjkgYSzHjBZNvyUaC9cXX) |
@@ -399,6 +406,7 @@ This page is purely for reference, as detailed [in this post](/notes-on-sorting-
 | Parov Stelar | [All Night](spotify:track:717lZxxn53x2B0eucGiD1Z) |
 | Parov Stelar | [The Sun](spotify:track:6Ki0WL4ssXMIHexYSSkAOt) |
 | Pascal Letoublon | [Friendships (Lost My Love)](spotify:track:0lQ2obtzmAsJu9xk3D6FqH) |
+| Paul McCartney | [Band On The Run](spotify:track:1H4idkmruFoJBg1DvUv2tY) |
 | Peach Pit | [Psychics in LA](spotify:track:5tsB5ROYUKKisUaJQIEEfv) |
 | Pearl Jam | [Alive](spotify:track:1L94M3KIu7QluZe63g64rv) |
 | Pearl Jam | [Better Man](spotify:track:2B98ljvzqpCVgt5reTHq28) |
@@ -473,6 +481,7 @@ This page is purely for reference, as detailed [in this post](/notes-on-sorting-
 | Semisonic | [Secret Smile](spotify:track:1OhctVvuAU8kVCtzDWsCTj) |
 | Send More Paramedics | [Everything Is Not Under Control](spotify:track:61w4JG7VXH7XLMZX3z4Qm7) |
 | Serj Tankian | [Empty Walls](spotify:track:6Y2kW1mdHE0znPCjtOdt5m) |
+| S.E.S. | [Dreams Come True](spotify:track:6whFRgwg7je2SYzpSfansM) |
 | Shakira | [Waka Waka (This Time for Africa) ](spotify:track:6bNB5gxFX6Q87DbQWb8OWZ) |
 | Shed Seven | [Disco Down](spotify:track:6gG8N0BywH4esZknjaD3Fh) |
 | ShockOne | [Follow Me](spotify:track:54Tm26Pv3efwgeuzlN5A1m) |
@@ -519,6 +528,7 @@ This page is purely for reference, as detailed [in this post](/notes-on-sorting-
 | Sum 41 | [In Too Deep](spotify:track:1HNE2PX70ztbEl6MLxrpNL) |
 | Sum 41 | [Over My Head (Better Off Dead)](spotify:track:04KoKGQqBQvn5IS2bgRP0Z) |
 | Sum 41 | [The Hell Song](spotify:track:5jVKpqA8ARnVuMmt8yTyGi) |
+| Sunset Rubdown | [Shut Up I Am Dreaming Of Places Where Lovers Have Wings](spotify:track:0ASdCg0afrySA01hidbRo9) |
 | Surfer Blood | [Floating Vibes](spotify:track:6UDYTfeSS4IVbJeHTaMxxA) |
 | Swiss Lips | [U Got the Power](spotify:track:3NBFW6x1NVJ3mCxWb6LDqG) |
 | System Of A Down | [Sugar](spotify:track:31RTFPrB7wmYBhlkM2ILXG) |
@@ -542,6 +552,7 @@ This page is purely for reference, as detailed [in this post](/notes-on-sorting-
 | The Books | [Smells Like Content](spotify:track:0zSeLF3w3mPF9ibTkHZqCp) |
 | The Box Tops | [The Letter](spotify:track:6RJK553YhstRzyKA4mug09) |
 | The Breeders | [Cannonball](spotify:track:1KdwPeY1WRWQGHCmRJTveb) |
+| The Cardigans | [Erase / Rewind](spotify:track:3JfkNCiXjHEVkbFfCQ417E) |
 | The Clash | [Rock the Casbah](spotify:track:56KqaFSGTb7ifpt16t5Y1N) |
 | The Comet Is Coming | [Summon The Fire](spotify:track:5c44MldQ2CvroamP73V1lp) |
 | The Cooper Temple Clause | [Blind Pilots](spotify:track:6cdkX1elHT1eMzSsLGPZhd) |
@@ -603,6 +614,7 @@ This page is purely for reference, as detailed [in this post](/notes-on-sorting-
 | The Stone Roses | [I Wanna Be Adored](spotify:track:758wEKVqfYopJIHYWdLVd4) |
 | The Strokes | [Hard To Explain](spotify:track:2LMloFiV7DHpBhITOaBSam) |
 | The Subways | [Rock & Roll Queen](spotify:track:75lw5aYrDq0TJsbkqCPRIJ) |
+| The Sundays | [Here's Where the Story Ends](spotify:track:5gSHlT2SI0dtjeHrjj96A1) |
 | The Sword | [Acheron/Unearthing the Orb](spotify:track:25mCZUWWpLfRpTKQda6gp7) |
 | The Verve | [Bitter Sweet Symphony](spotify:track:57iDDD9N9tTWe75x6qhStw) |
 | The Verve | [Love Is Noise](spotify:track:0P6YJv6QXReDChZBbpvFmF) |
@@ -612,6 +624,7 @@ This page is purely for reference, as detailed [in this post](/notes-on-sorting-
 | The Von Bondies | [C'mon C'mon](spotify:track:0YPDp1KIxVLTdh3vnvk6wd) |
 | The Warning | [MORE](spotify:track:2uqCJn5VFTf3sZEDJZvvX0) |
 | The Weeknd | [Blinding Lights](spotify:track:6qYkmqFsXbj8CQjAdbYz07) |
+| The Whitest Boy Alive | [Burning](spotify:track:0QgR03vMDoBoLgcu08EtKl) |
 | The xx | [Islands](spotify:track:0Rqwa6i410IwhTiugt6vXi) |
 | They Might Be Giants | [Birdhouse in Your Soul](spotify:track:6pmuu4qSz2WrtGkBjUfyuz) |
 | The Zombies | [I Love You](spotify:track:1eqjc8TlbX2mj1oGBg9dr8) |
@@ -651,7 +664,6 @@ This page is purely for reference, as detailed [in this post](/notes-on-sorting-
 | Wet Leg | [Wet Dream](spotify:track:6pjJUY0O4XgrYFGf9SwD7u) |
 | We Were Promised Jetpacks | [Quiet Little Voices](spotify:track:4TQJGu7KoqOFvjvopA8fx2) |
 | White Lies | [To Lose My Life](spotify:track:2Z3TDzs6Jf7oCahXUkWapq) |
-| Wings | [Band On The Run](spotify:track:1H4idkmruFoJBg1DvUv2tY) |
 | Wolfmother | [Dimension](spotify:track:7k5Gji7TdalcU7p0RjIaii) |
 | Wolfmother | [Joker And The Thief](spotify:track:7ISL3LO8AWP3fKIXunvqTa) |
 | Wolfmother | [Pretty Peggy](spotify:track:5jCp5A9hMitx5zeo5Djofm) |
