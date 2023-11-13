@@ -31,6 +31,8 @@ Quotes I've found in and around the Internet, collected because they make me smi
 
 >As above, so below
 
+>As mundane in texture as any novel I've ever written <!-- robert silverberg -->
+
 >Back to the Pleistocene <!-- Edward Abbey -->
 
 >Be cheerful, enjoy your life <!-- turkish mosaic -->
@@ -444,6 +446,8 @@ Quotes I've found in and around the Internet, collected because they make me smi
 >Swansea is the graveyard of ambition <!-- not dylan thomas -->
 
 >Tart baker <!-- midnight gospel -->
+
+>tattoos of spaceships, tits, band names, tarantino, where did doctor marten study, tits <!-- misinformed -->
 
 >Tea. Earl Grey. Hot. <!-- star trek tng -->
 
