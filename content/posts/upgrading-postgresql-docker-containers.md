@@ -51,4 +51,18 @@ docker logs -f postgres
 
 All being well, everything will have gone well and you can bookmark this guide for the next major upgrade.
 
+## SCRAM error
+
+During my most recent upgrade (and subsequent check of this guide) I encountered an issue where the password encryption method was too old and the container wouldn't boot. To solve this, it's reasonably straightforward. You just need to rehash your password with the following:
+
+```
+docker exec -it postgres sh
+psql -U postgres
+\password yourexistingSQLpassword
+exit
+exit
+docker restart postgres
+```
+
 * **Edit 2023-02-14:** Streamlined restoration instructions
+* **Edit 2023-09-21:** SCRAM password encryption instructions added
