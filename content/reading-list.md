@@ -1,7 +1,7 @@
 ---
 title: Reading List
 layout: single
-lastmod: 2023-11-13T17:04:00
+lastmod: 2023-12-15T15:31:00
 ---
 
 I generally strive for a book per week, but this is by no means a steadfast goal. For a list of series and their status, check [the bottom of this page](#book-series).
@@ -9,12 +9,11 @@ I generally strive for a book per week, but this is by no means a steadfast goal
 <details><summary>Works in Progress</summary>
 <ul>
 <li>Norman Boutin - Empress Theresa</li>
-<li>Hugh Howey - Shift</li>
+<li>Guillermo del Toro &amp; Chuck Hogan - The Night Eternal</li>
 </ul>
 </details>
 
 To keep the page somewhat manageable, I've collapsed the lists by years:
-
 <details><summary>2023</summary>
 <ul>
 <li>Jared Diamond - Guns, Germs, and Steel</li>
@@ -61,6 +60,13 @@ To keep the page somewhat manageable, I've collapsed the lists by years:
 <li>Wendy Nikel - Driftwood in the Sea of Time</li>
 <li>Hugh Howey - Wool</li>
 <li>VC Andrews - If There Be Thorns</li>
+<li>Simon Kewin - #buttonsinweirdplaces</li>
+<li>Ian R MacLeod - Sin Eater</li>
+<li>Cameron Fischer - The Retcon Man</li>
+<li>Hugh Howey - Shift</li>
+<li>Hugh Howey - Dust</li>
+<li>D Thomas Minton - Carbon Zero</li>
+<li>Guillermo del Toro &amp; Chuck Hogan - The Fall</li>
 </ul>
 </details>
 
@@ -540,8 +546,7 @@ To keep the page somewhat manageable, I've collapsed the lists by years:
 <ul>
 <li>Douglas Adams - The Hitchhiker's Guide to the Galaxy - 1/6</li>
 <li>Frederik Pohl - Heechee - 5/6</li>
-<li>Guillermo del Toro &amp; Chuck Hogan - The Strain - 1/3</li>
-<li>Hugh Howey - Silo - 1/3</li>
+<li>Guillermo del Toro &amp; Chuck Hogan - The Strain - 2/3</li>
 <li>Iain M Banks - The Culture - 4/10</li>
 <li>Isaac Asimov - Foundation - 3/7</li>
 <li>Jim Butcher - The Dresden Files - 1/17</li>
@@ -563,6 +568,7 @@ To keep the page somewhat manageable, I've collapsed the lists by years:
 <li>Dennis E Taylor - Bobiverse Series - 4/4</li>
 <li>Ernest Cline - Ready Player One series - 2/2</li>
 <li>Grant Naylor - Red Dwarf - 4/4</li>
+<li>Hugh Howey - Silo - 3/3</li>
 <li>J K Rowling - Harry Potter - 7/7</li>
 <li>James S A Corey - The Expanse - 9/9</li>
 <li>James S A Corey - The Expanse Novellas - 9/9</li>
