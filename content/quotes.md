@@ -381,6 +381,8 @@ Quotes I've found in and around the Internet, collected because they make me smi
 
 >On the Internet, nobody knows you're a dog <!-- the new yorker -->
 
+>Once you’ve been to Cambodia, you’ll never stop wanting to beat Henry Kissinger to death with your bare hands <!-- Anthony Bourdain -->
+
 >One clown leg <!-- midnight gospel -->
 
 >Only a sith deals in absolutes <!-- star wars prequel -->
