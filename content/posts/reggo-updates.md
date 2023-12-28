@@ -1,7 +1,7 @@
 ---
 title: "Reggo' updates"
 date: 2023-11-13T18:42:00
-lastmod: 2023-11-13T18:49:00
+lastmod: 2023-12-28T13:26:00
 tags: ["Health", "Lifestyle", "Lists"]
 ---
 
@@ -12,6 +12,7 @@ A little personal list of tasks that need completing regularly to stay on top of
 <input type="checkbox" name="checkbox" id="phone-books"><label for="phone-books">Delete completed books, <a href="/reading-list/">updating reading list</a></label><br>
 <input type="checkbox" name="checkbox" id="phone-fdroid"><label for="phone-fdroid">Update F-Droid Store apps</label><br>
 <input type="checkbox" name="checkbox" id="phone-pictures"><label for="phone-pictures">Dump <a href="/notes-on-sorting-photos/">pictures</a> to server</label><br>
+<input type="checkbox" name="checkbox" id="phone-podcasts"><label for="phone-podcasts">Update Podcasts</label><br>
 
 ## Kindle
 <input type="checkbox" name="checkbox" id="kindle-koreader"><label for="kindle-koreader">Update <a href="https://github.com/koreader/koreader/releases">KOReader</a> software</label><br>
@@ -19,6 +20,8 @@ A little personal list of tasks that need completing regularly to stay on top of
 
 ## HTPC
 <input type="checkbox" name="checkbox" id="htpc-archives"><label for="htpc-archives">Export <a href="/tags/archive/">watched lists</a>, delete files and clean library</label><br>
+<input type="checkbox" name="checkbox" id="htpc-emulators"><label for="htpc-emulators">Update emulator cores</label><br>
+<input type="checkbox" name="checkbox" id="htpc-library"><label for="htpc-library">Update media library</label><br>
 <input type="checkbox" name="checkbox" id="htpc-updates"><label for="htpc-updates">Package manager updates</label><br>
 
 ## Server
@@ -61,6 +64,7 @@ A little personal list of tasks that need completing regularly to stay on top of
 <input type="checkbox" name="checkbox" id="household-airfryer"><label for="household-airfryer">Clean air fryer tray</label><br>
 <input type="checkbox" name="checkbox" id="household-cable"><label for="household-cable">Strip network cable</label><br>
 <input type="checkbox" name="checkbox" id="household-cooker"><label for="household-cooker">Clean cooker top</label><br>
+<input type="checkbox" name="checkbox" id="household-dehumidifier"><label for="household-dehumidifier">Empty dehumidifer</label><br>
 <input type="checkbox" name="checkbox" id="household-fridgedrain"><label for="household-fridgedrain">Fridge drain plug</label><br>
 <input type="checkbox" name="checkbox" id="household-laundry1"><label for="household-laundry1">Clothes in washer</label><br>
 <input type="checkbox" name="checkbox" id="household-laundry2"><label for="household-laundry2">Dry clothes folded away</label><br>
