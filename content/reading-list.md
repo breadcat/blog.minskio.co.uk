@@ -1,7 +1,7 @@
 ---
 title: Reading List
 layout: single
-lastmod: 2023-12-15T15:31:00
+lastmod: 2023-12-28T13:25:00
 ---
 
 I generally strive for a book per week, but this is by no means a steadfast goal. For a list of series and their status, check [the bottom of this page](#book-series).
@@ -9,6 +9,7 @@ I generally strive for a book per week, but this is by no means a steadfast goal
 <details><summary>Works in Progress</summary>
 <ul>
 <li>Norman Boutin - Empress Theresa</li>
+<li>VC Andrews - Seeds of Yesterday</li>
 <li>Guillermo del Toro &amp; Chuck Hogan - The Night Eternal</li>
 </ul>
 </details>
