@@ -163,6 +163,8 @@ Quotes I've found in and around the Internet, collected because they make me smi
 
 >Hell is real. Heaven is not
 
+>Hello! I've just shot somebody and I did it on purpose. I said, I have murdered a man and I want to confess <!-- Last Action Hero -->
+
 >Hesitation is defeat <!-- sekiro -->
 
 >Hi, my name is Adobe and I'm a professional software suite <!-- dankpods -->
