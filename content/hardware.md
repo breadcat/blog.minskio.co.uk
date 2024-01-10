@@ -90,10 +90,8 @@ What powers the site and its associated clients
 
 <details><summary>Networking</summary>
 <ul>
-<li>Modem: Virgin Media Superhub</li>
-<li>Internet: Virgin Media 100Mbps</li>
-<li>Router: Ubiquiti Edgerouter Lite</li>
-<li>Switch: Netgear 8 Port Gigabit</li>
-<li>Access Point: TP-Link TL-WA801ND v3 /w OpenWrt</li>
+<li>Internet: 1Gbps Fibre</li>
+<li>Router: Ubiquiti EdgeRouter X /w OpenWRT</li>
+<li>Access Point: Ubiquiti UAP-nanoHD</li>
 </ul>
 </details>
