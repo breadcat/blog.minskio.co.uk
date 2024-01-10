@@ -1,13 +1,13 @@
 {{ define "main" }}	<h1>{{ .Title }}</h1>
 	{{ .Content }}
 	<details>
-		<summary>Dated</summary>
+		<summary>Dated <span>({{ .Site.Taxonomies.dream.dated | len}})</span></summary>
 		<ul>{{ range sort .Site.Taxonomies.dream.dated ".Page.RelPermalink" "desc" }}
 			<li><a href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a></li>{{ end }}
 		</ul>
 	</details>
 	<details>
-		<summary>Archive</summary>
+		<summary>Archive <span>({{ .Site.Taxonomies.dream.undated | len}})</span></summary>
 		<ul>{{ range sort .Site.Taxonomies.dream.undated ".Page.RelPermalink" "desc" }}
 			<li><a href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a></li>{{ end }}
 		</ul>
