@@ -1,7 +1,7 @@
 ---
 title: Reading List
 layout: single
-lastmod: 2023-12-28T13:25:00
+lastmod: 2024-01-10T14:10:00
 ---
 
 I generally strive for a book per week, but this is by no means a steadfast goal. For a list of series and their status, check [the bottom of this page](#book-series).
@@ -10,12 +10,18 @@ I generally strive for a book per week, but this is by no means a steadfast goal
 <ul>
 <li>Norman Boutin - Empress Theresa</li>
 <li>VC Andrews - Seeds of Yesterday</li>
-<li>Guillermo del Toro &amp; Chuck Hogan - The Night Eternal</li>
 </ul>
 </details>
 
 To keep the page somewhat manageable, I've collapsed the lists by years:
-<details><summary>2023</summary>
+<details><summary>2024 <span>(2)</span></summary>
+<ul>
+<li>Guillermo del Toro &amp; Chuck Hogan - The Night Eternal</li>
+<li>AT Greenblatt - Waystation City</li>
+</ul>
+</details>
+
+<details><summary>2023 <span>(51)</span></summary>
 <ul>
 <li>Jared Diamond - Guns, Germs, and Steel</li>
 <li>Ursula K Le Guin - The Dispossessed</li>
@@ -71,7 +77,7 @@ To keep the page somewhat manageable, I've collapsed the lists by years:
 </ul>
 </details>
 
-<details><summary>2022</summary>
+<details><summary>2022 <span>(57)</span></summary>
 <ul>
 <li>Tade Thompson - Rosewater</li>
 <li>Tobias Buckell - The Placement Agency</li>
@@ -133,7 +139,7 @@ To keep the page somewhat manageable, I've collapsed the lists by years:
 </ul>
 </details>
 
-<details><summary>2021</summary>
+<details><summary>2021 <span>(62)</span></summary>
 <ul>
 <li>Edgar Rice Burroughs - A Princess of Mars</li>
 <li>Bill Hammack - Fatal Flight</li>
@@ -200,7 +206,7 @@ To keep the page somewhat manageable, I've collapsed the lists by years:
 </ul>
 </details>
 
-<details><summary>2020</summary>
+<details><summary>2020 <span>(42)</span></summary>
 <ul>
 <li>Iain M Banks - The Player of Games</li>
 <li>Iain M Banks - The State of the Art</li>
@@ -247,7 +253,7 @@ To keep the page somewhat manageable, I've collapsed the lists by years:
 </ul>
 </details>
 
-<details><summary>2019</summary>
+<details><summary>2019 <span>(59)</span></summary>
 <ul>
 <li>Adam Mansbach - Go the Fuck to Sleep</li>
 <li>Philip Reeve - Predator's Gold</li>
@@ -311,7 +317,7 @@ To keep the page somewhat manageable, I've collapsed the lists by years:
 </ul>
 </details>
 
-<details><summary>2018</summary>
+<details><summary>2018 <span>(49)</span></summary>
 <ul>
 <li>Andrew Weir - Artemis</li>
 <li>Terry Pratchett - The Colour of Magic</li>
@@ -365,7 +371,7 @@ To keep the page somewhat manageable, I've collapsed the lists by years:
 </ul>
 </details>
 
-<details><summary>2017</summary>
+<details><summary>2017 <span>(38)</span></summary>
 <ul>
 <li>David Wolman - The End of Money</li>
 <li>John Scalzi - The Dispatcher</li>
@@ -408,7 +414,7 @@ To keep the page somewhat manageable, I've collapsed the lists by years:
 </ul>
 </details>
 
-<details><summary>2016</summary>
+<details><summary>2016 <span>(52)</span></summary>
 <ul>
 <li>José Saramago - Blindness</li>
 <li>Philip K Dick - Vulcans Hammer</li>
@@ -465,7 +471,7 @@ To keep the page somewhat manageable, I've collapsed the lists by years:
 </ul>
 </details>
 
-<details><summary>2015</summary>
+<details><summary>2015 <span>(54)</span></summary>
 <ul>
 <li>Michael Crichton - The Andromeda Strain</li>
 <li>George Orwell - Animal Farm</li>
@@ -524,7 +530,7 @@ To keep the page somewhat manageable, I've collapsed the lists by years:
 </ul>
 </details>
 
-<details><summary>2014</summary>
+<details><summary>2014 <span>(12)</span></summary>
 <ul>
 <li>John Brunner - Stand on Zanzibar</li>
 <li>Philip K Dick - Ubik</li>
@@ -543,11 +549,10 @@ To keep the page somewhat manageable, I've collapsed the lists by years:
 
 
 # Book Series
-<details><summary>Work in Progress</summary>
+<details><summary>Work in Progress <span>(10)</span></summary>
 <ul>
 <li>Douglas Adams - The Hitchhiker's Guide to the Galaxy - 1/6</li>
 <li>Frederik Pohl - Heechee - 5/6</li>
-<li>Guillermo del Toro &amp; Chuck Hogan - The Strain - 2/3</li>
 <li>Iain M Banks - The Culture - 4/10</li>
 <li>Isaac Asimov - Foundation - 3/7</li>
 <li>Jim Butcher - The Dresden Files - 1/17</li>
@@ -559,7 +564,7 @@ To keep the page somewhat manageable, I've collapsed the lists by years:
 </ul>
 </details>
 
-<details><summary>Completed</summary>
+<details><summary>Completed <span>(33)</span></summary>
 <ul>
 <li>Anthony Horowitz - The Power of Five - 5/5</li>
 <li>Barry J Hutchison - Dan Deadman - 3/3</li>
@@ -569,6 +574,7 @@ To keep the page somewhat manageable, I've collapsed the lists by years:
 <li>Dennis E Taylor - Bobiverse Series - 4/4</li>
 <li>Ernest Cline - Ready Player One series - 2/2</li>
 <li>Grant Naylor - Red Dwarf - 4/4</li>
+<li>Guillermo del Toro &amp; Chuck Hogan - The Strain - 3/3</li>
 <li>Hugh Howey - Silo - 3/3</li>
 <li>J K Rowling - Harry Potter - 7/7</li>
 <li>James S A Corey - The Expanse - 9/9</li>
@@ -596,7 +602,7 @@ To keep the page somewhat manageable, I've collapsed the lists by years:
 </ul>
 </details>
 
-<details><summary>Abandoned</summary>
+<details><summary>Abandoned <span>(2)</span></summary>
 <ul>
 <li>Ann Leckie - Imperial Radch trilogy - 1/3</li>
 <li>John Twelve Hawks - The Fourth Realm Trilogy - 1/3</li>
