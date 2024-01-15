@@ -1,6 +1,6 @@
 ---
 title: Cauliflower Mash
-recipe: meal
+recipe: keto
 ---
 
 * Servings: 2

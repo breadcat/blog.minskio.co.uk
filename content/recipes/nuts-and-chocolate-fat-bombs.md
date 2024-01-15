@@ -1,6 +1,6 @@
 ---
 title: Nuts and Chocolate Fat Bombs
-recipe: dessert
+recipe: keto
 ---
 
 * Servings: 20

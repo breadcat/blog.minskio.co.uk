@@ -1,6 +1,6 @@
 ---
 title: Spaghetti Carbonara
-recipe: meal
+recipe: keto
 ---
 
 * Servings: 1

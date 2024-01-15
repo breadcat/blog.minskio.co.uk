@@ -1,6 +1,6 @@
 ---
 title: Celeriac Chips
-recipe: snack
+recipe: keto
 ---
 
 * Servings: 2

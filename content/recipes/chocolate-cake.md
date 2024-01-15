@@ -1,6 +1,6 @@
 ---
 title: Chocolate Cake
-recipe: dessert
+recipe: keto
 ---
 
 * Servings: 10

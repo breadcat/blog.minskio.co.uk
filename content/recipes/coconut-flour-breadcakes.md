@@ -1,6 +1,6 @@
 ---
 title: Coconut Flour Breadcakes
-recipe: bread
+recipe: keto
 ---
 
 * Servings: 6

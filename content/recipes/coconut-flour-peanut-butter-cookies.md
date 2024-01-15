@@ -1,6 +1,6 @@
 ---
 title: Coconut Flour Peanut Butter Cookies
-recipe: dessert
+recipe: keto
 ---
 
 * Servings: 8

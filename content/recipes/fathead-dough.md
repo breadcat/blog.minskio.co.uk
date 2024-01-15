@@ -1,6 +1,6 @@
 ---
 title: Fathead Dough
-recipe: bread
+recipe: keto
 ---
 
 * Servings: 2

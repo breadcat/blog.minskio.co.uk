@@ -1,6 +1,6 @@
 ---
 title: Hard Seltzer
-recipe: drink
+recipe: keto
 ---
 
 * Servings: 1

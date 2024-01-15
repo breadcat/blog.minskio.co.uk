@@ -1,6 +1,6 @@
 ---
 title: Keto Scotch Eggs
-recipe: snack
+recipe: keto
 ---
 
 * Servings: 5

@@ -1,6 +1,6 @@
 ---
 title: Cheesy Mushroom Soup
-recipe: meal
+recipe: keto
 ---
 
 * Servings: 2

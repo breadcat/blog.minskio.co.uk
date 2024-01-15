@@ -1,6 +1,6 @@
 ---
 title: Peanut Butter Fudge
-recipe: dessert
+recipe: keto
 ---
 
 * Servings: 18

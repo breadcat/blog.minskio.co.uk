@@ -1,6 +1,6 @@
 ---
 title: Marzipan Balls
-recipe: dessert
+recipe: keto
 ---
 
 * Servings: 8

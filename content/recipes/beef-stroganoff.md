@@ -1,6 +1,6 @@
 ---
 title: Beef Stroganoff
-recipe: meal
+recipe: keto
 ---
 
 * Servings: 6

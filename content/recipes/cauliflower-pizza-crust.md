@@ -1,6 +1,6 @@
 ---
 title: Cauliflower Pizza Crust
-recipe: bread
+recipe: keto
 ---
 
 * Servings: 1

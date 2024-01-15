@@ -1,6 +1,6 @@
 ---
 title: Coconut Flour Roti
-recipe: bread
+recipe: keto
 ---
 
 * Servings: 4

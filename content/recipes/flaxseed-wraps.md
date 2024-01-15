@@ -1,6 +1,6 @@
 ---
 title: Flaxseed Meal Wraps
-recipe: bread
+recipe: keto
 ---
 
 * Servings: 2

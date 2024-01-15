@@ -1,6 +1,6 @@
 ---
 title: Flaxseed Meal Mug Bread
-recipe: bread
+recipe: keto
 ---
 
 * Servings: 2

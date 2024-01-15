@@ -1,6 +1,6 @@
 ---
 title: Baking Staples
-recipe: guide
+recipe: keto
 ---
 
 * Almond flour

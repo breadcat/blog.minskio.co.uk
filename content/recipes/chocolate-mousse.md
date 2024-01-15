@@ -1,6 +1,6 @@
 ---
 title: Chocolate Mousse
-recipe: dessert
+recipe: keto
 ---
 
 * Servings: 6

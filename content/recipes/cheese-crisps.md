@@ -1,6 +1,6 @@
 ---
 title: Cheese Crisps
-recipe: snack
+recipe: keto
 ---
 
 * Servings: 1

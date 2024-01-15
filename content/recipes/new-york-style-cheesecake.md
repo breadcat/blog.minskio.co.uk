@@ -1,6 +1,6 @@
 ---
 title: New York-Style Cheesecake
-recipe: dessert
+recipe: keto
 ---
 
 * Servings: 8

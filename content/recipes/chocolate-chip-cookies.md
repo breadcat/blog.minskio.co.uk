@@ -1,6 +1,6 @@
 ---
 title: Chocolate Chip Cookies
-recipe: dessert
+recipe: keto
 ---
 
 * Servings: 12

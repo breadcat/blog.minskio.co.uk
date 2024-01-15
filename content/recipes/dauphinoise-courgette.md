@@ -1,6 +1,6 @@
 ---
 title: Dauphinoise Courgette
-recipe: meal
+recipe: keto
 ---
 
 * Servings: 2

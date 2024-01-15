@@ -1,6 +1,6 @@
 ---
 title: Beers list
-recipe: drink
+recipe: keto
 ---
 
 Grams of carbohydrates per 100ml, then per bottle

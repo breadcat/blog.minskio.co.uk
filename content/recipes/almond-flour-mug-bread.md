@@ -1,6 +1,6 @@
 ---
 title: Almond Flour Mug Bread
-recipe: bread
+recipe: keto
 ---
 
 * Servings: 1

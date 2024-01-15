@@ -1,6 +1,6 @@
 ---
 title: Linseed Crisps
-recipe: snack
+recipe: keto
 ---
 
 * Servings: Varies

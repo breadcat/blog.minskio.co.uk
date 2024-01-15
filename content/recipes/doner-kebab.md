@@ -1,6 +1,6 @@
 ---
 title: Doner Kebab
-recipe: meal
+recipe: keto
 ---
 
 * Servings: 4

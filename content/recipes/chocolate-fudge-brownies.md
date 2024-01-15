@@ -1,6 +1,6 @@
 ---
 title: Chocolate Fudge Brownies
-recipe: dessert
+recipe: keto
 ---
 
 * Servings: 16

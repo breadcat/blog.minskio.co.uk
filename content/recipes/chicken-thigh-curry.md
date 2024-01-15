@@ -1,6 +1,6 @@
 ---
 title: Chicken Thigh Curry
-recipe: meal
+recipe: keto
 ---
 
 * Servings: 6

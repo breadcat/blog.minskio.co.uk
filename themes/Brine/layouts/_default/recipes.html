@@ -1,26 +1,14 @@
 {{ define "main" }}	<h1>{{ .Title }}</h1>
 	{{ .Content }}
-	<h2>Meals</h2>
-	<ul>{{ range sort .Site.Taxonomies.recipe.meal ".Page.RelPermalink" }}
+	<h2>Savoury <span>({{ .Site.Taxonomies.recipe.savoury | len}})</span></h2>
+	<ul>{{ range sort .Site.Taxonomies.recipe.savoury ".Page.RelPermalink" }}
 		<li><a href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a></li>{{ end }}
 	</ul>
-	<h2>Snacks</h2>
-	<ul>{{ range sort .Site.Taxonomies.recipe.snack ".Page.RelPermalink" }}
+	<h2>Sweet <span>({{ .Site.Taxonomies.recipe.sweet | len}})</span></h2>
+	<ul>{{ range sort .Site.Taxonomies.recipe.sweet ".Page.RelPermalink" }}
 		<li><a href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a></li>{{ end }}
 	</ul>
-	<h2>Breads</h2>
-	<ul>{{ range sort .Site.Taxonomies.recipe.bread ".Page.RelPermalink" }}
-		<li><a href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a></li>{{ end }}
-	</ul>
-	<h2>Desserts</h2>
-	<ul>{{ range sort .Site.Taxonomies.recipe.dessert ".Page.RelPermalink" }}
-		<li><a href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a></li>{{ end }}
-	</ul>
-	<h2>Drinks</h2>
-	<ul>{{ range sort .Site.Taxonomies.recipe.drink ".Page.RelPermalink" }}
-		<li><a href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a></li>{{ end }}
-	</ul>
-	<h2>Guides</h2>
-	<ul>{{ range sort .Site.Taxonomies.recipe.guide ".Page.RelPermalink" }}
+	<h2>Ketogenic <span>({{ .Site.Taxonomies.recipe.keto | len}})</span></h2>
+	<ul>{{ range sort .Site.Taxonomies.recipe.keto ".Page.RelPermalink" }}
 		<li><a href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a></li>{{ end }}
 	</ul>{{ end }}
