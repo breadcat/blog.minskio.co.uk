@@ -1,23 +1,23 @@
 ---
 title: Reading List
 layout: single
-lastmod: 2024-01-10T14:10:00
+lastmod: 2024-01-15T20:12:00
 ---
 
 I generally strive for a book per week, but this is by no means a steadfast goal. For a list of series and their status, check [the bottom of this page](#book-series).
 
 <details><summary>Works in Progress</summary>
 <ul>
-<li>Norman Boutin - Empress Theresa</li>
 <li>VC Andrews - Seeds of Yesterday</li>
 </ul>
 </details>
 
 To keep the page somewhat manageable, I've collapsed the lists by years:
-<details><summary>2024 <span>(2)</span></summary>
+<details><summary>2024 <span>(3)</span></summary>
 <ul>
 <li>Guillermo del Toro &amp; Chuck Hogan - The Night Eternal</li>
 <li>AT Greenblatt - Waystation City</li>
+<li>Norman Boutin - Empress Theresa</li>
 </ul>
 </details>
 
@@ -549,7 +549,7 @@ To keep the page somewhat manageable, I've collapsed the lists by years:
 
 
 # Book Series
-<details><summary>Work in Progress <span>(10)</span></summary>
+<details><summary>Work in Progress <span>(11)</span></summary>
 <ul>
 <li>Douglas Adams - The Hitchhiker's Guide to the Galaxy - 1/6</li>
 <li>Frederik Pohl - Heechee - 5/6</li>
@@ -561,6 +561,7 @@ To keep the page somewhat manageable, I've collapsed the lists by years:
 <li>Orson Scott Card - Ender saga - 2/6</li>
 <li>Suzanne Collins - The Hunger Games - 3/4</li>
 <li>VC Andrews - Dollanganger series - 3/5</li>
+<li><a href="/sf-masterworks-progress/">Various - SF Masterworks</a> - 55/73</li>
 </ul>
 </details>
 
