@@ -1,6 +1,7 @@
 ---
 title: "SF Masterworks progress"
 date: 2024-01-15T17:02:00
+lastmod: 2024-02-02T17:33:00
 tags: ["Books", "Lists"]
 ---
 
@@ -16,7 +17,7 @@ Now the quality varies massively from - *well loved* ex-library copies to pristi
 
 So, on to lists. We all love a good list, right?
 
-<h2>Completed <span>(55/73)</span></h2>
+<h2>Completed <span>(56/73)</span></h2>
 
 * 1 - The Forever War - Joe Haldeman
 * 2 - I Am Legend - Richard Matheson
@@ -26,6 +27,7 @@ So, on to lists. We all love a good list, right?
 * 6 - Babel-17 - Samuel R. Delany
 * 7 - Lord of Light - Roger Zelazny
 * 9 - Gateway - Frederik Pohl
+* 10 - The Rediscovery of Man - Cordwainer Smith
 * 11 - Last and First Men - Olaf Stapledon
 * 12 - Earth Abides - George R. Stewart
 * 13 - Martian Time-Slip - Philip K. Dick
@@ -74,10 +76,9 @@ So, on to lists. We all love a good list, right?
 * 72 - The Moon Is a Harsh Mistress - Robert A. Heinlein
 * 73 - The Man in the High Castle - Philip K. Dick
 
-<h2>Incomplete <span>(18/73)</span></h2>
+<h2>Incomplete <span>(17/73)</span></h2>
 
 * 3 - Cities in Flight - James Blish
-* 10 - The Rediscovery of Man - Cordwainer Smith
 * 17 - The Drowned World - J. G. Ballard
 * 19 - Emphyrio - Jack Vance
 * 22 - Behold the Man - Michael Moorcock

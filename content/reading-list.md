@@ -1,7 +1,7 @@
 ---
 title: Reading List
 layout: single
-lastmod: 2024-01-15T20:12:00
+lastmod: 2024-02-02T17:33:00
 ---
 
 I generally strive for a book per week, but this is by no means a steadfast goal. For a list of series and their status, check [the bottom of this page](#book-series).
@@ -9,15 +9,18 @@ I generally strive for a book per week, but this is by no means a steadfast goal
 <details><summary>Works in Progress</summary>
 <ul>
 <li>VC Andrews - Seeds of Yesterday</li>
+<li>J G Ballard - The Drowned World</li>
 </ul>
 </details>
 
 To keep the page somewhat manageable, I've collapsed the lists by years:
-<details><summary>2024 <span>(3)</span></summary>
+<details><summary>2024 <span>(5)</span></summary>
 <ul>
 <li>Guillermo del Toro &amp; Chuck Hogan - The Night Eternal</li>
 <li>AT Greenblatt - Waystation City</li>
 <li>Norman Boutin - Empress Theresa</li>
+<li>Grace Chan - Death by Water</li>
+<li>Cordwainer Smith - The Rediscovery of Man</li>
 </ul>
 </details>
 
@@ -561,7 +564,7 @@ To keep the page somewhat manageable, I've collapsed the lists by years:
 <li>Orson Scott Card - Ender saga - 2/6</li>
 <li>Suzanne Collins - The Hunger Games - 3/4</li>
 <li>VC Andrews - Dollanganger series - 3/5</li>
-<li><a href="/sf-masterworks-progress/">Various - SF Masterworks</a> - 55/73</li>
+<li><a href="/sf-masterworks-progress/">Various - SF Masterworks</a> - 56/73</li>
 </ul>
 </details>
 
