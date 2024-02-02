@@ -1,7 +1,7 @@
 ---
 title: Music Library
 layout: single
-lastmod: 2023-12-28T13:37:00
+lastmod: 2024-02-02T18:01:00
 ---
 
 This page is purely for reference, as detailed [in this post](/notes-on-sorting-music). While Spotify has 99.9% of songs you'd want, there are some unusual omissions that I've collapsed in a list below.
@@ -36,6 +36,7 @@ This page is purely for reference, as detailed [in this post](/notes-on-sorting-
 | Alien Ant Farm | [These Days](spotify:track:76nFmeNs5rENg0lPTQYziK) |
 | Alien Ant Farm | [Wish](spotify:track:3z3bcIS2CBJ5pqWQjKPiIo) |
 | alt-J | [Breezeblocks](spotify:track:7v9VgPcjy7gPRsHZjKPUhU) |
+| alt-J | [Dissolve Me](spotify:track:2Dv7PTwSoB17f3VFDIKw8m) |
 | alt-J | [Fitzpleasure](spotify:track:29BwQ7fHY8PMkVH5kj5Htr) |
 | alt-J | [Something Good](spotify:track:38B09YXp40vr2PKjjPiX76) |
 | alt-J | [Tessellate](spotify:track:3HyOBhfDDsasSLwin3UgjF) |
@@ -66,6 +67,7 @@ This page is purely for reference, as detailed [in this post](/notes-on-sorting-
 | Badly Drawn Boy | [Something to Talk About](spotify:track:4rwOvI1E7CAlOX0XZ5EMyG) |
 | Bad Omens | [Like A Villain](spotify:track:0xoyUiHhxVH4gwb0CRgNmg) |
 | Bad Religion | [You](spotify:track:71dRBSmaKMdaFZPeZlVzf5) |
+| Baltimora | [Tarzan Boy](spotify:track:273uCXd7NPrInaiNqtkOrA) |
 | Bassnectar, The Glitch Mob | [Heads Up - The Glitch Mob Remix](spotify:track:6ju4R421lls7qyqxV7tprK) |
 | Bastille | [Pompeii](spotify:track:4Ub8UsjWuewQrPhuepfVpd) |
 | Bat For Lashes | [Daniel](spotify:track:5VvsZvy1mwx4teyvI7O9rs) |
@@ -151,6 +153,7 @@ This page is purely for reference, as detailed [in this post](/notes-on-sorting-
 | CSS | [Let's Make Love and Listen to Death From Above](spotify:track:1Jd9W7k8DTnBSovDSxK77n) |
 | Darwin Deez | [Radar Detector](spotify:track:29ryYUUjXI0yny6tvdenZF) |
 | David Byrne | [Like Humans Do](spotify:track:5SuD0gVWOj2o1n9pporwr0) |
+| David Gray | [Please Forgive Me](spotify:track:2B44GIBurvsKCiNb34Xrnj) |
 | Dawid Podsiadło | [Let You Down](spotify:track:1qpGMJi0ippCaMUOs7cz2q) |
 | Death From Above 1979 | [Crystal Ball](spotify:track:6Q9NqbIsNZj8oOlP6BguS4) |
 | Death From Above 1979 | [Freeze Me](spotify:track:50jXnyrzW4mcBBqFTMEoAC) |
@@ -160,6 +163,7 @@ This page is purely for reference, as detailed [in this post](/notes-on-sorting-
 | Des Rocs | [This is Our Life](spotify:track:7iRiNHAj2DjU1o0q4v4V8k) |
 | Detroit Diesel | [Lost Signal](spotify:track:3mYdOwPtjHLTdCVeyrWgD8) |
 | Dextro | [Momentary](spotify:track:0qqtXZt7YyKbvp8T9ndpWu) |
+| Dinosaur Pile-Up | [Back Foot](spotify:track:6geuGKb1jKb6TV8sGE5eaC) |
 | Dirty Pretty Things | [Deadwood](spotify:track:6WeEgi4zkGaHuFXZOWXX3m) |
 | DMA'S | [Everybody's Saying Thursday's The Weekend](spotify:track:1uK65VcfQeZ6cPxnUm0TCv) |
 | Dogs | [Tuned To A Different Station](spotify:track:1W1hnjCTtlxJRL1QBVJGSs) |
@@ -198,6 +202,7 @@ This page is purely for reference, as detailed [in this post](/notes-on-sorting-
 | Fine Young Cannibals | [She Drives Me Crazy](spotify:track:4d6eqRtpDX7tydHJGDZUBQ) |
 | Finley Quaye | [Sunday Shining](spotify:track:1zoQeNvtQRMm1LqCWlG9S5) |
 | Finley Quaye | [Your Love Gets Sweeter](spotify:track:1SfQCY234gf6C2dlyUUMn9) |
+| Fire Divine | [Reputation Outlives Application](spotify:track:6oLkfH6JohlkT7JsvS4KWN) |
 | Fischerspooner | [Emerge](spotify:track:3vyKSb9sAdXl0kQ1KnS9fY) |
 | Five, Steve Mac | [Keep On Movin'](spotify:track:0MjMqYIYzcCteAs4c0BZGy) |
 | Fleetwood Mac | [Landslide](spotify:track:5ihS6UUlyQAfmp48eSkxuQ) |
@@ -241,6 +246,7 @@ This page is purely for reference, as detailed [in this post](/notes-on-sorting-
 | Greta Van Fleet | [Highway Tune](spotify:track:7aOor99o8NNLZYElOXlBG1) |
 | Grimes, i_o | [Violence](spotify:track:3KeOFns3LGJuh1lapMm9eA) |
 | Groove Armada | [At the River](spotify:track:0KIPa0YuQ5QFmlAqRyXNd9) |
+| Guano Apes | [Open Your Eyes](spotify:track:5oxpT46KeiEuckYnChgFFT) |
 | Handsome Boy Modeling School, Róisín Murphy, J-Live | [The Truth](spotify:track:5l7icgnicl7JToRxPkSXyy) |
 | Harvey Danger | [Flagpole Sitta](spotify:track:1dJiXJaCG2uTzvWmJ7Fh08) |
 | (Hed) P.E. | [Killing Time](spotify:track:11C7OQWha9vWNTHgRPlUWP) |
@@ -263,6 +269,7 @@ This page is purely for reference, as detailed [in this post](/notes-on-sorting-
 | Izgrim, Jasper | [Hologram](spotify:track:6un9p6C2IQ0cotoQooGpIH) |
 | Jake Bugg | [Seen It All](spotify:track:4Y7FCCc3LvDxfzLjXJgi0v) |
 | Jeff Buckley | [Grace](spotify:track:64SIlhd3BaHCCMSfajXG7l) |
+| Jefferson Airplane | [Somebody to Love](spotify:track:4uGIJG1jYFonGc4LGp5uQL) |
 | Jeff Wayne, Richard Burton, Justin Hayward | [Forever Autumn](spotify:track:3cscFxpX9fcmhiniTzF7n4) |
 | Jennifer Rush | [If You're Ever Gonna Lose My Love](spotify:track:0ZrOHR6skBgpcIkbYH96PD) |
 | Jimmy Eat World | [Bleed American](spotify:track:61XspFITuKmAlYdQacNCbF) |
@@ -388,6 +395,7 @@ This page is purely for reference, as detailed [in this post](/notes-on-sorting-
 | Nada Surf | [Popular](spotify:track:48sJGpBLqQTs0sZ2ImHJof) |
 | Nada Surf | [Psychic Caramel](spotify:track:3XIxlev3dpFhjhLjLpNp4p) |
 | Nada Surf | [Stalemate](spotify:track:4WziU4ZWItOp3aNgHpbt4X) |
+| Nada Surf | [Where Is My Mind](spotify:track:2AsIm3Hr3GS4P4nntYSs2Q) |
 | N.A.S.A., Kanye West, Santigold, Lykke Li | [Gifted](spotify:track:6gMeYgGqlHWoGZnK8Qjyku) |
 | Nebula | [Giant](spotify:track:7alIC83sYtwb5WqmUsDFpf) |
 | Nerina Pallot | [Everybody's Gone To War (Chris Lord-Alge Mix remastered)](spotify:track:3uN1DSEECO2ndzjvNoPIty) |
@@ -418,6 +426,7 @@ This page is purely for reference, as detailed [in this post](/notes-on-sorting-
 | Ocean Grove | [JUNKIE$](spotify:track:6gM11PV8nD5aftCB6aMR1x) |
 | Of Monsters and Men | [Little Talks](spotify:track:2ihCaVdNZmnHZWt0fvAM7B) |
 | Øneheart, reidenshi | [snowfall](spotify:track:4xF4ZBGPZKxECeDFrqSAG4) |
+| Orson | [No Tomorrow](spotify:track:0nJEcAgCKrFliZ5q0JxEtc) |
 | Ou Est Le Swimming Pool | [Dance the Way I Feel](spotify:track:2VtqoN1hRIL4Qe1ojSFS0d) |
 | Paolo Nutini | [Iron Sky](spotify:track:2bcC9Xyi40wnI7Od5uch31) |
 | Papa Roach | [Blood Brothers](spotify:track:2Ll44WxlG2eiqL6NtEnf8M) |
@@ -519,6 +528,7 @@ This page is purely for reference, as detailed [in this post](/notes-on-sorting-
 | Serj Tankian | [Empty Walls](spotify:track:6Y2kW1mdHE0znPCjtOdt5m) |
 | S.E.S. | [Dreams Come True](spotify:track:6whFRgwg7je2SYzpSfansM) |
 | Shakira, Freshlyground | [Waka Waka (This Time for Africa) ](spotify:track:6bNB5gxFX6Q87DbQWb8OWZ) |
+| Shed Seven | [Chasing Rainbows](spotify:track:4IFC2bM8SquqQYOu9tiQ8C) |
 | Shed Seven | [Disco Down](spotify:track:6gG8N0BywH4esZknjaD3Fh) |
 | ShockOne | [Follow Me](spotify:track:54Tm26Pv3efwgeuzlN5A1m) |
 | Sigrid | [Strangers](spotify:track:3CWuU5kIw8zsWJTcgreUwl) |
@@ -557,6 +567,7 @@ This page is purely for reference, as detailed [in this post](/notes-on-sorting-
 | Stereophonics | [Dakota](spotify:track:3qaSqrrevBrb84xl5JlptU) |
 | Stereophonics | [Handbags And Gladrags](spotify:track:3U8UHbqKeR0jlkg8Qlwunr) |
 | Stereophonics | [The Bartender And The Thief](spotify:track:1oQYWDtZY0cOKXogDIu14t) |
+| Steriogram | [Walkie Talkie Man](spotify:track:0iCrjwLMTjWsdOKdOAZ0FC) |
 | Stonebride | [The Amazing Voyagers](spotify:track:7kWE5ux4cVbi2yfXYG2Cef) |
 | Stone Temple Pilots | [Creep](spotify:track:0elH6ukMGLyCHJavHutEza) |
 | STRFKR | [Rawnald Gregory Erickson the Second](spotify:track:4j4pPKE3xAblPIbhxScC1j) |
@@ -595,6 +606,7 @@ This page is purely for reference, as detailed [in this post](/notes-on-sorting-
 | The Comet Is Coming | [Summon The Fire](spotify:track:5c44MldQ2CvroamP73V1lp) |
 | The Cooper Temple Clause, Dan Austin, Ger McDonnal | [Blind Pilots](spotify:track:6cdkX1elHT1eMzSsLGPZhd) |
 | The Cooper Temple Clause, Dan Austin, Ger McDonnal | [Promises, Promises](spotify:track:5e3p0Kc30jhG8Q6yBJHKQh) |
+| The Cramps | [Human Fly](spotify:track:0ElRzK07sc9eszyk1ea9Ab) |
 | The Darkness | [Growing on Me](spotify:track:77asYwewm0lXvz76inosJm) |
 | The Doors | [People Are Strange](spotify:track:1Jmqubf9kGkWeYQXQKImL5) |
 | The Dykeenies | [Waiting for Go](spotify:track:2p79LkcuEEOAIKDSfsDkgo) |
@@ -658,6 +670,7 @@ This page is purely for reference, as detailed [in this post](/notes-on-sorting-
 | The Subways | [Rock & Roll Queen](spotify:track:75lw5aYrDq0TJsbkqCPRIJ) |
 | The Sundays | [Here's Where the Story Ends](spotify:track:5gSHlT2SI0dtjeHrjj96A1) |
 | The Sword | [Acheron/Unearthing the Orb](spotify:track:25mCZUWWpLfRpTKQda6gp7) |
+| The Thrills | [Big Sur](spotify:track:56Zm2mXUv5UJgybEqATQ2t) |
 | The Verve | [Bitter Sweet Symphony](spotify:track:57iDDD9N9tTWe75x6qhStw) |
 | The Verve | [Love Is Noise](spotify:track:0P6YJv6QXReDChZBbpvFmF) |
 | The Verve | [Lucky Man](spotify:track:2mxPSHEwjJWOQS7lGw6btF) |
@@ -696,6 +709,7 @@ This page is purely for reference, as detailed [in this post](/notes-on-sorting-
 | Vast | [Pretty When You Cry](spotify:track:7A65TXKboDpRqITj44k1z7) |
 | Vast | [Touched](spotify:track:70uQgvAqANiYvlLEQQ7NZH) |
 | Velvet Revolver | [Slither](spotify:track:7kF1iPJTj3VFJX9XokQ80F) |
+| Viagra Boys | [Punk Rock Loser](spotify:track:2pqoh1jUQoppztoQRRGyKK) |
 | Wall of Death | [Away](spotify:track:4nJbZ1Vp6CP51epiIeyxLk) |
 | weapons | [Black Line Ninja](spotify:track:19GAdntawHTcsOxd8R8pKx) |
 | We Are Scientists | [Nobody Move, Nobody Get Hurt](spotify:track:0iUano4euaiUETVUd1u0cx) |
