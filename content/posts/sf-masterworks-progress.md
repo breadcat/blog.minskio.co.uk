@@ -1,7 +1,7 @@
 ---
 title: "SF Masterworks progress"
 date: 2024-01-15T17:02:00
-lastmod: 2024-02-02T17:33:00
+lastmod: 2024-02-08T10:00:00
 tags: ["Books", "Lists"]
 ---
 
@@ -17,7 +17,7 @@ Now the quality varies massively from - *well loved* ex-library copies to pristi
 
 So, on to lists. We all love a good list, right?
 
-<h2>Completed <span>(56/73)</span></h2>
+<h2>Completed <span>57/73</span></h2>
 
 * 1 - The Forever War - Joe Haldeman
 * 2 - I Am Legend - Richard Matheson
@@ -34,6 +34,7 @@ So, on to lists. We all love a good list, right?
 * 14 - The Demolished Man - Alfred Bester
 * 15 - Stand on Zanzibar - John Brunner
 * 16 - The Dispossessed - Ursula K. Le Guin
+* 17 - The Drowned World - J. G. Ballard
 * 18 - The Sirens of Titan - Kurt Vonnegut
 * 20 - A Scanner Darkly - Philip K. Dick
 * 21 - Star Maker - Olaf Stapledon
@@ -76,10 +77,9 @@ So, on to lists. We all love a good list, right?
 * 72 - The Moon Is a Harsh Mistress - Robert A. Heinlein
 * 73 - The Man in the High Castle - Philip K. Dick
 
-<h2>Incomplete <span>(17/73)</span></h2>
+<h2>Incomplete <span>16/73</span></h2>
 
 * 3 - Cities in Flight - James Blish
-* 17 - The Drowned World - J. G. Ballard
 * 19 - Emphyrio - Jack Vance
 * 22 - Behold the Man - Michael Moorcock
 * 28 - More Than Human - Theodore Sturgeon
