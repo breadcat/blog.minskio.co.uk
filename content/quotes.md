@@ -177,6 +177,8 @@ Quotes I've found in and around the Internet, collected because they make me smi
 
 >How far do you think I can kick this bucket? <!-- joke punchline -->
 
+>How will people know you're a special non-conformist without a non-confirmist uniform? <!-- georg rockall-scmidt -->
+
 >Hurt people hurt people
 
 >I am never gonna financially recover from this <!-- tiger king -->
