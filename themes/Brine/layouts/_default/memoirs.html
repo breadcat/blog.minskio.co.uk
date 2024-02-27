@@ -2,35 +2,35 @@
 	{{ .Content }}
 
 	<details>
-		<summary>Working <span>({{ .Site.Taxonomies.memoir.working | len}})</span></summary>
+		<summary>Working <span>{{ .Site.Taxonomies.memoir.working | len}}</span></summary>
 		<ul>{{ range sort .Site.Taxonomies.memoir.working ".Page.RelPermalink" "desc" }}
 			<li><a href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a></li>{{ end }}
 		</ul>
 	</details>
 
 	<details>
-		<summary>College <span>({{ .Site.Taxonomies.memoir.college | len}})</span></summary>
+		<summary>College <span>{{ .Site.Taxonomies.memoir.college | len}}</span></summary>
 		<ul>{{ range sort .Site.Taxonomies.memoir.college ".Page.RelPermalink" "desc" }}
 			<li><a href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a></li>{{ end }}
 		</ul>
 	</details>
 
 	<details>
-		<summary>High School/Sixth Form <span>({{ .Site.Taxonomies.memoir.sixthform | len}})</span></summary>
+		<summary>High School/Sixth Form <span>{{ .Site.Taxonomies.memoir.sixthform | len}}</span></summary>
 		<ul>{{ range sort .Site.Taxonomies.memoir.sixthform ".Page.RelPermalink" "desc" }}
 			<li><a href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a></li>{{ end }}
 		</ul>
 	</details>
 
 	<details>
-		<summary>Junior School <span>({{ .Site.Taxonomies.memoir.juniorschool | len}})</span></summary>
+		<summary>Junior School <span>{{ .Site.Taxonomies.memoir.juniorschool | len}}</span></summary>
 		<ul>{{ range sort .Site.Taxonomies.memoir.juniorschool ".Page.RelPermalink" "desc" }}
 			<li><a href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a></li>{{ end }}
 		</ul>
 	</details>
 
 	<details>
-		<summary>Nursery <span>({{ .Site.Taxonomies.memoir.nursery | len}})</span></summary>
+		<summary>Nursery <span>{{ .Site.Taxonomies.memoir.nursery | len}}</span></summary>
 		<ul>{{ range sort .Site.Taxonomies.memoir.nursery ".Page.RelPermalink" "desc" }}
 			<li><a href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a></li>{{ end }}
 		</ul>

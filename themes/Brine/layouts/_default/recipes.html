@@ -1,14 +1,14 @@
 {{ define "main" }}	<h1>{{ .Title }}</h1>
 	{{ .Content }}
-	<h2>Savoury <span>({{ .Site.Taxonomies.recipe.savoury | len}})</span></h2>
+	<h2>Savoury <span>{{ .Site.Taxonomies.recipe.savoury | len}}</span></h2>
 	<ul>{{ range sort .Site.Taxonomies.recipe.savoury ".Page.RelPermalink" }}
 		<li><a href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a></li>{{ end }}
 	</ul>
-	<h2>Sweet <span>({{ .Site.Taxonomies.recipe.sweet | len}})</span></h2>
+	<h2>Sweet <span>{{ .Site.Taxonomies.recipe.sweet | len}}</span></h2>
 	<ul>{{ range sort .Site.Taxonomies.recipe.sweet ".Page.RelPermalink" }}
 		<li><a href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a></li>{{ end }}
 	</ul>
-	<h2>Ketogenic <span>({{ .Site.Taxonomies.recipe.keto | len}})</span></h2>
+	<h2>Ketogenic <span>{{ .Site.Taxonomies.recipe.keto | len}}</span></h2>
 	<ul>{{ range sort .Site.Taxonomies.recipe.keto ".Page.RelPermalink" }}
 		<li><a href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a></li>{{ end }}
 	</ul>{{ end }}
