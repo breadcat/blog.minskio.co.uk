@@ -43,8 +43,8 @@ What powers the site and its associated clients
 <li>Hardware: ODROID-HC4 /w RTC+OLED</li>
 <li>CPU: Amlogic S905X3</li>
 <li>RAM: 4GB</li>
-<li>Storage: 480GB SSD, 12TB HDD</li>
-<li>OS: <a href="https://github.com/manjaro-arm/ohc4-images">Manjaro ARM</a></li>
+<li>Storage: 8TB HDD</li>
+<li>OS: Debian</li>
 </ul>
 </details>
 
