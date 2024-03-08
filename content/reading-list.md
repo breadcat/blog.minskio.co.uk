@@ -1,7 +1,7 @@
 ---
 title: Reading List
 layout: single
-lastmod: 2024-02-02T17:33:00
+lastmod: 2024-03-08T17:24:00
 ---
 
 I generally strive for a book per week, but this is by no means a steadfast goal. For a list of series and their status, check [the bottom of this page](#book-series).
@@ -9,12 +9,12 @@ I generally strive for a book per week, but this is by no means a steadfast goal
 <details><summary>Works in Progress</summary>
 <ul>
 <li>VC Andrews - Seeds of Yesterday</li>
-<li>Theodore Sturgeon - More Than Human</li>
+<li>Sheri S Tepper - Grass</li>
 </ul>
 </details>
 
 To keep the page somewhat manageable, I've collapsed the lists by years:
-<details><summary>2024 <span>8</span></summary>
+<details><summary>2024 <span>10</span></summary>
 <ul>
 <li>Guillermo del Toro &amp; Chuck Hogan - The Night Eternal</li>
 <li>AT Greenblatt - Waystation City</li>
@@ -24,6 +24,8 @@ To keep the page somewhat manageable, I've collapsed the lists by years:
 <li>J G Ballard - The Drowned World</li>
 <li>Ursula K Le Guin - The Left Hand of Darkness</li>
 <li>Raiff Taranday - How to Pass as Human</li>
+<li>Theodore Sturgeon - More Than Human</li>
+<li>Frederik Pohl - Jem</li>
 </ul>
 </details>
 
@@ -567,7 +569,7 @@ To keep the page somewhat manageable, I've collapsed the lists by years:
 <li>Orson Scott Card - Ender saga - 2/6</li>
 <li>Suzanne Collins - The Hunger Games - 3/4</li>
 <li>VC Andrews - Dollanganger series - 3/5</li>
-<li><a href="/sf-masterworks-progress/">Various - SF Masterworks</a> - 57/73</li>
+<li><a href="/sf-masterworks-progress/">Various - SF Masterworks</a> - 59/73</li>
 </ul>
 </details>
 

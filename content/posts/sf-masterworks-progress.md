@@ -1,7 +1,7 @@
 ---
 title: "SF Masterworks progress"
 date: 2024-01-15T17:02:00
-lastmod: 2024-02-08T10:00:00
+lastmod: 2024-03-08T17:25:00
 tags: ["Books", "Lists"]
 ---
 
@@ -17,7 +17,7 @@ Now the quality varies massively from - *well loved* ex-library copies to pristi
 
 So, on to lists. We all love a good list, right?
 
-<h2>Completed <span>57/73</span></h2>
+<h2>Completed <span>59/73</span></h2>
 
 * 1 - The Forever War - Joe Haldeman
 * 2 - I Am Legend - Richard Matheson
@@ -43,6 +43,7 @@ So, on to lists. We all love a good list, right?
 * 25 - Flowers for Algernon - Daniel Keyes
 * 26 - Ubik - Philip K. Dick
 * 27 - Timescape - Gregory Benford
+* 28 - More Than Human - Theodore Sturgeon
 * 29 - Man Plus - Frederik Pohl
 * 30 - A Case of Conscience - James Blish
 * 32 - Dr. Bloodmoney - Philip K. Dick
@@ -54,6 +55,7 @@ So, on to lists. We all love a good list, right?
 * 38 - The First Men in the Moon - H. G. Wells
 * 39 - The City and the Stars - Arthur C. Clarke
 * 40 - Blood Music - Greg Bear
+* 41 - Jem - Frederik Pohl
 * 42 - Bring the Jubilee - Ward Moore
 * 43 - VALIS - Philip K. Dick
 * 44 - The Lathe of Heaven - Ursula K. Le Guin
@@ -77,14 +79,12 @@ So, on to lists. We all love a good list, right?
 * 72 - The Moon Is a Harsh Mistress - Robert A. Heinlein
 * 73 - The Man in the High Castle - Philip K. Dick
 
-<h2>Incomplete <span>16/73</span></h2>
+<h2>Incomplete <span>14/73</span></h2>
 
 * 3 - Cities in Flight - James Blish
 * 19 - Emphyrio - Jack Vance
 * 22 - Behold the Man - Michael Moorcock
-* 28 - More Than Human - Theodore Sturgeon
 * 31 - The Centauri Device - M. John Harrison
-* 41 - Jem - Frederik Pohl
 * 45 - The Complete Roderick - John Sladek
 * 48 - Grass - Sheri S. Tepper
 * 49 - A Fall of Moondust - Arthur C. Clarke
