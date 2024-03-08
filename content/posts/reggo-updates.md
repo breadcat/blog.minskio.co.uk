@@ -1,7 +1,7 @@
 ---
 title: "Reggo' updates"
 date: 2023-11-13T18:42:00
-lastmod: 2023-12-28T13:26:00
+lastmod: 2024-03-08T17:34:00
 tags: ["Health", "Lifestyle", "Lists"]
 ---
 
@@ -37,9 +37,12 @@ A little personal list of tasks that need completing regularly to stay on top of
 <input type="checkbox" name="checkbox" id="laptop-updates"><label for="laptop-updates">Package manager updates</label><br>
 
 ## Workplace
+<input type="checkbox" name="checkbox" id="workplace-drill"><label for="workplace-drill">Charge drill batteries</label><br>
 <input type="checkbox" name="checkbox" id="workplace-expenses"><label for="workplace-expenses">Submit expenses</label><br>
+<input type="checkbox" name="checkbox" id="workplace-laptop"><label for="workplace-laptop">Charge laptop</label><br>
 <input type="checkbox" name="checkbox" id="workplace-mileage"><label for="workplace-mileage">Submit mileage</label><br>
 <input type="checkbox" name="checkbox" id="workplace-overtime"><label for="workplace-overtime">Submit overtime</label><br>
+<input type="checkbox" name="checkbox" id="workplace-screenwash"><label for="workplace-screenwash">Fill Car Screenwash</label><br>
 
 ## Blog pages
 <input type="checkbox" name="checkbox" id="blog-duolingo"><label for="blog-duolingo"><a href="/logging-duolingo-ranks-over-time/">Duolingo Ranks</a></label><br>
