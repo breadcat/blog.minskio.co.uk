@@ -1,7 +1,7 @@
 ---
 title: "Reggo' updates"
 date: 2023-11-13T18:42:00
-lastmod: 2024-03-08T17:34:00
+lastmod: 2024-03-16T12:30:00
 tags: ["Health", "Lifestyle", "Lists"]
 ---
 
@@ -80,4 +80,5 @@ A little personal list of tasks that need completing regularly to stay on top of
 <input type="checkbox" name="checkbox" id="household-weeding"><label for="household-weeding">De-weed</label><br>
 <input type="checkbox" name="checkbox" id="household-whiteboard"><label for="household-whiteboard">Clean whiteboard</label><br>
 <input type="checkbox" name="checkbox" id="household-windowcleaner"><label for="household-windowcleaner">Pay window cleaner</label><br>
+<input type="checkbox" name="checkbox" id="household-windows"><label for="household-windows">Clean insides of windows</label><br>
 <input type="checkbox" name="checkbox" id="household-worktops"><label for="household-worktops">Clean down worktops</label><br>
