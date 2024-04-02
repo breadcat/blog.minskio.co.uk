@@ -1,15 +1,14 @@
 ---
 title: Reading List
 layout: single
-lastmod: 2024-03-08T17:24:00
+lastmod: 2024-03-29T09:22:00
 ---
 
 I generally strive for a book per week, but this is by no means a steadfast goal. For a list of series and their status, check [the bottom of this page](#book-series).
 
 <details><summary>Works in Progress</summary>
 <ul>
-<li>VC Andrews - Seeds of Yesterday</li>
-<li>Sheri S Tepper - Grass</li>
+<li>Hal Clement - Mission of Gravity</li>
 </ul>
 </details>
 
@@ -26,6 +25,8 @@ To keep the page somewhat manageable, I've collapsed the lists by years:
 <li>Raiff Taranday - How to Pass as Human</li>
 <li>Theodore Sturgeon - More Than Human</li>
 <li>Frederik Pohl - Jem</li>
+<li>Sheri S Tepper - Grass</li>
+<li>VC Andrews - Seeds of Yesterday</li>
 </ul>
 </details>
 
@@ -568,8 +569,8 @@ To keep the page somewhat manageable, I've collapsed the lists by years:
 <li>Neal Shusterman - The Unwind dystology - 1/6</li>
 <li>Orson Scott Card - Ender saga - 2/6</li>
 <li>Suzanne Collins - The Hunger Games - 3/4</li>
-<li>VC Andrews - Dollanganger series - 3/5</li>
-<li><a href="/sf-masterworks-progress/">Various - SF Masterworks</a> - 59/73</li>
+<li>VC Andrews - Dollanganger series - 4/5</li>
+<li><a href="/sf-masterworks-progress/">Various - SF Masterworks</a> - 60/73</li>
 </ul>
 </details>
 
