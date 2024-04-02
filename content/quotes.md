@@ -505,6 +505,8 @@ Quotes I've found in and around the Internet, collected because they make me smi
 
 >There was blood in the kitchen, there was blood in the hall <!-- shivering truth -->
 
+>They only have to be lucky once, we have to be lucky always <!-- IRA -->
+
 >They think your haircuts are un-American <!-- beatles interview -->
 
 >Things won't always be this good
@@ -590,6 +592,8 @@ Quotes I've found in and around the Internet, collected because they make me smi
 >Yes, even if they ask stupid questions <!-- love everyone meme, no matter what -->
 
 >Yes, the planet got destroyed. But for a beautiful moment in time we created a lot of value for shareholders <!-- the new yorker -->
+
+>Yes, there's a TV set on at number five, it's in the front room. They're watching Columbo <!-- TV licence ad -->
 
 >You are being shagged by a rare parrot! <!-- last chance to see -->
 
