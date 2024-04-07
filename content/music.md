@@ -1,14 +1,12 @@
 ---
 title: Music Library
 layout: single
-lastmod: 2024-02-02T18:01:00
+lastmod: 2024-04-07T17:22:00
 ---
 
 This page is purely for reference, as detailed [in this post](/notes-on-sorting-music). While Spotify has 99.9% of songs you'd want, there are some unusual omissions that I've collapsed in a list below.
-<details><summary>Missing Tracks</summary>
+<details><summary>Missing Tracks <span>1</span></summary>
 <ul>
-<li>DeVotchKa - Charlotte Mittnacht (The Fabulous Destiny of...)</li>
-<li>DeVotchKa - How It Ends</li>
 <li>VAST - Pretty When You Cry</li>
 </ul>
 </details>
@@ -35,6 +33,7 @@ This page is purely for reference, as detailed [in this post](/notes-on-sorting-
 | Alice Merton | [No Roots](spotify:track:3D5wnLaeVlCCIPzQOOAirA) |
 | Alien Ant Farm | [These Days](spotify:track:76nFmeNs5rENg0lPTQYziK) |
 | Alien Ant Farm | [Wish](spotify:track:3z3bcIS2CBJ5pqWQjKPiIo) |
+| Allman Brothers Band | [Whipping Post](spotify:track:701oRFDRzsz3WdhCFOtUJj) |
 | alt-J | [Breezeblocks](spotify:track:7v9VgPcjy7gPRsHZjKPUhU) |
 | alt-J | [Dissolve Me](spotify:track:2Dv7PTwSoB17f3VFDIKw8m) |
 | alt-J | [Fitzpleasure](spotify:track:29BwQ7fHY8PMkVH5kj5Htr) |
@@ -72,6 +71,7 @@ This page is purely for reference, as detailed [in this post](/notes-on-sorting-
 | Bastille | [Pompeii](spotify:track:4Ub8UsjWuewQrPhuepfVpd) |
 | Bat For Lashes | [Daniel](spotify:track:5VvsZvy1mwx4teyvI7O9rs) |
 | Bat For Lashes | [Glass](spotify:track:620URofLWRdI6LJHKO13bH) |
+| Beartooth | [In Between](spotify:track:03jdl5GTBhKsgB1Yw8mVPh) |
 | Beast In Black | [One Night In Tokyo](spotify:track:2TZtQt10Ajm3wB4MoqluZj) |
 | Bedroom | [In My Head](spotify:track:5vwXQUwkpmnkJrfv69L6Mp) |
 | Belinda Carlisle | [Leave a Light On](spotify:track:7vJz53OhSGMIxLlwhfwqzu) |
@@ -133,6 +133,7 @@ This page is purely for reference, as detailed [in this post](/notes-on-sorting-
 | Chris Isaak | [Wicked Game](spotify:track:7w5AOd6HrDIHewHfpABEss) |
 | CKY | [96 Quite Bitter Beings](spotify:track:7AimHQrOUoUTYbVX87D3Zl) |
 | Clint Mansell, Kronos Quartet | [Death Is the Road to Awe](spotify:track:3RoQX4ou3qYEASsuC7YAWD) |
+| Cog | [My Enemy](spotify:track:1jx3gU8SEASUGfYO60wAdx) |
 | Coheed and Cambria | [The Suffering](spotify:track:4dcUque6026WExzwJYWG7H) |
 | Coheed and Cambria | [Welcome Home](spotify:track:42GP0xKtkolBnmqQRvSllO) |
 | Coldplay | [Don't Panic](spotify:track:2QhURnm7mQDxBb5jWkbDug) |
@@ -162,8 +163,11 @@ This page is purely for reference, as detailed [in this post](/notes-on-sorting-
 | Depeche Mode | [Enjoy the Silence](spotify:track:0yp3TvJNlG50Q4tAHWNCRm) |
 | Des Rocs | [This is Our Life](spotify:track:7iRiNHAj2DjU1o0q4v4V8k) |
 | Detroit Diesel | [Lost Signal](spotify:track:3mYdOwPtjHLTdCVeyrWgD8) |
+| DeVotchKa | [Charlotte Mittnacht (The Fabulous Destiny of...)](spotify:track:3t4Bz2Z9ufAp8Q0an9Nnh9) |
+| DeVotchKa | [How It Ends](spotify:track:24dR04JmT6GtVQ0rWJo13V) |
 | Dextro | [Momentary](spotify:track:0qqtXZt7YyKbvp8T9ndpWu) |
 | Dinosaur Pile-Up | [Back Foot](spotify:track:6geuGKb1jKb6TV8sGE5eaC) |
+| Dinosaur Pile-Up | [Thrash Metal Cassette](spotify:track:0RhYWcRxUljBv363WhAbtu) |
 | Dirty Pretty Things | [Deadwood](spotify:track:6WeEgi4zkGaHuFXZOWXX3m) |
 | DMA'S | [Everybody's Saying Thursday's The Weekend](spotify:track:1uK65VcfQeZ6cPxnUm0TCv) |
 | Dogs | [Tuned To A Different Station](spotify:track:1W1hnjCTtlxJRL1QBVJGSs) |
@@ -186,7 +190,7 @@ This page is purely for reference, as detailed [in this post](/notes-on-sorting-
 | Electric Light Orchestra | [Livin' Thing](spotify:track:2hdNya0b6Cc2YJ8IyaQIWp) |
 | Electric Six | [Dance Commander](spotify:track:3A3n0ShUNIrNWwdzkONVAl) |
 | Elle King | [Ex's & Oh's](spotify:track:70eDxAyAraNTiD6lx2ZEnH) |
-| Empire of the Sun | [Walking On A Dream](spotify:track:5r5cp9IpziiIsR6b93vcnQ) |
+| Empire Of The Sun | [Walking On A Dream](spotify:track:5r5cp9IpziiIsR6b93vcnQ) |
 | Engineers | [Clean Coloured Wire](spotify:track:7suftoRI9XwESbwB2ZvIRK) |
 | Enter Shikari | [Live Outside](spotify:track:4gFBRNM2w934WZMOINd49G) |
 | Enter Shikari | [{ The Dreamer's Hotel }](spotify:track:0kKLYJlTi8RRR18vTOBsKd) |
@@ -234,12 +238,14 @@ This page is purely for reference, as detailed [in this post](/notes-on-sorting-
 | Ghost | [Dance Macabre](spotify:track:4pIKFpwflOdhYNIRmPTj3E) |
 | Ghost | [Kiss The Go-Goat](spotify:track:56k2ztFw7hQRzDeoe80pJo) |
 | Ghost | [Mary On A Cross](spotify:track:2HZLXBOnaSRhXStMLrq9fD) |
+| Girls Aloud | [Love Machine](spotify:track:6SHvqMjPEQqyJaxuEzNcr3) |
 | Girls' Generation | [Gee](spotify:track:0t7kjpVLgOYITrSfFCoBEA) |
 | Gluecifer | [Losing End](spotify:track:2nHS5c27OLtE4gaCFkvx0f) |
 | Gojira | [Another World](spotify:track:7cRGgrQ9eg8V8A4FsSj020) |
 | Goldfinger | [Superman](spotify:track:4X3qGigyU6ARi3HP4lWD95) |
 | Gomez | [Whippin' Piccadilly](spotify:track:3YeoPH0tOthe65p5zPlJqg) |
 | Good Shoes | [Morden](spotify:track:4nOJU5T0gSbWYQ7FAG4XdY) |
+| Gorillaz, Popcaan | [Saturnz Barz](spotify:track:7l9CE3wmEGOUYw1j4ETjnL) |
 | Gossip | [Standing In the Way of Control](spotify:track:7B6jxcVkJTHMUE83ZndMjl) |
 | Grandaddy | [A.M. 180](spotify:track:1tMHDdJEz8MFrkPFgwFACG) |
 | Grendel | [Harsh Generation](spotify:track:4g6PSQMM8duNABKpeV5jae) |
@@ -258,6 +264,7 @@ This page is purely for reference, as detailed [in this post](/notes-on-sorting-
 | Hot Chip | [Boy From School](spotify:track:1L8H6AuK4TaMmolSL0N0mR) |
 | Hot Chip | [I Feel Better](spotify:track:4qGK21F2n8zYRNsllinNaS) |
 | Hot Chip | [Over And Over](spotify:track:3RCj5fG55qjtmnEML1gpnA) |
+| Howlin' Wolf | [Smokestack Lightnin'](spotify:track:2HUZVffVPXvqnrml0gXggp) |
 | Hundredth | [Whatever](spotify:track:1s7IKZ7FUXfhKskhVCNayO) |
 | Ill Niño | [How Can I Live](spotify:track:3H7IV0Aps0rHpqJXQYe5Ma) |
 | Incubus | [Drive](spotify:track:7nnWIPM5hwE3DaUBkvOIpy) |
@@ -265,8 +272,10 @@ This page is purely for reference, as detailed [in this post](/notes-on-sorting-
 | Interpol | [Evil](spotify:track:4absiGHMelB8eH976ytjBj) |
 | Interpol | [Slow Hands](spotify:track:1VcIbyyDX8j0GNxSlsRFeJ) |
 | Interpol | [The Heinrich Maneuver](spotify:track:4CKuOiUPeGbDsHkT3fmALJ) |
+| INXS | [Never Tear Us Apart](spotify:track:1GjbTNFImFrjFsNdleDe78) |
 | Iron Maiden | [Rainmaker](spotify:track:5jNmbcbuNhM8d5oUld1WsS) |
 | Izgrim, Jasper | [Hologram](spotify:track:6un9p6C2IQ0cotoQooGpIH) |
+| Jackson Browne | [Doctor My Eyes](spotify:track:5OuaAMBmGjjJMK7yXpaFAK) |
 | Jake Bugg | [Seen It All](spotify:track:4Y7FCCc3LvDxfzLjXJgi0v) |
 | Jeff Buckley | [Grace](spotify:track:64SIlhd3BaHCCMSfajXG7l) |
 | Jefferson Airplane | [Somebody to Love](spotify:track:4uGIJG1jYFonGc4LGp5uQL) |
@@ -321,6 +330,7 @@ This page is purely for reference, as detailed [in this post](/notes-on-sorting-
 | Led Zeppelin | [Immigrant Song](spotify:track:78lgmZwycJ3nzsdgmPPGNx) |
 | Led Zeppelin | [Stairway to Heaven](spotify:track:5CQ30WqJwcep0pYcV4AMNc) |
 | Leftfield | [Phat Planet](spotify:track:3cR4v4R9tl8vZkOAgqiMQh) |
+| Liam Gallagher | [Wall of Glass](spotify:track:5qlSYa5PePLAuAsAFgqVxW) |
 | Linkin Park | [Faint](spotify:track:4Yf5bqU3NK4kNOypcrLYwU) |
 | Lizzo | [Juice](spotify:track:0k664IuFwVP557Gnx7RhIl) |
 | Local H | [Bound For The Floor](spotify:track:3cbTV3IZZvSBYVcl0xuZbY) |
@@ -333,7 +343,6 @@ This page is purely for reference, as detailed [in this post](/notes-on-sorting-
 | M83 | [Midnight City](spotify:track:6GyFP1nfCDB8lbD2bG0Hq9) |
 | M83 | [We Own the Sky](spotify:track:2s8q3MEyTXW7wZjmXkDxDW) |
 | Mac DeMarco | [Chamber Of Reflection](spotify:track:7H7NyZ3G075GqPx2evsfeb) |
-| Machine Gun Kelly | [bloody valentine](spotify:track:6mADjHs6FXdroPzEGW6KVJ) |
 | Machine Head | [Message in a Bottle](spotify:track:2BNg4pIwiR8IAaEXHnXyJU) |
 | Mac Miller | [Frick Park Market](spotify:track:2Y0kKL90NsxMNAHqvTuhps) |
 | Mac Miller | [Smile Back](spotify:track:2ZGBhrxA4ghKqoOMBdn966) |
@@ -361,6 +370,7 @@ This page is purely for reference, as detailed [in this post](/notes-on-sorting-
 | Megadeth | [Trust](spotify:track:2zpXmkSLOEejrK8HBsBFbX) |
 | Mellowdrone | [C'Mon Try A Little Bit](spotify:track:5OwnEszgDsnWeBRxc4ZQ4l) |
 | Men At Work | [Who Can It Be Now?](spotify:track:5rfJ2Bq2PEL8yBjZLzouEu) |
+| mgk | [bloody valentine](spotify:track:6mADjHs6FXdroPzEGW6KVJ) |
 | MGMT | [Little Dark Age](spotify:track:2Y0iGXY6m6immVb2ktbseM) |
 | MGMT | [When You Die](spotify:track:3td69vL9Py7Ai9wfXYnvji) |
 | Miike Snow | [Animal](spotify:track:7bzinfns7drLnzylnK6L9S) |
@@ -374,6 +384,7 @@ This page is purely for reference, as detailed [in this post](/notes-on-sorting-
 | Mindless Self Indulgence | [Never Wanted To Dance](spotify:track:3nM1EJJ80pJGiG32WFfJxc) |
 | Mineral | [Parking Lot](spotify:track:4JTjHx8xto0GyYJ8F2cJ0n) |
 | Ministry | [Lay Lady Lay](spotify:track:4pVGf7BJe4i2qbPsrtbmga) |
+| Modest Mouse | [Float On](spotify:track:2lwwrWVKdf3LR9lbbhnr6R) |
 | Moloko | [The Time Is Now](spotify:track:6caODjFlH5iakvYJIrhATv) |
 | Monaco | [What Do You Want From Me?](spotify:track:3H097K41pskob32JipdXzK) |
 | Monster Magnet | [Space Lord](spotify:track:09bkkXFpOVi3aPLvByyWD5) |
@@ -392,6 +403,7 @@ This page is purely for reference, as detailed [in this post](/notes-on-sorting-
 | Muse | [Sunburn](spotify:track:5wq8wceQvaFlOZovDtfr0j) |
 | My Chemical Romance | [I'm Not Okay (I Promise)](spotify:track:7lRlq939cDG4SzWOF4VAnd) |
 | Mystery Skulls | [Money](spotify:track:6uoccjn6gLDixD0EKYH3AY) |
+| My Vitriol | [Always: Your Way](spotify:track:00Dfku0uAqsx21N8yxv9yk) |
 | Nada Surf | [Popular](spotify:track:48sJGpBLqQTs0sZ2ImHJof) |
 | Nada Surf | [Psychic Caramel](spotify:track:3XIxlev3dpFhjhLjLpNp4p) |
 | Nada Surf | [Stalemate](spotify:track:4WziU4ZWItOp3aNgHpbt4X) |
@@ -429,6 +441,7 @@ This page is purely for reference, as detailed [in this post](/notes-on-sorting-
 | Orson | [No Tomorrow](spotify:track:0nJEcAgCKrFliZ5q0JxEtc) |
 | Ou Est Le Swimming Pool | [Dance the Way I Feel](spotify:track:2VtqoN1hRIL4Qe1ojSFS0d) |
 | Paolo Nutini | [Iron Sky](spotify:track:2bcC9Xyi40wnI7Od5uch31) |
+| Papa Roach | [Between Angels And Insects](spotify:track:24z528iI9kZu5LbkLainjI) |
 | Papa Roach | [Blood Brothers](spotify:track:2Ll44WxlG2eiqL6NtEnf8M) |
 | Paramore | [Hard Times](spotify:track:0w5Bdu51Ka25Pf3hojsKHh) |
 | Parov Stelar | [All Night](spotify:track:717lZxxn53x2B0eucGiD1Z) |
@@ -468,6 +481,7 @@ This page is purely for reference, as detailed [in this post](/notes-on-sorting-
 | Prong | [Snap Your Fingers, Snap Your Neck](spotify:track:7hgtn706RqLE5q1mWe8aQx) |
 | Pulled Apart By Horses | [Back to the Fuck Yeah](spotify:track:1Z3HppBWvZVtljguSS5v7k) |
 | Pulled Apart By Horses | [High Five, Swan Dive, Nose Dive](spotify:track:0uEv2NPY9izxXbOhIBAaZf) |
+| PVRIS | [My House](spotify:track:2hNxkoMR4TZ3ft4uk9zJli) |
 | Q Lazzarus | [Goodbye Horses](spotify:track:7I5eQZFdlPV8LZWH2FeqaW) |
 | Queens of the Stone Age | [In The Fade/Feel Good Hit Of The Summer (Reprise)](spotify:track:5chFfvzdWd33uwpy4UzmAj) |
 | Radiohead | [All I Need](spotify:track:5Qv2Nby1xTr9pQyjkrc94J) |
@@ -516,6 +530,7 @@ This page is purely for reference, as detailed [in this post](/notes-on-sorting-
 | Russkaja | [Energia](spotify:track:2yjMkZBof4BnTgpk8N7SWt) |
 | Rx Bandits | [Ruby Cumulous](spotify:track:5MOKQJ6HMqpEoD04eqVFyB) |
 | SAINt JHN, Imanbek | [Roses - Imanbek Remix](spotify:track:24Yi9hE78yPEbZ4kxyoXAI) |
+| Sam Fender | [Hypersonic Missiles](spotify:track:6CltzquypraYIlWFp48m1O) |
 | Sam Fender | [Play God](spotify:track:6R1y3I91AIktu7qoKIugtH) |
 | Savlonic | [Electro Gypsy](spotify:track:6WrvBWxtNgtzszOY28UVcc) |
 | Screaming Trees | [All I Know](spotify:track:2gAHUkKPQSy5PFcjcGWCrJ) |
@@ -559,6 +574,7 @@ This page is purely for reference, as detailed [in this post](/notes-on-sorting-
 | Spineshank | [Smothered](spotify:track:2wdjEAsK64EUPmNIIH6MWt) |
 | Spirit Caravan | [Healing Tongue](spotify:track:14hlVXq8wqo63APIXCBAml) |
 | Split Enz | [I Got You](spotify:track:3KOPorZiKeW6gFeIViqMoq) |
+| Spoon | [The Underdog](spotify:track:3G3EvGRQUgyhn5icKOiiFP) |
 | ssshhhiiittt! | [Корабль](spotify:track:1RP5XjvtlcwdqEZ0e8rPWG) |
 | Static-X | [Black and White](spotify:track:1GwiQCsJ0wEtzQTnblUSnH) |
 | Stephen Paul Taylor | [Everybody Knows Shit's Fucked](spotify:track:5l4AUpGX1rjfPKWEujoFT3) |
@@ -599,9 +615,11 @@ This page is purely for reference, as detailed [in this post](/notes-on-sorting-
 | The Black Keys | [Gold on the Ceiling](spotify:track:5lN1EH25gdiqT1SFALMAq1) |
 | The Black Keys | [Weight of Love](spotify:track:3xMQOd1C3TXsjQ3pmzOmkC) |
 | The Books | [Smells Like Content](spotify:track:0zSeLF3w3mPF9ibTkHZqCp) |
+| The Boxer Rebellion | [Step Out Of The Car](spotify:track:7C8KIMzX7O46DocS2OdaLE) |
 | The Box Tops | [The Letter](spotify:track:6RJK553YhstRzyKA4mug09) |
 | The Breeders | [Cannonball](spotify:track:1KdwPeY1WRWQGHCmRJTveb) |
 | The Cardigans | [Erase / Rewind](spotify:track:3JfkNCiXjHEVkbFfCQ417E) |
+| The Church | [Under the Milky Way](spotify:track:1RCtHLyq1xIbgGMrYRrKJ2) |
 | The Clash | [Rock the Casbah](spotify:track:56KqaFSGTb7ifpt16t5Y1N) |
 | The Comet Is Coming | [Summon The Fire](spotify:track:5c44MldQ2CvroamP73V1lp) |
 | The Cooper Temple Clause, Dan Austin, Ger McDonnal | [Blind Pilots](spotify:track:6cdkX1elHT1eMzSsLGPZhd) |
@@ -659,7 +677,9 @@ This page is purely for reference, as detailed [in this post](/notes-on-sorting-
 | The Qemists | [Stompbox](spotify:track:4ro5roa4DG0J6no8tDDi5i) |
 | The Rakes | [22 Grand Job](spotify:track:4tTRcCYZSWrJKRmYeaZhFx) |
 | The Rasmus | [In the Shadows](spotify:track:1fr92Vupmcs2vgLMFVQ7rd) |
+| The Revivalists | [Wish I Knew You](spotify:track:2EWpa5XnAuSn0sIkSSIhYk) |
 | The Seahorses | [Love Is The Law](spotify:track:5hxttI33fq6Pj5jWabbEOz) |
+| The Shins | [New Slang](spotify:track:0NslHuacjxQYfUTOW3HCIV) |
 | The Smashing Pumpkins | [1979](spotify:track:5QLHGv0DfpeXLNFo7SFEy1) |
 | The Smashing Pumpkins | [Bullet With Butterfly Wings](spotify:track:6GtX0jaNL8IjVQfrDBx81z) |
 | The Smashing Pumpkins | [Today](spotify:track:0u5aO1GYsIhAWCPuXdwnak) |
@@ -676,6 +696,7 @@ This page is purely for reference, as detailed [in this post](/notes-on-sorting-
 | The Verve | [Lucky Man](spotify:track:2mxPSHEwjJWOQS7lGw6btF) |
 | The Verve | [The Drugs Don't Work](spotify:track:15kLz0zNFdtsaJdXKSGmTU) |
 | The Vines | [Get Free](spotify:track:1JcGNoiwifg0MdJMVgJQYx) |
+| The Virginmarys | [Just A Ride](spotify:track:7cGtfu1NryehQAJrnPfp6L) |
 | The Von Bondies | [C'mon C'mon](spotify:track:0YPDp1KIxVLTdh3vnvk6wd) |
 | The Warning | [MORE](spotify:track:2uqCJn5VFTf3sZEDJZvvX0) |
 | The Weeknd | [Blinding Lights](spotify:track:6qYkmqFsXbj8CQjAdbYz07) |
@@ -698,6 +719,7 @@ This page is purely for reference, as detailed [in this post](/notes-on-sorting-
 | Turbowolf, Sebastien Grainger | [Cheap Magic](spotify:track:7uaH0m2kKoT9YrHATuQn0P) |
 | TV On The Radio | [DLZ](spotify:track:6La3P2zp9KaW1d35hwm0Xh) |
 | TV On The Radio | [Happy Idiot](spotify:track:63mnZ0zF5fBwJzYg2pDo9e) |
+| TV On The Radio | [Wolf Like Me](spotify:track:6Zgd7SomLTZkL1WPh4CUnV) |
 | Two Door Cinema Club | [I Can Talk](spotify:track:4N90LxX3kWhJucPQ484Qy9) |
 | Type O Negative | [Christian Woman](spotify:track:3634aKisKlGdUfD9V3MOY5) |
 | U2 | [Sunday Bloody Sunday](spotify:track:6C4LXC9UFH1IKiHYOp0BiJ) |
@@ -720,12 +742,14 @@ This page is purely for reference, as detailed [in this post](/notes-on-sorting-
 | Wet Leg | [Wet Dream](spotify:track:6pjJUY0O4XgrYFGf9SwD7u) |
 | We Were Promised Jetpacks | [Quiet Little Voices](spotify:track:4TQJGu7KoqOFvjvopA8fx2) |
 | White Lies | [To Lose My Life](spotify:track:2Z3TDzs6Jf7oCahXUkWapq) |
+| WILLOW, Travis Barker | [t r a n s p a r e n t s o u l feat. Travis Barker](spotify:track:1QL7nSDZCwZMnbisV4KOXt) |
 | Wolfmother | [Dimension](spotify:track:7k5Gji7TdalcU7p0RjIaii) |
 | Wolfmother | [Joker And The Thief](spotify:track:7ISL3LO8AWP3fKIXunvqTa) |
 | Wolfmother | [Pretty Peggy](spotify:track:5jCp5A9hMitx5zeo5Djofm) |
 | Wolfmother | [Woman](spotify:track:3CkjLJYnnyOtGk4Jx4iYS4) |
 | :Wumpscut: | [Is It You](spotify:track:2ru9ulDW4IlelKXZVSSqwC) |
 | :Wumpscut: | [Totmacher](spotify:track:3VN2DBuSG9yuLIVxULmFBi) |
+| X Ambassadors | [Renegades](spotify:track:5cKhVlFn0Kuq68V56lSLvW) |
 | Yeah Yeah Yeahs | [Gold Lion](spotify:track:6tuiDRFaXOBqFLpeTBjAAn) |
 | Yeah Yeah Yeahs | [Heads Will Roll](spotify:track:2WRFD9WczJ975X2K1Y9YVs) |
 | Yeah Yeah Yeahs | [Pin](spotify:track:7AEvyxJS2Eayyr6q5sEU66) |
