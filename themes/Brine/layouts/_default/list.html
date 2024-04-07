@@ -2,11 +2,11 @@
 <ul>
 {{ if .IsHome }}
 	{{ $paginator := .Paginate (where .Site.RegularPages.ByDate.Reverse "Section" "posts") }}{{ range $paginator.Pages }}
-	<li><h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2><span>{{ .PublishDate.Format "Jan 2, 2006" }}{{ if ne .Lastmod .PublishDate }} updated{{ end }}, {{ .ReadingTime }} min read</span></li>{{ end }}
+	<li><h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>{{ .PublishDate.Format "Jan 2, 2006" }}{{ if ne .Lastmod .PublishDate }} updated{{ end }}, {{ .ReadingTime }} min read</li>{{ end }}
 	</ul>{{ partial "pagination.html" $ }}
 {{ else }}
 	{{ range .Pages.ByDate.Reverse }}
-	<li><h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2><span>{{ .PublishDate.Format "Jan 2, 2006" }}{{ if ne .Lastmod .PublishDate }} updated{{ end }}, {{ .ReadingTime }} min read</span></li>
+	<li><h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>{{ .PublishDate.Format "Jan 2, 2006" }}{{ if ne .Lastmod .PublishDate }} updated{{ end }}, {{ .ReadingTime }} min read</li>
     {{ end }}
 	</ul>
 {{ end }}
