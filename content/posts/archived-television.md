@@ -2,21 +2,22 @@
 title: Archived Television
 tags: ["Media", "Archive"]
 date: 2018-01-01T01:00:00
-lastmod: 2023-09-22T18:26:00
+lastmod: 2024-04-11T11:47:00
 ---
 
 * 11.22.63
+* 3 Body Problem (1)
 * A Certain Scientific Railgun
-* A Touch of Cloth
 * Adventure Time
 * Almost Human
 * Altered Carbon
 * American Gods
-* An Idiot Abroad
 * Angel Cop
+* An Idiot Abroad
 * Archer
 * Ash vs. Evil Dead
-* Attack on Titan
+* A Touch of Cloth
+* Attack on Titan (4)
 * Avenue 5
 * Battle Angel Alita
 * Berry & Fulcher's Snuff Box
@@ -25,7 +26,7 @@ lastmod: 2023-09-22T18:26:00
 * Black Books
 * Black Lagoon
 * Black Mirror
-* Bob's Burgers
+* Bob's Burgers (14)
 * BoJack Horseman
 * Bosch
 * Bosch: Legacy
@@ -34,6 +35,7 @@ lastmod: 2023-09-22T18:26:00
 * Burnistoun
 * Can't Get You Out of My Head
 * Chainsaw Man
+* Channel Zero (1)
 * Chernobyl
 * Childhood's End
 * Clarkson's Farm
@@ -47,20 +49,21 @@ lastmod: 2023-09-22T18:26:00
 * Dark Tourist
 * Death Note
 * Defying Gravity
-* Demon Slayer: Kimetsu no Yaiba
+* Demon Slayer: Kimetsu no Yaiba (4)
 * Dirk Gently's Holistic Detective Agency
-* Doom Patrol
+* Dollhouse (1)
+* Doom Patrol (4)
 * Dorohedoro
 * Dr. Stone
 * Drugs, Inc.
 * Evil Genius
-* Fargo
+* Fargo (5)
 * Farscape
 * Final Space
 * Fireball
 * Firefly
 * Flowers in the Attic: The Origin
-* Foundation
+* Foundation (2)
 * Freedom
 * Fullmetal Alchemist
 * Fullmetal Alchemist Brotherhood
@@ -72,13 +75,13 @@ lastmod: 2023-09-22T18:26:00
 * Guillermo del Toro's Cabinet of Curiosities
 * Gunpowder
 * Hannibal
-* Heartland
 * Heroes
 * High Score
 * Hometown: A Killing
 * How to Get Away With Murder
 * How To with John Wilson
 * Hyperdrive
+* I Am Groot (2)
 * Ideal
 * Inferno Cop
 * Infinity Train
@@ -121,6 +124,7 @@ lastmod: 2023-09-22T18:26:00
 * Savage Builds
 * Severance
 * Sherlock
+* Silo (1)
 * Smiling Friends
 * Solar Opposites
 * Sons of Anarchy
@@ -128,26 +132,28 @@ lastmod: 2023-09-22T18:26:00
 * Space Patrol Luluco
 * Squid Game
 * SS-GB
-* Star Trek
-* Star Trek Continues
-* Star Trek: Deep Space Nine
-* Star Trek: Discovery
-* Star Trek: Enterprise
-* Star Trek: Lower Decks
-* Star Trek: Picard
-* Star Trek: Voyager
-* Stargate Atlantis
-* Stargate SG-1
+* Stargate Atlantis (5)
+* Stargate SG-1 (10)
+* Star Trek (3)
+* Star Trek Continues (1)
+* Star Trek: Deep Space Nine (7)
+* Star Trek: Discovery (4)
+* Star Trek: Enterprise (4)
+* Star Trek: Lower Decks (4)
+* Star Trek: Picard (3)
+* Star Trek: Prodigy (1)
+* Star Trek: Strange New Worlds (1)
+* Star Trek: Voyager (7)
 * Steins;Gate
 * Stranger Things
 * Succession
 * Swamp Thing
 * Taken
-* Taskmaster
+* Taskmaster (14)
 * Taskmaster: Champion of Champions
 * Terror in Resonance
-* Testees
-* The Andromeda Strain (2008)
+* Testees (1)
+* The Andromeda Strain (2008) (1)
 * The Boys
 * The Colour of Magic
 * The Crossing
@@ -156,6 +162,7 @@ lastmod: 2023-09-22T18:26:00
 * The Event
 * The Exorcist
 * The Expanse
+* The Expanse: One Ship
 * The Fear Index
 * The Grand Tour
 * The Haunting of Bly Manor
@@ -168,13 +175,13 @@ lastmod: 2023-09-22T18:26:00
 * The Midnight Gospel
 * The Mist
 * The OA
-* The Orville
+* The Orville (3)
 * The Rehearsal
 * The Shivering Truth
 * The Sinner
 * The Stand (1994)
-* The Strain
-* The Terror
+* The Strain (4)
+* The Terror (1)
 * The Twilight Zone
 * The Twilight Zone (2019)
 * The Wire
@@ -183,14 +190,14 @@ lastmod: 2023-09-22T18:26:00
 * Tiger King: Murder, Mayhem and Madness
 * Tin Star
 * Titan Maximum
-* Toast of London
-* Toast of Tinseltown
-* Tower of God
+* Toast of London (3)
+* Toast of Tinseltown (1)
+* Tower of God (1)
 * Travel Man: 48 Hours in...
 * TRIGUN
-* True Blood
-* Undone
-* Upload
+* True Blood (7)
+* Undone (1)
+* Upload (3)
 * V (2009)
 * WandaVision
 * Warrior
