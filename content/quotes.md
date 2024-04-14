@@ -329,6 +329,8 @@ Quotes I've found in and around the Internet, collected because they make me smi
 
 >Me? The one person I trusted most? <!-- poorly drawn lines -->
 
+>Meeting Disconnected. The AI detected an unexpected loved one. <!-- boy boy prison commentary -->
+
 >Monster Island's actually a peninsula <!-- the simpsons -->
 
 >More similar than different <!-- travel man -->
