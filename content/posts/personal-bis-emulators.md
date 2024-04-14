@@ -1,7 +1,7 @@
 ---
 title: "Personal 'best in slot' emulators"
 date: 2022-07-21T14:16:00
-lastmod: 2023-03-10T17:59:00
+lastmod: 2024-04-13T01:06:00
 tags: ["Emulation", "Games", "Lists", "Software"]
 ---
 
@@ -17,7 +17,7 @@ At the end of the day I just wanted a single page for reference I could open up 
 * Nintendo 64: [simple64](https://simple64.github.io/)
 * Nintendo Entertainment System: [Mesen](https://github.com/SourMesen/Mesen)
 * Nintendo GameCube: [Dolphin](https://dolphin-emu.org/)
-* Nintendo Switch: [Yuzu](https://yuzu-emu.org/)
+* Nintendo Switch: [Sudachi](https://github.com/sudachi-emu/sudachi)
 * Nintendo Wii U: [Cemu](http://cemu.info/)
 * Nintendo Wii: [Dolphin](https://dolphin-emu.org/)
 * Sega Dreamcast: [Flycast](https://flyinghead.github.io/flycast-builds/)
@@ -30,7 +30,7 @@ At the end of the day I just wanted a single page for reference I could open up 
 * Super Nintendo Entertainment System: [snes9x](https://github.com/snes9xgit/snes9x)
 
 # Handhelds
-* Nintendo 3DS: [Citra](https://citra-emu.org/)
+* Nintendo 3DS: [Lime3DS](https://github.com/Lime3DS/Lime3DS)
 * Nintendo DS: [MelonDS](https://github.com/Arisotura/melonDS)
 * Nintendo Game Boy Advance: [mgba](https://mgba.io/)
 * Nintendo Game Boy/Color: [SameBoy](https://sameboy.github.io/)
@@ -49,5 +49,6 @@ At the end of the day I just wanted a single page for reference I could open up 
 
 
 ### Updates
+* **Edit 2024-04-13:** Adjust 3DS/Switch options from Yuzu fallout
 * **Edit 2022-09-05:** Rename m64p to simple64
 * **Edit 2023-03-10:** Replace Kega Fusion with BlastEm, add PCem
