@@ -1,18 +1,19 @@
 ---
 title: Reading List
 layout: single
-lastmod: 2024-04-06T00:39:00
+lastmod: 2024-04-14T13:34:00
 ---
 
 I generally strive for a book per week, but this is by no means a steadfast goal. For a list of series and their status, check [the bottom of this page](#book-series).
 
 <details><summary>Works in Progress</summary>
 <ul>
+<li>Larry Niven - Ringworld</li>
 </ul>
 </details>
 
 To keep the page somewhat manageable, I've collapsed the lists by years:
-<details><summary>2024 <span>14</span></summary>
+<details><summary>2024 <span>15</span></summary>
 <ul>
 <li>Guillermo del Toro &amp; Chuck Hogan - The Night Eternal</li>
 <li>AT Greenblatt - Waystation City</li>
@@ -28,6 +29,7 @@ To keep the page somewhat manageable, I've collapsed the lists by years:
 <li>VC Andrews - Seeds of Yesterday</li>
 <li>Hal Clement - Mission of Gravity</li>
 <li>Anna Zumbro - The Hidden Forests of Earth and Mars</li>
+<li>Arthur C Clarke - A Fall of Moondust</li>
 </ul>
 </details>
 
@@ -571,7 +573,7 @@ To keep the page somewhat manageable, I've collapsed the lists by years:
 <li>Orson Scott Card - Ender saga - 2/6</li>
 <li>Suzanne Collins - The Hunger Games - 3/4</li>
 <li>VC Andrews - Dollanganger series - 4/5</li>
-<li><a href="/sf-masterworks-progress/">Various - SF Masterworks</a> - 61/73</li>
+<li><a href="/sf-masterworks-progress/">Various - SF Masterworks</a> - 62/73</li>
 </ul>
 </details>
 

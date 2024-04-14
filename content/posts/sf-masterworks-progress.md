@@ -1,7 +1,7 @@
 ---
 title: "SF Masterworks progress"
 date: 2024-01-15T17:02:00
-lastmod: 2024-03-29T09:22:00
+lastmod: 2024-04-14T13:34:00
 tags: ["Books", "Lists"]
 ---
 
@@ -17,7 +17,7 @@ Now the quality varies massively from - *well loved* ex-library copies to pristi
 
 So, on to lists. We all love a good list, right?
 
-<h2>Completed <span>61/73</span></h2>
+<h2>Completed <span>62/73</span></h2>
 
 * 1 - The Forever War - Joe Haldeman
 * 2 - I Am Legend - Richard Matheson
@@ -62,6 +62,7 @@ So, on to lists. We all love a good list, right?
 * 46 - Flow My Tears, the Policeman Said - Philip K. Dick
 * 47 - The Invisible Man - H. G. Wells
 * 48 - Grass - Sheri S. Tepper
+* 49 - A Fall of Moondust - Arthur C. Clarke
 * 50 - Eon - Greg Bear
 * 51 - The Shrinking Man - Richard Matheson
 * 52 - The Three Stigmata of Palmer Eldritch - Philip K. Dick
@@ -81,14 +82,13 @@ So, on to lists. We all love a good list, right?
 * 72 - The Moon Is a Harsh Mistress - Robert A. Heinlein
 * 73 - The Man in the High Castle - Philip K. Dick
 
-<h2>Incomplete <span>12/73</span></h2>
+<h2>Incomplete <span>11/73</span></h2>
 
 * 3 - Cities in Flight - James Blish
 * 19 - Emphyrio - Jack Vance
 * 22 - Behold the Man - Michael Moorcock
 * 31 - The Centauri Device - M. John Harrison
 * 45 - The Complete Roderick - John Sladek
-* 49 - A Fall of Moondust - Arthur C. Clarke
 * 53 - The Dancers at the End of Time - Michael Moorcock
 * 60 - Ringworld - Larry Niven
 * 61 - The Child Garden - Geoff Ryman
