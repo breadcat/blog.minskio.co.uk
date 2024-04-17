@@ -23,6 +23,8 @@ Quotes I've found in and around the Internet, collected because they make me smi
 
 >Ambition makes you look pretty ugly <!-- paranoid android -->
 
+>And I say your 3 cent titanium tax doesn't go too far enough <!-- futurama -->
+
 >Apply the handbrake ya dumb broad <!-- yu-gi-oh abridged -->
 
 >Are we still in denial when we know we're not happy here <!-- outkast - hey ya -->
