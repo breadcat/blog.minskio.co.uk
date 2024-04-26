@@ -2,58 +2,10 @@
 title: Japanese Dictionary
 language: dictionary
 date: 2017-10-01T09:00:00
-lastmod: 2017-10-18T09:00:00
+lastmod: 2024-04-26T15:18:00
 ---
 
-**Sound** - **[Hiragana](http://www.lexilogos.com/keyboard/hiragana.htm)**
-* a - あ
-* chi - ち
-* e - え
-* fu - ふ
-* ha - は
-* he - へ
-* hi - ひ
-* ho - ほ
-* i - い
-* ka - か
-* ke - け
-* ki - き
-* ko - こ
-* ku - く
-* ma - ま
-* me - め
-* mi - み
-* mo - も
-* mu - む
-* n - ん
-* na - な
-* ne - ね
-* ni - に
-* no - の
-* nu - ぬ
-* o - お
-* ra - ら
-* re - れ
-* ri - り
-* ro - ろ
-* ru - る
-* sa - さ
-* se - せ
-* shi - し
-* so - そ
-* su - す
-* ta - た
-* te - て
-* to - と
-* tsu - つ
-* u - う
-* wa - わ
-* wo - を
-* ya - や
-* yo - よ
-* yu - ゆ
-
-**English** - **Hiragana** - **Pronunciation**
+**English** - **[Hiragana](http://www.lexilogos.com/keyboard/hiragana.htm)** - **Pronunciation**
 * Alcohol - のさけ - Nosake
 * Back (anatomy) - せなか - Senaka
 * Bird - とり - Tori
@@ -68,8 +20,8 @@ lastmod: 2017-10-18T09:00:00
 * Eye - め- Me
 * Four - よん - Yon
 * Good Afternoon - こんにちは - Konichiwa
-* Good Morning - おはよう - Ohayou
 * Good-bye - さよなら - Sayonara
+* Good Morning - おはよう - Ohayou
 * House - うえ - Ue
 * I - わたし - Watashi
 * Like - すき - Suki
@@ -93,4 +45,4 @@ lastmod: 2017-10-18T09:00:00
 * Wear - きる - Kiru
 * White - しろ - Shiro
 * Winter - ふゆ - Fuyu
-* Yes - はい - Hai
+* Yes - はい - Hai

@@ -2,10 +2,11 @@
 title: Dutch Dictionary
 language: dictionary
 date: 2018-10-25T09:00:00
-lastmod: 2020-01-21T09:00:00
+lastmod: 2024-04-26T15:19:00
 ---
 
 **Dutch** - **English**
+
 * a - een
 * am - ben
 * and - en

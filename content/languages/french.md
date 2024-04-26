@@ -2,14 +2,14 @@
 title: French Dictionary
 language: dictionary
 date: 2020-05-16T09:00:00
-lastmod: 2020-05-16T09:00:00
+lastmod: 2024-04-26T15:18:00
 ---
 
 **French** - **English**  
-* c' - it/that/this
 * chat (le) - cat
 * cheval (le) - horse
 * chien (le) - dog
+* c' - it/that/this
 * croissant (le) - croissant
 * es - are
 * est - is
@@ -26,4 +26,4 @@ lastmod: 2020-05-16T09:00:00
 * suis - am
 * tu - you (familiar, plural)
 * un (m), une (f) - a/an
-* vous - you (formal, plural)
+* vous - you (formal, plural)
