@@ -1,7 +1,7 @@
 ---
 title: "SF Masterworks progress"
 date: 2024-01-15T17:02:00
-lastmod: 2024-04-14T13:34:00
+lastmod: 2024-04-26T09:26:00
 tags: ["Books", "Lists"]
 ---
 
@@ -17,7 +17,7 @@ Now the quality varies massively from - *well loved* ex-library copies to pristi
 
 So, on to lists. We all love a good list, right?
 
-<h2>Completed <span>62/73</span></h2>
+<h2>Completed <span>63/73</span></h2>
 
 * 1 - The Forever War - Joe Haldeman
 * 2 - I Am Legend - Richard Matheson
@@ -72,6 +72,7 @@ So, on to lists. We all love a good list, right?
 * 57 - The Simulacra - Philip K. Dick
 * 58 - The Penultimate Truth - Philip K. Dick
 * 59 - Dying Inside - Robert Silverberg
+* 60 - Ringworld - Larry Niven
 * 63 - A Maze of Death - Philip K. Dick
 * 62 - Mission of Gravity - Hal Clement
 * 64 - Tau Zero - Poul Anderson
@@ -82,7 +83,7 @@ So, on to lists. We all love a good list, right?
 * 72 - The Moon Is a Harsh Mistress - Robert A. Heinlein
 * 73 - The Man in the High Castle - Philip K. Dick
 
-<h2>Incomplete <span>11/73</span></h2>
+<h2>Incomplete <span>10/73</span></h2>
 
 * 3 - Cities in Flight - James Blish
 * 19 - Emphyrio - Jack Vance
@@ -90,7 +91,6 @@ So, on to lists. We all love a good list, right?
 * 31 - The Centauri Device - M. John Harrison
 * 45 - The Complete Roderick - John Sladek
 * 53 - The Dancers at the End of Time - Michael Moorcock
-* 60 - Ringworld - Larry Niven
 * 61 - The Child Garden - Geoff Ryman
 * 66 - Life During Wartime - Lucius Shepard
 * 67 - Where Late the Sweet Birds Sang - Kate Wilhelm
