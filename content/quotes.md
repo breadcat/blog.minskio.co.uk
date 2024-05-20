@@ -303,6 +303,8 @@ Quotes I've found in and around the Internet, collected because they make me smi
 
 >keine gnade meine kinder <!-- no mercy, my children -->
 
+>Ladders are always the correct option <!-- health and safety training -->
+
 >Learn to live on lentils and you will not have to be subservient to the king <!-- Diogenes -->
 
 >Leave the handgun, take the cash <!-- simple creatures - lucy -->
