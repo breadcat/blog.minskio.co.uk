@@ -1,17 +1,17 @@
 ---
 title: Music Library
 layout: single
-lastmod: 2024-04-07T17:22:00
+lastmod: 2024-07-10T12:30:00
 ---
 
 This page is purely for reference, as detailed [in this post](/notes-on-sorting-music). While Spotify has 99.9% of songs you'd want, there are some unusual omissions that I've collapsed in a list below.
-<details><summary>Missing Tracks <span>1</span></summary>
+<details><summary>Missing Tracks <span>2</span></summary>
 <ul>
+<li>Tin Foil Phoenix - Ms Genova</li>
 <li>VAST - Pretty When You Cry</li>
 </ul>
 </details>
 <br />
-
 | Artist | Title |
 | ------ | ----- |
 | 10cc | [Dreadlock Holiday](spotify:track:1LOZMYF5s8qhW7Rv4w2gun) |
@@ -27,6 +27,7 @@ This page is purely for reference, as detailed [in this post](/notes-on-sorting-
 | Alabama 3 | [Woke Up This Morning](spotify:track:74b3xzu1xf69MzPIaoTS7r) |
 | Alanis Morissette | [Head over Feet](spotify:track:7fWFqVCqWk6tUvN7QPtAgN) |
 | Alcest | [Sapphire](spotify:track:5DFnmcshyxsonqTvanqZPY) |
+| Alela Diane | [Émigré](spotify:track:3t9dQLtZPB8dXRu6QrQYLS) |
 | Alice In Chains | [Down In A Hole](spotify:track:7FRfYOql61DGDp9VPPe2qA) |
 | Alice In Chains | [Them Bones](spotify:track:4A065x9kJt955eGVqf813g) |
 | Alice In Chains | [Would?](spotify:track:5sFDReWLrZHLFZFjHsjUTS) |
@@ -57,10 +58,13 @@ This page is purely for reference, as detailed [in this post](/notes-on-sorting-
 | Asia | [Heat Of The Moment](spotify:track:1nmZ8yqKkfooOuYvtFctDp) |
 | Astrophysics, Marina Rios | [Komm, süsser Tod](spotify:track:7E6VM4eg8ADYdgbMnXO97d) |
 | Atomship | [Pencil Fight](spotify:track:0jd1Y8VZD0Pg1B1aZlCMub) |
+| At the Drive-In | [One Armed Scissor](spotify:track:5UTYRC4IQLc7Jxc1sJapMl) |
 | Audioslave | [Be Yourself](spotify:track:7sqp1w76zjW3K04htuRA8H) |
 | Audioslave | [Doesn't Remind Me](spotify:track:2v62ngAuqfbBogc0tHEMfZ) |
 | Audioslave | [Revelations](spotify:track:7sExrv2QCaHxeWXilRziQ1) |
+| Augustines | [Chapel Song](spotify:track:2xEkZmFUpb7Gf1RQL7hbJQ) |
 | Babylon Zoo | [Spaceman](spotify:track:0uQcP7QVoLvaFsORsdrgNh) |
+| Baby's First Pistol | [Slujt](spotify:track:63ifQL7SfrY4UbewX7WQPz) |
 | Babyshambles | [Fuck Forever](spotify:track:41Z2joQXOwZRBB8V6zk0A8) |
 | BADBADNOTGOOD, Samuel T. Herring | [Time Moves Slow](spotify:track:1IqF5PUDUnaykHLs0RWbDO) |
 | Badly Drawn Boy | [Something to Talk About](spotify:track:4rwOvI1E7CAlOX0XZ5EMyG) |
@@ -75,9 +79,11 @@ This page is purely for reference, as detailed [in this post](/notes-on-sorting-
 | Beast In Black | [One Night In Tokyo](spotify:track:2TZtQt10Ajm3wB4MoqluZj) |
 | Bedroom | [In My Head](spotify:track:5vwXQUwkpmnkJrfv69L6Mp) |
 | Belinda Carlisle | [Leave a Light On](spotify:track:7vJz53OhSGMIxLlwhfwqzu) |
+| Belle and Sebastian | [Sleep the Clock Around](spotify:track:2WXuEYmzKaQQJbrhLnYYJV) |
 | Ben Kweller, Kimya Dawson, John David Kent, Josh Lattanzi | [How It Should Be (Sha Sha)](spotify:track:77h5SC6UU6kfKNSGQ9hZ4k) |
 | Biffy Clyro | [Mountains](spotify:track:51MbtYQHW8ph3lE5oyfLLs) |
 | Big Country | [In A Big Country](spotify:track:4cY1KFcIcTkjXxxF4KVDpY) |
+| Big Country | [Look Away](spotify:track:4WYBE94dRKhhXLsOeVSNH8) |
 | Billy Joel | [Piano Man](spotify:track:70C4NyhjD5OZUMzvWZ3njJ) |
 | Billy Ocean | [Red Light Spells Danger](spotify:track:557cxXIeiwh03kI2F2jKdh) |
 | Billy Talent | [Rusted From the Rain](spotify:track:1VbsSYNXKBpjPvqddk8zjs) |
@@ -94,12 +100,14 @@ This page is purely for reference, as detailed [in this post](/notes-on-sorting-
 | Bloc Party | [Kettling](spotify:track:2LSE4990srPxQHyPhMOL3w) |
 | Bloc Party | [Like Eating Glass](spotify:track:2x7cxHkkKF4afADOkrxe6J) |
 | Bloc Party | [One Month Off](spotify:track:2qYh9VSPBvuTo8rvltfylW) |
+| Blonde Redhead | [Snowman](spotify:track:6gGKU1PSWNdLyjiURjfPil) |
 | Blood Red Shoes | [Doesn't Matter Much](spotify:track:3dppeflqlBthF7DJ03lhjI) |
 | Blood Red Shoes | [It's Getting Boring By The Sea](spotify:track:0Y1FLqg7c4YFCKP2F6HXsG) |
 | Blossoms | [Charlemagne](spotify:track:7H5WVBQdSnJ1zmu8JoD6pg) |
 | Blur | [Barbaric](spotify:track:71o2pLB6Xu62uVjqpwmiS9) |
 | Blur | [Coffee & TV](spotify:track:5eSllZgRWCIJsDTAqFRwQw) |
 | Blur | [The Universal](spotify:track:0qmCWYu7hOvriyuqXfPw7I) |
+| Boards of Canada | [Roygbiv](spotify:track:5Hf2h59YLInKlic7ooWZVd) |
 | Bob Dylan | [The Times They Are A-Changin'](spotify:track:52vA3CYKZqZVdQnzRrdZt6) |
 | Bombay Bicycle Club | [Always Like This](spotify:track:73M2Vb5MfZh8iGKudkMtlw) |
 | Boston Manor | [Foxglove](spotify:track:5kHCsELTDAwAz3ghslicoO) |
@@ -115,6 +123,7 @@ This page is purely for reference, as detailed [in this post](/notes-on-sorting-
 | Bush | [Machinehead](spotify:track:1wrhhPzd2ncJPNgUcGgBGg) |
 | Calvin Harris, Ellie Goulding | [Outside](spotify:track:7MmG8p0F9N3C4AXdK6o6Eb) |
 | Calvin Harris, HAIM | [Pray to God](spotify:track:75kMrDKPJJpgEQaXVh7QMB) |
+| Camera Obscura | [French Navy](spotify:track:6265dsK30dmnsfWcTWwHBx) |
 | Candybar Planet | [Powder](spotify:track:2E77XbVwF2mDNCzA9PpzSY) |
 | Canterbury | [Ambulance](spotify:track:4jvKzojqpLuj8pTMFGAthF) |
 | Canterbury | [Peace & Quiet](spotify:track:0UvJ7QfxfO8FaVEIh2gIn4) |
@@ -127,12 +136,15 @@ This page is purely for reference, as detailed [in this post](/notes-on-sorting-
 | Cassyette | [Sad Girl Summer](spotify:track:52ITJgaQHGQ4Uxnqz44jWP) |
 | Catfish and the Bottlemen | [Kathleen](spotify:track:1MHYAqWWdDRePmnqORynrq) |
 | Catfish and the Bottlemen | [Longshot](spotify:track:2VcS3oKcOPkubN9LVzZ96l) |
+| Cat Power | [Cherokee](spotify:track:47V6SAlY1SWHYoPHY2vSIK) |
 | Celldweller | [Switchback](spotify:track:3lUwCryVobacobYrN5f2Je) |
+| Chase & Status, SOFT PLAY | [Control](spotify:track:18ghu5o2xnWBrbvBxMrOqK) |
 | Childish Gambino | [This Is America](spotify:track:0b9oOr2ZgvyQu88wzixux9) |
 | Chris de Burgh | [A Spaceman Came Travelling](spotify:track:5hO2SJYP4vsO6h7ms8Rvyg) |
 | Chris Isaak | [Wicked Game](spotify:track:7w5AOd6HrDIHewHfpABEss) |
 | CKY | [96 Quite Bitter Beings](spotify:track:7AimHQrOUoUTYbVX87D3Zl) |
 | Clint Mansell, Kronos Quartet | [Death Is the Road to Awe](spotify:track:3RoQX4ou3qYEASsuC7YAWD) |
+| Cloud Nothings | [I'm Not Part of Me](spotify:track:1Q99DArN4UxX8yJD7JWCyL) |
 | Cog | [My Enemy](spotify:track:1jx3gU8SEASUGfYO60wAdx) |
 | Coheed and Cambria | [The Suffering](spotify:track:4dcUque6026WExzwJYWG7H) |
 | Coheed and Cambria | [Welcome Home](spotify:track:42GP0xKtkolBnmqQRvSllO) |
@@ -150,8 +162,10 @@ This page is purely for reference, as detailed [in this post](/notes-on-sorting-
 | Courteeners | [Not Nineteen Forever](spotify:track:19CIsQ1HElu4XHdLCMlSqu) |
 | Creed | [Higher](spotify:track:1ZozJfi8u9cO2Ob8KwiwNT) |
 | Crosby, Stills, Nash & Young | [Our House](spotify:track:2hitsKa8SthKhRJBXUHbIv) |
+| Crowded House | [Four Seasons In One Day](spotify:track:7sDHD9tCtnPqGNTRHy0kSR) |
 | Crystal Fighters | [You & I](spotify:track:2UUJTDdO3K5jQ4Qqq19jBV) |
 | CSS | [Let's Make Love and Listen to Death From Above](spotify:track:1Jd9W7k8DTnBSovDSxK77n) |
+| Dan Deacon | [When I Was Done Dying](spotify:track:69L4d5HlE0YOCwWFYVFGoW) |
 | Darwin Deez | [Radar Detector](spotify:track:29ryYUUjXI0yny6tvdenZF) |
 | David Byrne | [Like Humans Do](spotify:track:5SuD0gVWOj2o1n9pporwr0) |
 | David Gray | [Please Forgive Me](spotify:track:2B44GIBurvsKCiNb34Xrnj) |
@@ -160,7 +174,9 @@ This page is purely for reference, as detailed [in this post](/notes-on-sorting-
 | Death From Above 1979 | [Freeze Me](spotify:track:50jXnyrzW4mcBBqFTMEoAC) |
 | Deftones | [Back to School (Mini Maggit)](spotify:track:0Qrb3L8JgreLBW8g4qyan9) |
 | Deftones | [My Own Summer (Shove It)](spotify:track:1158ckiB5S4cpsdYHDB9IF) |
+| Demob Happy | [Be Your Man](spotify:track:1FJvstEZF4vAUr3NcmEOyZ) |
 | Depeche Mode | [Enjoy the Silence](spotify:track:0yp3TvJNlG50Q4tAHWNCRm) |
+| Desert Sessions | [Crucifire](spotify:track:65pViNCJx3iVQBmi28FNqi) |
 | Des Rocs | [This is Our Life](spotify:track:7iRiNHAj2DjU1o0q4v4V8k) |
 | Detroit Diesel | [Lost Signal](spotify:track:3mYdOwPtjHLTdCVeyrWgD8) |
 | DeVotchKa | [Charlotte Mittnacht (The Fabulous Destiny of...)](spotify:track:3t4Bz2Z9ufAp8Q0an9Nnh9) |
@@ -173,6 +189,7 @@ This page is purely for reference, as detailed [in this post](/notes-on-sorting-
 | Dogs | [Tuned To A Different Station](spotify:track:1W1hnjCTtlxJRL1QBVJGSs) |
 | Dorp | [London Out There](spotify:track:2zfbSH1trZF7cK5rpXcb3l) |
 | Dragged Under | [Instability](spotify:track:0hNgeS6kzIC4Rtdz4L0jsN) |
+| Du Blonde | [Message Deleted](spotify:track:7ennNqEY4sphCoYkiew3xJ) |
 | Duran Duran | [Rio](spotify:track:2SEM1OHX0POc27jbphZEpW) |
 | Duran Duran | [Save a Prayer](spotify:track:1ff8lsrJ2kuZuofMw81EQo) |
 | Dxrk ダーク | [RAVE](spotify:track:01kfSdF9zfcDLri5sSWEoL) |
@@ -203,6 +220,7 @@ This page is purely for reference, as detailed [in this post](/notes-on-sorting-
 | Faith No More | [Midlife Crisis](spotify:track:3Ph7fws05DvPwpn5CQHTBy) |
 | Fear Factory | [Monolith](spotify:track:0ITgHE0E5jnng0t81jV2oK) |
 | Fever the Ghost | [Source](spotify:track:1w7WAOQ65UjKpwhqB5rTNl) |
+| Fightstar | [Paint Your Target](spotify:track:2atx3LSWx5i4tXtaQv7MB7) |
 | Fine Young Cannibals | [She Drives Me Crazy](spotify:track:4d6eqRtpDX7tydHJGDZUBQ) |
 | Finley Quaye | [Sunday Shining](spotify:track:1zoQeNvtQRMm1LqCWlG9S5) |
 | Finley Quaye | [Your Love Gets Sweeter](spotify:track:1SfQCY234gf6C2dlyUUMn9) |
@@ -221,8 +239,10 @@ This page is purely for reference, as detailed [in this post](/notes-on-sorting-
 | ¡Forward Russia! | [Thirteen](spotify:track:7y6Xquu4Na132Dlm7cFpnJ) |
 | Foster The People | [Helena Beat](spotify:track:4VbDJMkAX3dWNBdn3KH6Wx) |
 | Four Year Strong | [It Must Really Suck To Be Four Year Strong Right Now](spotify:track:0FS9fZv3bXiXDyYfIOkVu9) |
+| Four Year Strong | [uncooked](spotify:track:4jIwJ0CAWO4poBAtgRT0Lr) |
 | Freeze the Atlantic | [Tusen Takk](spotify:track:4jKet3ukiejU77ViqeISxA) |
 | French 79 | [Hometown](spotify:track:47x1Gh7yk5mblUWxWRdtjH) |
+| Friendly Fires | [Jump in the Pool](spotify:track:2XvxT05vgWnn2TfcGyxdhi) |
 | Fubbs N' Chubbs | [New Cadillac](spotify:track:6c5cg2Kor8LE4YaMJM1X3r) |
 | Funeral For A Friend | [Bullet Theory](spotify:track:7nh7lmeaUtM0EejuRCy8Jn) |
 | Fuzz | [Loose Sutures](spotify:track:7Cww7IuARJxXVv7Rg8r2zG) |
@@ -241,6 +261,7 @@ This page is purely for reference, as detailed [in this post](/notes-on-sorting-
 | Girls Aloud | [Love Machine](spotify:track:6SHvqMjPEQqyJaxuEzNcr3) |
 | Girls' Generation | [Gee](spotify:track:0t7kjpVLgOYITrSfFCoBEA) |
 | Gluecifer | [Losing End](spotify:track:2nHS5c27OLtE4gaCFkvx0f) |
+| GoGo Penguin | [Hopopono](spotify:track:3Z3wyUUPcKyw4nJkW2PqBA) |
 | Gojira | [Another World](spotify:track:7cRGgrQ9eg8V8A4FsSj020) |
 | Goldfinger | [Superman](spotify:track:4X3qGigyU6ARi3HP4lWD95) |
 | Gomez | [Whippin' Piccadilly](spotify:track:3YeoPH0tOthe65p5zPlJqg) |
@@ -289,6 +310,7 @@ This page is purely for reference, as detailed [in this post](/notes-on-sorting-
 | JJ72 | [Formulae](spotify:track:6si8GkgMTCNu3eAfeXoE6J) |
 | JJ72 | [Serpent Sky](spotify:track:2OEca9O3wdFOs5d1oyGIvO) |
 | José González | [Heartbeats](spotify:track:3jQyadhLTxpxadQlkFh2b8) |
+| Josiah and the Bonnevilles | [Ghost](spotify:track:1IUEz40wavYETWJgak8iI3) |
 | Justice | [Genesis](spotify:track:4wSmqFg31t6LsQWtzYAJob) |
 | Justice | [Phantom Pt. II](spotify:track:2A3emhzbZo7eSvEUtAm3ZS) |
 | KALEO | [Way down We Go](spotify:track:0y1QJc3SJVPKJ1OvFmFqe6) |
@@ -303,6 +325,7 @@ This page is purely for reference, as detailed [in this post](/notes-on-sorting-
 | Kate Nash | [Foundations](spotify:track:5JkTN6THtYH6bpOoHjOysc) |
 | Kavinsky | [Nightcall](spotify:track:0U0ldCRmgCqhVvD6ksG63j) |
 | Kele | [Tenderoni](spotify:track:5Agx3dTzvHGKm6A8Ku2kvv) |
+| Khruangbin | [May Ninth](spotify:track:5yVGW2o9LXaiiS4I3HUM3k) |
 | Kings of Leon | [The Bandit](spotify:track:7aYBo6hxjhJc8ECkbKAqnR) |
 | Kings of Leon | [Waste A Moment](spotify:track:5LlsD7LdSMkGV4Iu0a2Zq0) |
 | Klaxons | [Atlantis To Interzone](spotify:track:2ZULEJnMCy8S54UwCecbJr) |
@@ -370,11 +393,14 @@ This page is purely for reference, as detailed [in this post](/notes-on-sorting-
 | Megadeth | [Trust](spotify:track:2zpXmkSLOEejrK8HBsBFbX) |
 | Mellowdrone | [C'Mon Try A Little Bit](spotify:track:5OwnEszgDsnWeBRxc4ZQ4l) |
 | Men At Work | [Who Can It Be Now?](spotify:track:5rfJ2Bq2PEL8yBjZLzouEu) |
+| Metronomy | [The Look](spotify:track:6zfczP87XO2SxWlQtnjFNa) |
 | mgk | [bloody valentine](spotify:track:6mADjHs6FXdroPzEGW6KVJ) |
 | MGMT | [Little Dark Age](spotify:track:2Y0iGXY6m6immVb2ktbseM) |
 | MGMT | [When You Die](spotify:track:3td69vL9Py7Ai9wfXYnvji) |
+| Mick Harvey | [Out Of Time Man](spotify:track:4CFJqiSoxO6QCRRJtSFPeu) |
 | Miike Snow | [Animal](spotify:track:7bzinfns7drLnzylnK6L9S) |
 | Miike Snow | [Genghis Khan](spotify:track:6MDijuuArPJv1vbp7K1x3f) |
+| Mike Oldfield | [Moonlight Shadow](spotify:track:4WpmwEdc4RBos8W8icSSxW) |
 | Milburn | [Lo And Behold](spotify:track:0LJUUeSeoXo8fgEtoLki8k) |
 | Miles Kane | [Come Closer](spotify:track:20uVZbYFKshjrdDHcVy9w9) |
 | Miles Kane | [Don't Forget Who You Are](spotify:track:5C7nNkKBjaZRzqt408fxpr) |
@@ -437,6 +463,7 @@ This page is purely for reference, as detailed [in this post](/notes-on-sorting-
 | Ocean Colour Scene | [The Riverboat Song](spotify:track:6Ykk0PRL8VMQb6h13CxH31) |
 | Ocean Grove | [JUNKIE$](spotify:track:6gM11PV8nD5aftCB6aMR1x) |
 | Of Monsters and Men | [Little Talks](spotify:track:2ihCaVdNZmnHZWt0fvAM7B) |
+| Olivia Rodrigo | [good 4 u](spotify:track:4ZtFanR9U6ndgddUvNcjcG) |
 | Øneheart, reidenshi | [snowfall](spotify:track:4xF4ZBGPZKxECeDFrqSAG4) |
 | Orson | [No Tomorrow](spotify:track:0nJEcAgCKrFliZ5q0JxEtc) |
 | Ou Est Le Swimming Pool | [Dance the Way I Feel](spotify:track:2VtqoN1hRIL4Qe1ojSFS0d) |
@@ -447,13 +474,16 @@ This page is purely for reference, as detailed [in this post](/notes-on-sorting-
 | Parov Stelar | [All Night](spotify:track:717lZxxn53x2B0eucGiD1Z) |
 | Parov Stelar, Graham Candy | [The Sun](spotify:track:6Ki0WL4ssXMIHexYSSkAOt) |
 | Pascal Letoublon, Leony | [Friendships (Lost My Love)](spotify:track:0lQ2obtzmAsJu9xk3D6FqH) |
+| Patti Smith | [Dancing Barefoot](spotify:track:4kPSjEg8u1U4pg2dHHMmtf) |
 | Paul McCartney, Wings | [Band On The Run](spotify:track:1H4idkmruFoJBg1DvUv2tY) |
 | Peach Pit | [Psychics in LA](spotify:track:5tsB5ROYUKKisUaJQIEEfv) |
 | Pearl Jam | [Alive](spotify:track:1L94M3KIu7QluZe63g64rv) |
 | Pearl Jam | [Better Man](spotify:track:2B98ljvzqpCVgt5reTHq28) |
 | Pendulum | [Through The Loop](spotify:track:1UwOXJrKDnFsDoB5hxN4Hn) |
 | Perturbator | [Future Club](spotify:track:20ztml2STRF7Sq1UaBB6ox) |
+| Pete And The Pirates | [Mr Understanding](spotify:track:4itBGCTBCeeTJz47dsQqTJ) |
 | Peter Bjorn and John | [Amsterdam](spotify:track:4xj5OL6pyQTOsDRewbO5zv) |
+| Peter Bjorn and John | [The Chills](spotify:track:6KF8tgwtvx29hM2RxqHoqP) |
 | Peter Bjorn and John | [Young Folks](spotify:track:4dyx5SzxPPaD8xQIid5Wjj) |
 | Pete Rock, InI | [Grown Man Sport](spotify:track:6hANdvhL9H7bkESqIVeVIZ) |
 | Phantogram | [Cruel World](spotify:track:5PaViyJwv0XJbCcrnBNuAt) |
@@ -472,8 +502,10 @@ This page is purely for reference, as detailed [in this post](/notes-on-sorting-
 | Poppy | [All The Things She Said](spotify:track:0wH55ChKuoZkmGhbIYtOI4) |
 | Poppy | [Church Outfit](spotify:track:0R13zftuNe1WECTSBeT6ri) |
 | Poppy | [Flux](spotify:track:39limMlZ5B25XM1FhNqa02) |
+| Portico Quartet | [Prickly Pear](spotify:track:6e65fH1wClamA2QPI5HUi3) |
 | Portishead | [Glory Box](spotify:track:3Ty7OTBNSigGEpeW2PqcsC) |
 | Portishead | [Sour Times](spotify:track:6vTtCOimcPs5H1Jr9d0Aep) |
+| Portugal. The Man | [Feel It Still](spotify:track:6QgjcU0zLnzq5OrUoSZ3OK) |
 | Powderfinger | [My Happiness](spotify:track:2pxxVkNhrRST8fpgA12ru8) |
 | Powderfinger | [Nature Boy](spotify:track:0yFWfgLDWHqWnOd4ToDX7K) |
 | Powderfinger | [Waiting For The Sun](spotify:track:0AExy3SdXDZZXARgWHx5LZ) |
@@ -498,6 +530,8 @@ This page is purely for reference, as detailed [in this post](/notes-on-sorting-
 | Rammstein | [Giftig](spotify:track:3Ye7vnZdrO2Gq5IyyH3cOp) |
 | Rammstein | [Radio](spotify:track:5vZ4IeUenK2cHub2d7yfWk) |
 | Rare Americans | [Baggage](spotify:track:3rU5t9hhc6oNrbRHxl1HSR) |
+| Ratatat | [Bare Feast](spotify:track:6LjUc9OOssUtwtnnU1zGs7) |
+| Ratatat | [Cream On Chrome](spotify:track:24PqR040n1lcb5xygrgTMz) |
 | Ray Wilson | [Inside](spotify:track:5GbHxj0z6d2v6vx2SbGXgl) |
 | R. Dean Taylor | [There's A Ghost In My House](spotify:track:5WmFu705RnlgskAGw43211) |
 | Red Hot Chili Peppers | [Fortune Faded](spotify:track:37sSud1ZrTpwXPGJP0dbXI) |
@@ -562,6 +596,8 @@ This page is purely for reference, as detailed [in this post](/notes-on-sorting-
 | Slipknot | [Nero Forte](spotify:track:56fiFTRrSiHHH3gBeaTg2P) |
 | Slipknot | [Wait and Bleed](spotify:track:2gscB6kDOmrv1P6qs2KXE3) |
 | Slow Crush | [Swoon](spotify:track:649LfjbhGUSBKLOWKV2939) |
+| Slow Pulp | [Slugs](spotify:track:4iTX1HFVrva7chgeMaeR4d) |
+| SOFT PLAY | [The Hunter](spotify:track:0HFb9ouBk4UmuYT6gvvElo) |
 | Soil | [Breaking Me Down](spotify:track:2ancrG9a7j8JeR07jWD6be) |
 | Soil | [Halo](spotify:track:0rlPOzWbNVui2ABuI5OFhL) |
 | Soilwork | [Distortion Sleep](spotify:track:3yPQrLnNIthn4I5wQ51X26) |
@@ -612,6 +648,7 @@ This page is purely for reference, as detailed [in this post](/notes-on-sorting-
 | The Almost | [Say This Sooner](spotify:track:7waZfrpjfOYktwulz6fo02) |
 | The Answer | [Blood Brother](spotify:track:54fbXxenk3fTC75Sn6SEN1) |
 | The Automatic | [Steve McQueen](spotify:track:5HxgWJvo0IVSwGVgvdp33D) |
+| The Big Moon | [Wide Eyes](spotify:track:2MqA97ASOrHNS7smobH9cL) |
 | The Black Keys | [Gold on the Ceiling](spotify:track:5lN1EH25gdiqT1SFALMAq1) |
 | The Black Keys | [Weight of Love](spotify:track:3xMQOd1C3TXsjQ3pmzOmkC) |
 | The Books | [Smells Like Content](spotify:track:0zSeLF3w3mPF9ibTkHZqCp) |
@@ -619,6 +656,7 @@ This page is purely for reference, as detailed [in this post](/notes-on-sorting-
 | The Box Tops | [The Letter](spotify:track:6RJK553YhstRzyKA4mug09) |
 | The Breeders | [Cannonball](spotify:track:1KdwPeY1WRWQGHCmRJTveb) |
 | The Cardigans | [Erase / Rewind](spotify:track:3JfkNCiXjHEVkbFfCQ417E) |
+| The Chemical Brothers | [Let Forever Be](spotify:track:3m1JFLpKLYgMi1jf6Bu16P) |
 | The Church | [Under the Milky Way](spotify:track:1RCtHLyq1xIbgGMrYRrKJ2) |
 | The Clash | [Rock the Casbah](spotify:track:56KqaFSGTb7ifpt16t5Y1N) |
 | The Comet Is Coming | [Summon The Fire](spotify:track:5c44MldQ2CvroamP73V1lp) |
@@ -626,6 +664,7 @@ This page is purely for reference, as detailed [in this post](/notes-on-sorting-
 | The Cooper Temple Clause, Dan Austin, Ger McDonnal | [Promises, Promises](spotify:track:5e3p0Kc30jhG8Q6yBJHKQh) |
 | The Cramps | [Human Fly](spotify:track:0ElRzK07sc9eszyk1ea9Ab) |
 | The Darkness | [Growing on Me](spotify:track:77asYwewm0lXvz76inosJm) |
+| The Delgados | [Coming in from the Cold](spotify:track:7eTiOrm2RqAP3MPTID432d) |
 | The Doors | [People Are Strange](spotify:track:1Jmqubf9kGkWeYQXQKImL5) |
 | The Dykeenies | [Waiting for Go](spotify:track:2p79LkcuEEOAIKDSfsDkgo) |
 | The Flaming Lips | [Do You Realize??](spotify:track:2DFRFqWNahKtFD112H2iEZ) |
@@ -642,6 +681,7 @@ This page is purely for reference, as detailed [in this post](/notes-on-sorting-
 | The Jam | [That's Entertainment](spotify:track:7MH7TkjQ4RA1vG454dciw0) |
 | The Kings Of Frog Island | [Welcome to the Void](spotify:track:6Dp8x6l7wbvLMxpz1pLYzl) |
 | The Kinks | [Waterloo Sunset (Stereo)](spotify:track:1bTpnj3N8xyTWy3bZzdJi5) |
+| The Last Dinner Party | [Nothing Matters](spotify:track:3p84R45PM75ngq8XRoe45o) |
 | The Lemonheads | [If I Could Talk I'd Tell You](spotify:track:1DvlX3jxWSmVrcnD0dipmT) |
 | The Lemonheads | [Mrs. Robinson](spotify:track:1Hnv9uDIokwi4nkcVUyS0X) |
 | The Libertines | [Campaign Of Hate](spotify:track:3lAR8kTdD865ofu55vPNfV) |
@@ -657,6 +697,7 @@ This page is purely for reference, as detailed [in this post](/notes-on-sorting-
 | The Mad Capsule Markets | [PULSE](spotify:track:3N8rh0o5Z8MIV5mmwGNJP2) |
 | The Mad Capsule Markets | [SCARY -Delete streamin' freq. from fear side-](spotify:track:2Wn36CZsFcy2Zy3Bv2Ya12) |
 | The Mad Capsule Markets | [TRIBE](spotify:track:0DPRZP5pJ1lJziP1aYhgJY) |
+| The Mars Volta | [Inertiatic Esp](spotify:track:36AY05TRGH2CXGYiKjCZ8B) |
 | The Mavericks | [Dance The Night Away](spotify:track:1N67xd3y9s23vitoiP3Zv5) |
 | The Maze | [On Your Own](spotify:track:2zzAZD3oDdCUohwLIIkBEr) |
 | The Mighty Mighty Bosstones | [The Impression That I Get](spotify:track:1ru5R5iSawvuMELqKXxLjS) |
@@ -664,6 +705,7 @@ This page is purely for reference, as detailed [in this post](/notes-on-sorting-
 | The Music | [Welcome To The North](spotify:track:0893e8JzcKD9yNMmXT636u) |
 | The Naked And Famous | [Punching In A Dream](spotify:track:5PtEpuVX03k9bOUwilL5EO) |
 | The Naked And Famous | [Young Blood](spotify:track:25nzKGDiua1lE9Qo5V19GL) |
+| The Nūes | [Tongue Tied](spotify:track:3L0x0Z0avw06bqTcY6HROo) |
 | The Only Ones | [Another Girl, Another Planet](spotify:track:5TmQl8urbTlfZb8xKisSl0) |
 | The Pale White | [Glue](spotify:track:4lFGg0YoFr45rF1Nvt6gZE) |
 | The Pigeon Detectives | [I Found Out](spotify:track:2zpG6GUvNc1hqDBsLIJOOp) |
@@ -678,13 +720,16 @@ This page is purely for reference, as detailed [in this post](/notes-on-sorting-
 | The Rakes | [22 Grand Job](spotify:track:4tTRcCYZSWrJKRmYeaZhFx) |
 | The Rasmus | [In the Shadows](spotify:track:1fr92Vupmcs2vgLMFVQ7rd) |
 | The Revivalists | [Wish I Knew You](spotify:track:2EWpa5XnAuSn0sIkSSIhYk) |
+| The Reytons | [Red Smoke](spotify:track:1FQvepTcu752oQgf6FYgRW) |
 | The Seahorses | [Love Is The Law](spotify:track:5hxttI33fq6Pj5jWabbEOz) |
+| The Seeds | [Can't Seem To Make You Mine](spotify:track:6nnSkEpzo8PmHsOlSopoO6) |
 | The Shins | [New Slang](spotify:track:0NslHuacjxQYfUTOW3HCIV) |
 | The Smashing Pumpkins | [1979](spotify:track:5QLHGv0DfpeXLNFo7SFEy1) |
 | The Smashing Pumpkins | [Bullet With Butterfly Wings](spotify:track:6GtX0jaNL8IjVQfrDBx81z) |
 | The Smashing Pumpkins | [Today](spotify:track:0u5aO1GYsIhAWCPuXdwnak) |
 | The Smashing Pumpkins | [Tonight, Tonight](spotify:track:7bu0znpSbTks0O6I98ij0W) |
 | The Smashing Pumpkins | [Zero](spotify:track:4YFcGTdgmEuw8xTO4XrxbB) |
+| The Smile | [Friend Of A Friend](spotify:track:4lTLmo9aTyMJ1SoHa63WA6) |
 | The Stone Roses | [I Wanna Be Adored](spotify:track:758wEKVqfYopJIHYWdLVd4) |
 | The Strokes | [Hard To Explain](spotify:track:2LMloFiV7DHpBhITOaBSam) |
 | The Subways | [Rock & Roll Queen](spotify:track:75lw5aYrDq0TJsbkqCPRIJ) |
@@ -714,6 +759,7 @@ This page is purely for reference, as detailed [in this post](/notes-on-sorting-
 | TOBACCO | [Eruption (Gonna Get My Hair Cut at the End of the Summer)](spotify:track:4aUzqr1SpA37DoJXoCVCwA) |
 | TOBACCO, Notrabel | [Streaker](spotify:track:2hJkzU5Ry3CDL3N9ad8fRc) |
 | TOOL | [Schism](spotify:track:55mJleti2WfWEFNFcBduhc) |
+| Tori Amos | [Cornflake Girl](spotify:track:1300POeOaj8qho30FRHjgf) |
 | Tove Lo | [Habits (Stay High)](spotify:track:18AJRdgUoO9EYn11N7xzaT) |
 | Trivium | [A Gunshot to the Head of Trepidation](spotify:track:3uq1JSqEFzVzcmFJc6SXDS) |
 | Turbowolf, Sebastien Grainger | [Cheap Magic](spotify:track:7uaH0m2kKoT9YrHATuQn0P) |
@@ -756,7 +802,9 @@ This page is purely for reference, as detailed [in this post](/notes-on-sorting-
 | Yelle | [Comme un enfant - Freaks radio MIX](spotify:track:62a99w6uLXlUGJjpnlw6iN) |
 | Yellowcard | [Ocean Avenue](spotify:track:23oxJmDc1V9uLUSmN2LIvx) |
 | You Me At Six | [Our House (The Mess We Made)](spotify:track:5kqRMynqZR8JbJH4JodkFs) |
+| Zach Bryan | [Heading South](spotify:track:2Dct3GykKZ58hpWRFfe2Qd) |
 | zebrahead | [Anthem](spotify:track:5vB0cxSvzXuVh15EDD0Cej) |
 | zebrahead | [Falling Apart](spotify:track:5bsJbow5ouEx8bHJRr54Ky) |
 | Zero 7 | [Destiny](spotify:track:0YduWa9JbXmpneq0Mmr6la) |
+| Zero 7, Jem Cooke | [Swimmers](spotify:track:3RMuJ4qdkgs71mBNbPpZu0) |
 | Zeromancer | [Clone Your Lover](spotify:track:10vzbX2MYuJjTjGd2gTDxq) |
