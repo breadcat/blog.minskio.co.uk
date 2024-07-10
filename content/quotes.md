@@ -5,27 +5,24 @@ layout: single
 
 Quotes I've found in and around the Internet, collected because they make me smile. Check the page source if you want to see some commented sources.
 
->'Tis a silly place <!-- monty python and the holy grail -->
 
 >7/11 was a part time job
-
->:(){ :|: & };: <!-- bash forkbomb -->
-
->A friend to all is a friend to none <!-- aristotle -->
-
->A little bit of everything, all of the time <!-- bo burnham -->
-
->A priest, a minister and a rabbit walk into a blood bank. The rabbit says "I think I might be type-o"
 
 >Abandon hope all ye who enter here <!-- Dante's Inferno -->
 
 >Abort, she's onto us <!-- brooklyn nine-nine -->
+
+>A friend to all is a friend to none <!-- aristotle -->
+
+>A little bit of everything, all of the time <!-- bo burnham -->
 
 >Ambition makes you look pretty ugly <!-- paranoid android -->
 
 >And I say your 3 cent titanium tax doesn't go too far enough <!-- futurama -->
 
 >Apply the handbrake ya dumb broad <!-- yu-gi-oh abridged -->
+
+>A priest, a minister and a rabbit walk into a blood bank. The rabbit says "I think I might be type-o"
 
 >Are we still in denial when we know we're not happy here <!-- outkast - hey ya -->
 
@@ -37,6 +34,8 @@ Quotes I've found in and around the Internet, collected because they make me smi
 
 >Back to the Pleistocene <!-- Edward Abbey -->
 
+>:(){ :|: & };: <!-- bash forkbomb -->
+
 >Be cheerful, enjoy your life <!-- turkish mosaic -->
 
 >Be excellent to each other <!-- bill and ted -->
@@ -44,6 +43,8 @@ Quotes I've found in and around the Internet, collected because they make me smi
 >Being pissed off is better than being pissed on
 
 >Better one day as a lion than a hundred days as a sheep
+
+>[brackets], (parentheses) and {squirlies}
 
 >Bread and circuses <!-- juvenal, roman poet -->
 
@@ -55,11 +56,9 @@ Quotes I've found in and around the Internet, collected because they make me smi
 
 >Bugger this for a game of soldiers
 
->But that's just a theory <!-- game theory youtube -->
-
 >Butter the toast, eat the toast, shit the toast. God, life’s relentless. <!-- peep show -->
 
->C'est la vie <!-- such is life -->
+>But that's just a theory <!-- game theory youtube -->
 
 >Caedite eos. Novit enim Dominus qui sunt eius <!-- kill them all; let God sort them out -->
 
@@ -67,15 +66,17 @@ Quotes I've found in and around the Internet, collected because they make me smi
 
 >Carne Por la Machina <!-- the expanse -->
 
+>C'est la vie <!-- such is life -->
+
 >Coins I flip land on their sides <!-- the automatic lyrics -->
 
 >CSS is Awesome
 
 >Curious and curiouser <!-- alice in wonderland -->
 
->d'&auml; e &aring;, &aring; i &aring;a &auml; e &ouml; <!-- there is a stream, and in the stream there is an island -->
-
 >Damnation, for this? <!-- Gladius -->
+
+>d'&auml; e &aring;, &aring; i &aring;a &auml; e &ouml; <!-- there is a stream, and in the stream there is an island -->
 
 >Defer your gratification
 
@@ -97,6 +98,8 @@ Quotes I've found in and around the Internet, collected because they make me smi
 
 >Each of us fights for what he lacks most <!-- robert surcouf -->
 
+>🇬🇧 English (Traditional), 🇺🇸 English (Simplified)
+
 >En svensk tiger <!-- swedish propaganda -->
 
 >Errors by errorlight
@@ -105,13 +108,13 @@ Quotes I've found in and around the Internet, collected because they make me smi
 
 >Ever felt the joy of karate chopping an ankle? <!-- lolnein -->
 
->Every man has his price <!-- harold robbins -->
-
->Every sixty seconds in Africa, a minute passes <!-- big man tyrone -->
-
 >Everybody lies <!-- house -->
 
 >Everyday we stray further from Saradomin's light <!-- runescape -->
+
+>Every man has his price <!-- harold robbins -->
+
+>Every sixty seconds in Africa, a minute passes <!-- big man tyrone -->
 
 >Extraordinary claims require extraordinary evidence <!-- sagan -->
 
@@ -159,9 +162,9 @@ Quotes I've found in and around the Internet, collected because they make me smi
 
 >Having fun is not a waste of time
 
->He has no wallet, I checked <!-- the office -->
-
 >Heavy wizardry begins here
+
+>He has no wallet, I checked <!-- the office -->
 
 >Hell is real. Heaven is not
 
@@ -195,50 +198,6 @@ Quotes I've found in and around the Internet, collected because they make me smi
 
 >I don't repeat gossip, so listen carefully
 
->I had a plan for that rock <!-- hoarders -->
-
->I hate to hate and I hate that <!-- Till Lindemann -->
-
->I have diplomatic immunity <!-- lethal weapon 2 -->
-
->I know it when I see it
-
->I loathe Zuni aesthetics <!-- tales from the darkside -->
-
->I mentally shake hands with you for your answer
-
->I must apologize for Wimp Lo... he is an idiot. We have purposely trained him wrong, as a joke. <!-- kung pow -->
-
->I never saved anything for the swim back <!-- gattacca -->
-
->I only doubted you up until the end <!-- forager -->
-
->I pledge not to spill 4.9 million barrels of oil into the gulf of mexico <!-- andrew henderson -->
-
->I regret learning to read
-
->I saw her duck with my telescope <!-- ambiguous sentence -->
-
->I suppose he meant well, but then so did Hitler <!-- Spike Milligan -->
-
->I think he took his wallet <!-- back to the future -->
-
->I want to be cremated, and I want my ashes blown in Uri Geller's eyes <!-- James Randi -->
-
->I would rather starve than eat your bread <!-- pearl jam corduroy -->
-
->I'm bleeding, making me the victor <!-- kung pow -->
-
->I'm not a real doctor, But I am a real worm <!-- they might be giants -->
-
->I'm not complaining, I'm just explaining <!-- austin mcconnell -->
-
->I'm not giving my name to a machine <!-- futurama -->
-
->I'm not superstitious, but I am a little stitious. <!-- the office -->
-
->I've got a horse called Treacle. It's got golden stirrups <!-- tim vine -->
-
 >If you could blow up the world with the flick of a switch would you do it? <!-- flaming lips -->
 
 >If you die in Russia, you die in real life
@@ -249,37 +208,75 @@ Quotes I've found in and around the Internet, collected because they make me smi
 
 >If you play your cards right, you might just get to meet the whole gang <!-- anchorman -->
 
+>If you're not turned on to politics, politics will turn on you <!-- ralph nader -->
+
 >If you see something, say nothing, and drink to forget <!-- night vale -->
 
 >If you were any simpler you'd have to be watered every day
 
->If you're not turned on to politics, politics will turn on you <!-- ralph nader -->
+>I had a plan for that rock <!-- hoarders -->
+
+>I hate to hate and I hate that <!-- Till Lindemann -->
+
+>I have diplomatic immunity <!-- lethal weapon 2 -->
+
+>I know it when I see it
+
+>I loathe Zuni aesthetics <!-- tales from the darkside -->
+
+>I'm bleeding, making me the victor <!-- kung pow -->
+
+>I mentally shake hands with you for your answer
+
+>I'm escaping to the one place that hasn't been corrupted by capitalism <!-- red alert 3 -->
+
+>I'm not a real doctor, But I am a real worm <!-- they might be giants -->
+
+>I'm not complaining, I'm just explaining <!-- austin mcconnell -->
+
+>I'm not giving my name to a machine <!-- futurama -->
+
+>I'm not superstitious, but I am a little stitious. <!-- the office -->
+
+>I must apologize for Wimp Lo... he is an idiot. We have purposely trained him wrong, as a joke. <!-- kung pow -->
+
+>Incidentally, my name is Ged&auml;chtnis <!-- fireball -->
+
+>I never saved anything for the swim back <!-- gattacca -->
 
 >In Scotland the forbidden fruit is fruit. <!-- Gary Delaney -->
+
+>Into the incinerator you go <!-- jonathan pie -->
 
 >In war there are no winners, only widows <!-- arrival -->
 
 >In your opinion, which country contributed most to the defeat of Germany in 1945? <!-- IFOP poll -->
 
->Incidentally, my name is Ged&auml;chtnis <!-- fireball -->
+>I only doubted you up until the end <!-- forager -->
 
->Into the incinerator you go <!-- jonathan pie -->
+>I pledge not to spill 4.9 million barrels of oil into the gulf of mexico <!-- andrew henderson -->
+
+>I regret learning to read
 
 >Is almond a fruit? <!-- nailed it -->
+
+>I saw her duck with my telescope <!-- ambiguous sentence -->
+
+>ISO-8601 for life
 
 >Is that a euphemism?
 
 >Is this capoeira? <!-- Fireball -->
 
->ISO-8601 for life
+>I suppose he meant well, but then so did Hitler <!-- Spike Milligan -->
+
+>I think he took his wallet <!-- back to the future -->
 
 >It is a very comfortable hell
 
 >It is difficult to remember conversations one has while shooting on a grouse moor <!-- William Keswick -->
 
 >It may not be a perfect system, but it's still the best one there is
-
->It takes forever, until it doesn't
 
 >It's called a child-size soda because it is the size of a child <!-- parks and recreation -->
 
@@ -290,6 +287,14 @@ Quotes I've found in and around the Internet, collected because they make me smi
 >It's not your pudding, you alzheimer's lout! <!-- cloud atlas -->
 
 >It's probably fine
+
+>It takes forever, until it doesn't
+
+>I've got a horse called Treacle. It's got golden stirrups <!-- tim vine -->
+
+>I want to be cremated, and I want my ashes blown in Uri Geller's eyes <!-- James Randi -->
+
+>I would rather starve than eat your bread <!-- pearl jam corduroy -->
 
 >Jeremy Irons lives in your garage <!-- taskmaster -->
 
@@ -331,9 +336,9 @@ Quotes I've found in and around the Internet, collected because they make me smi
 
 >May you live in interesting times <!-- english expression -->
 
->Me? The one person I trusted most? <!-- poorly drawn lines -->
-
 >Meeting Disconnected. The AI detected an unexpected loved one. <!-- boy boy prison commentary -->
+
+>Me? The one person I trusted most? <!-- poorly drawn lines -->
 
 >Monster Island's actually a peninsula <!-- the simpsons -->
 
@@ -357,15 +362,21 @@ Quotes I've found in and around the Internet, collected because they make me smi
 
 >NO ESCAPE, NO SURRENDER, NO WITNESSES
 
+>nofkyo <!-- exurb1a - no one fucking knows yet, okay -->
+
 >No kali-ba
 
 >No one knows anything
 
->nofkyo <!-- exurb1a - no one fucking knows yet, okay -->
-
 >Not a hill I want to die on
 
 >Not great, not terrible <!-- chernobyl -->
+
+>Nothing cleans stubborn stains like suppressed anger <!-- Unseen Academicals -->
+
+>Nothing Is True and Everything Is Possible <!-- Peter Pomerantsev book -->
+
+>Nothing will be born from hatred <!-- Gesicht, Pluto manga -->
 
 >Not my circus, not my monkeys <!-- polish phrase -->
 
@@ -375,12 +386,6 @@ Quotes I've found in and around the Internet, collected because they make me smi
 
 >Not your keys, not your coins <!-- cryptocurrency phrase -->
 
->Nothing cleans stubborn stains like suppressed anger <!-- Unseen Academicals -->
-
->Nothing Is True and Everything Is Possible <!-- Peter Pomerantsev book -->
-
->Nothing will be born from hatred <!-- Gesicht, Pluto manga -->
-
 >Nunc id vides, nunc ne vides <!-- discworld -->
 
 >Obscenity is the crutch of inarticulate motherfuckers <!-- motown missile -->
@@ -389,13 +394,13 @@ Quotes I've found in and around the Internet, collected because they make me smi
 
 >Oll Korrect <!-- OK etymology -->
 
->On the Internet, nobody knows you're a dog <!-- the new yorker -->
-
 >Once you’ve been to Cambodia, you’ll never stop wanting to beat Henry Kissinger to death with your bare hands <!-- Anthony Bourdain -->
 
 >One clown leg <!-- midnight gospel -->
 
 >Only a sith deals in absolutes <!-- star wars prequel -->
+
+>On the Internet, nobody knows you're a dog <!-- the new yorker -->
 
 >Outside of a Dog, a Book is Man's Best Friend. Inside of a Dog, It's Too Dark to Read <!-- groucho marx? -->
 
@@ -465,9 +470,9 @@ Quotes I've found in and around the Internet, collected because they make me smi
 
 >Tell me what you want, and I'll tell you if I'm free
 
->Thank you for pressing the self-destruct button <!-- spaceballs -->
-
 >Thanks, I hate it <!-- reddit -->
+
+>Thank you for pressing the self-destruct button <!-- spaceballs -->
 
 >That anime hologram's just not that into you <!-- archer -->
 
@@ -493,7 +498,15 @@ Quotes I've found in and around the Internet, collected because they make me smi
 
 >The mask is heavy today? <!-- calibans war -->
 
+>Theoretical degree in physics <!-- fallout -->
+
 >The patron saint of putting up with idiots <!-- leviathan's fall -->
+
+>There can be only one <!-- highlander -->
+
+>There it is again. That funny feeling. <!-- bo burnham -->
+
+>There was blood in the kitchen, there was blood in the hall <!-- shivering truth -->
 
 >The things you own end up owning you <!-- fight club -->
 
@@ -502,14 +515,6 @@ Quotes I've found in and around the Internet, collected because they make me smi
 >The victim of a clerical error <!-- Richard Ayoade -->
 
 >The years start coming and they don't stop coming <!-- smash mouth -->
-
->Theoretical degree in physics <!-- fallout -->
-
->There can be only one <!-- highlander -->
-
->There it is again. That funny feeling. <!-- bo burnham -->
-
->There was blood in the kitchen, there was blood in the hall <!-- shivering truth -->
 
 >They only have to be lucky once, we have to be lucky always <!-- IRA -->
 
@@ -523,9 +528,9 @@ Quotes I've found in and around the Internet, collected because they make me smi
 
 >This is extremely dangerous to our democracy <!-- sinclair broadcast group -->
 
->This is only a test of the emergency broadcast system <!-- pennywise -->
-
 >This isn't horseplay, it's a major felony <!-- Hudson Hawk -->
+
+>This is only a test of the emergency broadcast system <!-- pennywise -->
 
 >This meme is already nothing but a memory
 
@@ -534,6 +539,8 @@ Quotes I've found in and around the Internet, collected because they make me smi
 >Three men, two ladies <!-- psychoville -->
 
 >Tiny Terry loves his pickles <!-- brooklyn nine-nine -->
+
+>'Tis a silly place <!-- monty python and the holy grail -->
 
 >Trust, but verify <!-- russian phrase -->
 
@@ -555,6 +562,10 @@ Quotes I've found in and around the Internet, collected because they make me smi
 
 >We'll burn that bridge when we get to it <!-- malaphor -->
 
+>Well. I guess there's nothing to do but lay here and wait to die
+
+>Well I'm not here to fuck spiders <!-- australian slang -->
+
 >We're in a giant car heading towards a brick wall and everyones arguing over where they're going to sit <!-- david suzuki -->
 
 >We're just normal men. We're just innocent men <!-- cbbc hacker -->
@@ -563,23 +574,19 @@ Quotes I've found in and around the Internet, collected because they make me smi
 
 >We've also arrested your older, balder, fatter son <!-- the simpsons -->
 
->Well I'm not here to fuck spiders <!-- australian slang -->
-
->Well. I guess there's nothing to do but lay here and wait to die
-
 >What a digital dummy <!-- yu-gi-oh -->
-
->What a save! <!-- rocket league -->
 
 >What are you screaming for? I haven't even started cooking yet <!-- Life of Boris -->
 
->What goes on in liminal space stays in liminal space, right? <!-- ayoade on top -->
+>What a save! <!-- rocket league -->
 
->What we've got here is failure to communicate <!-- cool hand luke -->
+>What goes on in liminal space stays in liminal space, right? <!-- ayoade on top -->
 
 >What's her name again? - Eileen, I think <!-- american dad -->
 
 >What's it all about then? Seriously, when you get down to it <!-- discworld -->
+
+>What we've got here is failure to communicate <!-- cool hand luke -->
 
 >When should I start to worry? <!-- south park -->
 
@@ -591,11 +598,11 @@ Quotes I've found in and around the Internet, collected because they make me smi
 
 >wOrange, Orange, wGreen, Blue, wBlue, Green, wBrown, Brown <!-- cat5 network cable -->
 
+>Yes, even if they ask stupid questions <!-- love everyone meme, no matter what -->
+
 >Ye shall know the truth, and the truth shall make you mad <!-- aldous huxley -->
 
 >Yes I can hear you Clem Fandango <!-- toast of london -->
-
->Yes, even if they ask stupid questions <!-- love everyone meme, no matter what -->
 
 >Yes, the planet got destroyed. But for a beautiful moment in time we created a lot of value for shareholders <!-- the new yorker -->
 
@@ -611,23 +618,11 @@ Quotes I've found in and around the Internet, collected because they make me smi
 
 >You guys have phones, don't you? <!-- diablo press conference -->
 
+>You'll Own Nothing and You'll Be Happy <!-- Ida Auken -->
+
 >You load 16 tons, what do you get? <!-- Tennessee Ernie Ford -->
 
 >You need to work on your threats
-
->You sound like my parole officer
-
->You stay, I go. No following. <!-- the iron giant -->
-
->You want sympathy? It's in the dictionary, between shit and syphilis <!-- what the hell did I just read -->
-
->You will find out what we make at the factory when you work at the factory <!-- weird the al yankovic story -->
-
->You wouldn't find Hitler playing jungle music at 3 o'clock in the morning <!-- father ted -->
-
->You'll Own Nothing and You'll Be Happy <!-- Ida Auken -->
-
->You've got razzle-dazzle <!-- sun-maid raisins -->
 
 >Your friends are having children on purpose <!-- reddit rastus547 -->
 
@@ -637,6 +632,14 @@ Quotes I've found in and around the Internet, collected because they make me smi
 
 >Your stories have entertained me. I will let you into the cave for a short time. <!-- oldschool runescape -->
 
->[brackets], (parentheses) and {squirlies}
+>You sound like my parole officer
 
->🇬🇧 English (Traditional), 🇺🇸 English (Simplified)
+>You stay, I go. No following. <!-- the iron giant -->
+
+>You've got razzle-dazzle <!-- sun-maid raisins -->
+
+>You want sympathy? It's in the dictionary, between shit and syphilis <!-- what the hell did I just read -->
+
+>You will find out what we make at the factory when you work at the factory <!-- weird the al yankovic story -->
+
+>You wouldn't find Hitler playing jungle music at 3 o'clock in the morning <!-- father ted -->
