@@ -75,7 +75,7 @@ What powers the site and its associated clients
 <details><summary>Mobile Phone</summary>
 <ul>
 <li>Name: Artemis</li>
-<li>Phone: Google Pixel 4</li>
+<li>Phone: Google Pixel 7a</li>
 <li>OS: GrapheneOS</li>
 </ul>
 </details>
