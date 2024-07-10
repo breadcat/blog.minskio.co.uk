@@ -1,16 +1,15 @@
 ---
 title: "Reggo' updates"
 date: 2023-11-13T18:42:00
-lastmod: 2024-03-16T12:30:00
+lastmod: 2024-07-10T10:18:00
 tags: ["Health", "Lifestyle", "Lists"]
 ---
 
 A little personal list of tasks that need completing regularly to stay on top of things... I view it as a kind of a ridiculously basic self-hosted version of Habitica.
 
 ## Phone
-<input type="checkbox" name="checkbox" id="phone-aurora"><label for="phone-aurora">Update Aurora Store apps</label><br>
+<input type="checkbox" name="checkbox" id="phone-apps"><label for="phone-apps">Update Obtainium apps</label><br>
 <input type="checkbox" name="checkbox" id="phone-books"><label for="phone-books">Delete completed books, <a href="/reading-list/">updating reading list</a></label><br>
-<input type="checkbox" name="checkbox" id="phone-fdroid"><label for="phone-fdroid">Update F-Droid Store apps</label><br>
 <input type="checkbox" name="checkbox" id="phone-pictures"><label for="phone-pictures">Dump <a href="/notes-on-sorting-photos/">pictures</a> to server</label><br>
 <input type="checkbox" name="checkbox" id="phone-podcasts"><label for="phone-podcasts">Update Podcasts</label><br>
 
