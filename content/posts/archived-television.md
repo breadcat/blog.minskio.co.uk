@@ -2,7 +2,7 @@
 title: Archived Television
 tags: ["Media", "Archive"]
 date: 2018-01-01T01:00:00
-lastmod: 2024-04-11T11:47:00
+lastmod: 2024-08-30T15:30:00
 ---
 
 * 11.22.63
@@ -49,7 +49,7 @@ lastmod: 2024-04-11T11:47:00
 * Dark Tourist
 * Death Note
 * Defying Gravity
-* Demon Slayer: Kimetsu no Yaiba (4)
+* Demon Slayer: Kimetsu no Yaiba (5)
 * Dirk Gently's Holistic Detective Agency
 * Dollhouse (1)
 * Doom Patrol (4)
@@ -57,6 +57,7 @@ lastmod: 2024-04-11T11:47:00
 * Dr. Stone
 * Drugs, Inc.
 * Evil Genius
+* Fallout (1)
 * Fargo (5)
 * Farscape
 * Final Space
@@ -78,6 +79,7 @@ lastmod: 2024-04-11T11:47:00
 * Heroes
 * High Score
 * Hometown: A Killing
+* House of the Dragon (2)
 * How to Get Away With Murder
 * How To with John Wilson
 * Hyperdrive
@@ -86,7 +88,7 @@ lastmod: 2024-04-11T11:47:00
 * Inferno Cop
 * Infinity Train
 * Inside Job
-* Inside No. 9
+* Inside No. 9 (6)
 * Invincible
 * Jonathan Creek
 * Junji Ito Collection
@@ -107,7 +109,7 @@ lastmod: 2024-04-11T11:47:00
 * Nathan Barley
 * Nightflyers
 * Obi-Wan Kenobi
-* One-Punch Man
+* One-Punch Man (2)
 * Over the Garden Wall
 * Paradise PD
 * Patrick Melrose
@@ -124,10 +126,12 @@ lastmod: 2024-04-11T11:47:00
 * Savage Builds
 * Severance
 * Sherlock
+* Shōgun (1)
 * Silo (1)
 * Smiling Friends
-* Solar Opposites
+* Solar Opposites (5)
 * Sons of Anarchy
+* South Park (7)
 * Space Dandy
 * Space Patrol Luluco
 * Squid Game
@@ -142,19 +146,19 @@ lastmod: 2024-04-11T11:47:00
 * Star Trek: Lower Decks (4)
 * Star Trek: Picard (3)
 * Star Trek: Prodigy (1)
-* Star Trek: Strange New Worlds (1)
+* Star Trek: Strange New Worlds (2)
 * Star Trek: Voyager (7)
 * Steins;Gate
 * Stranger Things
 * Succession
 * Swamp Thing
 * Taken
-* Taskmaster (14)
+* Taskmaster (17)
 * Taskmaster: Champion of Champions
 * Terror in Resonance
 * Testees (1)
 * The Andromeda Strain (2008) (1)
-* The Boys
+* The Boys (4)
 * The Colour of Magic
 * The Crossing
 * The Cuphead Show!
@@ -184,6 +188,7 @@ lastmod: 2024-04-11T11:47:00
 * The Terror (1)
 * The Twilight Zone
 * The Twilight Zone (2019)
+* The Wheel of Time (2)
 * The Wire
 * The Woman in the House Across the Street from the Girl in the Window
 * Tidying Up with Marie Kondo
