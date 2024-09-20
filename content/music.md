@@ -12,6 +12,7 @@ This page is purely for reference, as detailed [in this post](/notes-on-sorting-
 </ul>
 </details>
 <br />
+
 | Artist | Title |
 | ------ | ----- |
 | 10cc | [Dreadlock Holiday](spotify:track:1LOZMYF5s8qhW7Rv4w2gun) |
