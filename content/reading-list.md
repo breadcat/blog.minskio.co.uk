@@ -1,20 +1,21 @@
 ---
 title: Reading List
 layout: single
-lastmod: 2024-04-26T09:34:00
+lastmod: 2024-09-20T13:00:00
 ---
 
 I generally strive for a book per week, but this is by no means a steadfast goal. For a list of series and their status, check [the bottom of this page](#book-series).
 
 <details><summary>Works in Progress</summary>
 <ul>
-<li>VC Andrews - Garden of Shadows</li>
+<li>Stephen R Donaldson - The Real Story</li>
 </ul>
 </details>
 
+
 To keep the page somewhat manageable, I've collapsed the lists by years:
-<details><summary>2024 <span>15</span></summary>
-<ul>
+
+<div id="2024-container"><ul id="2024-list">
 <li>Guillermo del Toro &amp; Chuck Hogan - The Night Eternal</li>
 <li>AT Greenblatt - Waystation City</li>
 <li>Norman Boutin - Empress Theresa</li>
@@ -31,8 +32,31 @@ To keep the page somewhat manageable, I've collapsed the lists by years:
 <li>Anna Zumbro - The Hidden Forests of Earth and Mars</li>
 <li>Arthur C Clarke - A Fall of Moondust</li>
 <li>Larry Niven - Ringworld</li>
-</ul>
-</details>
+<li>VC Andrews - Garden of Shadows</li>
+<li>Ray Bradbury - The Toynbee Convector</li>
+<li>Lyndsie Manusos - She Builds Quick Machines</li>
+<li>Isaac Asimov - Foundations Edge</li>
+<li>CS Lewis - Out of the Silent Planet</li>
+<li>Ray Bradbury - The Toynbee Convector</li>
+<li>Rebecca Makkai - The November Story</li>
+<li>AnaMaria Curtis - The Coffin Maker</li>
+<li>Tara Isabella Burton - The Destroyer</li>
+<li>Rodrigo Culagovski - Quarropts Can't Dance</li>
+<li>Raccoona Sheldon - The Screwfly Solution</li>
+<li>Kim Stanley Robinson - 2312</li>
+<li>Chris van Tulleken - Ultra-Processed People</li>
+<li>Emily St. John Mandel - Station Eleven</li>
+<li>Kim Stanley Robinson - Antarctica</li>
+<li>Brian Aldiss - Hothouse</li>
+<li>Yahtzee Croshaw - Will Leave the Galaxy for Good</li>
+<li>Jason Pargin - If This Book Exists, You're in the Wrong Universe</li>
+<li>Jason Pargin - Zoey Is Too Drunk for This Dystopia</li>
+<li>Sylvie Althoff - Endymion</li>
+<li>Kate Wilhelm - Where Late the Sweet Birds Sang</li>
+<li>DA Xiaolin Spires - Vault</li>
+<li>Kim Stanley Robinson - Red Moon</li>
+<li>Marissa Lingen - Some of Them Closer</li>
+</ul></div><script>var ulElement=document.getElementById("2024-list"),liElements=ulElement.getElementsByTagName("li"),count=liElements.length,detailsElement=document.createElement("details"),summaryElement=document.createElement("summary");summaryElement.textContent="2024 ("+count+")",detailsElement.appendChild(summaryElement),detailsElement.appendChild(ulElement);var listContainer=document.getElementById("2024-container");listContainer.appendChild(detailsElement);</script>
 
 <details><summary>2023 <span>51</span></summary>
 <ul>
@@ -562,29 +586,29 @@ To keep the page somewhat manageable, I've collapsed the lists by years:
 
 
 # Book Series
-<details><summary>Work in Progress <span>11</span></summary>
+<details><summary>Work in Progress</summary>
 <ul>
 <li>Douglas Adams - The Hitchhiker's Guide to the Galaxy - 1/6</li>
 <li>Frederik Pohl - Heechee - 5/6</li>
 <li>Iain M Banks - The Culture - 4/10</li>
-<li>Isaac Asimov - Foundation - 3/7</li>
+<li>Isaac Asimov - Foundation - 4/7</li>
 <li>Jim Butcher - The Dresden Files - 1/17</li>
 <li>Monica Hughes - Arc One - 1/2</li>
 <li>Neal Shusterman - The Unwind dystology - 1/6</li>
 <li>Orson Scott Card - Ender saga - 2/6</li>
+<li>Stephen R Donaldson - The Gap Cycle - 0/5</li>
 <li>Suzanne Collins - The Hunger Games - 3/4</li>
-<li>VC Andrews - Dollanganger series - 4/5</li>
-<li><a href="/sf-masterworks-progress/">Various - SF Masterworks</a> - 63/73</li>
+<li><a href="/sf-masterworks-progress/">Various - SF Masterworks</a> - 64/73</li>
 </ul>
 </details>
 
-<details><summary>Completed <span>33</span></summary>
+<details><summary>Completed</summary>
 <ul>
 <li>Anthony Horowitz - The Power of Five - 5/5</li>
 <li>Barry J Hutchison - Dan Deadman - 3/3</li>
 <li>Blake Crouch - The Wayward Pines trilogy - 3/3</li>
-<li>David Wong - John and Dave series - 3/3</li>
-<li>David Wong - Zoey Ashe series - 2/2</li>
+<li>David Wong - John and Dave series - 4/4</li>
+<li>David Wong - Zoey Ashe series - 3/3</li>
 <li>Dennis E Taylor - Bobiverse Series - 4/4</li>
 <li>Ernest Cline - Ready Player One series - 2/2</li>
 <li>Grant Naylor - Red Dwarf - 4/4</li>
@@ -612,11 +636,12 @@ To keep the page somewhat manageable, I've collapsed the lists by years:
 <li>Tade Thompson - The Wormwood Trilogy - 3/3</li>
 <li>Terry Pratchett - Discworld - 41/41</li>
 <li>V E Schwab - Villains - 2/2</li>
+<li>VC Andrews - Dollanganger series - 5/5</li>
 <li>Yahtzee Croshaw - The DEDA Files - 2/2</li>
 </ul>
 </details>
 
-<details><summary>Abandoned <span>2</span></summary>
+<details><summary>Abandoned</summary>
 <ul>
 <li>Ann Leckie - Imperial Radch trilogy - 1/3</li>
 <li>John Twelve Hawks - The Fourth Realm Trilogy - 1/3</li>

@@ -1,7 +1,7 @@
 ---
 title: "SF Masterworks progress"
 date: 2024-01-15T17:02:00
-lastmod: 2024-04-26T09:26:00
+lastmod: 2024-09-20T13:02:00
 tags: ["Books", "Lists"]
 ---
 
@@ -17,7 +17,7 @@ Now the quality varies massively from - *well loved* ex-library copies to pristi
 
 So, on to lists. We all love a good list, right?
 
-<h2>Completed <span>63/73</span></h2>
+<h2>Completed <span>64/73</span></h2>
 
 * 1 - The Forever War - Joe Haldeman
 * 2 - I Am Legend - Richard Matheson
@@ -77,13 +77,14 @@ So, on to lists. We all love a good list, right?
 * 62 - Mission of Gravity - Hal Clement
 * 64 - Tau Zero - Poul Anderson
 * 65 - Rendezvous with Rama - Arthur C. Clarke
+* 67 - Where Late the Sweet Birds Sang - Kate Wilhelm
 * 68 - Roadside Picnic - Arkady and Boris Strugatsky
 * 70 - Mockingbird - Walter Tevis
 * 71 - Dune - Frank Herbert
 * 72 - The Moon Is a Harsh Mistress - Robert A. Heinlein
 * 73 - The Man in the High Castle - Philip K. Dick
 
-<h2>Incomplete <span>10/73</span></h2>
+<h2>Incomplete <span>9/73</span></h2>
 
 * 3 - Cities in Flight - James Blish
 * 19 - Emphyrio - Jack Vance
@@ -93,5 +94,4 @@ So, on to lists. We all love a good list, right?
 * 53 - The Dancers at the End of Time - Michael Moorcock
 * 61 - The Child Garden - Geoff Ryman
 * 66 - Life During Wartime - Lucius Shepard
-* 67 - Where Late the Sweet Birds Sang - Kate Wilhelm
 * 69 - Dark Benediction - Walter M. Miller Jr.
