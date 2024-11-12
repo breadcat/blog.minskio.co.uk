@@ -1,14 +1,15 @@
 ---
 title: Reading List
 layout: single
-lastmod: 2024-09-20T13:00:00
+lastmod: 2024-11-12T10:58:00
 ---
 
 I generally strive for a book per week, but this is by no means a steadfast goal. For a list of series and their status, check [the bottom of this page](#book-series).
 
 <details><summary>Works in Progress</summary>
 <ul>
-<li>Stephen R Donaldson - The Real Story</li>
+<li>Stephen R Donaldson - Chaos and Order</li>
+<li>Bob Mortimer - The Hotel Avocado</li>
 </ul>
 </details>
 
@@ -56,6 +57,11 @@ To keep the page somewhat manageable, I've collapsed the lists by years:
 <li>DA Xiaolin Spires - Vault</li>
 <li>Kim Stanley Robinson - Red Moon</li>
 <li>Marissa Lingen - Some of Them Closer</li>
+<li>Stephen R Donaldson - The Real Story</li>
+<li>Stephen R Donaldson - Forbidden Knowledge</li>
+<li>Stephen R Donaldson - A Dark and Hungry God Arises</li>
+<li>Peter Brown - The Wild Robot</li>
+<li>Peter Brown - The Wild Robot Escapes</li>
 </ul></div><script>var ulElement=document.getElementById("2024-list"),liElements=ulElement.getElementsByTagName("li"),count=liElements.length,detailsElement=document.createElement("details"),summaryElement=document.createElement("summary");summaryElement.textContent="2024 ("+count+")",detailsElement.appendChild(summaryElement),detailsElement.appendChild(ulElement);var listContainer=document.getElementById("2024-container");listContainer.appendChild(detailsElement);</script>
 
 <details><summary>2023 <span>51</span></summary>
@@ -596,7 +602,8 @@ To keep the page somewhat manageable, I've collapsed the lists by years:
 <li>Monica Hughes - Arc One - 1/2</li>
 <li>Neal Shusterman - The Unwind dystology - 1/6</li>
 <li>Orson Scott Card - Ender saga - 2/6</li>
-<li>Stephen R Donaldson - The Gap Cycle - 0/5</li>
+<li>Peter Brown - The Wild Robot Series - 2/3</li>
+<li>Stephen R Donaldson - The Gap Cycle - 3/5</li>
 <li>Suzanne Collins - The Hunger Games - 3/4</li>
 <li><a href="/sf-masterworks-progress/">Various - SF Masterworks</a> - 64/73</li>
 </ul>
