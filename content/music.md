@@ -1,7 +1,7 @@
 ---
 title: Music Library
 layout: single
-lastmod: 2024-07-10T12:30:00
+lastmod: 2024-11-12T11:37:00
 ---
 
 This page is purely for reference, as detailed [in this post](/notes-on-sorting-music). While Spotify has 99.9% of songs you'd want, there are some unusual omissions that I've collapsed in a list below.
@@ -56,6 +56,7 @@ This page is purely for reference, as detailed [in this post](/notes-on-sorting-
 | Armor For Sleep | [Car Underwater](spotify:track:4CilIy3dA3P9Tq2NFqKEOX) |
 | A | [Rush Song](spotify:track:4y4kwDa0MT0sybG6FDwH4c) |
 | ASHES dIVIDE | [Enemies](spotify:track:1EHK1U1cgOFjVypQgxof4M) |
+| Ash | [Uncle Pat](spotify:track:2AVMRAJzgXkj7Db6qiUPVb) |
 | Asia | [Heat Of The Moment](spotify:track:1nmZ8yqKkfooOuYvtFctDp) |
 | Astrophysics, Marina Rios | [Komm, süsser Tod](spotify:track:7E6VM4eg8ADYdgbMnXO97d) |
 | Atomship | [Pencil Fight](spotify:track:0jd1Y8VZD0Pg1B1aZlCMub) |
@@ -81,6 +82,7 @@ This page is purely for reference, as detailed [in this post](/notes-on-sorting-
 | Bedroom | [In My Head](spotify:track:5vwXQUwkpmnkJrfv69L6Mp) |
 | Belinda Carlisle | [Leave a Light On](spotify:track:7vJz53OhSGMIxLlwhfwqzu) |
 | Belle and Sebastian | [Sleep the Clock Around](spotify:track:2WXuEYmzKaQQJbrhLnYYJV) |
+| ... Bender | [Isolate](spotify:track:7iTpGVso8hAz7q8fR9tfjG) |
 | Ben Kweller, Kimya Dawson, John David Kent, Josh Lattanzi | [How It Should Be (Sha Sha)](spotify:track:77h5SC6UU6kfKNSGQ9hZ4k) |
 | Biffy Clyro | [Mountains](spotify:track:51MbtYQHW8ph3lE5oyfLLs) |
 | Big Country | [In A Big Country](spotify:track:4cY1KFcIcTkjXxxF4KVDpY) |
@@ -122,6 +124,7 @@ This page is purely for reference, as detailed [in this post](/notes-on-sorting-
 | Built To Spill | [Carry the Zero](spotify:track:3HMOMdRPywfouYx5B4PvaH) |
 | Bush | [Everything Zen](spotify:track:5l2DXYLyBVZWhdpgqa3a9k) |
 | Bush | [Machinehead](spotify:track:1wrhhPzd2ncJPNgUcGgBGg) |
+| Cage The Elephant | [Cold Cold Cold](spotify:track:1Q3t9fWvHUXKsMmpD2XpUu) |
 | Calvin Harris, Ellie Goulding | [Outside](spotify:track:7MmG8p0F9N3C4AXdK6o6Eb) |
 | Calvin Harris, HAIM | [Pray to God](spotify:track:75kMrDKPJJpgEQaXVh7QMB) |
 | Camera Obscura | [French Navy](spotify:track:6265dsK30dmnsfWcTWwHBx) |
@@ -171,6 +174,7 @@ This page is purely for reference, as detailed [in this post](/notes-on-sorting-
 | David Byrne | [Like Humans Do](spotify:track:5SuD0gVWOj2o1n9pporwr0) |
 | David Gray | [Please Forgive Me](spotify:track:2B44GIBurvsKCiNb34Xrnj) |
 | Dawid Podsiadło | [Let You Down](spotify:track:1qpGMJi0ippCaMUOs7cz2q) |
+| Dead Poet Society | [.intoodeep.](spotify:track:54jvLVojOWiQRubRfKmZ2k) |
 | Death From Above 1979 | [Crystal Ball](spotify:track:6Q9NqbIsNZj8oOlP6BguS4) |
 | Death From Above 1979 | [Freeze Me](spotify:track:50jXnyrzW4mcBBqFTMEoAC) |
 | Deftones | [Back to School (Mini Maggit)](spotify:track:0Qrb3L8JgreLBW8g4qyan9) |
@@ -209,15 +213,18 @@ This page is purely for reference, as detailed [in this post](/notes-on-sorting-
 | Electric Six | [Dance Commander](spotify:track:3A3n0ShUNIrNWwdzkONVAl) |
 | Elle King | [Ex's & Oh's](spotify:track:70eDxAyAraNTiD6lx2ZEnH) |
 | Empire Of The Sun | [Walking On A Dream](spotify:track:5r5cp9IpziiIsR6b93vcnQ) |
+| End Of Fashion | [O Yeah](spotify:track:0m1EeQNY6qOwKxaZO4ETim) |
 | Engineers | [Clean Coloured Wire](spotify:track:7suftoRI9XwESbwB2ZvIRK) |
 | Enter Shikari | [Live Outside](spotify:track:4gFBRNM2w934WZMOINd49G) |
 | Enter Shikari | [{ The Dreamer's Hotel }](spotify:track:0kKLYJlTi8RRR18vTOBsKd) |
 | Enter Shikari | [THE GREAT UNKNOWN](spotify:track:6JVjF24NA12pIUZJG8DChU) |
 | Enter Shikari | [thē kĭñg](spotify:track:4gdErUt60vtRN5cUKQ5htL) |
 | Enter Shikari | [T.I.N.A.](spotify:track:1glamaHwWaC9AO0HX9G85y) |
+| Enya | [Boadicea](spotify:track:43AiEY2ztKnsFLKM7CCHBk) |
 | Enya | [Only Time](spotify:track:6FLwmdmW77N1Pxb1aWsZmO) |
 | Enya | [Orinoco Flow](spotify:track:0Fyj9w0HVfjoxm9S8nGClt) |
 | Eurythmics, Annie Lennox, Dave Stewart | [Here Comes the Rain Again](spotify:track:78RIER8V6EhrqVPOBi2GYa) |
+| Failure | [Saturday Saviour](spotify:track:5dux3AkWPrlKFVcHDUqor2) |
 | Faith No More | [Midlife Crisis](spotify:track:3Ph7fws05DvPwpn5CQHTBy) |
 | Fear Factory | [Monolith](spotify:track:0ITgHE0E5jnng0t81jV2oK) |
 | Fever the Ghost | [Source](spotify:track:1w7WAOQ65UjKpwhqB5rTNl) |
@@ -235,11 +242,14 @@ This page is purely for reference, as detailed [in this post](/notes-on-sorting-
 | Foals | [Mountain at My Gates](spotify:track:3f7OyfSoDbQC0LRDQiytPp) |
 | Foals | [My Number](spotify:track:04caEZhAsQKnWqKsMwk9ud) |
 | Foals | [The Runner](spotify:track:0AS03vnvXv9m0ZFxtuvOBW) |
+| Fontaines D.C. | [Here's The Thing](spotify:track:4J4pysp2EFNhYibI8tIg0D) |
+| Fontaines D.C. | [I Love You](spotify:track:4N8idxy0W2GDaEosAwPOMg) |
 | Forest Swords | [Miarches](spotify:track:5jbK3OF1Po5AN5DaXUmIUl) |
 | ¡Forward Russia! | [Nine](spotify:track:6YLvPHBni02Jwnb4jYuMqL) |
 | ¡Forward Russia! | [Thirteen](spotify:track:7y6Xquu4Na132Dlm7cFpnJ) |
 | Foster The People | [Helena Beat](spotify:track:4VbDJMkAX3dWNBdn3KH6Wx) |
 | Four Year Strong | [It Must Really Suck To Be Four Year Strong Right Now](spotify:track:0FS9fZv3bXiXDyYfIOkVu9) |
+| Four Year Strong | [maybe it's me](spotify:track:3IQ6lvRicxZpI3AhQaGPI5) |
 | Four Year Strong | [uncooked](spotify:track:4jIwJ0CAWO4poBAtgRT0Lr) |
 | Freeze the Atlantic | [Tusen Takk](spotify:track:4jKet3ukiejU77ViqeISxA) |
 | French 79 | [Hometown](spotify:track:47x1Gh7yk5mblUWxWRdtjH) |
@@ -273,6 +283,7 @@ This page is purely for reference, as detailed [in this post](/notes-on-sorting-
 | Grendel | [Harsh Generation](spotify:track:4g6PSQMM8duNABKpeV5jae) |
 | Greta Van Fleet | [Highway Tune](spotify:track:7aOor99o8NNLZYElOXlBG1) |
 | Grimes, i_o | [Violence](spotify:track:3KeOFns3LGJuh1lapMm9eA) |
+| Grizzly Bear | [Two Weeks](spotify:track:04uR2cdkgiaLIzebPcs25m) |
 | Groove Armada | [At the River](spotify:track:0KIPa0YuQ5QFmlAqRyXNd9) |
 | Guano Apes | [Open Your Eyes](spotify:track:5oxpT46KeiEuckYnChgFFT) |
 | Handsome Boy Modeling School, Róisín Murphy, J-Live | [The Truth](spotify:track:5l7icgnicl7JToRxPkSXyy) |
@@ -343,6 +354,7 @@ This page is purely for reference, as detailed [in this post](/notes-on-sorting-
 | Kublai Khan TX | [Antpile](spotify:track:7fEoIHFRBGeszHJBkXcjQ4) |
 | Kvelertak | [Mjød](spotify:track:29fzGpbRh45T7h20IjISdg) |
 | Kyuss | [Space Cadet](spotify:track:3iYermCTDOt4YfeCqf3sIn) |
+| Lady Gaga | [Disease](spotify:track:19KlZwqlT3fguP2BeHF1Q1) |
 | Ladyhawke | [Magic](spotify:track:4pcu6qtyOFGvK83198abmY) |
 | Ladyhawke | [My Delirium](spotify:track:7wvkpxqOl9qlCAtdMkG323) |
 | Ladytron | [Tomorrow](spotify:track:0kWyhO2Kaj8yqBE76AswFU) |
@@ -354,10 +366,12 @@ This page is purely for reference, as detailed [in this post](/notes-on-sorting-
 | Led Zeppelin | [Immigrant Song](spotify:track:78lgmZwycJ3nzsdgmPPGNx) |
 | Led Zeppelin | [Stairway to Heaven](spotify:track:5CQ30WqJwcep0pYcV4AMNc) |
 | Leftfield | [Phat Planet](spotify:track:3cR4v4R9tl8vZkOAgqiMQh) |
+| Leonard Cohen | [The Partisan](spotify:track:2E5vl5eF4M4QbaADGegVDP) |
 | Liam Gallagher | [Wall of Glass](spotify:track:5qlSYa5PePLAuAsAFgqVxW) |
 | Linkin Park | [Faint](spotify:track:4Yf5bqU3NK4kNOypcrLYwU) |
 | Lizzo | [Juice](spotify:track:0k664IuFwVP557Gnx7RhIl) |
 | Local H | [Bound For The Floor](spotify:track:3cbTV3IZZvSBYVcl0xuZbY) |
+| Lola Young | [Messy](spotify:track:35ISBknsCeZQtq66xABI9g) |
 | Lotus  | [Sodium Vapor](spotify:track:3XWY0Y2J1onVEq4TRdwaS2) |
 | Love | [Alone Again Or](spotify:track:1XuccRABkfUVB4FjSVhjL1) |
 | Love | [The Red Telephone](spotify:track:3URRBJKRfCnlit1jVoncUD) |
@@ -370,6 +384,7 @@ This page is purely for reference, as detailed [in this post](/notes-on-sorting-
 | Machine Head | [Message in a Bottle](spotify:track:2BNg4pIwiR8IAaEXHnXyJU) |
 | Mac Miller | [Frick Park Market](spotify:track:2Y0kKL90NsxMNAHqvTuhps) |
 | Mac Miller | [Smile Back](spotify:track:2ZGBhrxA4ghKqoOMBdn966) |
+| Magdalena Bay | [Death & Romance](spotify:track:5m3rVRNkTv5EQnPuF293we) |
 | Manic Street Preachers | [Judge Yr'self](spotify:track:3pBGxX1RJPscGEJasqyIlf) |
 | Manic Street Preachers | [Kevin Carter](spotify:track:0FeXzdJf59KotoHVKOX5KQ) |
 | Manic Street Preachers, Nina Persson | [Your Love Alone Is Not Enough](spotify:track:37pFLuNVnAJQL9ysRoKTdy) |
@@ -437,6 +452,7 @@ This page is purely for reference, as detailed [in this post](/notes-on-sorting-
 | Nada Surf | [Where Is My Mind](spotify:track:2AsIm3Hr3GS4P4nntYSs2Q) |
 | N.A.S.A., Kanye West, Santigold, Lykke Li | [Gifted](spotify:track:6gMeYgGqlHWoGZnK8Qjyku) |
 | Nebula | [Giant](spotify:track:7alIC83sYtwb5WqmUsDFpf) |
+| N.E.R.D | [She Wants To Move](spotify:track:4Vqd7MuPVrciqRS3EzhKWb) |
 | Nerina Pallot | [Everybody's Gone To War (Chris Lord-Alge Mix remastered)](spotify:track:3uN1DSEECO2ndzjvNoPIty) |
 | Never Not Nothing | [Body & Soul](spotify:track:2WeiCWVYQILHWRNj7yuzMM) |
 | New Found Glory | [All Downhill From Here](spotify:track:5KyrzOJTjHy8ANBOeWoWNP) |
@@ -462,8 +478,10 @@ This page is purely for reference, as detailed [in this post](/notes-on-sorting-
 | Ocean Colour Scene | [Hundred Mile High City](spotify:track:0EgOQEj1fHUyoPAkkp03Hp) |
 | Ocean Colour Scene | [The Day We Caught The Train](spotify:track:1HkgXusDtcdUch40stX4vp) |
 | Ocean Colour Scene | [The Riverboat Song](spotify:track:6Ykk0PRL8VMQb6h13CxH31) |
-| Ocean Grove | [JUNKIE$](spotify:track:6gM11PV8nD5aftCB6aMR1x) |
+| Ocean Grove | [Junkie$](spotify:track:6gM11PV8nD5aftCB6aMR1x) |
 | Of Monsters and Men | [Little Talks](spotify:track:2ihCaVdNZmnHZWt0fvAM7B) |
+| Oliver Anthony Music | [Rich Men North of Richmond](spotify:track:78Du4CMFgnhdlG33gblkiP) |
+| Olive | [You're Not Alone](spotify:track:4AJWkU9WQeFytNaJExtyRj) |
 | Olivia Rodrigo | [good 4 u](spotify:track:4ZtFanR9U6ndgddUvNcjcG) |
 | Øneheart, reidenshi | [snowfall](spotify:track:4xF4ZBGPZKxECeDFrqSAG4) |
 | Orson | [No Tomorrow](spotify:track:0nJEcAgCKrFliZ5q0JxEtc) |
@@ -614,7 +632,6 @@ This page is purely for reference, as detailed [in this post](/notes-on-sorting-
 | Spoon | [The Underdog](spotify:track:3G3EvGRQUgyhn5icKOiiFP) |
 | ssshhhiiittt! | [Корабль](spotify:track:1RP5XjvtlcwdqEZ0e8rPWG) |
 | Static-X | [Black and White](spotify:track:1GwiQCsJ0wEtzQTnblUSnH) |
-| Stephen Paul Taylor | [Everybody Knows Shit's Fucked](spotify:track:5l4AUpGX1rjfPKWEujoFT3) |
 | Steppenwolf | [Magic Carpet Ride](spotify:track:4c4jJJoaiY21t2TyRZgdWS) |
 | Steppenwolf | [The Pusher](spotify:track:1Qc7zCw6k2KTvSEl4IKSdP) |
 | Stereophonics | [Dakota](spotify:track:3qaSqrrevBrb84xl5JlptU) |
@@ -632,6 +649,7 @@ This page is purely for reference, as detailed [in this post](/notes-on-sorting-
 | Sunset Rubdown, Spencer Krug of Wolf Parade | [Shut Up I Am Dreaming Of Places Where Lovers Have Wings](spotify:track:0ASdCg0afrySA01hidbRo9) |
 | Surfer Blood | [Floating Vibes](spotify:track:6UDYTfeSS4IVbJeHTaMxxA) |
 | Swiss Lips | [U Got the Power](spotify:track:3NBFW6x1NVJ3mCxWb6LDqG) |
+| SynthPopTroubadour | [Everybody Knows Shit's Fucked](spotify:track:5l4AUpGX1rjfPKWEujoFT3) |
 | System Of A Down | [Sugar](spotify:track:31RTFPrB7wmYBhlkM2ILXG) |
 | Taking Back Sunday | [Cute Without The 'E' (Cut From The Team)](spotify:track:0ObyshwXoUY4NTib9v2eji) |
 | Taking Back Sunday | [MakeDamnSure](spotify:track:6fTgbkBiMITtHUmik95ClX) |
@@ -701,6 +719,7 @@ This page is purely for reference, as detailed [in this post](/notes-on-sorting-
 | The Mars Volta | [Inertiatic Esp](spotify:track:36AY05TRGH2CXGYiKjCZ8B) |
 | The Mavericks | [Dance The Night Away](spotify:track:1N67xd3y9s23vitoiP3Zv5) |
 | The Maze | [On Your Own](spotify:track:2zzAZD3oDdCUohwLIIkBEr) |
+| The Messenger Birds | [Phantom Limb](spotify:track:2Y9ulVeOBiEgFWxFZVXlPH) |
 | The Mighty Mighty Bosstones | [The Impression That I Get](spotify:track:1ru5R5iSawvuMELqKXxLjS) |
 | The Moody Blues | [Nights In White Satin](spotify:track:5w1ingzqrsJka9nlnEFB64) |
 | The Music | [Welcome To The North](spotify:track:0893e8JzcKD9yNMmXT636u) |
@@ -764,6 +783,7 @@ This page is purely for reference, as detailed [in this post](/notes-on-sorting-
 | Tove Lo | [Habits (Stay High)](spotify:track:18AJRdgUoO9EYn11N7xzaT) |
 | Trivium | [A Gunshot to the Head of Trepidation](spotify:track:3uq1JSqEFzVzcmFJc6SXDS) |
 | Turbowolf, Sebastien Grainger | [Cheap Magic](spotify:track:7uaH0m2kKoT9YrHATuQn0P) |
+| Turnstile | [MYSTERY](spotify:track:5iXnD2VizcAbErpkcuNQ6I) |
 | TV On The Radio | [DLZ](spotify:track:6La3P2zp9KaW1d35hwm0Xh) |
 | TV On The Radio | [Happy Idiot](spotify:track:63mnZ0zF5fBwJzYg2pDo9e) |
 | TV On The Radio | [Wolf Like Me](spotify:track:6Zgd7SomLTZkL1WPh4CUnV) |
@@ -780,6 +800,7 @@ This page is purely for reference, as detailed [in this post](/notes-on-sorting-
 | Velvet Revolver | [Slither](spotify:track:7kF1iPJTj3VFJX9XokQ80F) |
 | Viagra Boys | [Punk Rock Loser](spotify:track:2pqoh1jUQoppztoQRRGyKK) |
 | Wall of Death | [Away](spotify:track:4nJbZ1Vp6CP51epiIeyxLk) |
+| Waveshaper | [Crystal Protocol](spotify:track:5vnwZmz6YEt4mPCZH4icpO) |
 | weapons | [Black Line Ninja](spotify:track:19GAdntawHTcsOxd8R8pKx) |
 | We Are Scientists | [Nobody Move, Nobody Get Hurt](spotify:track:0iUano4euaiUETVUd1u0cx) |
 | We Are Scientists | [The Great Escape](spotify:track:37MkbRqfMdO4qlNj7C4Wfa) |
@@ -790,6 +811,7 @@ This page is purely for reference, as detailed [in this post](/notes-on-sorting-
 | We Were Promised Jetpacks | [Quiet Little Voices](spotify:track:4TQJGu7KoqOFvjvopA8fx2) |
 | White Lies | [To Lose My Life](spotify:track:2Z3TDzs6Jf7oCahXUkWapq) |
 | WILLOW, Travis Barker | [t r a n s p a r e n t s o u l feat. Travis Barker](spotify:track:1QL7nSDZCwZMnbisV4KOXt) |
+| Wolf Alice | [Moaning Lisa Smile](spotify:track:37XsaGX7crh4YJKv6k946u) |
 | Wolfmother | [Dimension](spotify:track:7k5Gji7TdalcU7p0RjIaii) |
 | Wolfmother | [Joker And The Thief](spotify:track:7ISL3LO8AWP3fKIXunvqTa) |
 | Wolfmother | [Pretty Peggy](spotify:track:5jCp5A9hMitx5zeo5Djofm) |
@@ -802,6 +824,7 @@ This page is purely for reference, as detailed [in this post](/notes-on-sorting-
 | Yeah Yeah Yeahs | [Pin](spotify:track:7AEvyxJS2Eayyr6q5sEU66) |
 | Yelle | [Comme un enfant - Freaks radio MIX](spotify:track:62a99w6uLXlUGJjpnlw6iN) |
 | Yellowcard | [Ocean Avenue](spotify:track:23oxJmDc1V9uLUSmN2LIvx) |
+| Yiruma | [River Flows In You](spotify:track:13NC44aS3d0EFF58oVQ8T7) |
 | You Me At Six | [Our House (The Mess We Made)](spotify:track:5kqRMynqZR8JbJH4JodkFs) |
 | Zach Bryan | [Heading South](spotify:track:2Dct3GykKZ58hpWRFfe2Qd) |
 | zebrahead | [Anthem](spotify:track:5vB0cxSvzXuVh15EDD0Cej) |
