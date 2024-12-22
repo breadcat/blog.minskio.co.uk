@@ -1,15 +1,14 @@
 ---
 title: Reading List
 layout: single
-lastmod: 2024-11-12T10:58:00
+lastmod: 2024-12-22T16:38:00
 ---
 
 I generally strive for a book per week, but this is by no means a steadfast goal. For a list of series and their status, check [the bottom of this page](#book-series).
 
 <details><summary>Works in Progress</summary>
 <ul>
-<li>Stephen R Donaldson - Chaos and Order</li>
-<li>Bob Mortimer - The Hotel Avocado</li>
+<li>Stephen R Donaldson - This Day All Gods Die</li>
 </ul>
 </details>
 
@@ -62,6 +61,10 @@ To keep the page somewhat manageable, I've collapsed the lists by years:
 <li>Stephen R Donaldson - A Dark and Hungry God Arises</li>
 <li>Peter Brown - The Wild Robot</li>
 <li>Peter Brown - The Wild Robot Escapes</li>
+<li>Bob Mortimer - The Hotel Avocado</li>
+<li>Peter Brown - The Wild Robot Protects</li>
+<li>Jason Pargin - I'm Starting to Worry About This Black Box of Doom</li>
+<li>Stephen R Donaldson - Chaos and Order</li>
 </ul></div><script>var ulElement=document.getElementById("2024-list"),liElements=ulElement.getElementsByTagName("li"),count=liElements.length,detailsElement=document.createElement("details"),summaryElement=document.createElement("summary");summaryElement.textContent="2024 ("+count+")",detailsElement.appendChild(summaryElement),detailsElement.appendChild(ulElement);var listContainer=document.getElementById("2024-container");listContainer.appendChild(detailsElement);</script>
 
 <details><summary>2023 <span>51</span></summary>
@@ -602,8 +605,7 @@ To keep the page somewhat manageable, I've collapsed the lists by years:
 <li>Monica Hughes - Arc One - 1/2</li>
 <li>Neal Shusterman - The Unwind dystology - 1/6</li>
 <li>Orson Scott Card - Ender saga - 2/6</li>
-<li>Peter Brown - The Wild Robot Series - 2/3</li>
-<li>Stephen R Donaldson - The Gap Cycle - 3/5</li>
+<li>Stephen R Donaldson - The Gap Cycle - 4/5</li>
 <li>Suzanne Collins - The Hunger Games - 3/4</li>
 <li><a href="/sf-masterworks-progress/">Various - SF Masterworks</a> - 64/73</li>
 </ul>
@@ -614,6 +616,7 @@ To keep the page somewhat manageable, I've collapsed the lists by years:
 <li>Anthony Horowitz - The Power of Five - 5/5</li>
 <li>Barry J Hutchison - Dan Deadman - 3/3</li>
 <li>Blake Crouch - The Wayward Pines trilogy - 3/3</li>
+<li>Bob Mortimer - Gary Thorne - 2/2</li>
 <li>David Wong - John and Dave series - 4/4</li>
 <li>David Wong - Zoey Ashe series - 3/3</li>
 <li>Dennis E Taylor - Bobiverse Series - 4/4</li>
@@ -635,6 +638,7 @@ To keep the page somewhat manageable, I've collapsed the lists by years:
 <li>Mary Robinette Kowal - Lady Astronaut - 4/4</li>
 <li>Mira Grant - Parasitology - 3/3</li>
 <li>Paolo Bacigalupi - Ship Breaker Trilogy - 3/3</li>
+<li>Peter Brown - The Wild Robot Series - 3/3</li>
 <li>Philip K Dick - VALIS trilogy - 3/3</li>
 <li>Philip Pullman - His Dark Materials - 3/3</li>
 <li>Philip Reeve - Mortal Engines Quartet - 4/4</li>
