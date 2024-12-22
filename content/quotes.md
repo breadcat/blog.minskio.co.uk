@@ -528,6 +528,8 @@ Quotes I've found in and around the Internet, collected because they make me smi
 
 >This is extremely dangerous to our democracy <!-- sinclair broadcast group -->
 
+>This is my step ladder, I never knew my real ladder
+
 >This isn't horseplay, it's a major felony <!-- Hudson Hawk -->
 
 >This is only a test of the emergency broadcast system <!-- pennywise -->
