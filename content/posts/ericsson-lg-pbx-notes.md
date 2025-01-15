@@ -1,7 +1,7 @@
 ---
 title: "Ericsson-LG PBX notes"
 date: 2021-05-21T13:48:00
-lastmod: 2023-03-21T13:13:00
+lastmod: 2025-01-15T13:53:00
 tags: ["Guides", "Hardware", "PBX", "Snippets", "Work"]
 ---
 
@@ -10,8 +10,8 @@ With the news that Ericsson LG will be discontinuing the eMG80 PBX, I'm publishi
 # Hardware
 
 ## DIP switches
-* 1 and 2 off in normal operation
-* 2 on during boot defaults the system
+* eMG80 - 1 and 2 off in normal operation, 2 on during boot defaults the system
+* UCP100 - 1 and 4 off in normal operation, 4 on during boot defaults the system
 
 ## Port wiring
 * Analogue extension RJ11: Pins 3 and 4 (innermost 2)
@@ -94,3 +94,4 @@ Assuming remote setup, using an IP phone for testing
 ## Updates
 * **2022-05-23:** Added two way record instruction
 * **2023-03-21:** Added modified switch port setup
+* **2025-01-15:** Clarified UCP/eMG DIP switches
