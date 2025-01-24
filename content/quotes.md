@@ -414,11 +414,15 @@ Quotes I've found in and around the Internet, collected because they make me smi
 
 >Poverty has its freedoms; opulence has its obstacles
 
+>Punch them in the sarcophagus
+
 >RAID is not backup
 
 >Reader beware, you're in for a slap <!-- goosebumps photoshop -->
 
 >Reduce, Reuse, Recycle
+
+>Relax. Pot temperatures have been going up and down for centuries.
 
 >Rosalind's a fucking nightmare <!-- taskmaster -->
 
