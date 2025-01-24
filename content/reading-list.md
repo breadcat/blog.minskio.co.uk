@@ -1,14 +1,14 @@
 ---
 title: Reading List
 layout: single
-lastmod: 2025-01-15T13:39:00
+lastmod: 2025-01-24T12:58:00
 ---
 
 I generally strive for a book per week, but this is by no means a steadfast goal. For a list of series and their status, check [the bottom of this page](#book-series).
 
 <details><summary>Works in Progress</summary>
 <ul>
-<li>Stephen King - The Body</li>
+<li>HG Wells - The Island of Doctor Moreau</li>
 </ul>
 </details>
 
@@ -18,6 +18,8 @@ To keep the page somewhat manageable, I've collapsed the lists by years:
 <div id="current-container"><ul id="current-list">
 <li>Stephen R Donaldson - This Day All Gods Die</li>
 <li>Stephen King - The Breathing Method</li>
+<li>Stephen King - The Body</li>
+<li>Stephen King - Apt Pupil</li>
 </ul></div><script>var ulElement=document.getElementById("current-list"),liElements=ulElement.getElementsByTagName("li"),count=liElements.length,detailsElement=document.createElement("details"),summaryElement=document.createElement("summary");summaryElement.textContent="2025 ("+count+")",detailsElement.appendChild(summaryElement),detailsElement.appendChild(ulElement);var listContainer=document.getElementById("current-container");listContainer.appendChild(detailsElement);</script>
 
 <details><summary>2024 <span>51</span></summary>
