@@ -1,14 +1,14 @@
 ---
 title: Reading List
 layout: single
-lastmod: 2025-01-24T12:58:00
+lastmod: 2025-02-18T13:34:00
 ---
 
 I generally strive for a book per week, but this is by no means a steadfast goal. For a list of series and their status, check [the bottom of this page](#book-series).
 
 <details><summary>Works in Progress</summary>
 <ul>
-<li>HG Wells - The Island of Doctor Moreau</li>
+<li>Becky Chambers - The Galaxy, and the Ground Within</li>
 </ul>
 </details>
 
@@ -20,6 +20,14 @@ To keep the page somewhat manageable, I've collapsed the lists by years:
 <li>Stephen King - The Breathing Method</li>
 <li>Stephen King - The Body</li>
 <li>Stephen King - Apt Pupil</li>
+<li>HG Wells - The Island of Doctor Moreau</li>
+<li>Stephen King - Rita Hayworth and Shawshank Redemption</li>
+<li>Becky Chambers - The Long Way to a Small, Angry Planet</li>
+<li>Stephen King - Fair Extension</li>
+<li>Becky Chambers - A Closed and Common Orbit</li>
+<li>Stephen King - Big Driver</li>
+<li>Stephen King - A Good Marriage</li>
+<li>Becky Chambers - Record of a Spaceborn Few</li>
 </ul></div><script>var ulElement=document.getElementById("current-list"),liElements=ulElement.getElementsByTagName("li"),count=liElements.length,detailsElement=document.createElement("details"),summaryElement=document.createElement("summary");summaryElement.textContent="2025 ("+count+")",detailsElement.appendChild(summaryElement),detailsElement.appendChild(ulElement);var listContainer=document.getElementById("current-container");listContainer.appendChild(detailsElement);</script>
 
 <details><summary>2024 <span>51</span></summary>
@@ -608,6 +616,7 @@ To keep the page somewhat manageable, I've collapsed the lists by years:
 # Book Series
 <details><summary>Work in Progress</summary>
 <ul>
+<li>Becky Chambers - Wayfarers - 3/4</li>
 <li>Douglas Adams - The Hitchhiker's Guide to the Galaxy - 1/6</li>
 <li>Frederik Pohl - Heechee - 5/6</li>
 <li>Iain M Banks - The Culture - 4/10</li>
