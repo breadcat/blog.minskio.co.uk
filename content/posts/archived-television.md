@@ -2,7 +2,7 @@
 title: Archived Television
 tags: ["Media", "Archive"]
 date: 2018-01-01T01:00:00
-lastmod: 2024-09-12T13:19:00
+lastmod: 2025-02-18T14:22:00
 ---
 
 * 11.22.63
@@ -26,7 +26,7 @@ lastmod: 2024-09-12T13:19:00
 * Black Books
 * Black Lagoon
 * Black Mirror
-* Bob's Burgers (14)
+* Bob's Burgers (15)
 * BoJack Horseman
 * Bosch
 * Bosch: Legacy
@@ -35,7 +35,7 @@ lastmod: 2024-09-12T13:19:00
 * Burnistoun
 * Can't Get You Out of My Head
 * Chainsaw Man
-* Channel Zero (1)
+* Channel Zero (2)
 * Chernobyl
 * Childhood's End
 * Clarkson's Farm
@@ -60,15 +60,17 @@ lastmod: 2024-09-12T13:19:00
 * Fallout (1)
 * Fargo (5)
 * Farscape
-* Final Space
+* Final Space (3)
 * Fireball
 * Firefly
 * Flowers in the Attic: The Origin
+* For All Mankind (1)
 * Foundation (2)
 * Freedom
+* FROM (3)
 * Fullmetal Alchemist
 * Fullmetal Alchemist Brotherhood
-* Futurama
+* Futurama (5)
 * Game of Thrones
 * Garth Marenghi's Darkplace
 * Going Postal
@@ -89,7 +91,7 @@ lastmod: 2024-09-12T13:19:00
 * Infinity Train
 * Inside Job
 * Inside No. 9 (6)
-* Invincible
+* INVINCIBLE (2)
 * Jonathan Creek
 * Junji Ito Collection
 * KonoSuba - God’s Blessing on This Wonderful World!!
@@ -124,14 +126,15 @@ lastmod: 2024-09-12T13:19:00
 * Rick and Morty
 * Ross Kemp on Gangs
 * Savage Builds
-* Severance
+* Severance (1)
 * Sherlock
 * Shōgun (1)
 * Silo (1)
+* Slow Horses (4)
 * Smiling Friends
 * Solar Opposites (5)
 * Sons of Anarchy
-* South Park (7)
+* South Park (26)
 * Space Dandy
 * Space Patrol Luluco
 * Squid Game
@@ -172,6 +175,7 @@ lastmod: 2024-09-12T13:19:00
 * The Haunting of Bly Manor
 * The Haunting of Hill House
 * The IT Crowd
+* The Last of Us (1)
 * The Mandalorian
 * The Men Who Made Us Fat
 * The Men Who Made Us Spend
@@ -212,4 +216,5 @@ lastmod: 2024-09-12T13:19:00
 * What If...? (2)
 * World on a Wire
 * X-Men
+* X-Men '97 (1)
 * X-Men Evolution
