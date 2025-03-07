@@ -1,14 +1,14 @@
 ---
 title: Reading List
 layout: single
-lastmod: 2025-02-18T13:34:00
+lastmod: 2025-03-07T14:22:00
 ---
 
 I generally strive for a book per week, but this is by no means a steadfast goal. For a list of series and their status, check [the bottom of this page](#book-series).
 
 <details><summary>Works in Progress</summary>
 <ul>
-<li>Becky Chambers - The Galaxy, and the Ground Within</li>
+<li>Josh Malerman - Malorie</li>
 </ul>
 </details>
 
@@ -28,6 +28,9 @@ To keep the page somewhat manageable, I've collapsed the lists by years:
 <li>Stephen King - Big Driver</li>
 <li>Stephen King - A Good Marriage</li>
 <li>Becky Chambers - Record of a Spaceborn Few</li>
+<li>Stephen King - 1922</li>
+<li>Becky Chambers - The Galaxy, and the Ground Within</li>
+<li>Josh Malerman - Bird Box</li>
 </ul></div><script>var ulElement=document.getElementById("current-list"),liElements=ulElement.getElementsByTagName("li"),count=liElements.length,detailsElement=document.createElement("details"),summaryElement=document.createElement("summary");summaryElement.textContent="2025 ("+count+")",detailsElement.appendChild(summaryElement),detailsElement.appendChild(ulElement);var listContainer=document.getElementById("current-container");listContainer.appendChild(detailsElement);</script>
 
 <details><summary>2024 <span>51</span></summary>
@@ -616,12 +619,12 @@ To keep the page somewhat manageable, I've collapsed the lists by years:
 # Book Series
 <details><summary>Work in Progress</summary>
 <ul>
-<li>Becky Chambers - Wayfarers - 3/4</li>
 <li>Douglas Adams - The Hitchhiker's Guide to the Galaxy - 1/6</li>
 <li>Frederik Pohl - Heechee - 5/6</li>
 <li>Iain M Banks - The Culture - 4/10</li>
 <li>Isaac Asimov - Foundation - 4/7</li>
 <li>Jim Butcher - The Dresden Files - 1/17</li>
+<li>Josh Malerman - Bird Box - 1/2</li>
 <li>Monica Hughes - Arc One - 1/2</li>
 <li>Neal Shusterman - The Unwind dystology - 1/6</li>
 <li>Orson Scott Card - Ender saga - 2/6</li>
@@ -634,6 +637,7 @@ To keep the page somewhat manageable, I've collapsed the lists by years:
 <ul>
 <li>Anthony Horowitz - The Power of Five - 5/5</li>
 <li>Barry J Hutchison - Dan Deadman - 3/3</li>
+<li>Becky Chambers - Wayfarers - 4/4</li>
 <li>Blake Crouch - The Wayward Pines trilogy - 3/3</li>
 <li>Bob Mortimer - Gary Thorne - 2/2</li>
 <li>David Wong - John and Dave series - 4/4</li>
