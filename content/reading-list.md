@@ -1,14 +1,14 @@
 ---
 title: Reading List
 layout: single
-lastmod: 2025-03-07T14:22:00
+lastmod: 2025-04-27T09:38:00
 ---
 
 I generally strive for a book per week, but this is by no means a steadfast goal. For a list of series and their status, check [the bottom of this page](#book-series).
 
 <details><summary>Works in Progress</summary>
 <ul>
-<li>Josh Malerman - Malorie</li>
+<li>SA Barnes - Dead Silence</li>
 </ul>
 </details>
 
@@ -31,6 +31,12 @@ To keep the page somewhat manageable, I've collapsed the lists by years:
 <li>Stephen King - 1922</li>
 <li>Becky Chambers - The Galaxy, and the Ground Within</li>
 <li>Josh Malerman - Bird Box</li>
+<li>Josh Malerman - Malorie</li>
+<li>Stephen King - Mr. Harrigan's Phone</li>
+<li>Stephen King - The Life of Chuck</li>
+<li>Stephen King - If It Bleeds</li>
+<li>Stephen King - Rat</li>
+<li>Stephen King - The Outsider</li>
 </ul></div><script>var ulElement=document.getElementById("current-list"),liElements=ulElement.getElementsByTagName("li"),count=liElements.length,detailsElement=document.createElement("details"),summaryElement=document.createElement("summary");summaryElement.textContent="2025 ("+count+")",detailsElement.appendChild(summaryElement),detailsElement.appendChild(ulElement);var listContainer=document.getElementById("current-container");listContainer.appendChild(detailsElement);</script>
 
 <details><summary>2024 <span>51</span></summary>
@@ -624,7 +630,6 @@ To keep the page somewhat manageable, I've collapsed the lists by years:
 <li>Iain M Banks - The Culture - 4/10</li>
 <li>Isaac Asimov - Foundation - 4/7</li>
 <li>Jim Butcher - The Dresden Files - 1/17</li>
-<li>Josh Malerman - Bird Box - 1/2</li>
 <li>Monica Hughes - Arc One - 1/2</li>
 <li>Neal Shusterman - The Unwind dystology - 1/6</li>
 <li>Orson Scott Card - Ender saga - 2/6</li>
@@ -655,6 +660,7 @@ To keep the page somewhat manageable, I've collapsed the lists by years:
 <li>John Scalzi - Old Man's War - 6/6</li>
 <li>John Scalzi - The Dispatcher series - 3/3</li>
 <li>John Scalzi - The Interdependency - 3/3</li>
+<li>Josh Malerman - Bird Box - 2/2</li>
 <li>Kim Stanley Robinson - The Mars trilogy - 3/3</li>
 <li>Liu Cixin - Remembrance of Earth's Past - 3/3</li>
 <li>Martha Wells - The Murderbot Diaries - 6/6</li>
