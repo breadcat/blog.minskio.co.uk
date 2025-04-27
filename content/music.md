@@ -1,7 +1,7 @@
 ---
 title: Music Library
 layout: single
-lastmod: 2025-01-15T13:44:00
+lastmod: 2025-04-27T09:43:00
 ---
 
 This page is purely for reference, as detailed [in this post](/notes-on-sorting-music). While Spotify has 99.9% of songs you'd want, there are some unusual omissions that I've collapsed in a list below.
@@ -137,6 +137,7 @@ This page is purely for reference, as detailed [in this post](/notes-on-sorting-
 | Caravan Palace | [Lone Digger](spotify:track:3Y91fIpStxQrUaXuaTbGVv) |
 | Caravan Palace | [Rock It for Me](spotify:track:69R1HdSdsFklxxZzSiVfYc) |
 | Caravan Palace | [Wonderland](spotify:track:1Ql0ya4oA8HlthXjb1X7VZ) |
+| Caribou | [Odessa](spotify:track:3iwH1DfB0Yq2uKhCv7SMxp) |
 | Carpenter Brut | [Turbo Killer](spotify:track:10qbHF920zH5K8C8IcE5AL) |
 | Cassyette | [Sad Girl Summer](spotify:track:52ITJgaQHGQ4Uxnqz44jWP) |
 | Catfish and the Bottlemen | [Kathleen](spotify:track:1MHYAqWWdDRePmnqORynrq) |
@@ -217,6 +218,7 @@ This page is purely for reference, as detailed [in this post](/notes-on-sorting-
 | Empire Of The Sun | [Walking On A Dream](spotify:track:5r5cp9IpziiIsR6b93vcnQ) |
 | End Of Fashion | [O Yeah](spotify:track:0m1EeQNY6qOwKxaZO4ETim) |
 | Engineers | [Clean Coloured Wire](spotify:track:7suftoRI9XwESbwB2ZvIRK) |
+| Ennio Morricone, Joan Baez | [Here's to you](spotify:track:0o7aA8TNb6zHreGzcDsSU1) |
 | Enter Shikari | [Live Outside](spotify:track:4gFBRNM2w934WZMOINd49G) |
 | Enter Shikari | [{ The Dreamer's Hotel }](spotify:track:0kKLYJlTi8RRR18vTOBsKd) |
 | Enter Shikari | [THE GREAT UNKNOWN](spotify:track:6JVjF24NA12pIUZJG8DChU) |
@@ -255,6 +257,7 @@ This page is purely for reference, as detailed [in this post](/notes-on-sorting-
 | Four Year Strong | [It Must Really Suck To Be Four Year Strong Right Now](spotify:track:0FS9fZv3bXiXDyYfIOkVu9) |
 | Four Year Strong | [maybe it's me](spotify:track:3IQ6lvRicxZpI3AhQaGPI5) |
 | Four Year Strong | [uncooked](spotify:track:4jIwJ0CAWO4poBAtgRT0Lr) |
+| Frank Turner | [The Road](spotify:track:1nrjALVo4hloxsFQeVeMxI) |
 | Freeze the Atlantic | [Tusen Takk](spotify:track:4jKet3ukiejU77ViqeISxA) |
 | French 79 | [Hometown](spotify:track:47x1Gh7yk5mblUWxWRdtjH) |
 | Friendly Fires | [Jump in the Pool](spotify:track:2XvxT05vgWnn2TfcGyxdhi) |
@@ -263,11 +266,12 @@ This page is purely for reference, as detailed [in this post](/notes-on-sorting-
 | Fuzz | [Loose Sutures](spotify:track:7Cww7IuARJxXVv7Rg8r2zG) |
 | Gabriella Cilmi | [Sweet About Me](spotify:track:5wznxkB792LjSRdbZ1J1zo) |
 | GABRIELLE | [Rise](spotify:track:63nkNgHkmfgjElTEnCzKYU) |
-| Gackt | [REDEMPTION](spotify:track:1OcDyY8XQNT8ckiTPgLMfv) |
+| GACKT | [REDEMPTION](spotify:track:1OcDyY8XQNT8ckiTPgLMfv) |
 | Garbage | [Bleed Like Me](spotify:track:5Zzev4Yk9atMR98vlgXMAF) |
 | Garbage | [Boys Wanna Fight](spotify:track:7Hto0ctjj5VhvgSEXXvCah) |
 | Garbage | [I Think I'm Paranoid](spotify:track:3LVHIqnIsnrcK1x4Ns2xNb) |
 | Garbage | [Run Baby Run](spotify:track:6YCwW2naerGfO8WfvCRVZp) |
+| Gary Clark Jr. | [Bright Lights](spotify:track:2NTDt9Fiqp5wTBM6cLO6Bu) |
 | Gary Moore, Phil Lynott | [Out In The Fields](spotify:track:0deI3lZkgbVt6wRsv5s0Ev) |
 | Gary Numan, Tubeway Army | [Are 'Friends' Electric?](spotify:track:0VktLUEpFVQ7Zl5c80uKHH) |
 | Ghost | [Dance Macabre](spotify:track:4pIKFpwflOdhYNIRmPTj3E) |
@@ -287,6 +291,7 @@ This page is purely for reference, as detailed [in this post](/notes-on-sorting-
 | Grendel | [Harsh Generation](spotify:track:4g6PSQMM8duNABKpeV5jae) |
 | Greta Van Fleet | [Highway Tune](spotify:track:7aOor99o8NNLZYElOXlBG1) |
 | Grimes, i_o | [Violence](spotify:track:3KeOFns3LGJuh1lapMm9eA) |
+| Grinderman | [Palaces of Montezuma](spotify:track:0enI706jL6wsQS5QGPMeKf) |
 | Grizzly Bear | [Two Weeks](spotify:track:04uR2cdkgiaLIzebPcs25m) |
 | Groove Armada | [At the River](spotify:track:0KIPa0YuQ5QFmlAqRyXNd9) |
 | Guano Apes | [Open Your Eyes](spotify:track:5oxpT46KeiEuckYnChgFFT) |
@@ -344,6 +349,7 @@ This page is purely for reference, as detailed [in this post](/notes-on-sorting-
 | Khruangbin | [May Ninth](spotify:track:5yVGW2o9LXaiiS4I3HUM3k) |
 | Kings of Leon | [The Bandit](spotify:track:7aYBo6hxjhJc8ECkbKAqnR) |
 | Kings of Leon | [Waste A Moment](spotify:track:5LlsD7LdSMkGV4Iu0a2Zq0) |
+| Kishi Bashi | [I Am the Antichrist to You](spotify:track:3tnfHy341CDlAtcSmUtuOG) |
 | Klaxons | [Atlantis To Interzone](spotify:track:2ZULEJnMCy8S54UwCecbJr) |
 | Klaxons | [Golden Skans](spotify:track:6BqWhxll86CGGE6WxgdRqG) |
 | Klaxons | [Gravity's Rainbow](spotify:track:3TRM61i04EmRRqx945pnB0) |
@@ -583,6 +589,7 @@ This page is purely for reference, as detailed [in this post](/notes-on-sorting-
 | Royal Blood | [Little Monster](spotify:track:5fpj84RsT9cOTfWUCxBTXu) |
 | Royal Blood | [Oblivion](spotify:track:3Ye5icBka8ODjcaEQakPvZ) |
 | Royal Blood | [Typhoons](spotify:track:5aFGo8wHEntVxFI8IF7Wuj) |
+| Royel Otis | [Oysters In My Pocket](spotify:track:2B664ulJSVBd6B8SAY3Wux) |
 | Röyksopp | [Eple](spotify:track:1aPuz1X96cVMXepwq6JVn8) |
 | Röyksopp | [Happy Up Here](spotify:track:7a3uRN7bXdVhMsfzxPJSWQ) |
 | Russian Circles | [Harper Lewis](spotify:track:2iG7MCJdoM4NfvsK2AVgqY) |
@@ -605,6 +612,7 @@ This page is purely for reference, as detailed [in this post](/notes-on-sorting-
 | Shakira, Freshlyground | [Waka Waka (This Time for Africa) ](spotify:track:6bNB5gxFX6Q87DbQWb8OWZ) |
 | Shed Seven | [Chasing Rainbows](spotify:track:4IFC2bM8SquqQYOu9tiQ8C) |
 | Shed Seven | [Disco Down](spotify:track:6gG8N0BywH4esZknjaD3Fh) |
+| Sheryl Crow | [Sweet Child O' Mine](spotify:track:0273i5ysrlovK8rr0KJfQn) |
 | She Wants Revenge | [Tear You Apart](spotify:track:1XYHqSfJK9ud9nuRjQcbXi) |
 | ShockOne | [Follow Me](spotify:track:54Tm26Pv3efwgeuzlN5A1m) |
 | Sigrid | [Strangers](spotify:track:3CWuU5kIw8zsWJTcgreUwl) |
@@ -707,6 +715,7 @@ This page is purely for reference, as detailed [in this post](/notes-on-sorting-
 | The Hellacopters | [Everything's On TV](spotify:track:17qNmLSm0OoxJgAFxY4i3c) |
 | The Isley Brothers | [Shout](spotify:track:4J7VWj4ibCSw3tCiRKpypm) |
 | The Jam | [That's Entertainment](spotify:track:7MH7TkjQ4RA1vG454dciw0) |
+| The Joy Formidable | [Whirring](spotify:track:2XbqxKjCnE9YWfPRqwgtPq) |
 | The Kings Of Frog Island | [Welcome to the Void](spotify:track:6Dp8x6l7wbvLMxpz1pLYzl) |
 | The Kinks | [Waterloo Sunset (Stereo)](spotify:track:1bTpnj3N8xyTWy3bZzdJi5) |
 | The Last Dinner Party | [Nothing Matters](spotify:track:3p84R45PM75ngq8XRoe45o) |
@@ -831,6 +840,7 @@ This page is purely for reference, as detailed [in this post](/notes-on-sorting-
 | X Ambassadors | [Renegades](spotify:track:5cKhVlFn0Kuq68V56lSLvW) |
 | Yeah Yeah Yeahs | [Gold Lion](spotify:track:6tuiDRFaXOBqFLpeTBjAAn) |
 | Yeah Yeah Yeahs | [Heads Will Roll](spotify:track:2WRFD9WczJ975X2K1Y9YVs) |
+| Yeah Yeah Yeahs, Perfume Genius | [Spitting Off the Edge of the World](spotify:track:0JX23XA8E7aN1Chj32kgVn) |
 | Yeah Yeah Yeahs | [Pin](spotify:track:7AEvyxJS2Eayyr6q5sEU66) |
 | Yelle | [Comme un enfant - Freaks radio MIX](spotify:track:62a99w6uLXlUGJjpnlw6iN) |
 | Yellowcard | [Ocean Avenue](spotify:track:23oxJmDc1V9uLUSmN2LIvx) |
