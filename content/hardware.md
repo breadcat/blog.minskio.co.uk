@@ -92,6 +92,6 @@ What powers the site and its associated clients
 <ul>
 <li>Internet: 1Gbps Fibre</li>
 <li>Router: Ubiquiti EdgeRouter X /w OpenWRT</li>
-<li>Access Point: Ubiquiti UAP-nanoHD</li>
+<li>Access Point: Ubiquiti UAP-nanoHD /w OpenWRT</li>
 </ul>
 </details>
