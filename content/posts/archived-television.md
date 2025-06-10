@@ -2,9 +2,8 @@
 title: Archived Television
 tags: ["Media", "Archive"]
 date: 2018-01-01T01:00:00
-lastmod: 2025-02-18T14:22:00
+lastmod: 2025-06-10T14:27:00
 ---
-
 * 11.22.63
 * 3 Body Problem (1)
 * A Certain Scientific Railgun
@@ -29,7 +28,7 @@ lastmod: 2025-02-18T14:22:00
 * Bob's Burgers (15)
 * BoJack Horseman
 * Bosch
-* Bosch: Legacy
+* Bosch: Legacy (3)
 * Breaking Bad
 * Brooklyn Nine-Nine
 * Burnistoun
@@ -91,7 +90,8 @@ lastmod: 2025-02-18T14:22:00
 * Infinity Train
 * Inside Job
 * Inside No. 9 (6)
-* INVINCIBLE (2)
+* Into the Dark (1)
+* INVINCIBLE (3)
 * Jonathan Creek
 * Junji Ito Collection
 * KonoSuba - God’s Blessing on This Wonderful World!!
@@ -100,7 +100,7 @@ lastmod: 2025-02-18T14:22:00
 * Line of Duty
 * Loki
 * Long Way Up
-* Love, Death & Robots
+* Love, Death & Robots (4)
 * Luther
 * Made For Love
 * Mind Field
@@ -113,6 +113,7 @@ lastmod: 2025-02-18T14:22:00
 * Obi-Wan Kenobi
 * One-Punch Man (2)
 * Over the Garden Wall
+* Pantheon (1)
 * Paradise PD
 * Patrick Melrose
 * Peaky Blinders
@@ -126,10 +127,10 @@ lastmod: 2025-02-18T14:22:00
 * Rick and Morty
 * Ross Kemp on Gangs
 * Savage Builds
-* Severance (1)
+* Severance (2)
 * Sherlock
 * Shōgun (1)
-* Silo (1)
+* Silo (2)
 * Slow Horses (4)
 * Smiling Friends
 * Solar Opposites (5)
