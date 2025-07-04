@@ -1,21 +1,24 @@
 ---
 title: Reading List
 layout: single
-lastmod: 2025-05-14T11:36:00
+lastmod: 2025-07-04T13:45:00
 ---
 
 I generally strive for a book per week, but this is by no means a steadfast goal. For a list of series and their status, check [the bottom of this page](#book-series).
 
 <details><summary>Works in Progress</summary>
 <ul>
-<li>Nick Cutter - The Deep</li>
+<li>Caitlin Starling - The Luminous Dead</li>
 </ul>
 </details>
 
 
 To keep the page somewhat manageable, I've collapsed the lists by years:
 
-<div id="current-container"><ul id="current-list">
+
+<details>
+<summary>2025 <span>0</span></summary>
+<ul>
 <li>Stephen R Donaldson - This Day All Gods Die</li>
 <li>Stephen King - The Breathing Method</li>
 <li>Stephen King - The Body</li>
@@ -40,7 +43,16 @@ To keep the page somewhat manageable, I've collapsed the lists by years:
 <li>SA Barnes - Dead Silence</li>
 <li>TJ Payne - Intercepts</li>
 <li>Stephen King - Holly</li>
-</ul></div><script>var ulElement=document.getElementById("current-list"),liElements=ulElement.getElementsByTagName("li"),count=liElements.length,detailsElement=document.createElement("details"),summaryElement=document.createElement("summary");summaryElement.textContent="2025 ("+count+")",detailsElement.appendChild(summaryElement),detailsElement.appendChild(ulElement);var listContainer=document.getElementById("current-container");listContainer.appendChild(detailsElement);</script>
+<li>Nick Cutter - The Deep</li>
+<li>Terry Pratchett & Stephen Baxter - The Long Earth</li>
+<li>Terry Pratchett & Stephen Baxter - The Long War</li>
+<li>Terry Pratchett & Stephen Baxter - The Long Mars</li>
+<li>Stephen King - Never Flinch</li>
+<li>Terry Pratchett & Stephen Baxter - The Long Utopia</li>
+<li>Terry Pratchett & Stephen Baxter - The Long Cosmos</li>
+</ul>
+</details>
+<script>document.querySelectorAll('details').forEach(details => { const ul = details.querySelector('ul'); const span = details.querySelector('summary span'); if (ul && span) { const count = ul.querySelectorAll('li').length; span.textContent = count; } });</script>
 
 <details><summary>2024 <span>51</span></summary>
 <ul>
@@ -636,7 +648,6 @@ To keep the page somewhat manageable, I've collapsed the lists by years:
 <li>Monica Hughes - Arc One - 1/2</li>
 <li>Neal Shusterman - The Unwind dystology - 1/6</li>
 <li>Orson Scott Card - Ender saga - 2/6</li>
-<li>Stephen King - Holly Gibney - 3/4</li>
 <li>Suzanne Collins - The Hunger Games - 3/4</li>
 <li><a href="/sf-masterworks-progress/">Various - SF Masterworks</a> - 64/73</li>
 </ul>
@@ -676,10 +687,12 @@ To keep the page somewhat manageable, I've collapsed the lists by years:
 <li>Philip Pullman - His Dark Materials - 3/3</li>
 <li>Philip Reeve - Mortal Engines Quartet - 4/4</li>
 <li>Stephen King - Bill Hodges Trilogy - 3/3</li>
+<li>Stephen King - Holly Gibney - 4/4</li>
 <li>Stephen King - The Shining - 2/2</li>
 <li>Stephen R Donaldson - The Gap Cycle - 4/5</li>
 <li>Tade Thompson - The Wormwood Trilogy - 3/3</li>
 <li>Terry Pratchett - Discworld - 41/41</li>
+<li>Terry Pratchett & Stephen Baxter - The Long Earth - 5/5</li>
 <li>V E Schwab - Villains - 2/2</li>
 <li>VC Andrews - Dollanganger series - 5/5</li>
 <li>Yahtzee Croshaw - The DEDA Files - 2/2</li>
