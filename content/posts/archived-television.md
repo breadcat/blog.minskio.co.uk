@@ -2,7 +2,7 @@
 title: Archived Television
 tags: ["Media", "Archive"]
 date: 2018-01-01T01:00:00
-lastmod: 2025-07-14T12:23:00
+lastmod: 2025-07-14T14:14:00
 ---
 
 * 11.22.63
@@ -25,7 +25,7 @@ lastmod: 2025-07-14T12:23:00
 * Big Mouth
 * Black Books
 * Black Lagoon
-* Black Mirror
+* Black Mirror (5)
 * Bob's Burgers (15)
 * BoJack Horseman
 * Bosch
@@ -70,7 +70,7 @@ lastmod: 2025-07-14T12:23:00
 * FROM (3)
 * Fullmetal Alchemist
 * Fullmetal Alchemist Brotherhood
-* Futurama (5)
+* Futurama (7)
 * Game of Thrones
 * Garth Marenghi's Darkplace
 * Going Postal
@@ -89,7 +89,7 @@ lastmod: 2025-07-14T12:23:00
 * Ideal
 * Inferno Cop
 * Infinity Train
-* Inside Job
+* Inside Job (1)
 * Inside No. 9 (6)
 * Into the Dark (1)
 * INVINCIBLE (3)
@@ -125,7 +125,7 @@ lastmod: 2025-07-14T12:23:00
 * Psycho-Pass
 * Psychoville
 * Raised by Wolves
-* Rick and Morty
+* Rick and Morty (7)
 * Ross Kemp on Gangs
 * Savage Builds
 * Severance (2)
@@ -139,6 +139,7 @@ lastmod: 2025-07-14T12:23:00
 * South Park (26)
 * Space Dandy
 * Space Patrol Luluco
+* Spider-Man (1)
 * Squid Game
 * SS-GB
 * Stargate Atlantis (5)
