@@ -2,8 +2,9 @@
 title: Archived Movies
 tags: ["Media", "Archive"]
 date: 2018-01-01T01:00:00
-lastmod: 2025-06-10T14:27:00
+lastmod: 2025-07-14T12:23:00
 ---
+
 * 100 Things (2018)
 * 10 Cloverfield Lane (2016)
 * 12 Angry Men (1957)
@@ -932,6 +933,7 @@ lastmod: 2025-06-10T14:27:00
 * The Number 23 (2007)
 * The Offering (2022)
 * The Old Guard (2020)
+* The Old Guard 2 (2025)
 * The One (2001)
 * The Parole Officer (2001)
 * The Perfection (2018)
@@ -994,6 +996,7 @@ lastmod: 2025-06-10T14:27:00
 * The Woman in the Yard (2025)
 * The World's End (2013)
 * The Wraith (1986)
+* The Wrestler (2008)
 * They (2002)
 * They Look Like People (2016)
 * Thinner (1996)

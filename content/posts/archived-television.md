@@ -2,8 +2,9 @@
 title: Archived Television
 tags: ["Media", "Archive"]
 date: 2018-01-01T01:00:00
-lastmod: 2025-06-10T14:27:00
+lastmod: 2025-07-14T12:23:00
 ---
+
 * 11.22.63
 * 3 Body Problem (1)
 * A Certain Scientific Railgun
@@ -102,7 +103,7 @@ lastmod: 2025-06-10T14:27:00
 * Long Way Up
 * Love, Death & Robots (4)
 * Luther
-* Made For Love
+* Made For Love (1)
 * Mind Field
 * Moon Knight
 * Mr. Mercedes
