@@ -2,13 +2,13 @@
 	{{ .Content }}
 	<details>
 		<summary>Dated <span>{{ .Site.Taxonomies.dream.dated | len}}</span></summary>
-		<ul>{{ range sort .Site.Taxonomies.dream.dated ".Page.RelPermalink" "desc" }}
+		<ul>{{ range sort .Site.Taxonomies.dream.dated "Page.Date" "desc" }}
 			<li><a href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a></li>{{ end }}
 		</ul>
 	</details>
 	<details>
 		<summary>Archive <span>{{ .Site.Taxonomies.dream.undated | len}}</span></summary>
-		<ul>{{ range sort .Site.Taxonomies.dream.undated ".Page.RelPermalink" "desc" }}
+		<ul>{{ range sort .Site.Taxonomies.dream.undated "Page.Title" }}
 			<li><a href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a></li>{{ end }}
 		</ul>
 	</details>{{ end }}
