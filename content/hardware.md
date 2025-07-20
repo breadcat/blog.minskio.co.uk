@@ -40,11 +40,11 @@ What powers the site and its associated clients
 <details><summary>NAS</summary>
 <ul>
 <li>Name: Ilias</li>
-<li>Hardware: ODROID-HC4 /w RTC+OLED</li>
-<li>CPU: Amlogic S905X3</li>
-<li>RAM: 4GB</li>
+<li>Hardware: Dell OptiPlex 3060</li>
+<li>CPU: Intel Core i3-8100</li>
+<li>RAM: 8GB</li>
 <li>Storage: 8TB HDD</li>
-<li>OS: Debian</li>
+<li>OS: NixOS</li>
 </ul>
 </details>
 
@@ -55,7 +55,7 @@ What powers the site and its associated clients
 <li>CPU: Intel i5-3320M</li>
 <li>RAM: 2x 8GB</li>
 <li>Storage: 120GB SSD</li>
-<li>OS: ArchLinux</li>
+<li>OS: NixOS</li>
 </ul>
 </details>
 
@@ -65,7 +65,7 @@ What powers the site and its associated clients
 <li>Hardware: Intel NUC NUC5i3RYH</li>
 <li>CPU: Intel i3-5010U</li>
 <li>Storage: 120GB SSD</li>
-<li>OS: ArchLinux</li>
+<li>OS: NixOS</li>
 <li>Television: Sony 42"</li>
 <li>Other Hardware: Intel NUC HDMI-CEC Adapter</li>
 <li>Controller: Sony DualShock 4</li>
