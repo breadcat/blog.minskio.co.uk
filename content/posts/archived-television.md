@@ -2,21 +2,18 @@
 title: Archived Television
 tags: ["Media", "Archive"]
 date: 2018-01-01T01:00:00
-lastmod: 2025-07-14T14:14:00
+lastmod: 2025-07-28T11:33:00
 ---
-
 * 11.22.63
 * 3 Body Problem (1)
-* A Certain Scientific Railgun
 * Adventure Time
 * Almost Human
 * Altered Carbon
 * American Gods
+* The Andromeda Strain (2008) (1)
 * Angel Cop
-* An Idiot Abroad
 * Archer
 * Ash vs. Evil Dead
-* A Touch of Cloth
 * Attack on Titan (4)
 * Avenue 5
 * Battle Angel Alita
@@ -30,20 +27,25 @@ lastmod: 2025-07-14T14:14:00
 * BoJack Horseman
 * Bosch
 * Bosch: Legacy (3)
+* The Boys (4)
 * Breaking Bad
 * Brooklyn Nine-Nine
 * Burnistoun
 * Can't Get You Out of My Head
+* A Certain Scientific Railgun
 * Chainsaw Man
 * Channel Zero (2)
 * Chernobyl
 * Childhood's End
 * Clarkson's Farm
 * Cleopatra 2525
+* The Colour of Magic
 * Conquering Northern China
-* Cowboy Bebop
 * Cowboy Bebop (2021)
+* Cowboy Bebop
 * Creepshow
+* The Crossing
+* The Cuphead Show!
 * Cyberpunk: Edgerunners
 * Dark Angel
 * Dark Tourist
@@ -56,10 +58,16 @@ lastmod: 2025-07-14T14:14:00
 * Dorohedoro
 * Dr. Stone
 * Drugs, Inc.
+* The End of the F***ing World
+* The Event
 * Evil Genius
+* The Exorcist
+* The Expanse: One Ship
+* The Expanse
 * Fallout (1)
 * Fargo (5)
 * Farscape
+* The Fear Index
 * Final Space (3)
 * Fireball
 * Firefly
@@ -68,16 +76,19 @@ lastmod: 2025-07-14T14:14:00
 * Foundation (2)
 * Freedom
 * FROM (3)
-* Fullmetal Alchemist
 * Fullmetal Alchemist Brotherhood
+* Fullmetal Alchemist
 * Futurama (7)
 * Game of Thrones
 * Garth Marenghi's Darkplace
 * Going Postal
+* The Grand Tour
 * Gravity Falls
 * Guillermo del Toro's Cabinet of Curiosities
 * Gunpowder
 * Hannibal
+* The Haunting of Bly Manor
+* The Haunting of Hill House
 * Heroes
 * High Score
 * Hometown: A Killing
@@ -87,16 +98,19 @@ lastmod: 2025-07-14T14:14:00
 * Hyperdrive
 * I Am Groot (2)
 * Ideal
+* An Idiot Abroad
 * Inferno Cop
 * Infinity Train
 * Inside Job (1)
 * Inside No. 9 (6)
 * Into the Dark (1)
 * INVINCIBLE (3)
+* The IT Crowd
 * Jonathan Creek
 * Junji Ito Collection
 * KonoSuba - God’s Blessing on This Wonderful World!!
 * Last Chance Lawyer NYC
+* The Last of Us (1)
 * Lifeline
 * Line of Duty
 * Loki
@@ -104,15 +118,23 @@ lastmod: 2025-07-14T14:14:00
 * Love, Death & Robots (4)
 * Luther
 * Made For Love (1)
+* The Mandalorian
+* The Men Who Made Us Fat
+* The Men Who Made Us Spend
+* The Men Who Made Us Thin
+* The Midnight Gospel (1)
 * Mind Field
+* The Mist
 * Moon Knight
 * Mr. Mercedes
 * Mr. Pickles
 * Nailed It!
 * Nathan Barley
 * Nightflyers
+* The OA
 * Obi-Wan Kenobi
 * One-Punch Man (2)
+* The Orville (3)
 * Over the Garden Wall
 * Pantheon (1)
 * Paradise PD
@@ -125,13 +147,16 @@ lastmod: 2025-07-14T14:14:00
 * Psycho-Pass
 * Psychoville
 * Raised by Wolves
+* The Rehearsal
 * Rick and Morty (7)
 * Ross Kemp on Gangs
 * Savage Builds
 * Severance (2)
 * Sherlock
+* The Shivering Truth
 * Shōgun (1)
 * Silo (2)
+* The Sinner
 * Slow Horses (4)
 * Smiling Friends
 * Solar Opposites (5)
@@ -142,6 +167,7 @@ lastmod: 2025-07-14T14:14:00
 * Spider-Man (1)
 * Squid Game
 * SS-GB
+* The Stand (1994)
 * Stargate Atlantis (5)
 * Stargate SG-1 (10)
 * Star Trek (3)
@@ -155,59 +181,29 @@ lastmod: 2025-07-14T14:14:00
 * Star Trek: Strange New Worlds (2)
 * Star Trek: Voyager (7)
 * Steins;Gate
+* The Strain (4)
 * Stranger Things
 * Succession
 * Swamp Thing
 * Taken
 * Taskmaster (17)
 * Taskmaster: Champion of Champions
+* The Terror (1)
 * Terror in Resonance
 * Testees (1)
-* The Andromeda Strain (2008) (1)
-* The Boys (4)
-* The Colour of Magic
-* The Crossing
-* The Cuphead Show!
-* The End of the F***ing World
-* The Event
-* The Exorcist
-* The Expanse
-* The Expanse: One Ship
-* The Fear Index
-* The Grand Tour
-* The Haunting of Bly Manor
-* The Haunting of Hill House
-* The IT Crowd
-* The Last of Us (1)
-* The Mandalorian
-* The Men Who Made Us Fat
-* The Men Who Made Us Spend
-* The Men Who Made Us Thin
-* The Midnight Gospel (1)
-* The Mist
-* The OA
-* The Orville (3)
-* The Rehearsal
-* The Shivering Truth
-* The Sinner
-* The Stand (1994)
-* The Strain (4)
-* The Terror (1)
-* The Twilight Zone
-* The Twilight Zone (2019)
-* The Wheel of Time (2)
-* The Wire
-* The Woman in the House Across the Street from the Girl in the Window
 * Tidying Up with Marie Kondo
 * Tiger King: Murder, Mayhem and Madness
 * Tin Star
 * Titan Maximum
 * Toast of London (3)
 * Toast of Tinseltown (1)
+* A Touch of Cloth
 * Tower of God (1)
 * Travel Man: 48 Hours in...
 * TRIGUN
 * True Blood (7)
+* The Twilight Zone (2019)
+* The Twilight Zone
 * Undone (1)
 * Upload (3)
 * V (2009)
@@ -217,7 +213,10 @@ lastmod: 2025-07-14T14:14:00
 * Wayward Pines
 * Westworld
 * What If...? (2)
+* The Wheel of Time (2)
+* The Wire
+* The Woman in the House Across the Street from the Girl in the Window
 * World on a Wire
-* X-Men
 * X-Men '97 (1)
 * X-Men Evolution
+* X-Men
