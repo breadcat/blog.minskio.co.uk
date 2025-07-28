@@ -2,7 +2,7 @@
 title: Archived Television
 tags: ["Media", "Archive"]
 date: 2018-01-01T01:00:00
-lastmod: 2025-07-28T11:33:00
+lastmod: 2025-07-28T15:32:00
 ---
 * 11.22.63
 * 3 Body Problem (1)
@@ -135,6 +135,7 @@ lastmod: 2025-07-28T11:33:00
 * Obi-Wan Kenobi
 * One-Punch Man (2)
 * The Orville (3)
+* The Outsider (1)
 * Over the Garden Wall
 * Pantheon (1)
 * Paradise PD
@@ -175,9 +176,9 @@ lastmod: 2025-07-28T11:33:00
 * Star Trek: Deep Space Nine (7)
 * Star Trek: Discovery (4)
 * Star Trek: Enterprise (4)
-* Star Trek: Lower Decks (4)
+* Star Trek: Lower Decks (5)
 * Star Trek: Picard (3)
-* Star Trek: Prodigy (1)
+* Star Trek: Prodigy (2)
 * Star Trek: Strange New Worlds (2)
 * Star Trek: Voyager (7)
 * Steins;Gate
