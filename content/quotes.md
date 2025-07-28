@@ -612,6 +612,8 @@ Quotes I've found in and around the Internet, collected because they make me smi
 
 >Yes I can hear you Clem Fandango <!-- toast of london -->
 
+>Yes, I know what you're saying, you don't have to keep asking <!-- South Park -->
+
 >Yes, the planet got destroyed. But for a beautiful moment in time we created a lot of value for shareholders <!-- the new yorker -->
 
 >Yes, there's a TV set on at number five, it's in the front room. They're watching Columbo <!-- TV licence ad -->
