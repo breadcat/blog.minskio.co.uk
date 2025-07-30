@@ -1,6 +1,8 @@
 ---
 title: "GCZ, RVZ and WIA size comparison"
 date: 2020-12-29T15:18:00
+lastmod: 2025-07-30T12:13:00
+layout: table
 tags: ["Emulation", "Formats", "Games", "Media", "Software"]
 ---
 
@@ -10,60 +12,65 @@ I tried this with Kururin Squash!, a Japanese exclusive Gamecube game and sequel
 
 The compressed sizes were as follows, with percentage values to match:
 
-| Format | Size (bytes) | Relative size (percent) |
-| --- | --- | --- |
-| ISO (Original) | 1,459,978,240 | 610.57 |
-| ISO (Uncompressed) | 239,116,400 | 100.00 |
-| GCZ (Standard) | 107,272,770 | 44.87 |
-| WIA (No Compression) | 239,149,168 | 100.01 |
-| WIA (Purge) | 229,449,768 | 95.96 |
-| WIA (2MiB, bzip2, level 1) | 106,515,768 | 44.55 |
-| WIA (2MiB, bzip2, level 5) | 105,127,440 | 43.97 |
-| WIA (2MiB, bzip2, level 9) | 104,732,188 | 43.79 |
-| WIA (2MiB, LZMA, level 1) | 91,674,188 | 38.34 |
-| WIA (2MiB, LZMA, level 5) | 86,715,744 | 36.26 |
-| **WIA (2MiB, LZMA, level 9)** | **86,618,716** | **36.22** |
-| WIA (2MiB, LZMA2, level 1) | 91,688,008 | 38.34 |
-| WIA (2MiB, LZMA2, level 5) | 86,728,708 | 36.27 |
-| WIA (2MiB, LZMA2, level 9) | 86,728,708 | 36.27 |
-| RVZ (128KiB, bzip2, level 1) | 106,771,616 | 44.66 |
-| RVZ (128KiB, bzip2, level 5) | 106,339,216 | 44.47 |
-| RVZ (128KiB, bzip2, level 9) | 106,339,216 | 44.47 |
-| RVZ (512KiB, bzip2, level 1) | 106,568,640 | 44.57 |
-| RVZ (512KiB, bzip2, level 5) | 105,239,600 | 44.01 |
-| RVZ (512KiB, bzip2, level 9) | 105,093,188 | 43.95 |
-| RVZ (2MiB, bzip2, level 1) | 106,515,768 | 44.55 |
-| RVZ (2MiB, bzip2, level 5) | 105,127,440 | 43.96 |
-| RVZ (2MiB, bzip2, level 9) | 104,732,188 | 43.80 |
-| RVZ (128KiB, LZMA, level 1) | 96,654,712 | 40.42 |
-| RVZ (128KiB, LZMA, level 5) | 92,597,268 | 38.72 |
-| RVZ (128KiB, LZMA, level 9) | 92,521,648 | 38.69 |
-| RVZ (512KiB, LZMA, level 1) | 93,891,916 | 39.27 |
-| RVZ (512KiB, LZMA, level 5) | 89,668,640 | 37.50 |
-| RVZ (512KiB, LZMA, level 9) | 89,586,320 | 37.47 |
-| RVZ (2MiB, LZMA, level 1) | 91,674,188 | 38.34 |
-| RVZ (2MiB, LZMA, level 5) | 86,715,744 | 36.27 |
-| **RVZ (2MiB, LZMA, level 9)** | **86,618,716** | **36.22** |
-| RVZ (128KiB, LZMA2, level 1) | 96,666,280 | 40.43 |
-| RVZ (128KiB, LZMA2, level 5) | 92,608,300 | 38.73 |
-| RVZ (128KiB, LZMA2, level 9) | 92,532,604 | 38.70 |
-| RVZ (512KiB, LZMA2, level 1) | 93,905,124 | 39.27 |
-| RVZ (512KiB, LZMA2, level 5) | 89,681,068 | 37.51 |
-| RVZ (512KiB, LZMA2, level 9) | 89,598,776 | 37.47 |
-| RVZ (2MiB, LZMA2, level 1) | 91,688,008 | 38.34 |
-| RVZ (2MiB, LZMA2, level 5) | 86,728,708 | 36.27 |
-| RVZ (2MiB, LZMA2, level 9) | 86,631,708 | 36.23 |
-| RVZ (128KiB, Zstandard, level 1) | 111,340,684 | 46.57 |
-| RVZ (128KiB, Zstandard, level 5) | 105,730,496 | 44.22 |
-| RVZ (128KiB, Zstandard, level 10) | 104,140,564 | 43.56 |
-| RVZ (128KiB, Zstandard, level 22) | 100,217,436 | 41.91 |
-| RVZ (512KiB, Zstandard, level 1) | 109,719,948 | 45.89 |
-| RVZ (512KiB, Zstandard, level 5) | 103,921,924 | 43.46 |
-| RVZ (512KiB, Zstandard, level 10) | 102,535,204 | 42.88 |
-| RVZ (512KiB, Zstandard, level 22) | 97,270,064 | 40.68 |
-| RVZ (2MiB, Zstandard, level 1) | 108,380,880 | 45.33 |
-| RVZ (2MiB, Zstandard, level 5) | 100,285,556 | 41.94 |
-| RVZ (2MiB, Zstandard, level 10) | 98,800,396 | 41.32 |
-| RVZ (2MiB, Zstandard, level 22) | 93,857,212 | 39.25 |
+<table id="sortable-table">
+  <thead><tr>
+    <th>Format</th><th>Size (bytes)</th><th>Relative size (percent)</th>
+  </tr></thead>
+  <tbody>
+	  <tr><td>ISO (Original)</td><td>1,459,978,240</td><td>610.57</td></tr>
+	  <tr><td>ISO (Uncompressed)</td><td>239,116,400</td><td>100.00</td></tr>
+	  <tr><td>GCZ (Standard)</td><td>107,272,770</td><td>44.87</td></tr>
+	  <tr><td>WIA (No Compression)</td><td>239,149,168</td><td>100.01</td></tr>
+	  <tr><td>WIA (Purge)</td><td>229,449,768</td><td>95.96</td></tr>
+	  <tr><td>WIA (2MiB, bzip2, level 1)</td><td>106,515,768</td><td>44.55</td></tr>
+	  <tr><td>WIA (2MiB, bzip2, level 5)</td><td>105,127,440</td><td>43.97</td></tr>
+	  <tr><td>WIA (2MiB, bzip2, level 9)</td><td>104,732,188</td><td>43.79</td></tr>
+	  <tr><td>WIA (2MiB, LZMA, level 1)</td><td>91,674,188</td><td>38.34</td></tr>
+	  <tr><td>WIA (2MiB, LZMA, level 5)</td><td>86,715,744</td><td>36.26</td></tr>
+	  <tr><td><b>WIA (2MiB, LZMA, level 9)</b></td><td><b>86,618,716</b></td><td><b>36.22</b></td></tr>
+	  <tr><td>WIA (2MiB, LZMA2, level 1)</td><td>91,688,008</td><td>38.34</td></tr>
+	  <tr><td>WIA (2MiB, LZMA2, level 5)</td><td>86,728,708</td><td>36.27</td></tr>
+	  <tr><td>WIA (2MiB, LZMA2, level 9)</td><td>86,728,708</td><td>36.27</td></tr>
+	  <tr><td>RVZ (128KiB, bzip2, level 1)</td><td>106,771,616</td><td>44.66</td></tr>
+	  <tr><td>RVZ (128KiB, bzip2, level 5)</td><td>106,339,216</td><td>44.47</td></tr>
+	  <tr><td>RVZ (128KiB, bzip2, level 9)</td><td>106,339,216</td><td>44.47</td></tr>
+	  <tr><td>RVZ (512KiB, bzip2, level 1)</td><td>106,568,640</td><td>44.57</td></tr>
+	  <tr><td>RVZ (512KiB, bzip2, level 5)</td><td>105,239,600</td><td>44.01</td></tr>
+	  <tr><td>RVZ (512KiB, bzip2, level 9)</td><td>105,093,188</td><td>43.95</td></tr>
+	  <tr><td>RVZ (2MiB, bzip2, level 1)</td><td>106,515,768</td><td>44.55</td></tr>
+	  <tr><td>RVZ (2MiB, bzip2, level 5)</td><td>105,127,440</td><td>43.96</td></tr>
+	  <tr><td>RVZ (2MiB, bzip2, level 9)</td><td>104,732,188</td><td>43.80</td></tr>
+	  <tr><td>RVZ (128KiB, LZMA, level 1)</td><td>96,654,712</td><td>40.42</td></tr>
+	  <tr><td>RVZ (128KiB, LZMA, level 5)</td><td>92,597,268</td><td>38.72</td></tr>
+	  <tr><td>RVZ (128KiB, LZMA, level 9)</td><td>92,521,648</td><td>38.69</td></tr>
+	  <tr><td>RVZ (512KiB, LZMA, level 1)</td><td>93,891,916</td><td>39.27</td></tr>
+	  <tr><td>RVZ (512KiB, LZMA, level 5)</td><td>89,668,640</td><td>37.50</td></tr>
+	  <tr><td>RVZ (512KiB, LZMA, level 9)</td><td>89,586,320</td><td>37.47</td></tr>
+	  <tr><td>RVZ (2MiB, LZMA, level 1)</td><td>91,674,188</td><td>38.34</td></tr>
+	  <tr><td>RVZ (2MiB, LZMA, level 5)</td><td>86,715,744</td><td>36.27</td></tr>
+	  <tr><td><b>RVZ (2MiB, LZMA, level 9)</b></td><td><b>86,618,716</b></td><td><b>36.22</b></td></tr>
+	  <tr><td>RVZ (128KiB, LZMA2, level 1)</td><td>96,666,280</td><td>40.43</td></tr>
+	  <tr><td>RVZ (128KiB, LZMA2, level 5)</td><td>92,608,300</td><td>38.73</td></tr>
+	  <tr><td>RVZ (128KiB, LZMA2, level 9)</td><td>92,532,604</td><td>38.70</td></tr>
+	  <tr><td>RVZ (512KiB, LZMA2, level 1)</td><td>93,905,124</td><td>39.27</td></tr>
+	  <tr><td>RVZ (512KiB, LZMA2, level 5)</td><td>89,681,068</td><td>37.51</td></tr>
+	  <tr><td>RVZ (512KiB, LZMA2, level 9)</td><td>89,598,776</td><td>37.47</td></tr>
+	  <tr><td>RVZ (2MiB, LZMA2, level 1)</td><td>91,688,008</td><td>38.34</td></tr>
+	  <tr><td>RVZ (2MiB, LZMA2, level 5)</td><td>86,728,708</td><td>36.27</td></tr>
+	  <tr><td>RVZ (2MiB, LZMA2, level 9)</td><td>86,631,708</td><td>36.23</td></tr>
+	  <tr><td>RVZ (128KiB, Zstandard, level 1)</td><td>111,340,684</td><td>46.57</td></tr>
+	  <tr><td>RVZ (128KiB, Zstandard, level 5)</td><td>105,730,496</td><td>44.22</td></tr>
+	  <tr><td>RVZ (128KiB, Zstandard, level 10)</td><td>104,140,564</td><td>43.56</td></tr>
+	  <tr><td>RVZ (128KiB, Zstandard, level 22)</td><td>100,217,436</td><td>41.91</td></tr>
+	  <tr><td>RVZ (512KiB, Zstandard, level 1)</td><td>109,719,948</td><td>45.89</td></tr>
+	  <tr><td>RVZ (512KiB, Zstandard, level 5)</td><td>103,921,924</td><td>43.46</td></tr>
+	  <tr><td>RVZ (512KiB, Zstandard, level 10)</td><td>102,535,204</td><td>42.88</td></tr>
+	  <tr><td>RVZ (512KiB, Zstandard, level 22)</td><td>97,270,064</td><td>40.68</td></tr>
+	  <tr><td>RVZ (2MiB, Zstandard, level 1)</td><td>108,380,880</td><td>45.33</td></tr>
+	  <tr><td>RVZ (2MiB, Zstandard, level 5)</td><td>100,285,556</td><td>41.94</td></tr>
+	  <tr><td>RVZ (2MiB, Zstandard, level 10)</td><td>98,800,396</td><td>41.32</td></tr>
+	  <tr><td>RVZ (2MiB, Zstandard, level 22)</td><td>93,857,212</td><td>39.25</td></tr>
+</tbody>
+</table>
 
 As you can see, from this extremely limited test, the best performing archive format is LZMA using a 2MiB block size at compression level 9. It doesn't matter which container, out of RVZ and WIA you use.
