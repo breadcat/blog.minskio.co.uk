@@ -1,7 +1,7 @@
 ---
 title: "Personal VIM cheatsheet"
 date: 2020-06-14T12:58:00
-lastmod: 2023-03-10T18:05:00
+lastmod: 2025-07-30T12:52:00
 tags : [ "Guides", "Learning", "Linux", "Servers", "Snippets", "Software", ]
 ---
 
@@ -21,6 +21,8 @@ A enters insert mode at the end of the line
 I enters insert mode at the start of the line
 a enters insert mode after current character
 i enters insert mode before current character
+o creates newline below current and enters insert mode
+O creates newline above current and enters insert mode
 
 Ctrl + r redo changes
 Ctrl + g shows location status bar
@@ -54,6 +56,10 @@ yy yank whole line
 
 w move forwards word by word
 b move backwards word by word
+f find next character on line
+F find previous character on line
+t find next character on line, but the space before
+T find previous character on line, but the space before
 
 / search for text going forwards
 / enter n next search result
@@ -144,3 +150,4 @@ Another point worth adding is sometimes files formatted outside vim will contain
 * **Edit 2021-01-02:** Added null character removal note.
 * **Edit 2021-02-11:** Added additional line break removal note.
 * **Edit 2023-03-10:** Add P/paste at position line
+* **Edit 2025-07-30:** Add finding caracters/newline-inserts
