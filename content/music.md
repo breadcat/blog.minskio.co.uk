@@ -1,7 +1,7 @@
 ---
 title: Music Library
 layout: single
-lastmod: 2025-04-27T09:43:00
+lastmod: 2025-07-30T16:09:00
 ---
 
 This page is purely for reference, as detailed [in this post](/notes-on-sorting-music). While Spotify has 99.9% of songs you'd want, there are some unusual omissions that I've collapsed in a list below.
@@ -184,6 +184,7 @@ This page is purely for reference, as detailed [in this post](/notes-on-sorting-
 | Deftones | [My Own Summer (Shove It)](spotify:track:1158ckiB5S4cpsdYHDB9IF) |
 | Demob Happy | [Be Your Man](spotify:track:1FJvstEZF4vAUr3NcmEOyZ) |
 | Depeche Mode | [Enjoy the Silence](spotify:track:0yp3TvJNlG50Q4tAHWNCRm) |
+| Depeche Mode | [Everything Counts](spotify:track:1R1vbkHj40yexphG1i7x27) |
 | Desert Sessions | [Crucifire](spotify:track:65pViNCJx3iVQBmi28FNqi) |
 | Des Rocs | [This is Our Life](spotify:track:7iRiNHAj2DjU1o0q4v4V8k) |
 | Detroit Diesel | [Lost Signal](spotify:track:3mYdOwPtjHLTdCVeyrWgD8) |
@@ -332,6 +333,8 @@ This page is purely for reference, as detailed [in this post](/notes-on-sorting-
 | JJ72 | [Serpent Sky](spotify:track:2OEca9O3wdFOs5d1oyGIvO) |
 | José González | [Heartbeats](spotify:track:3jQyadhLTxpxadQlkFh2b8) |
 | Josiah and the Bonnevilles | [Ghost](spotify:track:1IUEz40wavYETWJgak8iI3) |
+| Joy Division | [Disorder](spotify:track:5fbQCQt91LsVgXusFS0CCD) |
+| Joy Division | [Love Will Tear Us Apart](spotify:track:34iOH7LY3vme5rQxsVILZ4) |
 | Justice | [Genesis](spotify:track:4wSmqFg31t6LsQWtzYAJob) |
 | Justice | [Phantom Pt. II](spotify:track:2A3emhzbZo7eSvEUtAm3ZS) |
 | KALEO | [Way down We Go](spotify:track:0y1QJc3SJVPKJ1OvFmFqe6) |
@@ -496,6 +499,7 @@ This page is purely for reference, as detailed [in this post](/notes-on-sorting-
 | Olive | [You're Not Alone](spotify:track:4AJWkU9WQeFytNaJExtyRj) |
 | Olivia Rodrigo | [good 4 u](spotify:track:4ZtFanR9U6ndgddUvNcjcG) |
 | Øneheart, reidenshi | [snowfall](spotify:track:4xF4ZBGPZKxECeDFrqSAG4) |
+| Opus III | [It's a Fine Day](spotify:track:67Hp634KZbo9B5WMsJOalE) |
 | Orson | [No Tomorrow](spotify:track:0nJEcAgCKrFliZ5q0JxEtc) |
 | Ou Est Le Swimming Pool | [Dance the Way I Feel](spotify:track:2VtqoN1hRIL4Qe1ojSFS0d) |
 | Paolo Nutini | [Iron Sky](spotify:track:2bcC9Xyi40wnI7Od5uch31) |
@@ -537,6 +541,7 @@ This page is purely for reference, as detailed [in this post](/notes-on-sorting-
 | Portishead | [Glory Box](spotify:track:3Ty7OTBNSigGEpeW2PqcsC) |
 | Portishead | [Sour Times](spotify:track:6vTtCOimcPs5H1Jr9d0Aep) |
 | Portugal. The Man | [Feel It Still](spotify:track:6QgjcU0zLnzq5OrUoSZ3OK) |
+| Post Malone | [Circles](spotify:track:21jGcNKet2qwijlDFuPiPb) |
 | Powderfinger | [My Happiness](spotify:track:2pxxVkNhrRST8fpgA12ru8) |
 | Powderfinger | [Nature Boy](spotify:track:0yFWfgLDWHqWnOd4ToDX7K) |
 | Powderfinger | [Waiting For The Sun](spotify:track:0AExy3SdXDZZXARgWHx5LZ) |
@@ -624,6 +629,7 @@ This page is purely for reference, as detailed [in this post](/notes-on-sorting-
 | Sirkel Sag | [Ørsta rådhus](spotify:track:6ortmMaZFAhQD61jMsw6fX) |
 | Skid Row | [The Gang's All Here](spotify:track:7rYSaTuE60HiGRnytFcSIc) |
 | Skunk Anansie | [Weak](spotify:track:08peUkRXVqOPjTalCjhr1g) |
+| Slayer | [Bloodline](spotify:track:27uDL5cAoMijxbDLfaz9Xv) |
 | Sleep | [Dopesmoker](spotify:track:0m3NuZiabJ4wl4HmXONyIP) |
 | Sleep Token | [The Offering](spotify:track:1lXAzSbRH4VXrqgFuPQSFp) |
 | Slipknot | [Before I Forget](spotify:track:6wqJeItl3Vc3az4ZicSQAB) |
@@ -718,6 +724,7 @@ This page is purely for reference, as detailed [in this post](/notes-on-sorting-
 | The Joy Formidable | [Whirring](spotify:track:2XbqxKjCnE9YWfPRqwgtPq) |
 | The Kings Of Frog Island | [Welcome to the Void](spotify:track:6Dp8x6l7wbvLMxpz1pLYzl) |
 | The Kinks | [Waterloo Sunset (Stereo)](spotify:track:1bTpnj3N8xyTWy3bZzdJi5) |
+| The Knife | [Heartbeats](spotify:track:5P2hEcHjoNMh33EsFPPOJE) |
 | The Last Dinner Party | [Nothing Matters](spotify:track:3p84R45PM75ngq8XRoe45o) |
 | The Lemonheads | [If I Could Talk I'd Tell You](spotify:track:1DvlX3jxWSmVrcnD0dipmT) |
 | The Lemonheads | [Mrs. Robinson](spotify:track:1Hnv9uDIokwi4nkcVUyS0X) |
@@ -769,6 +776,7 @@ This page is purely for reference, as detailed [in this post](/notes-on-sorting-
 | The Smashing Pumpkins | [Tonight, Tonight](spotify:track:7bu0znpSbTks0O6I98ij0W) |
 | The Smashing Pumpkins | [Zero](spotify:track:4YFcGTdgmEuw8xTO4XrxbB) |
 | The Smile | [Friend Of A Friend](spotify:track:4lTLmo9aTyMJ1SoHa63WA6) |
+| The Spinto Band | [Oh Mandy](spotify:track:573QfkAwdbCY4rSIHA04LR) |
 | The Stone Roses | [I Wanna Be Adored](spotify:track:758wEKVqfYopJIHYWdLVd4) |
 | The Strokes | [Hard To Explain](spotify:track:2LMloFiV7DHpBhITOaBSam) |
 | The Subways | [Rock & Roll Queen](spotify:track:75lw5aYrDq0TJsbkqCPRIJ) |
@@ -837,6 +845,8 @@ This page is purely for reference, as detailed [in this post](/notes-on-sorting-
 | Wolfmother | [Woman](spotify:track:3CkjLJYnnyOtGk4Jx4iYS4) |
 | :Wumpscut: | [Is It You](spotify:track:2ru9ulDW4IlelKXZVSSqwC) |
 | :Wumpscut: | [Totmacher](spotify:track:3VN2DBuSG9yuLIVxULmFBi) |
+| Wunderhorse | [Leader of the Pack](spotify:track:1YYK8zYkBKxVaANQ7CkgYu) |
+| Wunderhorse | [Teal](spotify:track:1jJvNlkbQmtRpG9uIUpiYA) |
 | X Ambassadors | [Renegades](spotify:track:5cKhVlFn0Kuq68V56lSLvW) |
 | Yeah Yeah Yeahs | [Gold Lion](spotify:track:6tuiDRFaXOBqFLpeTBjAAn) |
 | Yeah Yeah Yeahs | [Heads Will Roll](spotify:track:2WRFD9WczJ975X2K1Y9YVs) |
