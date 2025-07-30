@@ -21,3 +21,6 @@ disableFastRender=true
 	dream = "dream"
 	language = "language"
 	memoir = "memoir"
+
+[outputs]
+	home = ["HTML", "JSON"]

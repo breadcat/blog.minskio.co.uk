@@ -17,7 +17,7 @@
 	aside ul{list-style:none;white-space:nowrap;padding:10px}
 	aside a,aside li{color:#e0e0e0}
 	aside{background:#212121;padding:3.5vw;top:0}
-	aside ul form input{background:#212121;color:#e0e0e0;padding:1.5vh;border:1px solid #e0e0e0;border-radius:1vh}
+	aside ul input{background:#212121;color:#e0e0e0;padding:1.5vh;border:1px solid #e0e0e0;border-radius:1vh}
 	main{margin:8vh auto;max-width:90%}
 	main h1{font-size:xx-large;margin-top:8vh}
 	input:checked,input:checked+label{opacity:50%;text-decoration:line-through}
@@ -56,16 +56,13 @@
 	</ul>
 	<ul>
 		<li>
-			<form action="https://duckduckgo.com/" method="get">
-				<input name="sites" type="hidden" value="{{ .Site.BaseURL }}">
-				<input aria-label="Search..." name="q" type="text" placeholder="Search..." >
-			</form>
+			{{ partial "search.html" . }}
 		</li>
 	</ul>
 	<ul>
 		<li>&copy; {{ now.Format "2006" }}</li>
 	</ul>
 </aside>
-<main>
+<main id="content">
 {{ block "main" . }}{{ .Content }}{{ end }}
 </main>

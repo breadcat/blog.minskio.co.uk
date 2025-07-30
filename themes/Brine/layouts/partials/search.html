@@ -1,0 +1,130 @@
+<script src="https://unpkg.com/lunr/lunr.js"></script>
+<input type="text" id="searchBox" placeholder="Search...">
+<script>
+  let idx = null;
+  let store = null;
+  let originalContent = "";
+
+  // Escape regex special chars in search terms
+  function escapeRegExp(string) {
+    return string.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+  }
+
+  // Highlight matched terms in text
+  function highlightTerms(text, terms) {
+    if (!terms.length) return text;
+    const regex = new RegExp(`\\b(${terms.map(t => escapeRegExp(t)).join("|")})\\b`, "gi");
+    return text.replace(regex, "<mark>$1</mark>");
+  }
+
+  // Clean text by normalizing whitespace and removing trailing invisible unicode chars
+  function cleanText(text) {
+    let cleaned = text.replace(/\s+/g, " ");  // Normalize whitespace to single space
+    cleaned = cleaned.trim();
+    cleaned = cleaned.replace(/[\u200B\u00A0]+$/g, "");  // Remove zero-width and non-breaking spaces at end
+    return cleaned;
+  }
+
+  // Remove replacement chars (? / U+FFFD) from text
+  function removeReplacementChars(text) {
+    return text.replace(/\uFFFD/g, "");
+  }
+
+  // Get snippet around first matched term, highlight terms, and clean text
+  function getSnippetWithHighlight(text, terms, contextWords = 40) {
+    if (!terms.length) return text;
+
+    // Remove replacement chars first
+    text = removeReplacementChars(text);
+
+    const div = document.createElement("div");
+    div.innerHTML = text;
+    const plainText = div.textContent || div.innerText || "";
+
+    const words = plainText.split(/\s+/);
+    let matchIndex = -1;
+
+    for (let i = 0; i < words.length; i++) {
+      if (terms.some(term => words[i].toLowerCase().includes(term.toLowerCase()))) {
+        matchIndex = i;
+        break;
+      }
+    }
+
+    if (matchIndex === -1) {
+      const snippet = words.slice(0, contextWords).join(" ");
+      return cleanText(snippet) + "…";
+    }
+
+    const start = Math.max(0, Math.floor(matchIndex - contextWords / 2));
+    const end = Math.min(words.length, Math.floor(matchIndex + contextWords / 2));
+    const snippet = words.slice(start, end).join(" ");
+
+    const highlighted = highlightTerms(snippet, terms);
+    return cleanText(highlighted) + "…";
+  }
+
+  // Load Lunr index and data
+  fetch("/index.json")
+    .then(response => response.json())
+    .then(data => {
+      store = data;
+
+      idx = lunr(function () {
+        this.ref("permalink");
+        this.field("title");
+        this.field("content");
+
+        data.forEach(doc => this.add(doc), this);
+      });
+    });
+
+  // Save original content for restoring
+  document.addEventListener("DOMContentLoaded", () => {
+    const content = document.getElementById("content");
+    if (content) {
+      originalContent = content.innerHTML;
+    }
+  });
+
+  // Search input event handler
+  document.getElementById("searchBox").addEventListener("input", function () {
+    const query = this.value.trim();
+    const content = document.getElementById("content");
+
+    if (!idx || !store || !content) return;
+
+    if (!query) {
+      content.innerHTML = originalContent;
+      return;
+    }
+
+    const results = idx.search(query);
+    const terms = query.split(/\s+/).filter(term => term.length > 1);
+
+    if (results.length === 0) {
+      content.innerHTML = `<p>No results found for "<strong>${query}</strong>".</p>`;
+      return;
+    }
+
+    let html = `<h2>Search Results for "<em>${query}</em>":</h2><ul>`;
+    results.forEach(result => {
+      const item = store.find(page => page.permalink === result.ref);
+      if (!item) return; // safety check
+
+      // Remove replacement chars from summary before snippet
+      let cleanSummary = removeReplacementChars(item.summary);
+
+      const highlightedTitle = highlightTerms(item.title, terms);
+      const highlightedSummary = getSnippetWithHighlight(cleanSummary, terms, 40);
+
+      html += `
+        <li>
+          <a href="${item.permalink}">${highlightedTitle}</a>
+          <p>${highlightedSummary}</p>
+        </li>`;
+    });
+    html += "</ul>";
+    content.innerHTML = html;
+  });
+</script>
