@@ -55,6 +55,7 @@ To keep the page somewhat manageable, I've collapsed the lists by years:
 <li>Daniel Kehlmann - You Should Have Left</li>
 <li>Stephen King - The Library Policeman</li>
 <li>Stephen King - The Sun Dog</li>
+<li>Paolo Bacigalupi - The Gambler</li>
 </ul>
 </details>
 <script>document.querySelectorAll('details').forEach(details => { const ul = details.querySelector('ul'); const span = details.querySelector('summary span'); if (ul && span) { const count = ul.querySelectorAll('li').length; span.textContent = count; } });</script>
