@@ -3,16 +3,14 @@ title: Logging Duolingo ranks over time
 layout: table
 tags: [ "Languages", "Lists" ]
 date: 2022-05-03T14:58:00
-lastmod: 2025-07-30T12:45:00
+lastmod: 2025-07-30T13:10:00
 ---
 
-I was curious as to how my rank would change over time and what the rate of attrition would look like over time.
+I was curious as to how my Duolingo streak rank would change, and what the rate of attrition would look like over time.
 
-This page was originally an attempt to mix markdown and bash scripting into a single executable page that updates itself when run that was itself documentation of how it worked, however the header that Hugo (which is what this site is built with) requires entirely breaks the markdown/bash quirk that allowed it to work with plain markdown.
+This page was originally an attempt to mix markdown and bash scripting into a single executable page that updates itself when run (that was itself documentation of how it worked), however the header that Hugo requires entirely breaks the markdown/bash quirk that allowed it to work with plain markdown.
 
-In the background, the data source I'm scraping is [duome.eu](https://duome.eu/) and dumps values directly to this page using `blog_duolingo_rank` as part of `server.sh` in [my Dockerfiles project](https://github.com/breadcat/Dockerfiles).
-
-Currently this script is manually run whenever I'm curious. Perhaps as time goes on, I'll automate this and eventually graph out these values (similarly to my [weight tracking](/weight/) page), but that's a project for later.
+In the background, the data source I'm scraping is [duome.eu](https://duome.eu/) which is parsed using [this script](https://github.com/breadcat/nix-configs/blob/main/scripts/blog-duolingo-rank.nix) which is run automatically on my server every Sunday.
 
 <table id="sortable-table">
   <thead><tr>
