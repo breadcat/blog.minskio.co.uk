@@ -1,14 +1,14 @@
 ---
 title: Reading List
 layout: single
-lastmod: 2025-07-04T13:45:00
+lastmod: 2025-08-21T08:26:00
 ---
 
 I generally strive for a book per week, but this is by no means a steadfast goal. For a list of series and their status, check [the bottom of this page](#book-series).
 
 <details><summary>Works in Progress</summary>
 <ul>
-<li>Iain M Banks - Excession</li>
+<li>Stephen King - Two Talented Bastids</li>
 </ul>
 </details>
 
@@ -56,6 +56,9 @@ To keep the page somewhat manageable, I've collapsed the lists by years:
 <li>Stephen King - The Library Policeman</li>
 <li>Stephen King - The Sun Dog</li>
 <li>Paolo Bacigalupi - The Gambler</li>
+<li>Nathan W Pyle - Strange Planet</li>
+<li>Iain M Banks - Excession</li>
+<li>Richard Chizmar - Gwendy's Magic Feather</li>
 </ul>
 </details>
 <script>document.querySelectorAll('details').forEach(details => { const ul = details.querySelector('ul'); const span = details.querySelector('summary span'); if (ul && span) { const count = ul.querySelectorAll('li').length; span.textContent = count; } });</script>
@@ -648,12 +651,13 @@ To keep the page somewhat manageable, I've collapsed the lists by years:
 <ul>
 <li>Douglas Adams - The Hitchhiker's Guide to the Galaxy - 1/6</li>
 <li>Frederik Pohl - Heechee - 5/6</li>
-<li>Iain M Banks - The Culture - 4/10</li>
+<li>Iain M Banks - The Culture - 5/10</li>
 <li>Isaac Asimov - Foundation - 4/7</li>
 <li>Jim Butcher - The Dresden Files - 1/17</li>
 <li>Monica Hughes - Arc One - 1/2</li>
 <li>Neal Shusterman - The Unwind dystology - 1/6</li>
 <li>Orson Scott Card - Ender saga - 2/6</li>
+<li>Stephen King &amp; Richard Chizmar - The Button Box - 2/3</li>
 <li>Suzanne Collins - The Hunger Games - 3/4</li>
 <li><a href="/sf-masterworks-progress/">Various - SF Masterworks</a> - 64/73</li>
 </ul>
