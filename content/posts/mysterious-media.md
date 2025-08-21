@@ -1,7 +1,7 @@
 ---
 title: "Mysterious media, solved and unsolved"
 date: 2022-04-04T11:44:00
-lastmod: 2022-12-26T13:07:00
+lastmod: 2025-08-21T10:24:00
 tags: ["Books", "Games", "Lists", "Media", "Music", "Television"]
 
 ---
@@ -18,6 +18,7 @@ Below is a list of TV shows, movies, books and games that I remember vaugely fro
 * Girl wakes up in a white bed on a space station orbiting a planet, dragged back to bed by some dude.
 * kids gameshow, possibly CITV in the 90's in the UK. Towards the end, featured a challenge with 4 players escaping a tower with Metal briefcase split into 4 sections, depending on the position you finished depended on which dye packets in the briefcase went off so there was an amount of strategy involved. Not Jungle Run, Maybe Incredible Games, maybe Virtually Impossible
 * Man charged with looking after womans house, has to fax a report on a specific day but accidentally shreds it so begins rewriting it, 'hijinks' ensue.
+* Music video from around 2015, dancing in a desert environment in a bus. Quite rocky or electronic, similar to pink
 * quote - The x of latent wit shown on QI
 * Ship carrying some sort of golden loot goes through wormhole, thieves either board or are already aboard ship as well. Nothing can be done when travelling FTL. Some sci-fi action and theft occurs. Similar art style to Stargate SG-1, however with submarine style door locks.
 
