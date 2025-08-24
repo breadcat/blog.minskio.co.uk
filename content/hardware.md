@@ -28,11 +28,11 @@ What powers the site and its associated clients
 
 <details><summary>Server</summary>
 <ul>
-<li>Name: Atlas</li>
+<li>Name: Artemis</li>
 <li>CPU: 4x Ampere Altra A1 cores</li>
 <li>RAM: 24GB</li>
 <li>Storage: 200GB SSD</li>
-<li>OS: ArchLinux ARM</li>
+<li>OS: NixOS</li>
 <li>Provider: Oracle</li>
 </ul>
 </details>
@@ -74,19 +74,12 @@ What powers the site and its associated clients
 
 <details><summary>Mobile Phone</summary>
 <ul>
-<li>Name: Artemis</li>
+<li>Name: Hermes</li>
 <li>Phone: Google Pixel 7a</li>
 <li>OS: GrapheneOS</li>
 </ul>
 </details>
 
-<details><summary>eReader</summary>
-<ul>
-<li>Name: Hermes</li>
-<li>Hardware: Kindle Paperwhite PQ94WIF 32GB</li>
-<li>Reader: <a href="https://github.com/koreader/koreader/">KOReader</a></li>
-</ul>
-</details>
 
 <details><summary>Networking</summary>
 <ul>
