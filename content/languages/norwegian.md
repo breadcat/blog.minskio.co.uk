@@ -2,7 +2,7 @@
 title: Norwegian Dictionary
 language: dictionary
 date: 2017-08-08T09:00:00
-lastmod: 2024-04-26T15:18:00
+lastmod: 2025-08-31T17:20:00
 ---
 
 **Norwegian** - **English**
@@ -97,6 +97,7 @@ lastmod: 2024-04-26T15:18:00
 * bie - bee
 * bilder - pictures
 * bille - beetle
+* bindersen - paperclip
 * binders - paperclip
 * blader - leaves
 * ble - got, became
@@ -135,6 +136,7 @@ lastmod: 2024-04-26T15:18:00
 * daglig - daily
 * danse - dance
 * datamaskin - computer
+* delayed - forsinket
 * del - part
 * den, det, denne, dette - that, this
 * deprimerte - depressed
@@ -204,6 +206,8 @@ lastmod: 2024-04-26T15:18:00
 * fl&aring;t - fleet
 * flask - bottle
 * flau - embarrassed
+* flau - embarrassing
+* flaut - embarassing
 * flere - several, more (countable)
 * flink - good, skilled, clever
 * fnise - giggle
@@ -242,6 +246,7 @@ lastmod: 2024-04-26T15:18:00
 * ganske - quite
 * garasje - garage
 * g&aring; - go
+* g&aring;sehud - goosebumps
 * gartner - gardener
 * geit - goat
 * genbruge - recycle
@@ -283,6 +288,7 @@ lastmod: 2024-04-26T15:18:00
 * havfrue - mermaid
 * havregr&oslash;t - oatmeal
 * hei sann - hey there
+* heisen - lift/elevator
 * heksa - witch
 * heldig - lucky
 * hele - whole
@@ -313,6 +319,7 @@ lastmod: 2024-04-26T15:18:00
 * h&oslash;yre - right (direction, side)
 * hotellrom - hotel room
 * hule - cave
+* hum&oslash;r - mood
 * hund - dog
 * hundemat - dogfood
 * hun - she
@@ -342,6 +349,7 @@ lastmod: 2024-04-26T15:18:00
 * jakt - hunt
 * ja visst - certainly
 * jeg - I (personal)
+* jevnt - evenly
 * jobb - job
 * jo - on the contrary
 * jord - earth, soil
@@ -352,10 +360,13 @@ lastmod: 2024-04-26T15:18:00
 * kan - can
 * kanin - rabbit
 * kanon - canon
+* kant - edge
 * kasse - crate, box
 * kaste - throw
+* kile - tickle
 * kinn - cheek
 * kj&aelig;ledyr - pet
+* kjedelig - boring
 * kjempe - giant (mythological)
 * kjemper - giants (mythological)
 * kjent - know, known, familiar
@@ -364,6 +375,7 @@ lastmod: 2024-04-26T15:18:00
 * kj&oslash;re - drive (vehicle)
 * kj&oslash;ret&oslash;y - vehicle
 * klag - complain
+* kleint - awkward
 * klem - hug
 * kokt - boiled
 * kollektivtraffikk - public transport
@@ -407,6 +419,7 @@ lastmod: 2024-04-26T15:18:00
 * lenge - long (time, distance)
 * lettere - easier
 * levde - lived
+* lide - suffer
 * lik - equal, corpse
 * liker - likes
 * likte - liked, enjoyed
@@ -418,6 +431,7 @@ lastmod: 2024-04-26T15:18:00
 * lurt - wise
 * lyd - sound, noise
 * lys - light
+* magef&oslash;lelse - gut feeling
 * malm - ore
 * mange - many
 * mann - man
@@ -427,6 +441,7 @@ lastmod: 2024-04-26T15:18:00
 * m&aring;ke - seagull
 * m&aring;ned - month
 * maskin - machine
+* matlyst - appetite
 * med - with (mixed)
 * meg - me
 * melk - milk
@@ -442,6 +457,7 @@ lastmod: 2024-04-26T15:18:00
 * minibank - cash machine/ATM
 * mislykkes - failing
 * mistet - lost
+* misunner - envy
 * mj&oslash;d - mead
 * modig - brave
 * modne - ripe
@@ -451,6 +467,7 @@ lastmod: 2024-04-26T15:18:00
 * m&oslash;rk - dark
 * motorsykkel - motorbike
 * motorvei - motorway, highway
+* motst&aring; - resist
 * mot - towards (direction)
 * mulig - possible
 * mvh (med vennlig hilsen) - kind regards
@@ -462,8 +479,11 @@ lastmod: 2024-04-26T15:18:00
 * mystisk - mysterious
 * n&aelig;rheten - this area
 * n&aelig;rstrid - melee, hand to hand combat
+* nag - grudge
 * ned - down
 * nese - nose
+* nikker - nods
+* nikket - nodded
 * noen - some, few, any (quantity)
 * noe - something (action)
 * nok - enough
@@ -489,6 +509,7 @@ lastmod: 2024-04-26T15:18:00
 * &oslash;re - ear
 * &oslash;rer - ears
 * &oslash;ye - eye
+* &oslash;ygruppen - archipelago
 * &oslash;yne - eyes
 * overskyet - cloudy
 * overta - take over
@@ -538,6 +559,7 @@ lastmod: 2024-04-26T15:18:00
 * sangfugl - songbird
 * sang - song
 * sannhet - truth
+* sannsynligvis - probably
 * sans - sense
 * sant - true
 * s&aring; - so
@@ -564,6 +586,7 @@ lastmod: 2024-04-26T15:18:00
 * sjel - soul
 * sjenert - shy
 * sjokolade - chocolate
+* sj&oslash;mat - seafood
 * skade - damage
 * skader - injuries
 * skal - shall, should
@@ -577,7 +600,9 @@ lastmod: 2024-04-26T15:18:00
 * skinn - shine
 * skip - ship
 * skiv - slice
+* skjev - crooked
 * sko - shoe
+* skrik - scream
 * skulder - shoulder
 * skul - shall
 * skurk - villain
@@ -599,6 +624,7 @@ lastmod: 2024-04-26T15:18:00
 * s&oslash;k - search
 * s&oslash;lv - silver
 * s&oslash;ppel - rubbish, litter
+* s&oslash;rget - mourned
 * s&oslash;t - sweet
 * sove - sleep
 * spille - play (structured)
@@ -623,12 +649,14 @@ lastmod: 2024-04-26T15:18:00
 * stygg - ugly
 * sug - suck
 * suksess - success
+* sunne - healthy
 * sur - acidic, sour
 * svaie - sway
 * svakt - weak
 * svarte - answer, respond
 * sykkel - bicycle
 * sykler - bikes
+* syntes - thought
 * syrin - lilac
 * tabbe - mistake
 * tak - ceiling
@@ -696,6 +724,7 @@ lastmod: 2024-04-26T15:18:00
 * unntatt - except
 * urt - herb
 * usannsynlig - unlikely
+* usynlige - invisible
 * utenkelig - unthinkable
 * utenlands - abroad
 * utf&oslash;rt - done
@@ -706,6 +735,7 @@ lastmod: 2024-04-26T15:18:00
 * v&aelig;r s&aring; snill - please
 * vakker - beautiful
 * valg - choice
+* valgfrie - optional
 * vanligvis - usually
 * vanner - watering
 * vanskelig - hard/difficult
@@ -762,6 +792,7 @@ lastmod: 2024-04-26T15:18:00
 * vri - twist
 * vulg&aelig;rt - vulgar
 * vunnet - winning
+* vurderer - considering
 * ydmyke - humble
 * yndling - favourite
-* yngre - younger
+* yngre - younger
