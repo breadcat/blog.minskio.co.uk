@@ -1,14 +1,14 @@
 ---
 title: Reading List
 layout: single
-lastmod: 2025-08-21T08:26:00
+lastmod: 2025-09-01T09:18:00
 ---
 
 I generally strive for a book per week, but this is by no means a steadfast goal. For a list of series and their status, check [the bottom of this page](#book-series).
 
 <details><summary>Works in Progress</summary>
 <ul>
-<li>Stephen King - Two Talented Bastids</li>
+<li>Iain M Banks - Excession</li>
 </ul>
 </details>
 
@@ -59,6 +59,9 @@ To keep the page somewhat manageable, I've collapsed the lists by years:
 <li>Nathan W Pyle - Strange Planet</li>
 <li>Iain M Banks - Excession</li>
 <li>Richard Chizmar - Gwendy's Magic Feather</li>
+<li>Stephen King - Two Talented Bastids</li>
+<li>Stephen King - Gwendy's Final Task</li>
+<li>Stephen King - The Fifth Step</li>
 </ul>
 </details>
 <script>document.querySelectorAll('details').forEach(details => { const ul = details.querySelector('ul'); const span = details.querySelector('summary span'); if (ul && span) { const count = ul.querySelectorAll('li').length; span.textContent = count; } });</script>
@@ -657,7 +660,6 @@ To keep the page somewhat manageable, I've collapsed the lists by years:
 <li>Monica Hughes - Arc One - 1/2</li>
 <li>Neal Shusterman - The Unwind dystology - 1/6</li>
 <li>Orson Scott Card - Ender saga - 2/6</li>
-<li>Stephen King &amp; Richard Chizmar - The Button Box - 2/3</li>
 <li>Suzanne Collins - The Hunger Games - 3/4</li>
 <li><a href="/sf-masterworks-progress/">Various - SF Masterworks</a> - 64/73</li>
 </ul>
@@ -699,6 +701,7 @@ To keep the page somewhat manageable, I've collapsed the lists by years:
 <li>Stephen King - Bill Hodges Trilogy - 3/3</li>
 <li>Stephen King - Holly Gibney - 4/4</li>
 <li>Stephen King - The Shining - 2/2</li>
+<li>Stephen King &amp; Richard Chizmar - The Button Box - 3/3</li>
 <li>Stephen R Donaldson - The Gap Cycle - 4/5</li>
 <li>Tade Thompson - The Wormwood Trilogy - 3/3</li>
 <li>Terry Pratchett - Discworld - 41/41</li>
