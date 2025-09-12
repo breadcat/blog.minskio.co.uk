@@ -1,14 +1,14 @@
 ---
 title: Reading List
 layout: single
-lastmod: 2025-09-01T09:18:00
+lastmod: 2025-09-12T15:32:00
 ---
 
 I generally strive for a book per week, but this is by no means a steadfast goal. For a list of series and their status, check [the bottom of this page](#book-series).
 
 <details><summary>Works in Progress</summary>
 <ul>
-<li>Iain M Banks - Excession</li>
+<li>Iain M Banks - Look to Windward</li>
 </ul>
 </details>
 
@@ -62,6 +62,10 @@ To keep the page somewhat manageable, I've collapsed the lists by years:
 <li>Stephen King - Two Talented Bastids</li>
 <li>Stephen King - Gwendy's Final Task</li>
 <li>Stephen King - The Fifth Step</li>
+<li>Iain M Banks - Excession</li>
+<li>Stephen King - Willie the Weirdo</li>
+<li>Stephen King - Danny Coughlin's Bad Dream</li>
+<li>Stephen King - Finn</li>
 </ul>
 </details>
 <script>document.querySelectorAll('details').forEach(details => { const ul = details.querySelector('ul'); const span = details.querySelector('summary span'); if (ul && span) { const count = ul.querySelectorAll('li').length; span.textContent = count; } });</script>
