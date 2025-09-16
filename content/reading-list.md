@@ -1,7 +1,7 @@
 ---
 title: Reading List
 layout: single
-lastmod: 2025-09-12T15:32:00
+lastmod: 2025-09-16T15:31:00
 ---
 
 I generally strive for a book per week, but this is by no means a steadfast goal. For a list of series and their status, check [the bottom of this page](#book-series).
@@ -62,10 +62,11 @@ To keep the page somewhat manageable, I've collapsed the lists by years:
 <li>Stephen King - Two Talented Bastids</li>
 <li>Stephen King - Gwendy's Final Task</li>
 <li>Stephen King - The Fifth Step</li>
-<li>Iain M Banks - Excession</li>
+<li>Iain M Banks - Inversions</li>
 <li>Stephen King - Willie the Weirdo</li>
 <li>Stephen King - Danny Coughlin's Bad Dream</li>
 <li>Stephen King - Finn</li>
+<li>R L Stine - Welcome to Dead House</li>
 </ul>
 </details>
 <script>document.querySelectorAll('details').forEach(details => { const ul = details.querySelector('ul'); const span = details.querySelector('summary span'); if (ul && span) { const count = ul.querySelectorAll('li').length; span.textContent = count; } });</script>
@@ -664,6 +665,7 @@ To keep the page somewhat manageable, I've collapsed the lists by years:
 <li>Monica Hughes - Arc One - 1/2</li>
 <li>Neal Shusterman - The Unwind dystology - 1/6</li>
 <li>Orson Scott Card - Ender saga - 2/6</li>
+<li>R L Stine - [Goosebumps](https://en.wikipedia.org/wiki/List_of_Goosebumps_books) - 1/62</li>
 <li>Suzanne Collins - The Hunger Games - 3/4</li>
 <li><a href="/sf-masterworks-progress/">Various - SF Masterworks</a> - 64/73</li>
 </ul>
