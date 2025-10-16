@@ -1,6 +1,7 @@
 ---
 title: "Gamma Horizon Provisioning Strings"
 date: 2025-09-09T16:54:00
+lastmod: 2025-10-14T18:05:00
 tags: ["Snippets", "Work"]
 ---
 
@@ -20,6 +21,8 @@ http://xsp.unlimitedhorizon.co.uk/dms/Cisco_7832/7832.xml
 http://xsp.unlimitedhorizon.co.uk/dms/Cisco_8841/8841.xml
 http://xsp.unlimitedhorizon.co.uk/dms/Cisco_8851/8851.xml
 http://xsp.unlimitedhorizon.co.uk/dms/Cisco_8861/8861.xml
+http://xsp.unlimitedhorizon.co.uk/dms/Poly_E100
+http://xsp.unlimitedhorizon.co.uk/dms/Poly_E550
 http://xsp.unlimitedhorizon.co.uk/dms/Polycom_Trio8500
 http://xsp.unlimitedhorizon.co.uk/dms/Polycom_Trio8800
 http://xsp.unlimitedhorizon.co.uk/dms/Polycom_VVX150
