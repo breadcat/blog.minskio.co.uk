@@ -665,7 +665,7 @@ To keep the page somewhat manageable, I've collapsed the lists by years:
 <li>Monica Hughes - Arc One - 1/2</li>
 <li>Neal Shusterman - The Unwind dystology - 1/6</li>
 <li>Orson Scott Card - Ender saga - 2/6</li>
-<li>R L Stine - [Goosebumps](https://en.wikipedia.org/wiki/List_of_Goosebumps_books) - 1/62</li>
+<li>R L Stine - <a href="https://en.wikipedia.org/wiki/List_of_Goosebumps_books">Goosebumps</a> - 1/62</li>
 <li>Suzanne Collins - The Hunger Games - 3/4</li>
 <li><a href="/sf-masterworks-progress/">Various - SF Masterworks</a> - 64/73</li>
 </ul>
