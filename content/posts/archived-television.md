@@ -2,11 +2,12 @@
 title: Archived Television
 tags: ["Media", "Archive"]
 date: 2018-01-01T01:00:00
-lastmod: 2025-07-28T15:32:00
+lastmod: 2025-10-16T19:11:00
 ---
 * 11.22.63
 * 3 Body Problem (1)
 * Adventure Time
+* Alien: Earth (1)
 * Almost Human
 * Altered Carbon
 * American Gods
@@ -25,6 +26,7 @@ lastmod: 2025-07-28T15:32:00
 * Black Mirror (5)
 * Bob's Burgers (15)
 * BoJack Horseman
+* The Booth at the End (2)
 * Bosch
 * Bosch: Legacy (3)
 * The Boys (4)
@@ -87,6 +89,7 @@ lastmod: 2025-07-28T15:32:00
 * Guillermo del Toro's Cabinet of Curiosities
 * Gunpowder
 * Hannibal
+* Haunted Hotel (1)
 * The Haunting of Bly Manor
 * The Haunting of Hill House
 * Heroes
@@ -174,7 +177,7 @@ lastmod: 2025-07-28T15:32:00
 * Star Trek (3)
 * Star Trek Continues (1)
 * Star Trek: Deep Space Nine (7)
-* Star Trek: Discovery (4)
+* Star Trek: Discovery (5)
 * Star Trek: Enterprise (4)
 * Star Trek: Lower Decks (5)
 * Star Trek: Picard (3)
