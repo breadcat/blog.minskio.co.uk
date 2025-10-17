@@ -1,14 +1,16 @@
 ---
 title: Reading List
 layout: single
-lastmod: 2025-09-16T15:31:00
+lastmod: 2025-10-15T18:30:00
 ---
 
 I generally strive for a book per week, but this is by no means a steadfast goal. For a list of series and their status, check [the bottom of this page](#book-series).
 
 <details><summary>Works in Progress</summary>
 <ul>
-<li>Iain M Banks - Look to Windward</li>
+<li>Iain M Banks - Surface Detail</li>
+<li>R L Stine - Say Cheese and Die</li>
+<li>Monica Hughes - The Dream Catcher</li>
 </ul>
 </details>
 
@@ -67,6 +69,13 @@ To keep the page somewhat manageable, I've collapsed the lists by years:
 <li>Stephen King - Danny Coughlin's Bad Dream</li>
 <li>Stephen King - Finn</li>
 <li>R L Stine - Welcome to Dead House</li>
+<li>Iain M Banks - Look to Windward</li>
+<li>Anthony Horowitz - The Falcon's Malteser</li>
+<li>Stephen King - On Slide Inn Road</li>
+<li>Iain M Banks - Matter</li>
+<li>Stephen King - Red Screen</li>
+<li>Kelsey Hutton - Once Upon a Planet</li>
+<li>Stephen King - The Turbulence Expert</li>
 </ul>
 </details>
 <script>document.querySelectorAll('details').forEach(details => { const ul = details.querySelector('ul'); const span = details.querySelector('summary span'); if (ul && span) { const count = ul.querySelectorAll('li').length; span.textContent = count; } });</script>
@@ -657,9 +666,10 @@ To keep the page somewhat manageable, I've collapsed the lists by years:
 # Book Series
 <details><summary>Work in Progress</summary>
 <ul>
+<li>Anthony Horowitz - Diamond Brothers - 1/8</li>
 <li>Douglas Adams - The Hitchhiker's Guide to the Galaxy - 1/6</li>
 <li>Frederik Pohl - Heechee - 5/6</li>
-<li>Iain M Banks - The Culture - 5/10</li>
+<li>Iain M Banks - The Culture - 7/10</li>
 <li>Isaac Asimov - Foundation - 4/7</li>
 <li>Jim Butcher - The Dresden Files - 1/17</li>
 <li>Monica Hughes - Arc One - 1/2</li>
