@@ -1,7 +1,7 @@
 ---
 title: "Mysterious media, solved and unsolved"
 date: 2022-04-04T11:44:00
-lastmod: 2025-08-21T10:24:00
+lastmod: 2025-09-19T13:04:00
 tags: ["Books", "Games", "Lists", "Media", "Music", "Television"]
 
 ---
@@ -14,16 +14,15 @@ Below is a list of TV shows, movies, books and games that I remember vaugely fro
 * Couple move to a neighbourhood and face racial tensions, because everybody thinks his wife is Jewish? The man is attacked while visiting a town hall meeting then they go on holiday to a lakeside motel.
 * Crazy Art Student vandalises school by breaking windows, turns out he was a schitzophrenic and it was him all along. His art is ripped up by a teacher and then put back together with tape by his friends. named something like august underground, but not
 * Cyborg sent from the future to avert a space shuttle blowing up on the launchpad from sabotage. Gets shot in the process and throws a baseball pretty far
-* Father and son go on a road trip through a dessert in america to find something to do with aliens. They go into a diner and are laughed at by the patrons there.
+* Father and son go on a road trip through a desert in america to find something to do with aliens. They go into a diner and are laughed at by the patrons there.
 * Girl wakes up in a white bed on a space station orbiting a planet, dragged back to bed by some dude.
 * kids gameshow, possibly CITV in the 90's in the UK. Towards the end, featured a challenge with 4 players escaping a tower with Metal briefcase split into 4 sections, depending on the position you finished depended on which dye packets in the briefcase went off so there was an amount of strategy involved. Not Jungle Run, Maybe Incredible Games, maybe Virtually Impossible
 * Man charged with looking after womans house, has to fax a report on a specific day but accidentally shreds it so begins rewriting it, 'hijinks' ensue.
-* Music video from around 2015, dancing in a desert environment in a bus. Quite rocky or electronic, similar to pink
 * quote - The x of latent wit shown on QI
 * Ship carrying some sort of golden loot goes through wormhole, thieves either board or are already aboard ship as well. Nothing can be done when travelling FTL. Some sci-fi action and theft occurs. Similar art style to Stargate SG-1, however with submarine style door locks.
 
 # Solved
-
+* **[Afrojack - Take Over Control](https://www.youtube.com/watch?v=TUoOcDGMgT4&list=RDTUoOcDGMgT4&start_radio=1)**<br />Music video from around 2015, dancing in a desert environment in a bus. Quite rocky or electronic, similar to pink
 * **[Crisis Command (2004)](https://www.themoviedb.org/tv/9417-crisis-command)**<br />tv series (bbc2, early 2000's) a table full of people are presented with a developing disaster. Only saw one episode, however it went along the lines of plane was hijacked, the team chose not to shoot it down and then it flew into the houses of parliment.
 * **[Deathwatch (2002)](https://www.themoviedb.org/movie/12576-deathwatch) / [R-Point (2004)](https://www.themoviedb.org/movie/16138)**<br />Vietnam era horror war movie, one guy is paralysed from the waist down. other soldiers mention that his legs are moving, but pulling back a blanket shows they're being eaten by rats (r-type/r2?)
 * **[Dream House (1998)](https://www.themoviedb.org/movie/153072-dream-house)**<br />HAL9000, guy working out in a gym wins NIN tickets and crushed by weights controlled by evil house computer.
