@@ -14,7 +14,7 @@ At the end of the day I just wanted a single page for reference I could open up 
 # Consoles
 * Atari 2600: [Stella](https://stella-emu.github.io/)
 * Microsoft Xbox: [xemu](https://github.com/mborgerson/xemu)
-* Nintendo 64: [simple64](https://simple64.github.io/)
+* Nintendo 64: [gopher64](https://github.com/gopher64/gopher64)
 * Nintendo Entertainment System: [Mesen](https://github.com/SourMesen/Mesen)
 * Nintendo GameCube: [Dolphin](https://dolphin-emu.org/)
 * Nintendo Switch: [Sudachi](https://github.com/sudachi-emu/sudachi)
@@ -30,7 +30,7 @@ At the end of the day I just wanted a single page for reference I could open up 
 * Super Nintendo Entertainment System: [snes9x](https://github.com/snes9xgit/snes9x)
 
 # Handhelds
-* Nintendo 3DS: [Lime3DS](https://github.com/Lime3DS/Lime3DS)
+* Nintendo 3DS: [Asahar](https://github.com/azahar-emu/azahar)
 * Nintendo DS: [MelonDS](https://github.com/Arisotura/melonDS)
 * Nintendo Game Boy Advance: [mgba](https://mgba.io/)
 * Nintendo Game Boy/Color: [SameBoy](https://sameboy.github.io/)
@@ -49,6 +49,7 @@ At the end of the day I just wanted a single page for reference I could open up 
 
 
 ### Updates
+* **Edit 2025-09-16:** Adjust 3DS/N64 options from Yuzu fallout
 * **Edit 2024-04-13:** Adjust 3DS/Switch options from Yuzu fallout
 * **Edit 2022-09-05:** Rename m64p to simple64
 * **Edit 2023-03-10:** Replace Kega Fusion with BlastEm, add PCem
