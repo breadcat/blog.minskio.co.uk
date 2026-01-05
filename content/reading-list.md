@@ -1,14 +1,13 @@
 ---
 title: Reading List
 layout: single
-lastmod: 2025-10-15T18:30:00
+lastmod: 2026-01-05T16:27:00
 ---
 
 I generally strive for a book per week, but this is by no means a steadfast goal. For a list of series and their status, check [the bottom of this page](#book-series).
 
 <details><summary>Works in Progress</summary>
 <ul>
-<li>Iain M Banks - Surface Detail</li>
 <li>R L Stine - Say Cheese and Die</li>
 <li>Monica Hughes - The Dream Catcher</li>
 </ul>
@@ -17,9 +16,16 @@ I generally strive for a book per week, but this is by no means a steadfast goal
 
 To keep the page somewhat manageable, I've collapsed the lists by years:
 
+<details>
+<summary>2026 <span>0</span></summary>
+<ul>
+<li>Iain M Banks - Surface Detail</li>
+</ul>
+</details>
+<script>document.querySelectorAll('details').forEach(details => { const ul = details.querySelector('ul'); const span = details.querySelector('summary span'); if (ul && span) { const count = ul.querySelectorAll('li').length; span.textContent = count; } });</script>
 
 <details>
-<summary>2025 <span>0</span></summary>
+<summary>2025 <span>64</span></summary>
 <ul>
 <li>Stephen R Donaldson - This Day All Gods Die</li>
 <li>Stephen King - The Breathing Method</li>
@@ -76,9 +82,17 @@ To keep the page somewhat manageable, I've collapsed the lists by years:
 <li>Stephen King - Red Screen</li>
 <li>Kelsey Hutton - Once Upon a Planet</li>
 <li>Stephen King - The Turbulence Expert</li>
+<li>Stephen King - Cujo</li>
+<li>Catherine Ryan Howard - The Nothing Man</li>
+<li>Stephen King - Laurie</li>
+<li> Hans Rosling - Factfulness</li>
+<li>Stephen King - Rattlesnakes</li>
+<li>Stephen King - The Dreamers</li>
+<li>Stephen King - The Answer Man</li>
+<li>Neal Shusterman - UnWholly</li>
+<li>Bill Bryson - A Short History of Nearly Everything</li>
 </ul>
 </details>
-<script>document.querySelectorAll('details').forEach(details => { const ul = details.querySelector('ul'); const span = details.querySelector('summary span'); if (ul && span) { const count = ul.querySelectorAll('li').length; span.textContent = count; } });</script>
 
 <details><summary>2024 <span>51</span></summary>
 <ul>
@@ -669,11 +683,11 @@ To keep the page somewhat manageable, I've collapsed the lists by years:
 <li>Anthony Horowitz - Diamond Brothers - 1/8</li>
 <li>Douglas Adams - The Hitchhiker's Guide to the Galaxy - 1/6</li>
 <li>Frederik Pohl - Heechee - 5/6</li>
-<li>Iain M Banks - The Culture - 7/10</li>
+<li>Iain M Banks - The Culture - 8/10</li>
 <li>Isaac Asimov - Foundation - 4/7</li>
 <li>Jim Butcher - The Dresden Files - 1/17</li>
 <li>Monica Hughes - Arc One - 1/2</li>
-<li>Neal Shusterman - The Unwind dystology - 1/6</li>
+<li>Neal Shusterman - The Unwind dystology - 2/6</li>
 <li>Orson Scott Card - Ender saga - 2/6</li>
 <li>R L Stine - <a href="https://en.wikipedia.org/wiki/List_of_Goosebumps_books">Goosebumps</a> - 1/62</li>
 <li>Suzanne Collins - The Hunger Games - 3/4</li>
