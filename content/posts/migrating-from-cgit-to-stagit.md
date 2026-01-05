@@ -1,6 +1,7 @@
 ---
 title: "Migrating from cgit to stagit"
 date: 2025-07-14T12:57:00
+lastmod: 2025-12-29T09:35:00
 tags: ["Docker", "Infrastructure", "Linux", "Software"]
 ---
 
@@ -19,3 +20,5 @@ nix-env -f '<nixpkgs>' -iA stagit
 Then I built a [quick script](https://github.com/breadcat/Dockerfiles/commit/6699a22d7a18b8b69d3860d93be364b213776478) to loop through my `source_directory`, running the program on any git repositories it finds before generating an index for easier browsing.
 
 After this, all that's needed is to serve the directory via a simple nginx container and you're pretty much done.
+
+* **Edit 2025-12-29:** The above script has now been replaced [by a NixOS equivalent](https://github.com/breadcat/nix-configs/blob/main/scripts/stagit-generate.nix) with inline CSS using heredocs.
