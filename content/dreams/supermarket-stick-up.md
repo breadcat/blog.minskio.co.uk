@@ -1,5 +1,5 @@
 ---
-title: Supermarket Holdup
+title: Supermarket stick-up
 dream: dated
 date: 2025-10-31
 ---
