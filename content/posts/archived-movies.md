@@ -2,7 +2,7 @@
 title: Archived Movies
 tags: ["Media", "Archive"]
 date: 2018-01-01T01:00:00
-lastmod: 2026-01-05T16:37:00
+lastmod: 2026-01-13T13:56:00
 ---
 * 100 Things (2018)
 * 10 Cloverfield Lane (2016)
@@ -256,6 +256,7 @@ lastmod: 2026-01-05T16:37:00
 * The Death of Stalin (2017)
 * Death Proof (2007)
 * Deep Dark (2015)
+* Delirium (2018)
 * Demolition Man (1993)
 * Demonic (2015)
 * Demonic (2021)
@@ -500,6 +501,7 @@ lastmod: 2026-01-05T16:37:00
 * The Hunger Games: Mockingjay - Part 2 (2015)
 * The Hunt (2020)
 * Hunt for the Wilderpeople (2016)
+* Hush (1998)
 * I Am the Pretty Thing That Lives in the House (2016)
 * I Don't Feel at Home in This World Anymore (2017)
 * I, Frankenstein (2014)
@@ -538,6 +540,7 @@ lastmod: 2026-01-05T16:37:00
 * The Invisible Man (2020)
 * The Invitation (2015)
 * The Invitation (2022)
+* The Iron Giant (1999)
 * Iron Man (2008)
 * Iron Man 2 (2010)
 * Iron Man 3 (2013)
@@ -1027,6 +1030,7 @@ lastmod: 2026-01-05T16:37:00
 * ¡Three Amigos! (1986)
 * Three Billboards Outside Ebbing, Missouri (2017)
 * Three Identical Strangers (2018)
+* The Thursday Murder Club (2025)
 * Tickled (2016)
 * Time Bandits (1981)
 * Tim's Vermeer (2013)
