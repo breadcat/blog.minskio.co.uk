@@ -1,7 +1,7 @@
 ---
 title: "Reggo' updates"
 date: 2023-11-13T18:42:00
-lastmod: 2024-07-10T10:18:00
+lastmod: 2026-01-29T11:10:00
 tags: ["Health", "Lifestyle", "Lists"]
 ---
 
@@ -28,6 +28,9 @@ A little personal list of tasks that need completing regularly to stay on top of
 <input type="checkbox" name="checkbox" id="server-public"><label for="server-public">Clean <a href="https://pub.minskio.co.uk/">public directories</a></label><br>
 <input type="checkbox" name="checkbox" id="server-torrents"><label for="server-torrents">Clean <a href="https://tor.minskio.co.uk">old torrents</a></label><br>
 <input type="checkbox" name="checkbox" id="server-updates"><label for="server-updates">Package manager updates</label><br>
+
+## Network
+<input type="checkbox" name="checkbox" id="network-openwrt"><label for="network-openwrt">Update OpenWRT versions</label><br>
 
 ## Laptop
 <input type="checkbox" name="checkbox" id="laptop-bios"><label for="laptop-bios">Update <a href="https://github.com/merge/skulls/releases">BIOS image</a></label><br>
