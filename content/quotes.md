@@ -386,6 +386,8 @@ Quotes I've found in and around the Internet, collected because they make me smi
 
 >Not your keys, not your coins <!-- cryptocurrency phrase -->
 
+>Now, ya don't fuck around with the infinite <!-- mean streets -->
+
 >Nunc id vides, nunc ne vides <!-- discworld -->
 
 >Obscenity is the crutch of inarticulate motherfuckers <!-- motown missile -->
