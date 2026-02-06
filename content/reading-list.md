@@ -1,7 +1,7 @@
 ---
 title: Reading List
 layout: single
-lastmod: 2026-01-05T16:27:00
+lastmod: 2026-02-06T16:17:00
 ---
 
 I generally strive for a book per week, but this is by no means a steadfast goal. For a list of series and their status, check [the bottom of this page](#book-series).
@@ -10,6 +10,7 @@ I generally strive for a book per week, but this is by no means a steadfast goal
 <ul>
 <li>R L Stine - Say Cheese and Die</li>
 <li>Monica Hughes - The Dream Catcher</li>
+<li>John Scalzi - The Shattering Peace</li>
 </ul>
 </details>
 
@@ -20,6 +21,11 @@ To keep the page somewhat manageable, I've collapsed the lists by years:
 <summary>2026 <span>0</span></summary>
 <ul>
 <li>Iain M Banks - Surface Detail</li>
+<li>Ted Hughes - The Iron Man</li>
+<li>Stephen King - Carrie</li>
+<li>John Scalzi - When the Moon Hits Your Eye</li>
+<li>John Scalzi - Starter Villain</li>
+<li>Stephen King - From a Buick 8</li>
 </ul>
 </details>
 <script>document.querySelectorAll('details').forEach(details => { const ul = details.querySelector('ul'); const span = details.querySelector('summary span'); if (ul && span) { const count = ul.querySelectorAll('li').length; span.textContent = count; } });</script>
@@ -691,6 +697,7 @@ To keep the page somewhat manageable, I've collapsed the lists by years:
 <li>Orson Scott Card - Ender saga - 2/6</li>
 <li>R L Stine - <a href="https://en.wikipedia.org/wiki/List_of_Goosebumps_books">Goosebumps</a> - 1/62</li>
 <li>Suzanne Collins - The Hunger Games - 3/4</li>
+<li>Ted Hughes - The Iron Man - 1/2</li>
 <li><a href="/sf-masterworks-progress/">Various - SF Masterworks</a> - 64/73</li>
 </ul>
 </details>
