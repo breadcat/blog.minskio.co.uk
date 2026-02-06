@@ -1,6 +1,7 @@
 ---
 title: "Gamma Horizon Bank Holiday Schedules"
 date: 2025-11-07T16:31:00
+lastmod: 2026-01-23T16:03:00
 tags: ["Snippets", "Work"]
 ---
 
@@ -26,6 +27,15 @@ BH 2027-05-31	31/05/2027
 BH 2027-08-30	30/08/2027
 BH 2027-12-27	27/12/2027
 BH 2027-12-28	28/12/2027
+
+BH 2028-01-03	03/01/2028
+BH 2028-04-14	14/04/2028
+BH 2028-04-17	17/04/2028
+BH 2028-05-01	01/05/2028
+BH 2028-05-29	29/05/2028
+BH 2028-08-28	28/08/2028
+BH 2028-12-25	25/12/2028
+BH 2028-12-26	26/12/2028
 ```
 
 One easily solved issue you may come across is the date selector window remaining open as you've pasted in a date versus clicking one. This can be fixed by removing the element entirely by blocking the following rule:
@@ -34,3 +44,6 @@ One easily solved issue you may come across is the date selector window remainin
 ```
 
 Another solution entirely is to use Contact call routing, but you've gotta pay for that improvement.
+
+
+* **Edit 2026-01-23:** Added 2028 dates
