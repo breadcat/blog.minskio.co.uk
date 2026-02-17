@@ -61,7 +61,7 @@ A little personal list of tasks that need completing regularly to stay on top of
 
 ## Personal
 <input type="checkbox" name="checkbox" id="personal-duolingo"><label for="personal-duolingo">Daily <a href="https://www.duolingo.com/learn">Duolingo</a></label><br>
-<input type="checkbox" name="checkbox" id="personal-emails"><label for="personal-emails">Clean <a href="https://mail.yandex.com/?pdd_domain=minskio.co.uk#inbox">emails</a></label><br>
+<input type="checkbox" name="checkbox" id="personal-emails"><label for="personal-emails">Clean <a href="https://mail.zoho.eu/zm/">emails</a></label><br>
 <input type="checkbox" name="checkbox" id="personal-hair"><label for="personal-hair">Cut hair</label><br>
 <input type="checkbox" name="checkbox" id="personal-nails"><label for="personal-nails">Cut nails</label><br>
 
