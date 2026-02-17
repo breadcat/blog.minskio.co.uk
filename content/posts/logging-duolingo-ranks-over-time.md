@@ -3,14 +3,14 @@ title: Logging Duolingo ranks over time
 layout: table
 tags: [ "Languages", "Lists" ]
 date: 2022-05-03T14:58:00
-lastmod: 2025-07-30T13:10:00
+lastmod: 2026-02-15T23:55:00
 ---
 
 I was curious as to how my Duolingo streak rank would change, and what the rate of attrition would look like over time.
 
 This page was originally an attempt to mix markdown and bash scripting into a single executable page that updates itself when run (that was itself documentation of how it worked), however the header that Hugo requires entirely breaks the markdown/bash quirk that allowed it to work with plain markdown.
 
-In the background, the data source I'm scraping is [duome.eu](https://duome.eu/) which is parsed using [this script](https://github.com/breadcat/nix-configs/blob/main/scripts/blog-duolingo-rank.nix) which is run automatically on my server every Sunday.
+In the background, the data source I'm scraping is [duome.eu](https://duome.eu/) which is parsed using [this script](https://github.com/breadcat/nix-configs/blob/main/scripts/blog-duolingo.nix) which is run automatically on my server every Sunday.
 
 <table id="sortable-table">
   <thead><tr>
@@ -113,4 +113,34 @@ In the background, the data source I'm scraping is [duome.eu](https://duome.eu/)
   <tr><td>2025-06-22</td><td>23:59</td><td>2428</td><td>2428</td></tr>
   <tr><td>2025-07-20</td><td>23:59</td><td>2375</td><td>2375</td></tr>
   <tr><td>2025-07-27</td><td>23:59</td><td>2398</td><td>2398</td></tr>
+  <tr><td>2025-08-03</td><td>23:59</td><td>2378</td><td>2378</td></tr>
+  <tr><td>2025-08-05</td><td>17:48</td><td>2382</td><td>2382</td></tr>
+  <tr><td>2025-08-10</td><td>23:59</td><td>2393</td><td>2393</td></tr>
+  <tr><td>2025-08-17</td><td>23:59</td><td>2378</td><td>2378</td></tr>
+  <tr><td>2025-08-24</td><td>23:55</td><td>2366</td><td>2366</td></tr>
+  <tr><td>2025-08-31</td><td>23:55</td><td>2380</td><td>2380</td></tr>
+  <tr><td>2025-09-07</td><td>23:55</td><td>2331</td><td>2331</td></tr>
+  <tr><td>2025-09-14</td><td>23:55</td><td>2331</td><td>2331</td></tr>
+  <tr><td>2025-09-21</td><td>23:55</td><td>2337</td><td>2337</td></tr>
+  <tr><td>2025-09-28</td><td>23:55</td><td>2339</td><td>2339</td></tr>
+  <tr><td>2025-10-05</td><td>23:55</td><td>2339</td><td>2339</td></tr>
+  <tr><td>2025-10-12</td><td>23:55</td><td>2339</td><td>2339</td></tr>
+  <tr><td>2025-10-19</td><td>23:55</td><td>2341</td><td>2341</td></tr>
+  <tr><td>2025-10-26</td><td>23:55</td><td>2341</td><td>2341</td></tr>
+  <tr><td>2025-11-02</td><td>23:55</td><td>2343</td><td>2343</td></tr>
+  <tr><td>2025-11-09</td><td>23:55</td><td>2345</td><td>2345</td></tr>
+  <tr><td>2025-11-16</td><td>23:55</td><td>2346</td><td>2346</td></tr>
+  <tr><td>2025-11-23</td><td>23:55</td><td>2346</td><td>2346</td></tr>
+  <tr><td>2025-11-30</td><td>23:55</td><td>2346</td><td>2346</td></tr>
+  <tr><td>2025-12-07</td><td>23:55</td><td>2345</td><td>2345</td></tr>
+  <tr><td>2025-12-14</td><td>23:55</td><td>2344</td><td>2344</td></tr>
+  <tr><td>2025-12-21</td><td>23:55</td><td>2344</td><td>2344</td></tr>
+  <tr><td>2025-12-28</td><td>23:55</td><td>2346</td><td>2346</td></tr>
+  <tr><td>2026-01-04</td><td>23:55</td><td>2346</td><td>2346</td></tr>
+  <tr><td>2026-01-11</td><td>23:55</td><td>2178</td><td>2178</td></tr>
+  <tr><td>2026-01-18</td><td>23:55</td><td>2178</td><td>2178</td></tr>
+  <tr><td>2026-01-25</td><td>23:55</td><td>2179</td><td>2179</td></tr>
+  <tr><td>2026-02-01</td><td>23:55</td><td>2182</td><td>2182</td></tr>
+  <tr><td>2026-02-08</td><td>23:55</td><td>2183</td><td>2183</td></tr>
+  <tr><td>2026-02-15</td><td>23:55</td><td>2187</td><td>2187</td></tr>
 </tbody></table>
