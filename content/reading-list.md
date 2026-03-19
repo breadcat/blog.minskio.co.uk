@@ -1,7 +1,7 @@
 ---
 title: Reading List
 layout: single
-lastmod: 2026-02-06T16:17:00
+lastmod: 2026-03-18T16:25:00
 ---
 
 I generally strive for a book per week, but this is by no means a steadfast goal. For a list of series and their status, check [the bottom of this page](#book-series).
@@ -10,7 +10,6 @@ I generally strive for a book per week, but this is by no means a steadfast goal
 <ul>
 <li>R L Stine - Say Cheese and Die</li>
 <li>Monica Hughes - The Dream Catcher</li>
-<li>John Scalzi - The Shattering Peace</li>
 </ul>
 </details>
 
@@ -26,6 +25,9 @@ To keep the page somewhat manageable, I've collapsed the lists by years:
 <li>John Scalzi - When the Moon Hits Your Eye</li>
 <li>John Scalzi - Starter Villain</li>
 <li>Stephen King - From a Buick 8</li>
+<li>John Scalzi - The Shattering Peace</li>
+<li>Becky Chambers - A Psalm for the Wild-Built</li>
+<li>Matt Dinniman - Dungeon Crawler Carl</li>
 </ul>
 </details>
 <script>document.querySelectorAll('details').forEach(details => { const ul = details.querySelector('ul'); const span = details.querySelector('summary span'); if (ul && span) { const count = ul.querySelectorAll('li').length; span.textContent = count; } });</script>
@@ -687,11 +689,13 @@ To keep the page somewhat manageable, I've collapsed the lists by years:
 <details><summary>Work in Progress</summary>
 <ul>
 <li>Anthony Horowitz - Diamond Brothers - 1/8</li>
+<li>Becky Chambers - Monk and Robot - 1/2</li>
 <li>Douglas Adams - The Hitchhiker's Guide to the Galaxy - 1/6</li>
 <li>Frederik Pohl - Heechee - 5/6</li>
-<li>Iain M Banks - The Culture - 8/10</li>
+<li>Iain M Banks - The Culture - 9/10</li>
 <li>Isaac Asimov - Foundation - 4/7</li>
 <li>Jim Butcher - The Dresden Files - 1/17</li>
+<li>Matt Dinniman - Dungeon Crawler Carl - 1/8</li>
 <li>Monica Hughes - Arc One - 1/2</li>
 <li>Neal Shusterman - The Unwind dystology - 2/6</li>
 <li>Orson Scott Card - Ender saga - 2/6</li>
@@ -721,7 +725,7 @@ To keep the page somewhat manageable, I've collapsed the lists by years:
 <li>James S A Corey - The Expanse Novellas - 9/9</li>
 <li>Jeff VanderMeer - Southern Reach Trilogy - 3/3</li>
 <li>John Scalzi - Lock In Universe - 3/3</li>
-<li>John Scalzi - Old Man's War - 6/6</li>
+<li>John Scalzi - Old Man's War - 7/7</li>
 <li>John Scalzi - The Dispatcher series - 3/3</li>
 <li>John Scalzi - The Interdependency - 3/3</li>
 <li>Josh Malerman - Bird Box - 2/2</li>
