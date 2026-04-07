@@ -1,6 +1,7 @@
 ---
 title: Quotes
 layout: single
+lastmod: 2026-04-07T12:06:00
 ---
 
 Quotes I've found in and around the Internet, collected because they make me smile. Check the page source if you want to see some commented sources.
@@ -169,6 +170,8 @@ Quotes I've found in and around the Internet, collected because they make me smi
 >Hell is real. Heaven is not
 
 >Hello! I've just shot somebody and I did it on purpose. I said, I have murdered a man and I want to confess <!-- Last Action Hero -->
+
+>Here's to you, Nicola and Bart. Rest forever here in our hearts. The last and final moment is yours. That agony is your triumph. <!-- 	Joan Baez -->
 
 >Hesitation is defeat <!-- sekiro -->
 
@@ -465,6 +468,8 @@ Quotes I've found in and around the Internet, collected because they make me smi
 >Sometimes maybe good, sometimes maybe shit <!-- Gennaro Gattuso -->
 
 >Sometimes war dreams of itself <!-- carl von clausewitz -->
+
+>Sometimes you have to quit to save your life, I looked in the mirror and said, you're dying, and Hampton is getting rich <!-- Illinois Jaquet -->
 
 >Swansea is the graveyard of ambition <!-- not dylan thomas -->
 
