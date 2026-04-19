@@ -2,7 +2,7 @@
 title: Archived Television
 tags: ["Media", "Archive"]
 date: 2018-01-01T01:00:00
-lastmod: 2025-10-16T19:11:00
+lastmod: 2026-04-19T13:52:00
 ---
 * 11.22.63
 * 3 Body Problem (1)
@@ -13,7 +13,7 @@ lastmod: 2025-10-16T19:11:00
 * American Gods
 * The Andromeda Strain (2008) (1)
 * Angel Cop
-* Archer
+* Archer (14)
 * Ash vs. Evil Dead
 * Attack on Titan (4)
 * Avenue 5
@@ -24,7 +24,7 @@ lastmod: 2025-10-16T19:11:00
 * Black Books
 * Black Lagoon
 * Black Mirror (5)
-* Bob's Burgers (15)
+* Bobs Burgers (16)
 * BoJack Horseman
 * The Booth at the End (2)
 * Bosch
@@ -36,7 +36,7 @@ lastmod: 2025-10-16T19:11:00
 * Can't Get You Out of My Head
 * A Certain Scientific Railgun
 * Chainsaw Man
-* Channel Zero (2)
+* Channel Zero (3)
 * Chernobyl
 * Childhood's End
 * Clarkson's Farm
@@ -75,12 +75,12 @@ lastmod: 2025-10-16T19:11:00
 * Firefly
 * Flowers in the Attic: The Origin
 * For All Mankind (1)
-* Foundation (2)
+* Foundation (3)
 * Freedom
 * FROM (3)
 * Fullmetal Alchemist Brotherhood
 * Fullmetal Alchemist
-* Futurama (7)
+* Futurama (10)
 * Game of Thrones
 * Garth Marenghi's Darkplace
 * Going Postal
@@ -98,6 +98,7 @@ lastmod: 2025-10-16T19:11:00
 * House of the Dragon (2)
 * How to Get Away With Murder
 * How To with John Wilson
+* Hunters (1)
 * Hyperdrive
 * I Am Groot (2)
 * Ideal
@@ -109,6 +110,7 @@ lastmod: 2025-10-16T19:11:00
 * Into the Dark (1)
 * INVINCIBLE (3)
 * The IT Crowd
+* IT: Welcome to Derry (1)
 * Jonathan Creek
 * Junji Ito Collection
 * KonoSuba - God’s Blessing on This Wonderful World!!
@@ -131,6 +133,7 @@ lastmod: 2025-10-16T19:11:00
 * Moon Knight
 * Mr. Mercedes
 * Mr. Pickles
+* Murderbot (1)
 * Nailed It!
 * Nathan Barley
 * Nightflyers
@@ -147,12 +150,13 @@ lastmod: 2025-10-16T19:11:00
 * Penn & Teller Bullshit!
 * Philip K. Dick's Electric Dreams
 * Phoenix Nights
+* Pluribus (1)
 * Pretty Little Liars
 * Psycho-Pass
 * Psychoville
 * Raised by Wolves
 * The Rehearsal
-* Rick and Morty (7)
+* Rick and Morty (8)
 * Ross Kemp on Gangs
 * Savage Builds
 * Severance (2)
@@ -161,17 +165,18 @@ lastmod: 2025-10-16T19:11:00
 * Shōgun (1)
 * Silo (2)
 * The Sinner
-* Slow Horses (4)
+* Slow Horses (5)
 * Smiling Friends
-* Solar Opposites (5)
+* Solar Opposites (6)
 * Sons of Anarchy
-* South Park (26)
+* South Park (28)
 * Space Dandy
 * Space Patrol Luluco
 * Spider-Man (1)
 * Squid Game
 * SS-GB
-* The Stand (1994)
+* The Stand (1994) (1)
+* The Stand (1)
 * Stargate Atlantis (5)
 * Stargate SG-1 (10)
 * Star Trek (3)
@@ -182,6 +187,7 @@ lastmod: 2025-10-16T19:11:00
 * Star Trek: Lower Decks (5)
 * Star Trek: Picard (3)
 * Star Trek: Prodigy (2)
+* Star Trek: Short Treks (2)
 * Star Trek: Strange New Worlds (2)
 * Star Trek: Voyager (7)
 * Steins;Gate
@@ -209,7 +215,7 @@ lastmod: 2025-10-16T19:11:00
 * The Twilight Zone (2019)
 * The Twilight Zone
 * Undone (1)
-* Upload (3)
+* Upload (4)
 * V (2009)
 * WandaVision
 * Warrior
