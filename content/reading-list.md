@@ -1,7 +1,7 @@
 ---
 title: Reading List
 layout: single
-lastmod: 2026-04-07T14:49:00
+lastmod: 2026-06-02T22:32:00
 ---
 
 I generally strive for a book per week, but this is by no means a steadfast goal. For a list of series and their status, check [the bottom of this page](#book-series).
@@ -30,6 +30,11 @@ To keep the page somewhat manageable, I've collapsed the lists by years:
 <li>Matt Dinniman - Dungeon Crawler Carl</li>
 <li>Matt Dinniman - Carl's Doomsday Scenario</li>
 <li>Edgar Allan Poe - The Masque of the Red Death</li>
+<li>Matt Dinniman - The Dungeon Anarchist's Cookbook</li>
+<li>Warren Ellis - Bad World 1</li>
+<li>Matt Dinniman - The Gate of the Feral Gods</li>
+<li>Matt Dinniman - The Butcher's Masquerade</li>
+<li>Matt Dinniman - The Eye of the Bedlam Bride</li>
 </ul>
 </details>
 <script>document.querySelectorAll('details').forEach(details => { const ul = details.querySelector('ul'); const span = details.querySelector('summary span'); if (ul && span) { const count = ul.querySelectorAll('li').length; span.textContent = count; } });</script>
@@ -697,7 +702,7 @@ To keep the page somewhat manageable, I've collapsed the lists by years:
 <li>Iain M Banks - The Culture - 9/10</li>
 <li>Isaac Asimov - Foundation - 4/7</li>
 <li>Jim Butcher - The Dresden Files - 1/17</li>
-<li>Matt Dinniman - Dungeon Crawler Carl - 2/8</li>
+<li>Matt Dinniman - Dungeon Crawler Carl - 6/8</li>
 <li>Monica Hughes - Arc One - 1/2</li>
 <li>Neal Shusterman - The Unwind dystology - 2/6</li>
 <li>Orson Scott Card - Ender saga - 2/6</li>
