@@ -3,7 +3,7 @@ title: Logging Duolingo ranks over time
 layout: table
 tags: [ "Languages", "Lists" ]
 date: 2022-05-03T14:58:00
-lastmod: 2026-02-15T23:55:00
+lastmod: 2026-06-07T23:55:00
 ---
 
 I was curious as to how my Duolingo streak rank would change, and what the rate of attrition would look like over time.
@@ -143,4 +143,19 @@ In the background, the data source I'm scraping is [duome.eu](https://duome.eu/)
   <tr><td>2026-02-01</td><td>23:55</td><td>2182</td><td>2182</td></tr>
   <tr><td>2026-02-08</td><td>23:55</td><td>2183</td><td>2183</td></tr>
   <tr><td>2026-02-15</td><td>23:55</td><td>2187</td><td>2187</td></tr>
+  <tr><td>2026-02-22</td><td>23:55</td><td>2188</td><td>2188</td></tr>
+  <tr><td>2026-03-01</td><td>23:55</td><td>2189</td><td>2189</td></tr>
+  <tr><td>2026-03-08</td><td>23:55</td><td>2189</td><td>2189</td></tr>
+  <tr><td>2026-03-15</td><td>23:55</td><td>2192</td><td>2192</td></tr>
+  <tr><td>2026-03-22</td><td>23:55</td><td>2194</td><td>2194</td></tr>
+  <tr><td>2026-03-29</td><td>23:55</td><td>2345</td><td>2345</td></tr>
+  <tr><td>2026-04-05</td><td>23:55</td><td>2348</td><td>2348</td></tr>
+  <tr><td>2026-04-12</td><td>23:55</td><td>2350</td><td>2350</td></tr>
+  <tr><td>2026-04-19</td><td>23:55</td><td>2351</td><td>2351</td></tr>
+  <tr><td>2026-04-26</td><td>23:55</td><td>2351</td><td>2351</td></tr>
+  <tr><td>2026-05-03</td><td>23:55</td><td>2352</td><td>2352</td></tr>
+  <tr><td>2026-05-10</td><td>23:55</td><td>2353</td><td>2353</td></tr>
+  <tr><td>2026-05-24</td><td>23:55</td><td>2354</td><td>2354</td></tr>
+  <tr><td>2026-05-31</td><td>23:55</td><td>2354</td><td>2354</td></tr>
+  <tr><td>2026-06-07</td><td>23:55</td><td>2357</td><td>2357</td></tr>
 </tbody></table>
