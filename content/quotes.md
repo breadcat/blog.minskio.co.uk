@@ -331,6 +331,8 @@ Quotes I've found in and around the Internet, collected because they make me smi
 
 >Long days and pleasant nights <!-- dark tower book -->
 
+>Look around, can you form some sort of rudimentary lathe? <!-- galaxy quest -->
+
 >Magic must defeat magic <!-- jackie chan adventures -->
 
 >Make your influence positive
