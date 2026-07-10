@@ -1,7 +1,7 @@
 ---
 title: "Duolingo streak preservation"
 date: 2019-01-16T09:51:00
-lastmod: 2020-06-19T00:33
+lastmod: 2020-06-19T00:33:00
 tags: ["Languages", "Linux", "Servers", "Snippets", "Software"]
 ---
 
