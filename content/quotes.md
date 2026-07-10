@@ -1,7 +1,7 @@
 ---
 title: Quotes
 layout: single
-lastmod: 2026-04-07T12:06:00
+lastmod: 2026-07-10T17:32:00
 ---
 
 Quotes I've found in and around the Internet, collected because they make me smile. Check the page source if you want to see some commented sources.
@@ -390,6 +390,8 @@ Quotes I've found in and around the Internet, collected because they make me smi
 >Not waving, but drowning <!-- stevie smith poem -->
 
 >Not your keys, not your coins <!-- cryptocurrency phrase -->
+
+>Now watch this drive <!-- gw bush -->
 
 >Now, ya don't fuck around with the infinite <!-- mean streets -->
 
