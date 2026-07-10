@@ -750,7 +750,7 @@ To keep the page somewhat manageable, I've collapsed the lists by years:
 <li>Stephen King - Holly Gibney - 4/4</li>
 <li>Stephen King - The Shining - 2/2</li>
 <li>Stephen King &amp; Richard Chizmar - The Button Box - 3/3</li>
-<li>Stephen R Donaldson - The Gap Cycle - 4/5</li>
+<li>Stephen R Donaldson - The Gap Cycle - 5/5</li>
 <li>Tade Thompson - The Wormwood Trilogy - 3/3</li>
 <li>Terry Pratchett - Discworld - 41/41</li>
 <li>Terry Pratchett & Stephen Baxter - The Long Earth - 5/5</li>
