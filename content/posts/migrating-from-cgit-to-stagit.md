@@ -11,7 +11,7 @@ This is probably not helped by me syncing all of these directories via syncthing
 
 In steps `stagit`, a [static git page generator](https://codemadness.org/stagit.html) which seems more up my street.
 
-Initially I had issues running this as it isn't availabke in the ArchLinux ARM package repositor, and the [AUR pkgbuild](https://aur.archlinux.org/packages/stagit-git) doesn't compile on `aarch64` or even manually so that again is probably an issue with my setup. In a very prophetical way, I ended up using Nix to run the software which just plowed on without any issues after [being installed](https://nixos.org/download/#nix-install-linux) via:
+Initially I had issues running this as it isn't available in the ArchLinux ARM package repositor, and the [AUR pkgbuild](https://aur.archlinux.org/packages/stagit-git) doesn't compile on `aarch64` or even manually so that again is probably an issue with my setup. In a very prophetical way, I ended up using Nix to run the software which just plowed on without any issues after [being installed](https://nixos.org/download/#nix-install-linux) via:
 
 ```
 nix-env -f '<nixpkgs>' -iA stagit
