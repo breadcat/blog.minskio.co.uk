@@ -1,6 +1,7 @@
 ---
 title: "FFmpeg audio conversions for PBX"
 date: 2019-01-14T16:08:00
+lastmod: 2026-06-30T14:58:00
 tags: ["Formats", "Guides", "Linux", "PBX", "Snippets", "Windows", "Work"]
 ---
 
@@ -32,6 +33,11 @@ ffmpeg -i "input.ext" -codec:a pcm_mulaw -ar 8000 -ac 1 -ab 64k "output.wav"
 ```
 
 ## 3CX
+```
+ffmpeg -i "input.ext" -codec pcm_s16le -ar 8000 -ac 1 -ab 128k "output.wav"
+```
+
+## Cisco Webex
 ```
 ffmpeg -i "input.ext" -codec pcm_s16le -ar 8000 -ac 1 -ab 128k "output.wav"
 ```
