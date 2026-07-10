@@ -1,7 +1,7 @@
 ---
 title: "Reggo' updates"
 date: 2023-11-13T18:42:00
-lastmod: 2026-01-29T11:10:00
+lastmod: 2026-06-16T09:59:00
 tags: ["Health", "Lifestyle", "Lists"]
 ---
 
@@ -26,6 +26,7 @@ A little personal list of tasks that need completing regularly to stay on top of
 ## Server
 <input type="checkbox" name="checkbox" id="server-docker"><label for="server-docker">Update <a href="/upgrading-docker-containers/">Docker containers</a></label><br>
 <input type="checkbox" name="checkbox" id="server-public"><label for="server-public">Clean <a href="https://pub.minskio.co.uk/">public directories</a></label><br>
+<input type="checkbox" name="checkbox" id="server-restic"><label for="server-restic">Prune Restic backups</label><br>
 <input type="checkbox" name="checkbox" id="server-torrents"><label for="server-torrents">Clean <a href="https://tor.minskio.co.uk">old torrents</a></label><br>
 <input type="checkbox" name="checkbox" id="server-updates"><label for="server-updates">Package manager updates</label><br>
 
