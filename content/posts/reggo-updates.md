@@ -27,7 +27,7 @@ A little personal list of tasks that need completing regularly to stay on top of
 <input type="checkbox" name="checkbox" id="server-docker"><label for="server-docker">Update <a href="/upgrading-docker-containers/">Docker containers</a></label><br>
 <input type="checkbox" name="checkbox" id="server-public"><label for="server-public">Clean <a href="https://pub.minskio.co.uk/">public directories</a></label><br>
 <input type="checkbox" name="checkbox" id="server-restic"><label for="server-restic">Prune Restic backups</label><br>
-<input type="checkbox" name="checkbox" id="server-torrents"><label for="server-torrents">Clean <a href="https://tor.minskio.co.uk">old torrents</a></label><br>
+<input type="checkbox" name="checkbox" id="server-torrents"><label for="server-torrents">Clean <a href="https://tor.minskio.co.uk/">old torrents</a></label><br>
 <input type="checkbox" name="checkbox" id="server-updates"><label for="server-updates">Package manager updates</label><br>
 
 ## Network
