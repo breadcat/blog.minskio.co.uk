@@ -1,7 +1,7 @@
 ---
 title: Reading List
 layout: single
-lastmod: 2026-06-02T22:32:00
+lastmod: 2026-07-30T16:56:00
 ---
 
 I generally strive for a book per week, but this is by no means a steadfast goal. For a list of series and their status, check [the bottom of this page](#book-series).
@@ -34,7 +34,18 @@ To keep the page somewhat manageable, I've collapsed the lists by years:
 <li>Warren Ellis - Bad World 1</li>
 <li>Matt Dinniman - The Gate of the Feral Gods</li>
 <li>Matt Dinniman - The Butcher's Masquerade</li>
+<li>Iain M Banks - The Hydrogen Sonata</li>
 <li>Matt Dinniman - The Eye of the Bedlam Bride</li>
+<li>Garth Marenghi - TerrorTome</li>
+<li>Matt Dinniman - This Inevitable Ruin</li>
+<li>Warren Ellis - Bad World 2</li>
+<li>Richard Osman - The Thursday Murder Club</li>
+<li>Garth Marenghi - Incarcerat</li>
+<li>Olga Ravn - The Employees</li>
+<li>Garth Marenghi - Throttle and Bribes</li>
+<li>Susanna Clarke - Piranesi</li>
+<li>Garth Marenghi - This Bursted Earth</li>
+<li>Dennis E Taylor - Not Till We Are Lost</li>
 </ul>
 </details>
 <script>document.querySelectorAll('details').forEach(details => { const ul = details.querySelector('ul'); const span = details.querySelector('summary span'); if (ul && span) { const count = ul.querySelectorAll('li').length; span.textContent = count; } });</script>
@@ -699,14 +710,14 @@ To keep the page somewhat manageable, I've collapsed the lists by years:
 <li>Becky Chambers - Monk and Robot - 1/2</li>
 <li>Douglas Adams - The Hitchhiker's Guide to the Galaxy - 1/6</li>
 <li>Frederik Pohl - Heechee - 5/6</li>
-<li>Iain M Banks - The Culture - 9/10</li>
 <li>Isaac Asimov - Foundation - 4/7</li>
 <li>Jim Butcher - The Dresden Files - 1/17</li>
-<li>Matt Dinniman - Dungeon Crawler Carl - 6/8</li>
+<li>Matt Dinniman - Dungeon Crawler Carl - 7/8</li>
 <li>Monica Hughes - Arc One - 1/2</li>
 <li>Neal Shusterman - The Unwind dystology - 2/6</li>
 <li>Orson Scott Card - Ender saga - 2/6</li>
 <li>R L Stine - <a href="https://en.wikipedia.org/wiki/List_of_Goosebumps_books">Goosebumps</a> - 1/62</li>
+<li>Richard Osman - Thursday Murder Club - 1/5</li>
 <li>Suzanne Collins - The Hunger Games - 3/4</li>
 <li>Ted Hughes - The Iron Man - 1/2</li>
 <li><a href="/sf-masterworks-progress/">Various - SF Masterworks</a> - 64/73</li>
@@ -722,11 +733,13 @@ To keep the page somewhat manageable, I've collapsed the lists by years:
 <li>Bob Mortimer - Gary Thorne - 2/2</li>
 <li>David Wong - John and Dave series - 4/4</li>
 <li>David Wong - Zoey Ashe series - 3/3</li>
-<li>Dennis E Taylor - Bobiverse Series - 4/4</li>
+<li>Dennis E Taylor - Bobiverse Series - 5/5</li>
 <li>Ernest Cline - Ready Player One series - 2/2</li>
+<li>Garth Marenghi - TerrorTome - 4/4</li>
 <li>Grant Naylor - Red Dwarf - 4/4</li>
 <li>Guillermo del Toro &amp; Chuck Hogan - The Strain - 3/3</li>
 <li>Hugh Howey - Silo - 3/3</li>
+<li>Iain M Banks - The Culture - 10/10</li>
 <li>J K Rowling - Harry Potter - 7/7</li>
 <li>James S A Corey - The Expanse - 9/9</li>
 <li>James S A Corey - The Expanse Novellas - 9/9</li>
@@ -746,14 +759,14 @@ To keep the page somewhat manageable, I've collapsed the lists by years:
 <li>Philip K Dick - VALIS trilogy - 3/3</li>
 <li>Philip Pullman - His Dark Materials - 3/3</li>
 <li>Philip Reeve - Mortal Engines Quartet - 4/4</li>
+<li>Stephen King &amp; Richard Chizmar - The Button Box - 3/3</li>
 <li>Stephen King - Bill Hodges Trilogy - 3/3</li>
 <li>Stephen King - Holly Gibney - 4/4</li>
 <li>Stephen King - The Shining - 2/2</li>
-<li>Stephen King &amp; Richard Chizmar - The Button Box - 3/3</li>
 <li>Stephen R Donaldson - The Gap Cycle - 5/5</li>
 <li>Tade Thompson - The Wormwood Trilogy - 3/3</li>
-<li>Terry Pratchett - Discworld - 41/41</li>
 <li>Terry Pratchett & Stephen Baxter - The Long Earth - 5/5</li>
+<li>Terry Pratchett - Discworld - 41/41</li>
 <li>V E Schwab - Villains - 2/2</li>
 <li>VC Andrews - Dollanganger series - 5/5</li>
 <li>Yahtzee Croshaw - The DEDA Files - 2/2</li>
