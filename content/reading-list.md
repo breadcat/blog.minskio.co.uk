@@ -1,7 +1,7 @@
 ---
 title: Reading List
 layout: single
-lastmod: 2026-07-30T16:56:00
+lastmod: 2026-08-13T14:17:00
 ---
 
 I generally strive for a book per week, but this is by no means a steadfast goal. For a list of series and their status, check [the bottom of this page](#book-series).
@@ -46,6 +46,9 @@ To keep the page somewhat manageable, I've collapsed the lists by years:
 <li>Susanna Clarke - Piranesi</li>
 <li>Garth Marenghi - This Bursted Earth</li>
 <li>Dennis E Taylor - Not Till We Are Lost</li>
+<li>John Scalzi - 3 Days, 9 Months, 27 Years</li>
+<li>Steven L Peck - A Short Stay in Hell</li>
+<li>Bob Mortimer - The Long Shoe</li>
 </ul>
 </details>
 <script>document.querySelectorAll('details').forEach(details => { const ul = details.querySelector('ul'); const span = details.querySelector('summary span'); if (ul && span) { const count = ul.querySelectorAll('li').length; span.textContent = count; } });</script>
