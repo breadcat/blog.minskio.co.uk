@@ -1,7 +1,7 @@
 ---
 title: Reading List
 layout: single
-lastmod: 2026-08-13T14:17:00
+lastmod: 2026-09-09T14:28:00
 ---
 
 I generally strive for a book per week, but this is by no means a steadfast goal. For a list of series and their status, check [the bottom of this page](#book-series).
@@ -49,6 +49,8 @@ To keep the page somewhat manageable, I've collapsed the lists by years:
 <li>John Scalzi - 3 Days, 9 Months, 27 Years</li>
 <li>Steven L Peck - A Short Stay in Hell</li>
 <li>Bob Mortimer - The Long Shoe</li>
+<li>Cory Doctorow - Enshittification</li>
+<li>Cory Doctorow - Reverse Centaur's Guide to Life After AI</li>
 </ul>
 </details>
 <script>document.querySelectorAll('details').forEach(details => { const ul = details.querySelector('ul'); const span = details.querySelector('summary span'); if (ul && span) { const count = ul.querySelectorAll('li').length; span.textContent = count; } });</script>
