@@ -1,7 +1,7 @@
 ---
 title: Quotes
 layout: single
-lastmod: 2026-07-10T17:32:00
+lastmod: 2026-09-21T17:10:00
 ---
 
 Quotes I've found in and around the Internet, collected because they make me smile. Check the page source if you want to see some commented sources.
@@ -357,6 +357,8 @@ Quotes I've found in and around the Internet, collected because they make me smi
 
 >My disappointment is immeasurable, and my day is ruined <!-- the report of the week -->
 
+>My life for your ephemeral feast <!-- whalefall poster -->
+
 >My Mill grinds Pepper, and Spice. Your Mill grinds Rats, and Mice <!-- Tommy Thumb's Pretty Song Book -->
 
 >My name is Bolo Santosi, I am the leader of the revolutionary army known as the Reapers. <!-- just cause 2 -->
@@ -540,6 +542,8 @@ Quotes I've found in and around the Internet, collected because they make me smi
 >Things won't always be this good
 
 >This better not awaken anything in me <!-- Dean Pelton -->
+
+>This engine's a fucking marxist! <!-- everything I don't like is radical left -->
 
 >This inhuman place makes human monsters <!-- The Shining -->
 
