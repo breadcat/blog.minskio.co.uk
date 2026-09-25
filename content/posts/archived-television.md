@@ -2,7 +2,7 @@
 title: Archived Television
 tags: ["Media", "Archive"]
 date: 2018-01-01T01:00:00
-lastmod: 2026-04-19T13:52:00
+lastmod: 2026-09-25T10:37:00
 ---
 * 11.22.63
 * 3 Body Problem (1)
@@ -29,11 +29,12 @@ lastmod: 2026-04-19T13:52:00
 * The Booth at the End (2)
 * Bosch
 * Bosch: Legacy (3)
-* The Boys (4)
+* The Boys (5)
 * Breaking Bad
 * Brooklyn Nine-Nine
 * Burnistoun
 * Can't Get You Out of My Head
+* Cape Fear (1)
 * A Certain Scientific Railgun
 * Chainsaw Man
 * Channel Zero (3)
@@ -77,7 +78,7 @@ lastmod: 2026-04-19T13:52:00
 * For All Mankind (1)
 * Foundation (3)
 * Freedom
-* FROM (3)
+* FROM (4)
 * Fullmetal Alchemist Brotherhood
 * Fullmetal Alchemist
 * Futurama (10)
@@ -108,7 +109,7 @@ lastmod: 2026-04-19T13:52:00
 * Inside Job (1)
 * Inside No. 9 (6)
 * Into the Dark (1)
-* INVINCIBLE (3)
+* INVINCIBLE (4)
 * The IT Crowd
 * IT: Welcome to Derry (1)
 * Jonathan Creek
@@ -129,6 +130,7 @@ lastmod: 2026-04-19T13:52:00
 * The Men Who Made Us Thin
 * The Midnight Gospel (1)
 * Mind Field
+* MINDHUNTER (2)
 * The Mist
 * Moon Knight
 * Mr. Mercedes
@@ -158,12 +160,13 @@ lastmod: 2026-04-19T13:52:00
 * The Rehearsal
 * Rick and Morty (8)
 * Ross Kemp on Gangs
+* The Sandman (1)
 * Savage Builds
 * Severance (2)
 * Sherlock
 * The Shivering Truth
 * Shōgun (1)
-* Silo (2)
+* Silo (3)
 * The Sinner
 * Slow Horses (5)
 * Smiling Friends
@@ -224,9 +227,10 @@ lastmod: 2026-04-19T13:52:00
 * Westworld
 * What If...? (2)
 * The Wheel of Time (2)
+* Widow's Bay (1)
 * The Wire
 * The Woman in the House Across the Street from the Girl in the Window
 * World on a Wire
-* X-Men '97 (1)
-* X-Men Evolution
-* X-Men
+* X-Men (5)
+* X-Men '97 (2)
+* X-Men Evolution (4)
