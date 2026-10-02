@@ -1,7 +1,7 @@
 ---
 title: Quotes
 layout: single
-lastmod: 2026-09-21T17:10:00
+lastmod: 2026-10-01T15:15:14
 ---
 
 Quotes I've found in and around the Internet, collected because they make me smile. Check the page source if you want to see some commented sources.
@@ -152,6 +152,8 @@ Quotes I've found in and around the Internet, collected because they make me smi
 >Guess this will be my last message. Good-bye, boys. <!-- Vince Coleman -->
 
 >Guys literally only want one thing and it's fucking disgusting <!-- ashcammm -->
+
+>guys really live in apartments like this and don't see any issue <!-- kathasty -->
 
 >Hail Hydra <!-- avengers -->
 
