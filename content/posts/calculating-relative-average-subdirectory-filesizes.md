@@ -1,6 +1,7 @@
 ---
 title: "Calculating relative average subdirectory filesizes"
 date: 2020-08-21T12:37:00
+lastmod: 2026-09-30T22:29:24
 tags: [ "Guides", "Linux", "Media", "Snippets", "Software" ]
 ---
 
@@ -19,3 +20,12 @@ What this does is:
 - Prints the list, then reverse sorts it
 
 Giving you your results. Ta~da!
+
+
+**Update 2026-09-30**
+I've pretty much rewritten this whole snippet to:
+* Fix an issue with files in your working directory breaking the division calculation
+* Allow you to specify any directory (defaulting to `.`)
+* Properly render the text in equally spaced columns
+* Render filesizes as human readable MB, GB, etc.
+* Integrate all of the above [into my NixOS setup](https://github.com/breadcat/nix-configs/blob/main/scripts/average-relative.nix)
