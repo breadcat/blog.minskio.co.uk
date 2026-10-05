@@ -1,28 +1,28 @@
 ---
 title: Hardware
 layout: single
+lastmod: 2026-10-02T10:15:54
 ---
 
 What powers the site and its associated clients
 
 <details><summary>Desktop</summary>
 <ul>
-<li>Name: Titan</li>
-<li>CPU: Intel Core i5 7600 @ 3.50 Ghz</li>
-<li>CPU Cooler: Noctua NH-L9i</li>
-<li>RAM: 2x Crucial 8GB DDR4 @ 2400 MHz</li>
-<li>Motherboard: ASRock Z270M-ITX/ac</li>
-<li>Storage: 2TB WDS200T2B0B SSD</li>
+<li>Name: Atlas</li>
+<li>CPU: AMD Ryzen 7 5800X</li>
+<li>CPU Cooler: NZXT AIO</li>
+<li>RAM: 2x Kingston Fury 16GB DDR4 @ 3200MHz</li>
+<li>Motherboard: ASRock X570 Phantom</li>
+<li>Storage: 1TB Corsair MP400, 2TB WDS200T2B0B SSD</li>
 <li>GPU: Sapphire Pulse RX580 8GB</li>
-<li>PSU: Corsair SF450 450W Modular 80+ Gold PSU</li>
-<li>Case: DAN Case A4-SFX v2</li>
-<li>Monitors: 2x Iiyama ProLite E2710HDS</li>
-<li>OS: Microsoft Windows 10 IoT Enterprise LTSC</li>
+<li>PSU: Corsair RM1000x 1000W Modular 80+ Gold</li>
+<li>Case: Fractal Meshify C</li>
+<li>Monitors: AOC Q34E2G5, Iiyama ProLite E2710HDS</li>
+<li>OS: NixOS</li>
 <li>Keyboard: Rosewill-RK-9000V2 Cherry MX Brown</li>
 <li>Mouse: Zowie S2</li>
 <li>Headset: SteelSeries Arctis 3</li>
 <li>Scanner: Fujitsu ScanSnap iX500</li>
-<li>UserBenchmark: <a href="https://www.userbenchmark.com/UserRun/39415002">Results</a></li>
 </ul>
 </details>
 
