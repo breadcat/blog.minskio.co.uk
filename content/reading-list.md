@@ -1,7 +1,7 @@
 ---
 title: Reading List
 layout: single
-lastmod: 2026-09-09T14:28:00
+lastmod: 2026-10-20T11:21:58
 ---
 
 I generally strive for a book per week, but this is by no means a steadfast goal. For a list of series and their status, check [the bottom of this page](#book-series).
@@ -51,6 +51,10 @@ To keep the page somewhat manageable, I've collapsed the lists by years:
 <li>Bob Mortimer - The Long Shoe</li>
 <li>Cory Doctorow - Enshittification</li>
 <li>Cory Doctorow - Reverse Centaur's Guide to Life After AI</li>
+<li>Matt Dinniman - Operation Bounce House</li>
+<li>Rob Grant - Titan</li>
+<li>Qntm - There Is No Antimemetics Division</li>
+<li>Matt Dinniman - A Parade of Horribles</li>
 </ul>
 </details>
 <script>document.querySelectorAll('details').forEach(details => { const ul = details.querySelector('ul'); const span = details.querySelector('summary span'); if (ul && span) { const count = ul.querySelectorAll('li').length; span.textContent = count; } });</script>
@@ -711,13 +715,13 @@ To keep the page somewhat manageable, I've collapsed the lists by years:
 # Book Series
 <details><summary>Work in Progress</summary>
 <ul>
+<!-- sort:start -->
 <li>Anthony Horowitz - Diamond Brothers - 1/8</li>
 <li>Becky Chambers - Monk and Robot - 1/2</li>
 <li>Douglas Adams - The Hitchhiker's Guide to the Galaxy - 1/6</li>
 <li>Frederik Pohl - Heechee - 5/6</li>
 <li>Isaac Asimov - Foundation - 4/7</li>
 <li>Jim Butcher - The Dresden Files - 1/17</li>
-<li>Matt Dinniman - Dungeon Crawler Carl - 7/8</li>
 <li>Monica Hughes - Arc One - 1/2</li>
 <li>Neal Shusterman - The Unwind dystology - 2/6</li>
 <li>Orson Scott Card - Ender saga - 2/6</li>
@@ -725,12 +729,14 @@ To keep the page somewhat manageable, I've collapsed the lists by years:
 <li>Richard Osman - Thursday Murder Club - 1/5</li>
 <li>Suzanne Collins - The Hunger Games - 3/4</li>
 <li>Ted Hughes - The Iron Man - 1/2</li>
+<!-- sort:end -->
 <li><a href="/sf-masterworks-progress/">Various - SF Masterworks</a> - 64/73</li>
 </ul>
 </details>
 
 <details><summary>Completed</summary>
 <ul>
+<!-- sort:start -->
 <li>Anthony Horowitz - The Power of Five - 5/5</li>
 <li>Barry J Hutchison - Dan Deadman - 3/3</li>
 <li>Becky Chambers - Wayfarers - 4/4</li>
@@ -758,6 +764,7 @@ To keep the page somewhat manageable, I've collapsed the lists by years:
 <li>Liu Cixin - Remembrance of Earth's Past - 3/3</li>
 <li>Martha Wells - The Murderbot Diaries - 6/6</li>
 <li>Mary Robinette Kowal - Lady Astronaut - 4/4</li>
+<li>Matt Dinniman - Dungeon Crawler Carl - 8/8</li>
 <li>Mira Grant - Parasitology - 3/3</li>
 <li>Paolo Bacigalupi - Ship Breaker Trilogy - 3/3</li>
 <li>Peter Brown - The Wild Robot Series - 3/3</li>
@@ -775,6 +782,7 @@ To keep the page somewhat manageable, I've collapsed the lists by years:
 <li>V E Schwab - Villains - 2/2</li>
 <li>VC Andrews - Dollanganger series - 5/5</li>
 <li>Yahtzee Croshaw - The DEDA Files - 2/2</li>
+<!-- sort:end -->
 </ul>
 </details>
 
