@@ -1,7 +1,7 @@
 ---
 title: Quotes
 layout: single
-lastmod: 2026-10-01T15:15:14
+lastmod: 2026-10-20T17:17:00
 ---
 
 Quotes I've found in and around the Internet, collected because they make me smile. Check the page source if you want to see some commented sources.
@@ -478,6 +478,8 @@ Quotes I've found in and around the Internet, collected because they make me smi
 >Sometimes war dreams of itself <!-- carl von clausewitz -->
 
 >Sometimes you have to quit to save your life, I looked in the mirror and said, you're dying, and Hampton is getting rich <!-- Illinois Jaquet -->
+
+>Spell roast, spell most, spell host, what do you put in a toaster
 
 >Swansea is the graveyard of ambition <!-- not dylan thomas -->
 
