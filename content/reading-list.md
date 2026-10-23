@@ -1,7 +1,7 @@
 ---
 title: Reading List
 layout: single
-lastmod: 2026-10-20T11:21:58
+lastmod: 2026-10-23T08:54:07
 ---
 
 I generally strive for a book per week, but this is by no means a steadfast goal. For a list of series and their status, check [the bottom of this page](#book-series).
@@ -55,6 +55,8 @@ To keep the page somewhat manageable, I've collapsed the lists by years:
 <li>Rob Grant - Titan</li>
 <li>Qntm - There Is No Antimemetics Division</li>
 <li>Matt Dinniman - A Parade of Horribles</li>
+<li>Scott Alexander - The Whispering Earring</li>
+<li>Daryl Gregory - When We Were Real</li>
 </ul>
 </details>
 <script>document.querySelectorAll('details').forEach(details => { const ul = details.querySelector('ul'); const span = details.querySelector('summary span'); if (ul && span) { const count = ul.querySelectorAll('li').length; span.textContent = count; } });</script>
