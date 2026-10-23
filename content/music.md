@@ -1,7 +1,7 @@
 ---
 title: Music Library
 layout: single
-lastmod: 2026-08-21T17:35:00
+lastmod: 2026-10-23T10:04:00
 ---
 
 This page is purely for reference, as detailed [in this post](/notes-on-sorting-music). While Spotify has 99.9% of songs you'd want, there are some unusual omissions that I've collapsed in a list below.
@@ -184,6 +184,7 @@ This page is purely for reference, as detailed [in this post](/notes-on-sorting-
 | Common | [I Used to Love H.E.R.](spotify:track:6ZTBxZyr09PtGNR7K5j420) |
 | Consumed | [Heavy Metal Winner](spotify:track:7tt28wbdKmFqZZXsCh4tTk) |
 | Corey Hart | [Sunglasses At Night](spotify:track:1QbQL5m30YNvukitIqAnFG) |
+| Counting Crows | [A Long December](spotify:track:1tjKIXd7DYNklhVSgBxREi) |
 | Courteeners | [Not Nineteen Forever](spotify:track:19CIsQ1HElu4XHdLCMlSqu) |
 | Creed | [Higher](spotify:track:1ZozJfi8u9cO2Ob8KwiwNT) |
 | Crosby, Stills, Nash & Young | [Our House](spotify:track:2hitsKa8SthKhRJBXUHbIv) |
@@ -634,6 +635,7 @@ This page is purely for reference, as detailed [in this post](/notes-on-sorting-
 | Rise Against | [Swing Life Away](spotify:track:3yupzluZdw77zjfskZnQgc) |
 | Rival Schools | [Travel By Telephone](spotify:track:0FgSTUS1Dbw3D1JUsWUh7E) |
 | Rival Schools | [Used For Glue](spotify:track:766xo3dFJmkqc9a4tPSlBH) |
+| Robert Palmer | [Johnny And Mary](spotify:track:0ldTcpmFsxEASGiBBIfVLW) |
 | Robyn | [Dancing On My Own](spotify:track:6aqNCrRA7vs7v6QvRpI50t) |
 | Rob Zombie | [Dragula](spotify:track:6Nm8h73ycDG2saCnZV8poF) |
 | Rob Zombie | [Superbeast](spotify:track:4eNnMvUrSu2TRpySjVC0Pv) |
@@ -651,6 +653,7 @@ This page is purely for reference, as detailed [in this post](/notes-on-sorting-
 | SAINt JHN, Imanbek | [Roses - Imanbek Remix](spotify:track:24Yi9hE78yPEbZ4kxyoXAI) |
 | Sam Fender | [Hypersonic Missiles](spotify:track:6CltzquypraYIlWFp48m1O) |
 | Sam Fender | [Play God](spotify:track:6R1y3I91AIktu7qoKIugtH) |
+| Sam Fender | [Spice](spotify:track:7KncmixRfCnvzSsKZnlHt8) |
 | Savlonic | [Electro Gypsy](spotify:track:6WrvBWxtNgtzszOY28UVcc) |
 | Screaming Trees | [All I Know](spotify:track:2gAHUkKPQSy5PFcjcGWCrJ) |
 | Screaming Trees | [More or Less](spotify:track:6V6tVj4fpdHyxUfjSXFwNW) |
