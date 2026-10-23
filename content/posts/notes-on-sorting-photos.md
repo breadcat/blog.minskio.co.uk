@@ -1,7 +1,7 @@
 ---
 title: "Notes on sorting Photos"
 date: 2019-12-23T11:50:00
-lastmod: 2023-02-19T21:05:00
+lastmod: 2026-10-23T09:58:18
 tags: ["Android", "Formats", "Guides", "Linux", "Media", "Minimalism", "Notes", "Snippets", "Software"]
 ---
 
@@ -59,3 +59,4 @@ And you're done.
 
 * **Edit 2020-10-26:** Improved empty directory deletion section
 * **Edit 2023-02-19:** Print list of directories removed
+* **Edit 2026-10-23:** This process has mostly been streamlined into [this Nix script](https://github.com/breadcat/nix-configs/blob/main/scripts/phone-dump.nix)

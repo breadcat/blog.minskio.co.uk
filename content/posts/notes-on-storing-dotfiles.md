@@ -1,7 +1,7 @@
 ---
 title: "Notes on storing Dotfiles"
 date: 2020-06-28T15:29:00
-lastmod: 2020-06-29T11:43:00
+lastmod: 2026-10-23T09:59:59
 tags: ["Linux", "Notes", "Selfhosted", "Software"]
 ---
 
@@ -58,3 +58,4 @@ And you're done. This guide is by no means unique, but has been collated from ma
 
 * **Edit 2020-07-21:** Added note about diffing changes
 * **Edit 2021-11-29:** Added note about removing files from the work tree
+* **Edit 2026-10-23:** This guide has been superseded by [my Nix repository](https://github.com/breadcat/nix-configs/)
