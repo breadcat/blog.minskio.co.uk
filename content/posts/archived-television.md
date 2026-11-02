@@ -2,8 +2,9 @@
 title: Archived Television
 tags: ["Media", "Archive"]
 date: 2018-01-01T01:00:00
-lastmod: 2026-09-25T10:37:00
+lastmod: 2026-10-29T14:13:31
 ---
+<!-- sort:start articles -->
 * 11.22.63
 * 3 Body Problem (1)
 * Adventure Time
@@ -18,6 +19,7 @@ lastmod: 2026-09-25T10:37:00
 * Attack on Titan (4)
 * Avenue 5
 * Battle Angel Alita
+* Below (1)
 * Berry & Fulcher's Snuff Box
 * Better Call Saul
 * Big Mouth
@@ -44,8 +46,8 @@ lastmod: 2026-09-25T10:37:00
 * Cleopatra 2525
 * The Colour of Magic
 * Conquering Northern China
-* Cowboy Bebop (2021)
 * Cowboy Bebop
+* Cowboy Bebop (2021)
 * Creepshow
 * The Crossing
 * The Cuphead Show!
@@ -65,8 +67,8 @@ lastmod: 2026-09-25T10:37:00
 * The Event
 * Evil Genius
 * The Exorcist
-* The Expanse: One Ship
 * The Expanse
+* The Expanse: One Ship
 * Fallout (1)
 * Fargo (5)
 * Farscape
@@ -79,8 +81,8 @@ lastmod: 2026-09-25T10:37:00
 * Foundation (3)
 * Freedom
 * FROM (4)
-* Fullmetal Alchemist Brotherhood
 * Fullmetal Alchemist
+* Fullmetal Alchemist Brotherhood
 * Futurama (10)
 * Game of Thrones
 * Garth Marenghi's Darkplace
@@ -178,10 +180,8 @@ lastmod: 2026-09-25T10:37:00
 * Spider-Man (1)
 * Squid Game
 * SS-GB
-* The Stand (1994) (1)
 * The Stand (1)
-* Stargate Atlantis (5)
-* Stargate SG-1 (10)
+* The Stand (1994) (1)
 * Star Trek (3)
 * Star Trek Continues (1)
 * Star Trek: Deep Space Nine (7)
@@ -193,6 +193,8 @@ lastmod: 2026-09-25T10:37:00
 * Star Trek: Short Treks (2)
 * Star Trek: Strange New Worlds (2)
 * Star Trek: Voyager (7)
+* Stargate Atlantis (5)
+* Stargate SG-1 (10)
 * Steins;Gate
 * The Strain (4)
 * Stranger Things
@@ -215,8 +217,8 @@ lastmod: 2026-09-25T10:37:00
 * Travel Man: 48 Hours in...
 * TRIGUN
 * True Blood (7)
-* The Twilight Zone (2019)
 * The Twilight Zone
+* The Twilight Zone (2019)
 * Undone (1)
 * Upload (4)
 * V (2009)
@@ -231,6 +233,7 @@ lastmod: 2026-09-25T10:37:00
 * The Wire
 * The Woman in the House Across the Street from the Girl in the Window
 * World on a Wire
-* X-Men (5)
 * X-Men '97 (2)
+* X-Men (5)
 * X-Men Evolution (4)
+<!-- sort:end -->
