@@ -2,7 +2,7 @@
 title: Archived Movies
 tags: ["Media", "Archive"]
 date: 2018-01-01T01:00:00
-lastmod: 2026-10-29T14:13:14
+lastmod: 2026-11-02T12:47:02
 ---
 <!-- sort:start articles -->
 * 10 Cloverfield Lane (2016)
@@ -80,6 +80,7 @@ lastmod: 2026-10-29T14:13:14
 * Ash (2025)
 * Assassin's Creed (2016)
 * Assimilate (2019)
+* The Astronaut (2025)
 * Atlantis: The Lost Empire (2001)
 * Atomic Blonde (2017)
 * The Autopsy of Jane Doe (2016)
@@ -167,6 +168,7 @@ lastmod: 2026-10-29T14:13:14
 * Brightburn (2019)
 * The Broken (2008)
 * Bubba Ho-tep (2002)
+* Buddy (2026)
 * Bug (2007)
 * Bugonia (2025)
 * Bugsy Malone (1976)
@@ -219,6 +221,7 @@ lastmod: 2026-10-29T14:13:14
 * Code 8 (2019)
 * Code 8 Part II (2024)
 * Collaborator (2022)
+* Colony (2026)
 * Companion (2025)
 * Conclave (2024)
 * The Conference (2023)
@@ -254,6 +257,7 @@ lastmod: 2026-10-29T14:13:14
 * Cruella (2021)
 * Cujo (1983)
 * A Cure for Wellness (2017)
+* The Cycle (2026)
 * DamNation (2014)
 * Dangerous Animals (2025)
 * Dark Angel (1990)
@@ -592,6 +596,7 @@ lastmod: 2026-10-29T14:13:14
 * Isle of Dogs (2018)
 * It (2017)
 * It Comes at Night (2017)
+* It Ends (2026)
 * It Feeds (2025)
 * It Follows (2015)
 * The Italian Job (1969)
@@ -859,6 +864,7 @@ lastmod: 2026-10-29T14:13:14
 * Possum (2018)
 * Power Rangers (2017)
 * Practical Magic (1998)
+* Practical Magic 2 (2026)
 * Predator (1987)
 * The Predator (2018)
 * Presence (2025)

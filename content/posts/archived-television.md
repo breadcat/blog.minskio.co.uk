@@ -2,7 +2,7 @@
 title: Archived Television
 tags: ["Media", "Archive"]
 date: 2018-01-01T01:00:00
-lastmod: 2026-10-29T14:13:31
+lastmod: 2026-11-02T12:49:41
 ---
 <!-- sort:start articles -->
 * 11.22.63
@@ -25,7 +25,7 @@ lastmod: 2026-10-29T14:13:31
 * Big Mouth
 * Black Books
 * Black Lagoon
-* Black Mirror (5)
+* Black Mirror (7)
 * Bobs Burgers (16)
 * BoJack Horseman
 * The Booth at the End (2)
@@ -83,7 +83,7 @@ lastmod: 2026-10-29T14:13:31
 * FROM (4)
 * Fullmetal Alchemist
 * Fullmetal Alchemist Brotherhood
-* Futurama (10)
+* Futurama (11)
 * Game of Thrones
 * Garth Marenghi's Darkplace
 * Going Postal
@@ -97,6 +97,7 @@ lastmod: 2026-10-29T14:13:31
 * The Haunting of Hill House
 * Heroes
 * High Score
+* Hilda (1)
 * Hometown: A Killing
 * House of the Dragon (2)
 * How to Get Away With Murder
@@ -161,6 +162,7 @@ lastmod: 2026-10-29T14:13:31
 * Raised by Wolves
 * The Rehearsal
 * Rick and Morty (8)
+* The Righteous Gemstones (1)
 * Ross Kemp on Gangs
 * The Sandman (1)
 * Savage Builds
@@ -170,7 +172,7 @@ lastmod: 2026-10-29T14:13:31
 * Shōgun (1)
 * Silo (3)
 * The Sinner
-* Slow Horses (5)
+* Slow Horses (6)
 * Smiling Friends
 * Solar Opposites (6)
 * Sons of Anarchy
@@ -191,7 +193,7 @@ lastmod: 2026-10-29T14:13:31
 * Star Trek: Picard (3)
 * Star Trek: Prodigy (2)
 * Star Trek: Short Treks (2)
-* Star Trek: Strange New Worlds (2)
+* Star Trek: Strange New Worlds (4)
 * Star Trek: Voyager (7)
 * Stargate Atlantis (5)
 * Stargate SG-1 (10)
