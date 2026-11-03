@@ -1,7 +1,7 @@
 ---
 title: Quotes
 layout: single
-lastmod: 2026-10-20T17:17:00
+lastmod: 2026-11-03T10:40:00
 ---
 
 Quotes I've found in and around the Internet, collected because they make me smile. Check the page source if you want to see some commented sources.
@@ -300,6 +300,8 @@ Quotes I've found in and around the Internet, collected because they make me smi
 >I want to be cremated, and I want my ashes blown in Uri Geller's eyes <!-- James Randi -->
 
 >I would rather starve than eat your bread <!-- pearl jam corduroy -->
+
+>Jenkins! Fetch me my bathing toaster
 
 >Jeremy Irons lives in your garage <!-- taskmaster -->
 
