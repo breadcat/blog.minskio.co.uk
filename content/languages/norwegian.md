@@ -2,10 +2,26 @@
 title: Norwegian Dictionary
 language: dictionary
 date: 2017-08-08T09:00:00
-lastmod: 2025-08-31T17:20:00
+lastmod: 2026-09-21T12:30:00
 ---
 
 **Norwegian** - **English**
+<!-- sort:start -->
+* &aelig;r - honour
+* &aelig;rlig - honest
+* &aelig;rsord - promise
+* &aring; - to
+* &aring; nei - oh no
+* &aring;r - year
+* &aring;rsak - cause
+* &aring;tte - eight
+* &oslash;l - beer
+* &oslash;nsker - wishes
+* &oslash;re - ear
+* &oslash;rer - ears
+* &oslash;ye - eye
+* &oslash;ygruppen - archipelago
+* &oslash;yne - eyes
 * absolutt - absolutely
 * adgang - access
 * adj&oslash; - goodbye
@@ -13,9 +29,6 @@ lastmod: 2025-08-31T17:20:00
 * advare - warn
 * advarsel - warning
 * advokat - lawyer
-* &aelig;r - honour
-* &aelig;rlig - honest
-* &aelig;rsord - promise
 * afrika - africa
 * agentbyr&aring; - agency
 * aggressivt - aggressive
@@ -46,28 +59,28 @@ lastmod: 2025-08-31T17:20:00
 * anke - appeal
 * annenhver - every other
 * appelsin - orange (fruit)
-* arbeidet - worked
 * arbeid - work
-* &aring; nei - oh no
-* &aring;rsak - cause
-* &aring;r - year
-* &aring; - to
-* &aring;tte - eight
+* arbeidet - worked
 * arv - heritage
-* atten - eighteen
 * at - that
+* atten - eighteen
 * avslutt - exit
 * avstand - distance
-* ba - as
-* bad - bath
-* badet - bathroom
 * b&aelig;r - berry
-* bakk - ground, floor
-* bane - course, path
-* bane - orbit
 * b&aring;de - both
 * b&aring;l - campfire, bonfire
 * b&aring;t - boat
+* b&oslash;k - book
+* b&oslash;lge - wave
+* b&oslash;nd - bond
+* b&oslash;nn - prayer
+* b&oslash;r - should
+* ba - as
+* bad - bath
+* badet - bathroom
+* bakk - ground, floor
+* bane - course, path
+* bane - orbit
 * barnehag - nursery, kindergarten
 * barnevakt - babysitter
 * barnevogn - pram
@@ -86,8 +99,8 @@ lastmod: 2025-08-31T17:20:00
 * beskrevet - described
 * beslutning - decision
 * beste - best
-* bestemte - decided
 * bestemt - specific
+* bestemte - decided
 * bestill - order
 * betalte - paid
 * bevis - evidence
@@ -97,31 +110,26 @@ lastmod: 2025-08-31T17:20:00
 * bie - bee
 * bilder - pictures
 * bille - beetle
-* bindersen - paperclip
 * binders - paperclip
+* bindersen - paperclip
+* bl&oslash; - bleed
 * blader - leaves
 * ble - got, became
 * blir - becoming, are
 * blitt - become
 * blom - flower
-* bl&oslash; - bleed
 * blottet - lacking, devoid
 * blyant - pencil
-* bokstaver - letters
 * bo - live, reside
-* bord - table
+* bokstaver - letters
 * bor - live, stay
+* bord - table
 * borte - disappearing, away
 * bortenfor - beyond
-* b&oslash;k - book
-* b&oslash;lge - wave
-* b&oslash;nd - bond
-* b&oslash;nn - prayer
-* b&oslash;r - should
+* br&oslash;d - bread
 * bra - good, fine
 * brakte - brought
 * bringer - brings
-* br&oslash;d - bread
 * bruk - use, wear
 * brus - soda
 * brygga - pier
@@ -131,34 +139,34 @@ lastmod: 2025-08-31T17:20:00
 * by - city
 * bygda - village
 * bygger - building
-* dagbok - diary
+* d&oslash;de - die
+* d&oslash;v - deaf
 * dag - day
+* dagbok - diary
 * daglig - daily
 * danse - dance
 * datamaskin - computer
-* delayed - forsinket
+* de - they, those
 * del - part
+* delayed - forsinket
 * den, det, denne, dette - that, this
 * deprimerte - depressed
+* der - there, here
 * dere - you (plural)
 * derfra - from there
-* der - there, here
-* de - they, those
 * dikt - poem
 * direkte - directly
 * disse - these
 * djerv - bold
 * dolk - dagger
-* d&oslash;de - die
-* d&oslash;v - deaf
 * drap - murder
 * dratt - gone
 * drep - kill
 * drept - killed
 * dritt - shit
 * drivhus - greenhouse
-* dumt - stupid
 * du - you (singular)
+* dumt - stupid
 * dyr - animals
 * dyr - expensive
 * dyrke - grow
@@ -170,27 +178,30 @@ lastmod: 2025-08-31T17:20:00
 * eksempler - examples
 * enda - another
 * ende - end
-* endelige - final
 * endelig - finally
+* endelige - final
 * endret - changed
 * engelsk - english
 * enig - agree
 * enighet - agreement
-* enn&aring; - still, yes
 * enn - than
+* enn&aring; - still, yes
 * enormt - enormous
 * eple - apple
 * er - is
 * eske - box
-* evige - eternal
 * evig - eternal, ever
+* evige - eternal
 * f&aelig;l - foul, ugly
+* f&aring;r - receives, gets
+* f&oslash;lelser - feelings
+* f&oslash;ler - feels
+* f&oslash;r - before
 * famili - family
 * fantasi - fantasy, imagination
 * fantastisk - fantastic
 * fare - worry, danger
 * farge - color
-* f&aring;r - receives, gets
 * farlig - dangerous
 * feber - fever
 * feig - coward
@@ -202,8 +213,8 @@ lastmod: 2025-08-31T17:20:00
 * fin - fine
 * finne - find
 * fjern - remote
-* flaks - luck
 * fl&aring;t - fleet
+* flaks - luck
 * flask - bottle
 * flau - embarrassed
 * flau - embarrassing
@@ -219,21 +230,18 @@ lastmod: 2025-08-31T17:20:00
 * form&aring;l - cause
 * form&aring;let - purpose
 * formasjon - formation
-* forskjellige - different
 * fors&oslash;kte - tried
+* forskjellige - different
 * forst&aring;elsen - understanding
 * forsto - understand
 * forutse - predict
 * forutsett - predicted
-* f&oslash;lelser - feelings
-* f&oslash;ler - feels
-* f&oslash;r - before
 * fotografi - photography
+* fr&oslash; - seed
 * fra - from
 * frem - forward (direction)
 * fremmed - foreign
 * frokost - breakfast
-* fr&oslash; - seed
 * frukt - fruit
 * frykt - fear
 * fryser, kalde - cold
@@ -241,39 +249,42 @@ lastmod: 2025-08-31T17:20:00
 * fuglekvitter - birdsong
 * full - drunk
 * fylke - county, province
+* g&aring; - go
+* g&aring;sehud - goosebumps
 * gal - crazy, mad
 * ganger - times (quantity)
 * ganske - quite
 * garasje - garage
-* g&aring; - go
-* g&aring;sehud - goosebumps
 * gartner - gardener
 * geit - goat
 * genbruge - recycle
 * geniale - ingenious
 * gift - married
 * gitt - given
-* gjennombrudd - breakthrough
+* gj&oslash;k - cuckoo
 * gjennom - through
+* gjennombrudd - breakthrough
 * gjenskape - recreate
 * gjenta - repeat
 * gjerne - happily
 * gjest - guest
 * gjett - guess
 * gjorde - did (action)
-* gj&oslash;k - cuckoo
 * glemte - forgot
 * gnist - spark
+* gr&oslash;t - porridge
 * gravid - pregnant
 * gress - grass
-* grønnsaker - vegetables
-* gr&oslash;t - porridge
 * grott - cave
+* grønnsaker - vegetables
 * gud - god
 * gyldig - valid
-* hadde - had
-* ha det, ha det bra - bye, goodbye
 * h&aelig;l - heel
+* h&oslash;n - hen
+* h&oslash;y - high, tall, loud, etc
+* h&oslash;yre - right (direction, side)
+* ha det, ha det bra - bye, goodbye
+* hadde - had
 * hagen - garden
 * hake - chin
 * hakk - dent, notch
@@ -297,46 +308,44 @@ lastmod: 2025-08-31T17:20:00
 * helt - totally, completely
 * helvete - hell
 * hemmelig - secret
-* hengek&oslash;ye - hammock
 * heng - hang
+* hengek&oslash;ye - hammock
 * hennes - her
 * hente - get, fetch
-* herfra - from here
 * her - here
+* herfra - from here
 * himmel - sky
 * historie - history
 * hit - here
+* hj&oslash;rn - corner
 * hjem - home
 * hjemmefra - from home
 * hjerne - brain
-* hj&oslash;rn - corner
 * hode - head
 * hodepine - headache
 * hoff - court
 * hopper - jumps
-* h&oslash;n - hen
-* h&oslash;y - high, tall, loud, etc
-* h&oslash;yre - right (direction, side)
 * hotellrom - hotel room
 * hule - cave
 * hum&oslash;r - mood
+* hun - she
 * hund - dog
 * hundemat - dogfood
-* hun - she
 * hva - what
 * hverandre - each other
 * hvis - if
 * hvordan - how
 * hvorfor - why
 * hyggelig - nice, pleasant
+* i - in
 * i dag - today
+* i g&aring;r - yesterday
+* i morgen - tomorrow
+* i stedet for - instead of
 * id&eacute;, ide - idea
 * idrett - sport
-* i g&aring;r - yesterday
 * igjen - again
-* i - in
 * ikke - not
-* i morgen - tomorrow
 * import - import
 * ingen - no, nobody
 * ingenting - nothing
@@ -345,13 +354,12 @@ lastmod: 2025-08-31T17:20:00
 * innsj&oslash;o - lake
 * intressant - interesting
 * Irsk - Irish
-* i stedet for - instead of
-* jakt - hunt
 * ja visst - certainly
+* jakt - hunt
 * jeg - I (personal)
 * jevnt - evenly
-* jobb - job
 * jo - on the contrary
+* jobb - job
 * jord - earth, soil
 * kaffe - coffee
 * kakao - cocoa
@@ -362,18 +370,19 @@ lastmod: 2025-08-31T17:20:00
 * kanon - canon
 * kant - edge
 * kasse - crate, box
+* kast - throw
 * kaste - throw
 * kile - tickle
 * kinn - cheek
 * kj&aelig;ledyr - pet
-* kjedelig - boring
-* kjempe - giant (mythological)
-* kjemper - giants (mythological)
-* kjent - know, known, familiar
 * kj&oslash;leskap - fridge
 * kj&oslash;pesenter - shopping centre
 * kj&oslash;re - drive (vehicle)
 * kj&oslash;ret&oslash;y - vehicle
+* kjedelig - boring
+* kjempe - giant (mythological)
+* kjemper - giants (mythological)
+* kjent - know, known, familiar
 * klag - complain
 * kleint - awkward
 * klem - hug
@@ -399,22 +408,24 @@ lastmod: 2025-08-31T17:20:00
 * kupp - coup
 * kurs - course, route
 * kveld - night
-* kvittering - receipt
 * kvitt - rid
+* kvittering - receipt
+* l&aring;nt - borrowed
+* l&aring;ve - barn
+* l&oring;ve - lion
+* l&oslash;sning - solution
 * lage - make
 * lampe - lamp
 * land - country
 * langs - along
-* l&aring;nt - borrowed
-* l&aring;ve - barn
 * last - cargo
 * lavt - softly
 * ledig - free, available
 * legen - doctor
 * legge - add
 * legger - puts, places
-* leie - hire, rent
 * lei - sorry
+* leie - hire, rent
 * leker - play (unstructured)
 * lenge - long (time, distance)
 * lettere - easier
@@ -424,30 +435,31 @@ lastmod: 2025-08-31T17:20:00
 * liker - likes
 * likte - liked, enjoyed
 * lommebok - wallet
-* l&oring;ve - lion
-* l&oslash;sning - solution
 * lover - promise
 * lunsj - lunch
 * lurt - wise
 * lyd - sound, noise
 * lys - light
+* m&aring; - have to, must
+* m&aring;ke - seagull
+* m&aring;ned - month
+* m&oslash;bel - furniture
+* m&oslash;nster - pattern
+* m&oslash;rk - dark
 * magef&oslash;lelse - gut feeling
 * malm - ore
 * mange - many
 * mann - man
 * mappe - folder
 * mareritt - nightmare
-* m&aring; - have to, must
-* m&aring;ke - seagull
-* m&aring;ned - month
 * maskin - machine
 * matlyst - appetite
 * med - with (mixed)
 * meg - me
 * melk - milk
 * menn - men
-* merk - mark
 * mer - more (uncountable)
+* merk - mark
 * mett - full, satiated
 * midlertidig - temporary
 * midnatt - midnight
@@ -462,13 +474,10 @@ lastmod: 2025-08-31T17:20:00
 * modig - brave
 * modne - ripe
 * moro - fun
-* m&oslash;bel - furniture
-* m&oslash;nster - pattern
-* m&oslash;rk - dark
+* mot - towards (direction)
 * motorsykkel - motorbike
 * motorvei - motorway, highway
 * motst&aring; - resist
-* mot - towards (direction)
 * mulig - possible
 * mvh (med vennlig hilsen) - kind regards
 * mye - a lot of, much
@@ -484,41 +493,36 @@ lastmod: 2025-08-31T17:20:00
 * nese - nose
 * nikker - nods
 * nikket - nodded
-* noen - some, few, any (quantity)
 * noe - something (action)
+* noen - some, few, any (quantity)
 * nok - enough
 * norge - norway
 * norsk - norwegian
+* ny - new
 * nydelig - lovely, gorgeous
 * nyere - recent, newer
 * nyheter - news
 * nylig - recently
-* ny - new
 * og - and
 * om - about
 * ombestemt - reconsidered
 * ond - evil
+* opp - up
 * oppdaget - discovered
 * oppf&oslash;rer - behaving
 * oppf&oslash;rte - behave
 * oppmerksomhet - attention
-* opp - up
 * oransje - orange (colour)
-* &oslash;l - beer
-* &oslash;nsker - wishes
-* &oslash;re - ear
-* &oslash;rer - ears
-* &oslash;ye - eye
-* &oslash;ygruppen - archipelago
-* &oslash;yne - eyes
 * overskyet - cloudy
 * overta - take over
+* p&aring;legg - topping
+* p&oslash;lse - sausage
+* p&oslash;nsker - scheme, plot
 * panne - forehead
 * pappa, far - dad, father
-* p&aring;legg - topping
 * par - pair, couple
-* passerer - passing
 * pass p&aring; - look out
+* passerer - passing
 * patrulj - patrol
 * peis - fireplace
 * pek - point
@@ -530,12 +534,11 @@ lastmod: 2025-08-31T17:20:00
 * plen - lawn
 * plikt - duty
 * ponni - pony
-* p&oslash;lse - sausage
-* p&oslash;nsker - scheme, plot
+* pr&slash;verom - fitting/changing room
 * praktfull - magnificent, amazing
 * praktisk - practical
-* pr&slash;verom - fitting/changing room
 * pult - desk
+* r&oslash;re - stir
 * rakk - was enough
 * rapport - report
 * raseri - rage
@@ -547,53 +550,57 @@ lastmod: 2025-08-31T17:20:00
 * rett - straight, direct
 * ringt - ringed, rung
 * rive - tear, demolish
-* r&oslash;re - stir
 * rot&oslash;l - root beer
 * rullestol - wheelchair
 * s&aelig;rlig - especially
+* s&aring; - so
+* s&oslash;k - search
+* s&oslash;lv - silver
+* s&oslash;ppel - rubbish, litter
+* s&oslash;rget - mourned
+* s&oslash;t - sweet
+* sa - said
+* sa - say
 * sagt - said
 * saks (en) - pair of scissors
 * saktere - slower
 * sammen - together
 * samtale - conversation
-* sangfugl - songbird
 * sang - song
+* sangfugl - songbird
 * sannhet - truth
 * sannsynligvis - probably
 * sans - sense
 * sant - true
-* s&aring; - so
-* sa - said
-* sa - say
 * sats - rate
 * sau - sheep
 * seg - self
-* seg selv - himself, herself
 * seg - themselves
+* seg selv - himself, herself
 * seilb&aring;y - sailboat
 * seng - bed
 * servit&oslash;r - waiter
-* setter - sits down, places
 * sett - seen
+* setter - sits down, places
 * sf&aelig;re - sphere
 * sikre - sure, ensure
 * sin - her, his
 * sinne - anger, rage
 * sint - angry
 * siste - last
+* sj&oslash;mat - seafood
 * sjalu - jealous
 * sjarm - charm
 * sjel - soul
 * sjenert - shy
 * sjokolade - chocolate
-* sj&oslash;mat - seafood
+* sk&aring;l - bowl
 * skade - damage
 * skader - injuries
 * skal - shall, should
 * skapning - creature
 * skapninger - creatures
 * skapte - created
-* sk&aring;l - bowl
 * skatt - treasure
 * skilt - badge, sign
 * skinke - ham
@@ -603,15 +610,15 @@ lastmod: 2025-08-31T17:20:00
 * skjev - crooked
 * sko - shoe
 * skrik - scream
-* skulder - shoulder
 * skul - shall
+* skulder - shoulder
 * skurk - villain
 * skynder - rushes
+* sl&aring;r - hit, strike
 * slagord - slogan
 * slags - type, kind
 * slange - snake
 * slapp av - relax
-* sl&aring;r - hit, strike
 * smilte - smiled
 * smitte - contagion
 * smittet - infected
@@ -621,14 +628,9 @@ lastmod: 2025-08-31T17:20:00
 * sommerfugl - butterfly
 * sonde - probe
 * sorg - grief, pain, sorrow
-* s&oslash;k - search
-* s&oslash;lv - silver
-* s&oslash;ppel - rubbish, litter
-* s&oslash;rget - mourned
-* s&oslash;t - sweet
 * sove - sleep
-* spille - play (structured)
 * sp&oslash;rsm&aring;l - questions
+* spille - play (structured)
 * spr&aring;k - language
 * spre - spread
 * spurt - asked
@@ -641,8 +643,8 @@ lastmod: 2025-08-31T17:20:00
 * stjerne - star
 * stol - chair
 * stolte - trusted
-* straks - immediately
 * str&aring;lende - glorious
+* straks - immediately
 * streng - strict
 * stuebord - coffee table
 * stund - while
@@ -658,40 +660,42 @@ lastmod: 2025-08-31T17:20:00
 * sykler - bikes
 * syntes - thought
 * syrin - lilac
+* t&aring;lmodig - patient
+* t&oslash;m - empty
+* t&oslash;rst - thirty
+* t-banen - subway
 * tabbe - mistake
 * tak - ceiling
 * tankskip - tanker
 * taper - lose
-* t&aring;lmodig - patient
 * tatt - taken
-* t-banen - subway
 * teaspoon - teskje
 * tema - theme, topic
 * tenner - teeth
 * tidligere - earlier
+* til - until, to, of, with (separate)
+* til sammen - in total
 * tilbud - offer
 * tilby - supply, offer
 * tilgi - forgive
 * tilhør - belong
-* til sammen - in total
 * tilstand - condition
-* til - until, to, of, with (separate)
 * timer - hours
 * ting - thing, things
 * tjukk - fat
+* to - two
 * tom - empty
 * tosk - idiot
-* t&oslash;m - empty
-* t&oslash;rst - thirty
-* to - two
 * tr&aelig;r - trees
+* tr&oslash;bbel - trouble
+* tr&oslash;ster - comforts
 * traff - hit
 * trafikk - traffic
 * tragedie - tragedy
 * trang - tight
 * transaksjon - transaction
-* trappetrin - stair
 * trapp - staircase
+* trappetrin - stair
 * travel - busy
 * tredobbelt - triple
 * treet - tree
@@ -699,12 +703,10 @@ lastmod: 2025-08-31T17:20:00
 * trette - weary
 * trik - trick
 * trist - sad
-* trodde - thought
-* trodd - thought
 * tro - faith, belief
+* trodd - thought
+* trodde - thought
 * tror - believe, think
-* tr&oslash;bbel - trouble
-* tr&oslash;ster - comforts
 * true - threaten
 * tunge - tounge
 * tvung - force
@@ -725,28 +727,28 @@ lastmod: 2025-08-31T17:20:00
 * urt - herb
 * usannsynlig - unlikely
 * usynlige - invisible
+* ut - out
 * utenkelig - unthinkable
 * utenlands - abroad
 * utf&oslash;rt - done
-* ut - out
 * utrolig - extraordinary
 * utvalg - selection
 * v&aelig;r s&aring; god - enjoy, you're welcome
 * v&aelig;r s&aring; snill - please
+* v&aring;pen - weapon
+* v&aring;r - our
+* v&aring;t - wet
+* v&aring;tt - wet
 * vakker - beautiful
 * valg - choice
 * valgfrie - optional
 * vanligvis - usually
 * vanner - watering
 * vanskelig - hard/difficult
-* varebil - van
-* v&aring;pen - weapon
-* v&aring;r - our
-* v&aring;tt - wet
-* v&aring;t - wet
-* varvulven - werewolf
 * var - was
 * var - were
+* varebil - van
+* varvulven - werewolf
 * vask - sink
 * vei - way, road
 * vekke - wake
@@ -756,21 +758,22 @@ lastmod: 2025-08-31T17:20:00
 * venstre - left (direction, side)
 * ventet - waited
 * verdt - worth
-* verkt&oslash;y - tool
 * verk - work
+* verkt&oslash;y - tool
 * verre - worse
 * versjon - version
 * verst - worst
 * vesen - being (human)
 * veske - bag
 * vet - know
+* vi - we
 * vik - inlet, cove
 * viktig - important
-* villeste - wildest
-* vill - wild
 * vil - want
-* virkelig - real, really
+* vill - wild
+* villeste - wildest
 * virke - seem
+* virkelig - real, really
 * virkning - result, affect
 * vise - show
 * visjon - vision
@@ -781,10 +784,9 @@ lastmod: 2025-08-31T17:20:00
 * viste - showed
 * vite - know
 * vits - joke
-* vi - we
+* voks - wax
 * voksnes - adult
 * vokste - grew
-* voks - wax
 * vold - violence
 * vondt - hurt
 * vrak - wreck
@@ -796,3 +798,4 @@ lastmod: 2025-08-31T17:20:00
 * ydmyke - humble
 * yndling - favourite
 * yngre - younger
+<!-- sort:end -->
