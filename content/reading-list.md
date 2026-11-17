@@ -1,7 +1,7 @@
 ---
 title: Reading List
 layout: single
-lastmod: 2026-10-23T08:54:07
+lastmod: 2026-11-17T16:20:54
 ---
 
 I generally strive for a book per week, but this is by no means a steadfast goal. For a list of series and their status, check [the bottom of this page](#book-series).
@@ -57,6 +57,8 @@ To keep the page somewhat manageable, I've collapsed the lists by years:
 <li>Matt Dinniman - A Parade of Horribles</li>
 <li>Scott Alexander - The Whispering Earring</li>
 <li>Daryl Gregory - When We Were Real</li>
+<li>Denis E Taylor - The Infinite Extent</li>
+<li>Christian Ward - Event Horizon: Dark Descent</li>
 </ul>
 </details>
 <script>document.querySelectorAll('details').forEach(details => { const ul = details.querySelector('ul'); const span = details.querySelector('summary span'); if (ul && span) { const count = ul.querySelectorAll('li').length; span.textContent = count; } });</script>
@@ -746,7 +748,7 @@ To keep the page somewhat manageable, I've collapsed the lists by years:
 <li>Bob Mortimer - Gary Thorne - 2/2</li>
 <li>David Wong - John and Dave series - 4/4</li>
 <li>David Wong - Zoey Ashe series - 3/3</li>
-<li>Dennis E Taylor - Bobiverse Series - 5/5</li>
+<li>Dennis E Taylor - Bobiverse Series - 6/6</li>
 <li>Ernest Cline - Ready Player One series - 2/2</li>
 <li>Garth Marenghi - TerrorTome - 4/4</li>
 <li>Grant Naylor - Red Dwarf - 4/4</li>
